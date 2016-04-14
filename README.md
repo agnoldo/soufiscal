@@ -4,6 +4,9 @@
 
 Bem vindo ao Projeto SouFiscal.
 
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/SOUFISCAL.png" width="400px" />
+
+
 É notória a dificuldade, em convênios públicos, de se verificar a existência de empresas, constatar obras não realizadas ou com baixa qualidade e detectar desvios de produtos ou serviços para locais ou obras de terceiros.
 
 Como é praticamente impossível o estado acompanhar todos os convênios celebrados, é fundamental contar com a participação do cidadão na denúncia de possíveis fraudes.
