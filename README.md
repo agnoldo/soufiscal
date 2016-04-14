@@ -12,6 +12,11 @@ A proposta deste projeto é criar um ambiente de colaboração para cidadãos in
 
 Este projeto foi inscrito no Concurso LabPi Hackathon sobre Participação no Combate à Corrução, realizado em abril de 2016 pelo Ministério da Justiça (MJ) e outras instituições.
 
+Caso queira proceder com a instalação do protótipo Android para testes, favor seguir instruções que constam no fim desta página (seção Instalação de Protótipo Android).
+
+O  vídeo de apresentação do projeto [já está no ar no Youtube](https://youtu.be/Yp8CIDDS9Ns).
+
+
 ## Problema ou Oportunidade
 
 ### Contexto
