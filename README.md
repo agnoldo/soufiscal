@@ -13,9 +13,9 @@
     - [Tarefas Disponíveis](https://github.com/agnoldo/soufiscal#tarefas-disponíveis)
     - [Comunidade](https://github.com/agnoldo/soufiscal#comunidade)
     - [Futuro Site](https://github.com/agnoldo/soufiscal#futuro-site)
-- [Créditos, Licenças e Equipe de Desenvolvimento](https://github.com/agnoldo/soufiscal#créditos-licenças-e-equipe-de-desenvolvimento)
 - [Imagens do Protótipo Android](https://github.com/agnoldo/soufiscal#imagens-do-protótipo-android)
 - [Instalação do Protótipo Android](https://github.com/agnoldo/soufiscal#instalação-do-protótipo-android)
+- [Créditos, Licenças e Equipe de Desenvolvimento](https://github.com/agnoldo/soufiscal#créditos-licenças-e-equipe-de-desenvolvimento)
 
 ## Introdução
 
@@ -129,6 +129,24 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/site_mockup_soufiscal.png" width="800px" />
 
 
+## Imagens do Protótipo Android
+
+Veja como está o protótipo Android nesta data (14/04/2016):
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_0.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_1.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_2.png" width="290px" />
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_3.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_4.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_5.png" width="290px" />
+
+
+## Instalação do Protótipo Android
+
+Para a participação no concurso, foi implementado um protótipo para a plataforma Android. O aplicativo se encontra na pasta [setup](https://github.com/agnoldo/soufiscal/tree/master/setup) e deve ser instalado da seguinte forma:
+
+- baixar o instalador (arquivo com extensão APK) no *smartphone*. Caso se tenha alguma dificuldade neste processo, deve-se baixar o instalador em um computador com o *smartphone* conectado (normalmente por cabo USB) e copiar o arquivo do computador para o *smartphone*;
+- permitir a instalação de aplicativos de fontes desconhecidas no Android, o que normalmente é feito por meio de item específico no aplicativo de Configurações (Ajustes) do Android na opção Segurança. NOTA: este procedimento é potencialmente perigoso e recomendamos que seja desfeito ao final do processo de instalação;
+- usando um aplicativo navegador de arquivos, executar o instalador (arquivo APK) no *smartphone*. NOTA: a maioria dos aparelhos costuma trazer um aplicativo para isto sob o nome "Meus Arquivos" ou "Arquivos". Caso o seu *smartphone* não tenha um, boas opções são o [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=pt_BR) e o [Astro](https://play.google.com/store/apps/details?id=com.metago.astro&hl=pt_BR).
+
+
 ## Créditos, Licenças e Equipe de Desenvolvimento
 
 Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério da Justiça e entidades ligadas à ENCCLA.
@@ -152,21 +170,3 @@ Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério 
     - Diego de Castro Soares: [diegocs@gmail.com](mailto:diegocs@gmail.com)
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_licencas_creditos.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_sobre.png" width="290px" />
-
-
-## Imagens do Protótipo Android
-
-Veja como está o protótipo Android nesta data (14/04/2016):
-
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_0.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_1.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_2.png" width="290px" />
-
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_3.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_4.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_5.png" width="290px" />
-
-
-## Instalação do Protótipo Android
-
-Para a participação no concurso, foi implementado um protótipo para a plataforma Android. O aplicativo se encontra na pasta [setup](https://github.com/agnoldo/soufiscal/tree/master/setup) e deve ser instalado da seguinte forma:
-
-- baixar o instalador (arquivo com extensão APK) no *smartphone*. Caso se tenha alguma dificuldade neste processo, deve-se baixar o instalador em um computador com o *smartphone* conectado (normalmente por cabo USB) e copiar o arquivo do computador para o *smartphone*;
-- permitir a instalação de aplicativos de fontes desconhecidas no Android, o que normalmente é feito por meio de item específico no aplicativo de Configurações (Ajustes) do Android na opção Segurança. NOTA: este procedimento é potencialmente perigoso e recomendamos que seja desfeito ao final do processo de instalação;
-- usando um aplicativo navegador de arquivos, executar o instalador (arquivo APK) no *smartphone*. NOTA: a maioria dos aparelhos costuma trazer um aplicativo para isto sob o nome "Meus Arquivos" ou "Arquivos". Caso o seu *smartphone* não tenha um, boas opções são o [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=pt_BR) e o [Astro](https://play.google.com/store/apps/details?id=com.metago.astro&hl=pt_BR).
