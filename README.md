@@ -1,5 +1,22 @@
 # Projeto SouFiscal
 
+- [Introdução](https://github.com/agnoldo/soufiscal#introdução)
+- [Problema ou oportunidade](https://github.com/agnoldo/soufiscal#problema-ou-oportunidade)
+    - [Contexto](https://github.com/agnoldo/soufiscal#contexto)
+    - [Proposta](https://github.com/agnoldo/soufiscal#proposta)
+- [Funcionalidades](https://github.com/agnoldo/soufiscal#funcionalidades)
+    - [Login](https://github.com/agnoldo/soufiscal#login)
+    - [Navegação](https://github.com/agnoldo/soufiscal#navegação)
+    - [Busca Textual](https://github.com/agnoldo/soufiscal#busca-textual)
+    - [Convênio](https://github.com/agnoldo/soufiscal#convênio)
+    - [Solicitação de Tarefas]()
+    - [Tarefas Disponíveis]()
+    - [Comunidade]()
+    - [Futuro Site]()
+- [Créditos, Licenças e Equipe de Desenvolvimento](https://github.com/agnoldo/soufiscal#créditos-licenças-e-equipe-de-desenvolvimento)
+- [Imagens do Protótipo Android](https://github.com/agnoldo/soufiscal#imagens-do-protótipo-android)
+- [Instalação do Protótipo Android](https://github.com/agnoldo/soufiscal#instalação-do-protótipo-android)
+
 ## Introdução
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/SOUFISCAL.png" width="400px" />
@@ -67,6 +84,8 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png" width="290px" />
 
+#### Login
+
 - na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
 
 #### Navegação
@@ -85,17 +104,25 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos1.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos2.png" width="290px" />
 
+#### Solicitação de Tarefas
+
 - quando o usuário está acompanhando um convênio, ele recebe notificações sobre ocorrências registradas neste convênio. Além disso, pode fazer comentários sobre o convênio, enviar fotos, vídeos e gravações de áudio relacionadas a obras, compras e serviços e até mesmo solicitar o apoio de terceiros (fiscais voluntários) na realização de diligências, que normalmente incluem idas a um local para constatar o progresso de uma obra ou a existência física de uma empresa;
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_solicitar_tarefa.png" width="290px" />
+
+#### Tarefas Disponíveis
 
 - por meio da tela "Tarefas Disponíveis", qualquer usuário pode atuar como fiscal voluntário, realizando diligências pendentes em sua região. As tarefas são listadas nominalmente ou visualizadas geograficamente em um mapa. Caso seja viável, ele pode realizar uma diligência utilizando a câmera ou o gravador de seu dispositivo móvel, em seguida submetendo eletronicamente o resultado ao site do projeto. Se o usuário tiver conexão à internet ativa no momento da realização da diligência, o resultado pode receber assinatura digital e carimbo do tempo, o que, em conjunto com a informação geográfica (no caso de foto e vídeo), pode até mesmo permitir o uso oficial da evidência em processo judicial;
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_tarefas_disponiveis.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_tarefas_disponiveis_mapa.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_tarefas_realizar.png" width="290px" />
 
+#### Comunidade
+
 - no quadro Comunidade, o usuário poderá ver o seu ranking (baseado na sua atividade na ferramenta por meio de comentários e diligências) e os usuários em destaque na sua região e em todo o país. Também poderá ver suas medalhas e certificados de participação como fiscal voluntário;
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_comunidade.png" width="290px" />
+
+#### Futuro Site
 
 - futuramente todos os comentários sobre convênios analisados poderão ser visualizados por toda a comunidade de usuários em site a ser desenvolvido. A partir da ferramenta ou do site qualquer usuário poderá entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário irá contar com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
 
