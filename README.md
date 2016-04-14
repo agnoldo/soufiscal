@@ -70,6 +70,12 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 - na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
 
+Navegação
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_geral.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_brasil.png" width="300px" />
+
+Busca Textual
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual_resultado.png" width="300px" />
+
 - em cada convênio, o usuário pode analisar dados do SICONV como prazos de obra, dispêndio de recursos e empenhos realizados. O usuário também pode marcar o convênio nas categorias "De olho" ou "Fiscalizando", o que faz com que tal convênio tenha um atalho gravado nas respectivas telas homônimas;
 
 - quando o usuário está "de olho" em um convênio, ele recebe notificações sobre ocorrências registradas neste convênio mas não pode alterar ou inserir vestígios e comentários;
