@@ -9,10 +9,10 @@
     - [Navegação](https://github.com/agnoldo/soufiscal#navegação)
     - [Busca Textual](https://github.com/agnoldo/soufiscal#busca-textual)
     - [Convênio](https://github.com/agnoldo/soufiscal#convênio)
-    - [Solicitação de Tarefas]()
-    - [Tarefas Disponíveis]()
-    - [Comunidade]()
-    - [Futuro Site]()
+    - [Solicitação de Tarefas](https://github.com/agnoldo/soufiscal#solicitação-de-tarefas)
+    - [Tarefas Disponíveis](https://github.com/agnoldo/soufiscal#tarefas-disponíveis)
+    - [Comunidade](https://github.com/agnoldo/soufiscal#comunidade)
+    - [Futuro Site](https://github.com/agnoldo/soufiscal#futuro-site)
 - [Créditos, Licenças e Equipe de Desenvolvimento](https://github.com/agnoldo/soufiscal#créditos-licenças-e-equipe-de-desenvolvimento)
 - [Imagens do Protótipo Android](https://github.com/agnoldo/soufiscal#imagens-do-protótipo-android)
 - [Instalação do Protótipo Android](https://github.com/agnoldo/soufiscal#instalação-do-protótipo-android)
@@ -80,15 +80,15 @@ O aplicativo móvel destina-se a disseminar informações sobre convênios, obra
 
 O funcionamento básico do aplicativo móvel será o seguinte:
 
+#### Login
+
 - ao entrar na ferramenta, é possível entrar com usuário e senha ou criar usuário anônimo, por email ou conexão com redes sociais;
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png" width="290px" />
 
-#### Login
+#### Navegação
 
 - na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
-
-#### Navegação
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_geral.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_brasil.png" width="290px" />
 
