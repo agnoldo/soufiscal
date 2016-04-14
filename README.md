@@ -105,6 +105,24 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 ## Créditos, Licenças e Equipe de Desenvolvimento
 
+Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério da Justiça e entidades ligadas à ENCCLA.
+
+- Ferramentas de Desenvolvimento:
+    - [ionic Framework](http://ionicframework.com) (versão 1.7.14)
+    - [Apache Cordova](https://cordova.apache.org) (versão 6.0.0)
+- Imagens de abertura e menu:
+    - [unsplash](https://unsplash.com/)
+    - imagens produzidas por membros do projeto
+- Imagens de obras e pessoas:
+    - [randomuser.me](https://randomuser.me) (usuário/comunidade)
+    - [lorempixel.com](http://lorempixel.com/) (convênios/obras)
+    - [openstreetmap](https://www.openstreetmap.org/) (ladrilhos de mapas)
+
+- Equipe Desenvolvedora:
+    - Arnaldo Gomes dos Santos Junior: [agnoldo@gmail.com](mailto:agnoldo@gmail.com)
+    - Júnia Gaudereto Carvalho Gomes: [junia.gaudereto@gmail.com](mailto:junia.gaudereto@gmail.com)
+    - Diego de Castro Soares: [diegocs@gmail.com](mailto:diegocs@gmail.com)
+
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_licencas_creditos.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_sobre.png" width="290px" />
 
 
