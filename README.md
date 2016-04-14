@@ -98,7 +98,15 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_comunidade.png" width="290px" />
 
-- futuramente todos os comentários sobre convênios analisados poderão ser visualizados por toda a comunidade de usuários. A partir da ferramenta qualquer usuário poderá entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário irá contar com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
+- futuramente todos os comentários sobre convênios analisados poderão ser visualizados por toda a comunidade de usuários em site a ser desenvolvido. A partir da ferramenta ou do site qualquer usuário poderá entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário irá contar com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/site_mockup_soufiscal.png" width="800px" />
+
+
+## Créditos, Licenças e Equipe de Desenvolvimento
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_licencas_creditos.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_sobre.png" width="290px" />
+
 
 ## Instalação de Protótipo Android
 
