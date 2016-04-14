@@ -64,7 +64,11 @@ O aplicativo móvel destina-se a disseminar informações sobre convênios, obra
 
 O funcionamento básico do aplicativo móvel será o seguinte:
 
-- ao entrar na ferramenta, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
+- ao entrar na ferramenta, é possível entrar com usuário e senha ou criar usuário anônimo, por email ou conexão com redes sociais;
+
+![Tela de login](https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png)
+
+- na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
 
 - em cada convênio, o usuário pode analisar dados do SICONV como prazos de obra, dispêndio de recursos e empenhos realizados. O usuário também pode marcar o convênio nas categorias "De olho" ou "Fiscalizando", o que faz com que tal convênio tenha um atalho gravado nas respectivas telas homônimas;
 
@@ -76,7 +80,7 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 - no quadro Comunidade, o usuário poderá ver o seu ranking (baseado na sua atividade na ferramenta por meio de comentários e diligências) e os usuários em destaque na sua região e em todo o país. Também poderá ver suas medalhas e certificados de participação como fiscal voluntário;
 
-- todos os comentários sobre convênios analisados podem ser visualizados por toda a comunidade de usuários. A partir da ferramenta qualquer usuário pode entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário conta com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
+- todos os comentários sobre convênios analisados podem ser visualizados por toda a comunidade de usuários. A partir da ferramenta qualquer usuário pode entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário irá contar com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
 
 ## Instalação de Protótipo Android
 
