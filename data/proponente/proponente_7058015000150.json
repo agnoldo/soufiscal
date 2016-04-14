@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.058.015\/0001-50",
+ "fax": "3132672591",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7058015000150"
+ },
+ "cpf_responsavel": "***846411**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7058015000150"
+ },
+ "nome": "GRUPPO DI VOLONTARIATO CIVILE - G.V.C. ONLUS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7058015000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7058015000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7058015000150",
+ "nome_responsavel": "MARIO FUNDARO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132672591",
+ "cep": "30315010",
+ "endereco": "RUA PAUL BOUTHILIER 332 - MANGABEIRAS - BELO HORIZONTE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/40D34F70C552FD0E73403BA3A7AF98990275A254",
+   "id": "40D34F70C552FD0E73403BA3A7AF98990275A254"
+  }
+ },
+ "id": 7058015000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

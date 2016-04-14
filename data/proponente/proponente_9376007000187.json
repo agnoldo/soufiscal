@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.376.007\/0001-87",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9376007000187"
+ },
+ "cpf_responsavel": "***641886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9376007000187"
+ },
+ "nome": "CARTUMINAS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "221875001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9376007000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9376007000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9376007000187",
+ "nome_responsavel": "LUNARDE TELES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132220113",
+ "cep": "30170000",
+ "endereco": "RUA\/AV.: ÁLVARES CABRAL Nº: 400.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CB691E478CC099C79B25061C36AAA7357B606DBB",
+   "id": "CB691E478CC099C79B25061C36AAA7357B606DBB"
+  }
+ },
+ "id": 9376007000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

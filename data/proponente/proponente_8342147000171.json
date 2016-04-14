@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.342.147\/0001-71",
+ "fax": "3121273369",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8342147000171"
+ },
+ "cpf_responsavel": "***203446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8342147000171"
+ },
+ "nome": "AMATEM - ASSOCIACAO MINEIRA DE ARTISTAS E TECNICOS EM ESPETACULOS E MUSICAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "206.081\/001-3",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8342147000171"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8342147000171"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8342147000171",
+ "nome_responsavel": "EUNICE BRAULIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121273369",
+ "cep": "30350090",
+ "endereco": "RUA BARÃO DE MACAÚBAS 11",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0424B293EEC13801D8B599B99A45D904021DC1CA",
+   "id": "0424B293EEC13801D8B599B99A45D904021DC1CA"
+  }
+ },
+ "id": 8342147000171,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

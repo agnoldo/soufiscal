@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.208.071\/0001-38",
+ "fax": "31-34098820",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10208071000138"
+ },
+ "cpf_responsavel": "***309906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10208071000138"
+ },
+ "nome": "INSTITUTO DE ESTUDOS DO DESENVOLVIMENTO SUSTENTAVEL - IEDS",
+ "inscricao_estadual": "0010811890023",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2276670015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10208071000138"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10208071000138"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10208071000138",
+ "nome_responsavel": "BERNARDO NOGUEIRA CAPUTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34098820",
+ "cep": "30150270",
+ "endereco": "RUA DOS OTONI 416 ¿ SALA 203.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/986B121169FE31C1A74F3A76774EFD328C34124A",
+   "id": "986B121169FE31C1A74F3A76774EFD328C34124A"
+  }
+ },
+ "id": 10208071000138,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

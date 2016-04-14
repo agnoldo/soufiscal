@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.119.463\/0001-03",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19119463000103"
+ },
+ "cpf_responsavel": "***969076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19119463000103"
+ },
+ "nome": "AIR MINAS AR CONDICIONADO LTDA  - ME",
+ "inscricao_estadual": "002248287.00-38",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "0.929.501\/001-4",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19119463000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19119463000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19119463000103",
+ "nome_responsavel": "CARLOS HENRIQUE RESENDE BICALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "(31) 3488-3948",
+ "cep": "31080160",
+ "endereco": "RUA VICENTE RISOLA 344",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9D44A64EEEBB28B48EF0B7AD6DE7C46CCF3F3FB1",
+   "id": "9D44A64EEEBB28B48EF0B7AD6DE7C46CCF3F3FB1"
+  }
+ },
+ "id": 19119463000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

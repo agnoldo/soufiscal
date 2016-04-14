@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.278.123\/0001-38",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7278123000138"
+ },
+ "cpf_responsavel": "***892466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7278123000138"
+ },
+ "nome": "GRUPO DE APOIO SOCIAL SOLIDARIEDADE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7278123000138"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7278123000138"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7278123000138",
+ "nome_responsavel": "VALTER FERREIRA PEDROSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 96282777",
+ "cep": "31010265",
+ "endereco": "RUA CONSELHEIRO ROCHA 2300",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F437CBB1817EE33702F548D56CBD2D54EE037264",
+   "id": "F437CBB1817EE33702F548D56CBD2D54EE037264"
+  }
+ },
+ "id": 7278123000138,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

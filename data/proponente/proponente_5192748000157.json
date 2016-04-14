@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.192.748\/0001-57",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5192748000157"
+ },
+ "cpf_responsavel": "***456476**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5192748000157"
+ },
+ "nome": "ASSOCIACAO DOS CATADORES DE PAPEL, PAPELAO E MATERIAIS REAPROVEITAVEIS DE BETIM",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "091269\/001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5192748000157"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5192748000157"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5192748000157",
+ "nome_responsavel": "RAQUEL APARECIDA CONCEICAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-9910-3123",
+ "cep": "32671002",
+ "endereco": "AV. JUIZ MARCO TULIO ISAAC 3787.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B490A0CDBD0077617D3A5D71DC7330B62853BBA2",
+   "id": "B490A0CDBD0077617D3A5D71DC7330B62853BBA2"
+  }
+ },
+ "id": 5192748000157,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

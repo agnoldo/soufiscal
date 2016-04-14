@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.270.008\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19270008000104"
+ },
+ "cpf_responsavel": "***961766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19270008000104"
+ },
+ "nome": "MINISTERIO AMAE ASSOCIACAO MISS. DE APOIO AO EVANGELHO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTA",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19270008000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19270008000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19270008000104",
+ "nome_responsavel": "EDE MACIEL DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 37123149",
+ "cep": "31560150",
+ "endereco": "LUCIANO PEREIRA 20",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3C45999D29F9FCDEFC1B195B8956929FF250893B",
+   "id": "3C45999D29F9FCDEFC1B195B8956929FF250893B"
+  }
+ },
+ "id": 19270008000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

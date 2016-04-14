@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.237.224\/0001-47",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2237224000147"
+ },
+ "cpf_responsavel": "***511486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2237224000147"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DE INFORMACAO POPULAR - ACIP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "192377001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2237224000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2237224000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2237224000147",
+ "nome_responsavel": "EDIVALDO AMORIM FARIAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "32852009",
+ "cep": "30315270",
+ "endereco": "RUA ESTADOS UNIDOS 22",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9152F4186885DDB8716BED23E5A6D33903213FFE",
+   "id": "9152F4186885DDB8716BED23E5A6D33903213FFE"
+  }
+ },
+ "id": 2237224000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

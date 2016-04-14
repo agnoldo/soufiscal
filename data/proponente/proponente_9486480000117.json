@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.486.480\/0001-17",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9486480000117"
+ },
+ "cpf_responsavel": "***211006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9486480000117"
+ },
+ "nome": "INSTITUTO UNIVERSO CULTURAL CENTRO SOCIAL CULTURAL AUDIOVISUAL DE ESTUDOS PESQUISA PROJETOS OFICINAS MARKETING INFORMACAO ASSESSORIA E CONSULTORIA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2236650013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9486480000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9486480000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9486480000117",
+ "nome_responsavel": "RAQUEL HALLAK D ANGELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32822366",
+ "cep": "30220150",
+ "endereco": "RUA PIRAPETINGA 567",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7A0EE4006281EFE262E6A48E23B94410B1435C84",
+   "id": "7A0EE4006281EFE262E6A48E23B94410B1435C84"
+  }
+ },
+ "id": 9486480000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

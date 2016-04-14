@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.325.635\/0001-69",
+ "fax": "(031) 3434-8491",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=325635000169"
+ },
+ "cpf_responsavel": "***963316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=325635000169"
+ },
+ "nome": "ASSOCIACAO MINEIRA DAS ESCOLAS FAMILIAS AGRICOLAS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1707660015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=325635000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=325635000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/325635000169",
+ "nome_responsavel": "JOSE ANTONIO RODRIGUES MAGALHAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031) 3434-0003",
+ "cep": "31742036",
+ "endereco": "RUA OLIVIA MARIA DE JESUS 1710 -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/30DD6910C8BDE7460A299E7BAFD2744DE8710942",
+   "id": "30DD6910C8BDE7460A299E7BAFD2744DE8710942"
+  }
+ },
+ "id": 325635000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

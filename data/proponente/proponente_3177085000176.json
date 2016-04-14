@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.177.085\/0001-76",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3177085000176"
+ },
+ "cpf_responsavel": "***112846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3177085000176"
+ },
+ "nome": "ASSOCIACAO DE DEFESA DO MEIO AMBIENTE E DESEN. DO VALE DO PARAOPEBA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "18012005",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3177085000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3177085000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3177085000176",
+ "nome_responsavel": "ALEXANDRA ANDRADE GONCALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135711558",
+ "cep": "35460000",
+ "endereco": "AV.VIGILATO RODRIGUES BRAGA 220 SL 04",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F3AD1D468BD58517093F28010FFE717412121562",
+   "id": "F3AD1D468BD58517093F28010FFE717412121562"
+  }
+ },
+ "id": 3177085000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

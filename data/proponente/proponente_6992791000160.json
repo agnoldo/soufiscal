@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.992.791\/0001-60",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6992791000160"
+ },
+ "cpf_responsavel": "***115746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6992791000160"
+ },
+ "nome": "COMUNIDADE ASSOCIADA PARA RECICLAGEM DE MATERIAIS DA REGIAO DA PAMPULHA-COMARP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2345740013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6992791000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6992791000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6992791000160",
+ "nome_responsavel": "IVANEIDE DA SILVA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34952613",
+ "cep": "31270000",
+ "endereco": "AV PRESIDENTE ANTONIO CARLOS 4070 - SAO FRANCISCO - BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/64470A4ECDDBDC39EEF9776D2CDCC92341111169",
+   "id": "64470A4ECDDBDC39EEF9776D2CDCC92341111169"
+  }
+ },
+ "id": 6992791000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

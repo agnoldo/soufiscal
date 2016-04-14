@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.464.065\/0001-13",
+ "fax": "(31) 3225-0414",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2464065000113"
+ },
+ "cpf_responsavel": "***701966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2464065000113"
+ },
+ "nome": "INSTITUTO TERRA BRASILIS DE DESENVOLVIMENTO SOCIO-AMBIENTAL",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1428280011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2464065000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2464065000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2464065000113",
+ "nome_responsavel": "SONIA ELIAS RIGUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3225-0414",
+ "cep": "31010060",
+ "endereco": "RUA BUENO BRANDÃO405",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DAEFCEAE82A81A8BE18392903833CBB841F03CEE",
+   "id": "DAEFCEAE82A81A8BE18392903833CBB841F03CEE"
+  }
+ },
+ "id": 2464065000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

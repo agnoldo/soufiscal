@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.235.008\/0001-44",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20235008000144"
+ },
+ "cpf_responsavel": "***127016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20235008000144"
+ },
+ "nome": "FUNDAMAR - FUNDACAO 18 DE MARCO",
+ "inscricao_estadual": "4722231580060",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20235008000144"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20235008000144"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20235008000144",
+ "nome_responsavel": "STANLEY MARTINS FRASAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3282 4363",
+ "cep": "30150311",
+ "endereco": "RUA CEARÁ 2025 - FUNCIONÁRIOS BH - MGPROJETO FAZENDA ESCOLA - ROD MG 453 KM 07 PARAGUAÇU - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/52E4C2338F1F679F930812770B01D1ED81335531",
+   "id": "52E4C2338F1F679F930812770B01D1ED81335531"
+  }
+ },
+ "id": 20235008000144,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

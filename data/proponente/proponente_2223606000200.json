@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.223.606\/0002-00",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2223606000200"
+ },
+ "cpf_responsavel": "***641506**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2223606000200"
+ },
+ "nome": "FUNDACAO METODISTA DE ACAO SOCIAL E CULTURAL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "000178640001",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2223606000200"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2223606000200"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2223606000200",
+ "nome_responsavel": "ROBERTO NOGUEIRA GURGEL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134470373",
+ "cep": "31980670",
+ "endereco": "RUA CURIMATÃ 300",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2631DEECD498A848B2D2AE2CD434E4622E389D54",
+   "id": "2631DEECD498A848B2D2AE2CD434E4622E389D54"
+  }
+ },
+ "id": 2223606000200,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

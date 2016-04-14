@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.172.579\/0001-15",
+ "fax": "(31) 3330-1570",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65172579000115"
+ },
+ "cpf_responsavel": "***751586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65172579000115"
+ },
+ "nome": "UNIVERSIDADE DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65172579000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65172579000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65172579000115",
+ "nome_responsavel": "DIJON MORAES JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3330.1500",
+ "cep": "30160042",
+ "endereco": "RUA RIO DE JANEIRO 1801",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/315643BCFD0699BDCF3269DE50D0DE6074335F58",
+   "id": "315643BCFD0699BDCF3269DE50D0DE6074335F58"
+  }
+ },
+ "id": 65172579000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

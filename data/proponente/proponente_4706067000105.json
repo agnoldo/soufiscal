@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.706.067\/0001-05",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4706067000105"
+ },
+ "cpf_responsavel": "***894836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4706067000105"
+ },
+ "nome": "ASSOCIACAO MINEIRA DOS PORTADORES DE VIRUS DE HEPATITE",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1751640016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4706067000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4706067000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4706067000105",
+ "nome_responsavel": "RUTH PEIXOTO DOMINGUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031)3221-0199",
+ "cep": "30150310",
+ "endereco": "RUA CEARÁ 600 - SALA 101",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C1B2EE0579BF08407CF470DCEDB770E8E7514CAF",
+   "id": "C1B2EE0579BF08407CF470DCEDB770E8E7514CAF"
+  }
+ },
+ "id": 4706067000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

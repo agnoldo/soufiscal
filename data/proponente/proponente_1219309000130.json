@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.219.309\/0001-30",
+ "fax": "3132777996",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1219309000130"
+ },
+ "cpf_responsavel": "***627726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1219309000130"
+ },
+ "nome": "ASSOCIACAO CULTURAL AMIGOS MUSEU ARTE DA PAMPULHA-AMAP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1219309000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1219309000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1219309000130",
+ "nome_responsavel": "MARINA DE OLIVEIRA NAZARETH",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132777955",
+ "cep": "31365450",
+ "endereco": "AVENIDA OTACÍLIO NEGRÃO DE LIMA 16585",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/223A646422907E0C9152B2309B68148E06D4C77B",
+   "id": "223A646422907E0C9152B2309B68148E06D4C77B"
+  }
+ },
+ "id": 1219309000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

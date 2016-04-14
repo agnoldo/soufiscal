@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.599.337\/0001-55",
+ "fax": "31-32225777",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3599337000155"
+ },
+ "cpf_responsavel": "***619526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3599337000155"
+ },
+ "nome": "FUNDACAO CENTRO DE REFERENCIA DA CULTURA NEGRA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1610680011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3599337000155"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3599337000155"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3599337000155",
+ "nome_responsavel": "CLEIDE HILDA DE LIMA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 96029357",
+ "cep": "30160010",
+ "endereco": "RUA DA BAHIA 360 SALA 1102",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AD81FB2396EA7AA91608AAE0AA097AA7B21B212E",
+   "id": "AD81FB2396EA7AA91608AAE0AA097AA7B21B212E"
+  }
+ },
+ "id": 3599337000155,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.720.938\/0001-41",
+ "fax": "856",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18720938000141"
+ },
+ "cpf_responsavel": "***124216**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18720938000141"
+ },
+ "nome": "FUNDACAO DE DESENVOLVIMENTO DA PESQUISA",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "302.408\/001-7",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18720938000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18720938000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18720938000141",
+ "nome_responsavel": "ALFREDO GONTIJO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3409-4153",
+ "cep": "31270901",
+ "endereco": "AV.ANTONIO CARLOS 6627 - CAMPUS UFMG - UN.ADM.II - 4O ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B94C3E9EDFEF1DCD512F49C4049A90EA9CF0BC28",
+   "id": "B94C3E9EDFEF1DCD512F49C4049A90EA9CF0BC28"
+  }
+ },
+ "id": 18720938000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

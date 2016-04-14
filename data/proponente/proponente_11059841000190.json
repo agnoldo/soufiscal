@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.059.841\/0001-90",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11059841000190"
+ },
+ "cpf_responsavel": "***253026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11059841000190"
+ },
+ "nome": "RECICLANDO VIDAS",
+ "inscricao_estadual": "001752894.00-54",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11059841000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11059841000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11059841000190",
+ "nome_responsavel": "FERNANDO EDUARDO DOS REIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130329717",
+ "cep": "32606215",
+ "endereco": "RUA MILTON HONORIO DA SILVA  780",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/96A87C1DECA8C1AEA8ABAC150BA5BC0C7010C59E",
+   "id": "96A87C1DECA8C1AEA8ABAC150BA5BC0C7010C59E"
+  }
+ },
+ "id": 11059841000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

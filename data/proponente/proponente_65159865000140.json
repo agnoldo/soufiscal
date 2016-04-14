@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.159.865\/0001-40",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65159865000140"
+ },
+ "cpf_responsavel": "***472816**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65159865000140"
+ },
+ "nome": "ASSOCIACAO DA RESISTENCIA CULTURAL AFRO-BRASILEIRA NETOS DE MINEIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65159865000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65159865000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65159865000140",
+ "nome_responsavel": "CARLOS NEY SIMAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "36373076",
+ "cep": "33105450",
+ "endereco": "RUA GERALDO TEIXEIRA DA COSTA 2645",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E1044B6C11F2E56E6ED97FBC7CB9AB2E58455D33",
+   "id": "E1044B6C11F2E56E6ED97FBC7CB9AB2E58455D33"
+  }
+ },
+ "id": 65159865000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.278.912\/0001-20",
+ "fax": "31-33728958 RAMAL22",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=278912000120"
+ },
+ "cpf_responsavel": "***407066**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=278912000120"
+ },
+ "nome": "FUNDACAO DE APOIO A EDUCACAO E DESENV TECNOLOGICO DE MG",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "116.172.001.1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=278912000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=278912000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/278912000120",
+ "nome_responsavel": "MARIA CELESTE MONTEIRO DE SOUZA COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-33728958",
+ "cep": "30480560",
+ "endereco": "RUA ALPES 533",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DE26B421D28949B5F5911E9A42BB33994B6E88D4",
+   "id": "DE26B421D28949B5F5911E9A42BB33994B6E88D4"
+  }
+ },
+ "id": 278912000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

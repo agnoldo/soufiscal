@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.936.355\/0001-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22936355000120"
+ },
+ "cpf_responsavel": "***704606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22936355000120"
+ },
+ "nome": "SIND DOS TRABS NA IND DA EXT DO O E M PREC DE NOVA LIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22936355000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22936355000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22936355000120",
+ "nome_responsavel": "MARCELINO ANTONIO EDWIGES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3498-7830",
+ "cep": "34000000",
+ "endereco": "PRAÇA BERNADINO DE LIMANº 65 CENTRO NOVA LIMA\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/960B80FC0B0F2DE5F3BD7BE2239AF9950C79884E",
+   "id": "960B80FC0B0F2DE5F3BD7BE2239AF9950C79884E"
+  }
+ },
+ "id": 22936355000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

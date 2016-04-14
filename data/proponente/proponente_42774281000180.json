@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.774.281\/0001-80",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42774281000180"
+ },
+ "cpf_responsavel": "***761826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42774281000180"
+ },
+ "nome": "PREFEITURA MUNICIPAL DE SAO JOSE DA LAPA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42774281000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42774281000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42774281000180",
+ "nome_responsavel": "FRANCISCO FAGUNDES DE FREITAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31)3623-1200",
+ "cep": "33350000",
+ "endereco": "PRAÇA PEDRO FIRMINO BARBOSA 176",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/891F036B65105BEF6341B822B114848A114A06B2",
+   "id": "891F036B65105BEF6341B822B114848A114A06B2"
+  }
+ },
+ "id": 42774281000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15303",
+   "id": 15303
+  }
+ }
+}

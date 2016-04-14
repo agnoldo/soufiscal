@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.151.877\/0001-60",
+ "fax": "(31) 3421 - 2892",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6151877000160"
+ },
+ "cpf_responsavel": "***532146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6151877000160"
+ },
+ "nome": "FUNDACAO EXPRESSAO CULTURAL DE MINAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6151877000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6151877000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6151877000160",
+ "nome_responsavel": "ALINE CRISTINA ARAUJO DE AGUIAR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3421 - 2892",
+ "cep": "31160120",
+ "endereco": "RUA PRINCESA LEOPOLDINA 463",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/83B8BFBF7F0962BBE3CEB09879C3BD573595A707",
+   "id": "83B8BFBF7F0962BBE3CEB09879C3BD573595A707"
+  }
+ },
+ "id": 6151877000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

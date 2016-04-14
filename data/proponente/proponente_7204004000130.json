@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.204.004\/0001-30",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7204004000130"
+ },
+ "cpf_responsavel": "***973406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7204004000130"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA ESPACO PARA TODOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7204004000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7204004000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7204004000130",
+ "nome_responsavel": "MAURO LUCIO DA ROCHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135955940",
+ "cep": "32673328",
+ "endereco": "RUA: CRIPTOMÉRIA 49",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E13C4CC2DE274BA41714750009B66879F4080838",
+   "id": "E13C4CC2DE274BA41714750009B66879F4080838"
+  }
+ },
+ "id": 7204004000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

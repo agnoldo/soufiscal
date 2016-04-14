@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.109.593\/0001-30",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8109593000130"
+ },
+ "cpf_responsavel": "***334826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8109593000130"
+ },
+ "nome": "CARDOSO E CAPANEMA ADVOGADOS ASSOCIADOS - ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8109593000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8109593000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8109593000130",
+ "nome_responsavel": "ADRIANO CARDOSO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132939741",
+ "cep": "30170110",
+ "endereco": "RUA RIO GRANDE DO SUL N°756 CONJ. 906 BARRO PRETO BELO HORIZONTE-MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/935E7B8C08D61B28A401BA5DFFF29AC5DF44C797",
+   "id": "935E7B8C08D61B28A401BA5DFFF29AC5DF44C797"
+  }
+ },
+ "id": 8109593000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

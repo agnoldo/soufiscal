@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.968.685\/0001-58",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26968685000158"
+ },
+ "cpf_responsavel": "***628567**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26968685000158"
+ },
+ "nome": "PRINT COMERCIO LTDA ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26968685000158"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26968685000158"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26968685000158",
+ "nome_responsavel": "MANOEL DE MEDEIROS RODRIGUES CRAVEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "33116363",
+ "cep": "34710080",
+ "endereco": "RUA JOSÉ CANDIDO DA SILVEIRA 1200",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FF45A5E5E5087E2C030438B0CAE25E89F8CC597E",
+   "id": "FF45A5E5E5087E2C030438B0CAE25E89F8CC597E"
+  }
+ },
+ "id": 26968685000158,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

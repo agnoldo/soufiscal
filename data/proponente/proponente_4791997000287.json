@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.791.997\/0002-87",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4791997000287"
+ },
+ "cpf_responsavel": "***415416**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4791997000287"
+ },
+ "nome": "INSTITUTO PAULINE REICHSTUL DE EDUCACAO TECNOLOGICA, DIREITOS HUMANOS E DEFESA DO MEIO AMBIENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4791997000287"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4791997000287"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4791997000287",
+ "nome_responsavel": "ARTHUR DO AMARAL LAURIANO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "2516-9801",
+ "cep": "30190051",
+ "endereco": "RUA AIMORÉS 462 SALA 301",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/29949B3F3508349904ECD016FEC165D7BBC2C518",
+   "id": "29949B3F3508349904ECD016FEC165D7BBC2C518"
+  }
+ },
+ "id": 4791997000287,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

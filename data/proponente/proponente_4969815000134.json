@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.969.815\/0001-34",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4969815000134"
+ },
+ "cpf_responsavel": "***539756**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4969815000134"
+ },
+ "nome": "ASSOCIACAO DOS CATADORES DO VALE PARAOPEBA",
+ "inscricao_estadual": "0010067710093",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1888\/2006",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4969815000134"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4969815000134"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4969815000134",
+ "nome_responsavel": "VALDETE FRANCISCA DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31.35716122",
+ "cep": "35460000",
+ "endereco": "AVENIDA INHOTIM N° 641",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/01223FD99929900E2E712DEC86B1A466FFEAD07F",
+   "id": "01223FD99929900E2E712DEC86B1A466FFEAD07F"
+  }
+ },
+ "id": 4969815000134,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.137.463\/0001-13",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5137463000113"
+ },
+ "cpf_responsavel": "***192366**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5137463000113"
+ },
+ "nome": "ASSOCIACAO CULTURAL E ESPORTIVA ARTE MINAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2416900018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5137463000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5137463000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5137463000113",
+ "nome_responsavel": "JOSE EUSTAQUIO MONTEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 99749398",
+ "cep": "30710180",
+ "endereco": "TREMEDAL 101 - CARLOS PRATES - BH-MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1C757EFF533F08105826B049AD7DD86D20AB638A",
+   "id": "1C757EFF533F08105826B049AD7DD86D20AB638A"
+  }
+ },
+ "id": 5137463000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

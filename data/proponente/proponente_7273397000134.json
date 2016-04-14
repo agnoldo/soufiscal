@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.273.397\/0001-34",
+ "fax": "031 91914444",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7273397000134"
+ },
+ "cpf_responsavel": "***717016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7273397000134"
+ },
+ "nome": "FEDERACAO DE CONVENTION & VISITORS BUREAUX DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7273397000134"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7273397000134"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7273397000134",
+ "nome_responsavel": "PAULO CESAR BOECHAT LEMOS DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 32612547",
+ "cep": "30140003",
+ "endereco": "AV. BRASIL 1666 15º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6D2DA433CA66867D5A1A79CBE57291BD70F56FAB",
+   "id": "6D2DA433CA66867D5A1A79CBE57291BD70F56FAB"
+  }
+ },
+ "id": 7273397000134,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

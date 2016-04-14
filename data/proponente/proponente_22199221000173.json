@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.199.221\/0001-73",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22199221000173"
+ },
+ "cpf_responsavel": "***803036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22199221000173"
+ },
+ "nome": "SECRETARIA DE ESTADO DE DIREITOS HUMANOS, PARTICIPACAO SOCIAL E CIDADANIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22199221000173"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22199221000173"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22199221000173",
+ "nome_responsavel": "NILMARIO DE MIRANDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3139167931",
+ "cep": "31630900",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI 4143",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FF0E106125310F12184263C60FB9829CABAD05CA",
+   "id": "FF0E106125310F12184263C60FB9829CABAD05CA"
+  }
+ },
+ "id": 22199221000173,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

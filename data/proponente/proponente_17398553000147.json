@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.398.553\/0001-47",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17398553000147"
+ },
+ "cpf_responsavel": "***762706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17398553000147"
+ },
+ "nome": "ASSOC COMUNITARIA DO BAIRRO PEDRA BRANCA E ADJ ASCOPEBA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17398553000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17398553000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17398553000147",
+ "nome_responsavel": "LUIZ PEREIRA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "34531589",
+ "cep": "33925560",
+ "endereco": "RUA DIAMANTINA  785",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CCC4E1683CAB13DADA06578735981503C8117D4D",
+   "id": "CCC4E1683CAB13DADA06578735981503C8117D4D"
+  }
+ },
+ "id": 17398553000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

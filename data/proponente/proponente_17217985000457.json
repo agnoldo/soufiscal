@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.985\/0004-57",
+ "fax": "31\/34095700",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217985000457"
+ },
+ "cpf_responsavel": "***882908**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217985000457"
+ },
+ "nome": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217985000457"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217985000457"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217985000457",
+ "nome_responsavel": "ROCHEL MONTERO LAGO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31\/34095720\/5777",
+ "cep": "31270901",
+ "endereco": "AV ANTONIO CARLOS 6627",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/459966E03A83192848A92CC6B5260794ED13539E",
+   "id": "459966E03A83192848A92CC6B5260794ED13539E"
+  }
+ },
+ "id": 17217985000457,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

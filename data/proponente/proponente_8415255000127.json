@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.415.255\/0001-27",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8415255000127"
+ },
+ "cpf_responsavel": "***389908**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8415255000127"
+ },
+ "nome": "CENTRO MINEIRO DE ALIANCAS INTERSETORIAIS - CEMAIS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2200740012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8415255000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8415255000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8415255000127",
+ "nome_responsavel": "MARISA SEOANE RIO RESENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031) 2535-0028",
+ "cep": "30140062",
+ "endereco": "RUA DOS TIMBIRAS 2875",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DFB93858A482281BE37666A219CF7C87CBF4EBC6",
+   "id": "DFB93858A482281BE37666A219CF7C87CBF4EBC6"
+  }
+ },
+ "id": 8415255000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.869.867\/0001-31",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10869867000131"
+ },
+ "cpf_responsavel": "***656526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10869867000131"
+ },
+ "nome": "CAMARA DE DIRIGENTES LOJISTAS ESMERALDAS - MG",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10869867000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10869867000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10869867000131",
+ "nome_responsavel": "DANIEL NUNES BATISTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135226712",
+ "cep": "35740000",
+ "endereco": "RUA VISCONDE CAETÉ73",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C65A2EEA5A010BC4A139D2701D31F24C2162C89F",
+   "id": "C65A2EEA5A010BC4A139D2701D31F24C2162C89F"
+  }
+ },
+ "id": 10869867000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12102",
+   "id": 12102
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "31.605.058\/0001-92",
+ "fax": "31-34094066",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=31605058000192"
+ },
+ "cpf_responsavel": "***936446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=31605058000192"
+ },
+ "nome": "FUNDACAO RODRIGO MELLO FRANCO DE ANDRADE",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2111270010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=31605058000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=31605058000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/31605058000192",
+ "nome_responsavel": "ANDRE GUILHERME DORNELLES DANGELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34095511",
+ "cep": "30130002",
+ "endereco": "A. AFONSO PENA 1534",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CB29EE29154B06CCA9644CE876F0F239F972C5AA",
+   "id": "CB29EE29154B06CCA9644CE876F0F239F972C5AA"
+  }
+ },
+ "id": 31605058000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

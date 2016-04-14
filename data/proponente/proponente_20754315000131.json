@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.754.315\/0001-31",
+ "fax": "3132730601",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20754315000131"
+ },
+ "cpf_responsavel": "***529346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20754315000131"
+ },
+ "nome": "INSTITUTO CULTURAL CASARAO DAS ARTES",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "09602410014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20754315000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20754315000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20754315000131",
+ "nome_responsavel": "MARCIAL DA LUZ DE AVILA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132730601",
+ "cep": "30150280",
+ "endereco": "AVENIDA BERNARDO MONTEIRO 414",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/88DC1A03C4702A8C7371452005224A5A6267A3E7",
+   "id": "88DC1A03C4702A8C7371452005224A5A6267A3E7"
+  }
+ },
+ "id": 20754315000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

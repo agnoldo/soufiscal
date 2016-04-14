@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.235.744\/0001-09",
+ "fax": "(31)96898565",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5235744000109"
+ },
+ "cpf_responsavel": "***992036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5235744000109"
+ },
+ "nome": "CLAROSOFIA NUCLEO MUNDIAL - CNM",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "199.510\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5235744000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5235744000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5235744000109",
+ "nome_responsavel": "CLARISE FERNANDES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3272.9091",
+ "cep": "30160040",
+ "endereco": "RUA RIO JANEIRO 462\/1410",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0B56327201F817F1CF67BF9C7F1AB72549728F66",
+   "id": "0B56327201F817F1CF67BF9C7F1AB72549728F66"
+  }
+ },
+ "id": 5235744000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

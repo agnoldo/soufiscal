@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.051.905\/0001-77",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6051905000177"
+ },
+ "cpf_responsavel": "***082396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6051905000177"
+ },
+ "nome": "INSTITUTO UNDIO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1875360015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6051905000177"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6051905000177"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6051905000177",
+ "nome_responsavel": "JULIA CHRISTINA PORTES RIBEIRO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031)3214-0363",
+ "cep": "30190070",
+ "endereco": "RUA PADRE BELCHIOR N°272",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5DAA7FD9A8EE475845C027030E26B225A3F6021B",
+   "id": "5DAA7FD9A8EE475845C027030E26B225A3F6021B"
+  }
+ },
+ "id": 6051905000177,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

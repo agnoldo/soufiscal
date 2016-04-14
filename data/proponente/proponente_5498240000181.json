@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.498.240\/0001-81",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5498240000181"
+ },
+ "cpf_responsavel": "***276046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5498240000181"
+ },
+ "nome": "CAI - CENTRO DE APOIO A INFANCIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5498240000181"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5498240000181"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5498240000181",
+ "nome_responsavel": "DANIEL SOTERO DE SOUZA FRANCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34883401",
+ "cep": "31050583",
+ "endereco": "RUA GUVEIA NUMERO 70",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7550543831DF080E76C935BB02FB838BB9C68767",
+   "id": "7550543831DF080E76C935BB02FB838BB9C68767"
+  }
+ },
+ "id": 5498240000181,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

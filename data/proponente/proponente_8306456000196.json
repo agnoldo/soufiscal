@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.306.456\/0001-96",
+ "fax": "3133376052",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8306456000196"
+ },
+ "cpf_responsavel": "***471086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8306456000196"
+ },
+ "nome": "ASSOCIACAO DOS SERVIDORES DA POLICIA FEDERAL DE MINAS GERAIS -ANSEF\/MG",
+ "inscricao_estadual": "2248690015",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8306456000196"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8306456000196"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8306456000196",
+ "nome_responsavel": "SANDRA DE PAULA AZEVEDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3125128053",
+ "cep": "30441170",
+ "endereco": "RUA NASCIMENTO GURGEL 30",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DD3A794B2793198603D8F962DE03953735F16890",
+   "id": "DD3A794B2793198603D8F962DE03953735F16890"
+  }
+ },
+ "id": 8306456000196,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

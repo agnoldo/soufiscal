@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.194.853\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17194853000104"
+ },
+ "cpf_responsavel": "***299146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17194853000104"
+ },
+ "nome": "FEDERACAO DA AGRICULTURA E PECUARIA DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "160462\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17194853000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17194853000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17194853000104",
+ "nome_responsavel": "ROBERTO SIMOES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-30743042",
+ "cep": "30130915",
+ "endereco": "AVENIDA CARANDAI 1115 3º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A73E0A91440F58E5FB206D2AB7D023D1C663BB64",
+   "id": "A73E0A91440F58E5FB206D2AB7D023D1C663BB64"
+  }
+ },
+ "id": 17194853000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

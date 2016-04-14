@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.099.312\/0001-74",
+ "fax": "3132911856",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21099312000174"
+ },
+ "cpf_responsavel": "***082216**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21099312000174"
+ },
+ "nome": "CENTRO DE ESTUDOS CINEMATOGRAFICOS DE M.G.",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21099312000174"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21099312000174"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21099312000174",
+ "nome_responsavel": "LOURENCO RODRIGUES PEREIRA VELOSO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132910524",
+ "cep": "30140072",
+ "endereco": "RUA AIMORÉS 2414 \/ SALA 12",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7CCFACB5926D90A9F86535D35D0634FE66F29DDE",
+   "id": "7CCFACB5926D90A9F86535D35D0634FE66F29DDE"
+  }
+ },
+ "id": 21099312000174,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

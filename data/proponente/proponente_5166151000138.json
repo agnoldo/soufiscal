@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.166.151\/0001-38",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5166151000138"
+ },
+ "cpf_responsavel": "***869066**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5166151000138"
+ },
+ "nome": "CHADES BORGO-ASSESSORIA\/CONSULTORIA E EVENTOS LTDA - ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1052",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5166151000138"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5166151000138"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5166151000138",
+ "nome_responsavel": "JULIANA CHADES PINHEIRO FONSECA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33189910",
+ "cep": "34000000",
+ "endereco": "RUA DO VALE 296 \/ 603",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F469CB9B7334D5193524B9AF29C173CCC82AF704",
+   "id": "F469CB9B7334D5193524B9AF29C173CCC82AF704"
+  }
+ },
+ "id": 5166151000138,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.798.659\/0001-96",
+ "fax": "3134431796",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4798659000196"
+ },
+ "cpf_responsavel": "***731536**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4798659000196"
+ },
+ "nome": "ASSOSSIACAO DE PAIS E AMIGOS DO CENTRO DE REABILITACAO",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2070950012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4798659000196"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4798659000196"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4798659000196",
+ "nome_responsavel": "SONIA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134943925",
+ "cep": "31720010",
+ "endereco": "RUA FERNANDO FERRARI173",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/778C0C7065AEC901F1F67A5265C032C5F389693F",
+   "id": "778C0C7065AEC901F1F67A5265C032C5F389693F"
+  }
+ },
+ "id": 4798659000196,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "97.550.393\/0001-49",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=97550393000149"
+ },
+ "cpf_responsavel": "***279446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=97550393000149"
+ },
+ "nome": "CONSORCIO INTERMUNICIPAL ALIANCA PARA A SAUDE CIAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/34",
+   "id": 34
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=97550393000149"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=97550393000149"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/97550393000149",
+ "nome_responsavel": "FERNANDO PEREIRA GOMES NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/28",
+   "id": 28
+  }
+ },
+ "telefone": "031\/32157339",
+ "cep": "30160040",
+ "endereco": "RUA RIO DE JANEIRO Nº. 471 - 8º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/794AD2EB312B9E13CEDD801EF23474D692BDEED3",
+   "id": "794AD2EB312B9E13CEDD801EF23474D692BDEED3"
+  }
+ },
+ "id": 97550393000149,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

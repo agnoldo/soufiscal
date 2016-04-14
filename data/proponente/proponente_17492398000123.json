@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.492.398\/0001-23",
+ "fax": "31 33739164",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17492398000123"
+ },
+ "cpf_responsavel": "***183156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17492398000123"
+ },
+ "nome": "CONSELHO CENTRAL DE BELO HORIZONTE SSVP",
+ "inscricao_estadual": "0621671920090",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "4137120039",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17492398000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17492398000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17492398000123",
+ "nome_responsavel": "SILVIO PIRES DE ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33732122",
+ "cep": "30460400",
+ "endereco": "R. GAVEA 150",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/61CFFF2822A27A96F950AD1DE6B4201BB1F6FE04",
+   "id": "61CFFF2822A27A96F950AD1DE6B4201BB1F6FE04"
+  }
+ },
+ "id": 17492398000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

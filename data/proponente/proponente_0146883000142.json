@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.146.883\/0001-42",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=146883000142"
+ },
+ "cpf_responsavel": "***553886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=146883000142"
+ },
+ "nome": "ASSOCIACAO DOS MUSICOS DA ORQUESTRA SINFONICA DE MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=146883000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=146883000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/146883000142",
+ "nome_responsavel": "JOSE MARIA LAGES DUARTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 9826-0820",
+ "cep": "30130004",
+ "endereco": "AVENIDA AFONSO PENA Nº 1537 4º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BDBD93DFC6A66F5BB3B2F03B98F1045EE11FA87D",
+   "id": "BDBD93DFC6A66F5BB3B2F03B98F1045EE11FA87D"
+  }
+ },
+ "id": 146883000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

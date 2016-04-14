@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.035.263\/0001-12",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6035263000112"
+ },
+ "cpf_responsavel": "***627406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6035263000112"
+ },
+ "nome": "INSTITUTO ACESSO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6035263000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6035263000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6035263000112",
+ "nome_responsavel": "MARIA AMALIA MAGALHAES FAGUNDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34833437",
+ "cep": "30350090",
+ "endereco": "RUA BARÃO DE MACAÚBAS 460\/ 301",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/75EEFA0A4DF49FABFEF856BED4AA90C290CA6731",
+   "id": "75EEFA0A4DF49FABFEF856BED4AA90C290CA6731"
+  }
+ },
+ "id": 6035263000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

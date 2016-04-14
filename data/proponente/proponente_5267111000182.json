@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.267.111\/0001-82",
+ "fax": "03135420293",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5267111000182"
+ },
+ "cpf_responsavel": "***136096**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5267111000182"
+ },
+ "nome": "ASSOCIACAO DOS CATADORES DE PAPEL E MATERIAL RECICLAVEL DE NOVA LIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5267111000182"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5267111000182"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5267111000182",
+ "nome_responsavel": "LEONARDO SOARES DA CUNHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03135420293",
+ "cep": "34000000",
+ "endereco": "RUA ARGEMIRO JULIO281",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2B1A5BBFED4A421CFAA025EBC99B49349F3C3C04",
+   "id": "2B1A5BBFED4A421CFAA025EBC99B49349F3C3C04"
+  }
+ },
+ "id": 5267111000182,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

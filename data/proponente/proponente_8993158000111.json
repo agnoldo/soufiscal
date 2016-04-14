@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.993.158\/0001-11",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8993158000111"
+ },
+ "cpf_responsavel": "***882596**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8993158000111"
+ },
+ "nome": "ORGANIZACAO NAO GOVERNAMENTAL SEMEAR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8993158000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8993158000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8993158000111",
+ "nome_responsavel": "JOAO EVANGELISTA SANTOS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 97929286",
+ "cep": "33200000",
+ "endereco": "RUA PAULO DUTRA 93",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6E9E09C62B3809FA23EE81C94D675D4DD5F87EF8",
+   "id": "6E9E09C62B3809FA23EE81C94D675D4DD5F87EF8"
+  }
+ },
+ "id": 8993158000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

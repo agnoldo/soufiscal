@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.776.535\/0001-80",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25776535000180"
+ },
+ "cpf_responsavel": "***364230**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25776535000180"
+ },
+ "nome": "FIX CENTER ELETRONICA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25776535000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25776535000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25776535000180",
+ "nome_responsavel": "GISELE SILVA DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 3344 5566",
+ "cep": "39960000",
+ "endereco": "RUA 02",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DC111F0CDF942D00A52CAFB098FC18E111D2534A",
+   "id": "DC111F0CDF942D00A52CAFB098FC18E111D2534A"
+  }
+ },
+ "id": 25776535000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

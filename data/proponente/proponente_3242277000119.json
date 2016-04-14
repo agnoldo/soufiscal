@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.242.277\/0001-19",
+ "fax": "3132812011",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3242277000119"
+ },
+ "cpf_responsavel": "***634306**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3242277000119"
+ },
+ "nome": "RMI - REDE MINEIRA DE INOVACAO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1539590019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3242277000119"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3242277000119"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3242277000119",
+ "nome_responsavel": "PAULO AUGUSTO NEPOMUCENO GARCIA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32812011",
+ "cep": "30130009",
+ "endereco": "AVENIDA AFONSO PENA 4000 - 3º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7F014D22B75ADF86B79AE7A5ACD28CB32419B28D",
+   "id": "7F014D22B75ADF86B79AE7A5ACD28CB32419B28D"
+  }
+ },
+ "id": 3242277000119,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

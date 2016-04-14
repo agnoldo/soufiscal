@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.019\/0001-97",
+ "fax": "3132879174",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217019000197"
+ },
+ "cpf_responsavel": "***947819**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217019000197"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DOS CRIADORES DE JUMENTO PEGA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217019000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217019000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217019000197",
+ "nome_responsavel": "LUCIO FLAVIO BAIONETA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132879173",
+ "cep": "30510000",
+ "endereco": "AV. AMAZONAS 6020",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9C5FDA6BFC18B495C42A8209FEC2EC1687C46723",
+   "id": "9C5FDA6BFC18B495C42A8209FEC2EC1687C46723"
+  }
+ },
+ "id": 17217019000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

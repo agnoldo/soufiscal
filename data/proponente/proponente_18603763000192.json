@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.603.763\/0001-92",
+ "fax": "89588868",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18603763000192"
+ },
+ "cpf_responsavel": "***013106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18603763000192"
+ },
+ "nome": "ASSOCIACAO DE APOIO E PROTECAO A COMUNIDADES CARENTES E CRIANCAS COM CANCER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18603763000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18603763000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18603763000192",
+ "nome_responsavel": "ANDRE DA SILVA CUNHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134217733",
+ "cep": "31210690",
+ "endereco": "RUA JOSE BONIFÁCIO 238 ANTIGO 269",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9DB8BDF3C77581BA11A9E87764DF9125C053B290",
+   "id": "9DB8BDF3C77581BA11A9E87764DF9125C053B290"
+  }
+ },
+ "id": 18603763000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

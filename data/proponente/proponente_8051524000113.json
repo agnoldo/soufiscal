@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.051.524\/0001-13",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8051524000113"
+ },
+ "cpf_responsavel": "***238646**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8051524000113"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE DESENVOLVIMENTO ECONOMICO, SOCIAL, CULTURAL E DE PROTECAO AO MEIO AMBIENTE - INBRADES",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "9198290016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8051524000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8051524000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8051524000113",
+ "nome_responsavel": "HENRIQUE DE ALMEIDA PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3191881400",
+ "cep": "30170911",
+ "endereco": "AVENIDA ÁLVARES CABRAL 344 SALA 1302",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7972E0DF994B2598030F95E0844526713E60007E",
+   "id": "7972E0DF994B2598030F95E0844526713E60007E"
+  }
+ },
+ "id": 8051524000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

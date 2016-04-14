@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.507.934\/0001-94",
+ "fax": "(31) 3329 - 4264",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21507934000194"
+ },
+ "cpf_responsavel": "***351118**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21507934000194"
+ },
+ "nome": "FUNDACAO VICINTIN",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0338393\/001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21507934000194"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21507934000194"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21507934000194",
+ "nome_responsavel": "RICARDO ANTONIO VICINTIN",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3329-4137",
+ "cep": "30622056",
+ "endereco": "ANEL RODOVIÁRIO CELSO MELLO AZEVEDO KM 45 S\/N SALA 2017",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/909155F5F92913A78135A8085F3BD31E17149772",
+   "id": "909155F5F92913A78135A8085F3BD31E17149772"
+  }
+ },
+ "id": 21507934000194,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

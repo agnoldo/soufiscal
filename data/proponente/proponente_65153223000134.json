@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.153.223\/0001-34",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65153223000134"
+ },
+ "cpf_responsavel": "***661866**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65153223000134"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE ESTUDOS DA CAPOEIRA AMEC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "06101004123",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65153223000134"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65153223000134"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65153223000134",
+ "nome_responsavel": "NORBERTO FERNANDES DAMASCENO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "96865076",
+ "cep": "31060470",
+ "endereco": "RUA ELISIO DE BRITO 532 AP\/101",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F2561F496F0FD14A2A25D09537CC2DF150BD4156",
+   "id": "F2561F496F0FD14A2A25D09537CC2DF150BD4156"
+  }
+ },
+ "id": 65153223000134,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

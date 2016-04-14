@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.494.807\/0001-00",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9494807000100"
+ },
+ "cpf_responsavel": "***550766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9494807000100"
+ },
+ "nome": "ASSOCIACAO VILA ESPERANCA E ADJACENCIAS ACOVED",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9494807000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9494807000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9494807000100",
+ "nome_responsavel": "ROSEVI CARNEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 36714608",
+ "cep": "34505230",
+ "endereco": "R. SAFIRA 219",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0A4F45270D8E3C4FCB8519CCDE9E513AE9E1B4DE",
+   "id": "0A4F45270D8E3C4FCB8519CCDE9E513AE9E1B4DE"
+  }
+ },
+ "id": 9494807000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

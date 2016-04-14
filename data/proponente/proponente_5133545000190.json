@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.133.545\/0001-90",
+ "fax": "31\/32250040",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5133545000190"
+ },
+ "cpf_responsavel": "***217476**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5133545000190"
+ },
+ "nome": "ASSOCIACAO CREPUSCULO ARTE, SAUDE E EDUCACAO SEM BARREIRAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1798770013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5133545000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5133545000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5133545000190",
+ "nome_responsavel": "NOUHA KATTAOUI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32234611",
+ "cep": "31140130",
+ "endereco": "RUA TOMÉ DE SOUZA 83",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B10F1D5592D482B143896BBBCC9D2C6F1DA75CD1",
+   "id": "B10F1D5592D482B143896BBBCC9D2C6F1DA75CD1"
+  }
+ },
+ "id": 5133545000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.872.278\/0001-72",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5872278000172"
+ },
+ "cpf_responsavel": "***575616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5872278000172"
+ },
+ "nome": "INSTITUTO NOISINHO DA SILVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1880510011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5872278000172"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5872278000172"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5872278000172",
+ "nome_responsavel": "MARIA GEZICA VALADARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-2552+7811",
+ "cep": "30110067",
+ "endereco": "AVENIDA DO CONTORNO. 9861- 6O. ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/867DB9F255E298D801CF78CB42761F279B3F5512",
+   "id": "867DB9F255E298D801CF78CB42761F279B3F5512"
+  }
+ },
+ "id": 5872278000172,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

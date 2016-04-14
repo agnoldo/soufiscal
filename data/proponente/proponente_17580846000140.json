@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.580.846\/0001-40",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17580846000140"
+ },
+ "cpf_responsavel": "***033936**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17580846000140"
+ },
+ "nome": "ASSOC DE PAIS E A DOS EXCEPCIONAIS-APAE DE MATOZINHOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17580846000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17580846000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17580846000140",
+ "nome_responsavel": "JOSE ANTONIO FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 37127067",
+ "cep": "35720000",
+ "endereco": "RUA FRANCISCA MARTINS Nº 160",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2F7F6CC8EB061E095166141850916081F62B7735",
+   "id": "2F7F6CC8EB061E095166141850916081F62B7735"
+  }
+ },
+ "id": 17580846000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

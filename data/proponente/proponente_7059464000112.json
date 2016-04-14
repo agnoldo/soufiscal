@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.059.464\/0001-12",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7059464000112"
+ },
+ "cpf_responsavel": "***983806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7059464000112"
+ },
+ "nome": "ASSOCIACAO DOS TRABALHADORES EM TRANSPORTE COLETIVO URBANO DE BELO HORIZONTE E REGIAO METROPOLITANA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2389030011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7059464000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7059464000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7059464000112",
+ "nome_responsavel": "RONALDO BATISTA DE MORAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121051504",
+ "cep": "30190914",
+ "endereco": "AVENIDA AUGUSTO DE LIMA Nº 1646 SALA 301",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E08DA920E3054051A630EA5EBBE3D3956A4879B7",
+   "id": "E08DA920E3054051A630EA5EBBE3D3956A4879B7"
+  }
+ },
+ "id": 7059464000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

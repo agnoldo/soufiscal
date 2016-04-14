@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.813.501\/0001-39",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13813501000139"
+ },
+ "cpf_responsavel": "***988216**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13813501000139"
+ },
+ "nome": "INSTITUTO VEM VIVER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13813501000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13813501000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13813501000139",
+ "nome_responsavel": "ANTONIO FONTES DE QUEIROZ NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3192251117",
+ "cep": "30350453",
+ "endereco": "AV RAJA GABAGLIA 2021 1 ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DA71EFCB06145B0EADD97217E7693E954435F555",
+   "id": "DA71EFCB06145B0EADD97217E7693E954435F555"
+  }
+ },
+ "id": 13813501000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

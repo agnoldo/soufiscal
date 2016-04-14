@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.333.113\/0001-95",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6333113000195"
+ },
+ "cpf_responsavel": "***254648**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6333113000195"
+ },
+ "nome": "CONSERVACAO ESTRATEGICA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6333113000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6333113000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6333113000195",
+ "nome_responsavel": "SUSAN EDDA SEEHUSEN",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3681-4901",
+ "cep": "33400000",
+ "endereco": "RUA MARIA JUNQUEIRA 245 - SALA 104",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5591FB2F246CFA14461493156F4AFBEE94D0C85A",
+   "id": "5591FB2F246CFA14461493156F4AFBEE94D0C85A"
+  }
+ },
+ "id": 6333113000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

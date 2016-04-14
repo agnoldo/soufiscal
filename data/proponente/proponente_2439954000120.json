@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.439.954\/0001-20",
+ "fax": "031 - 3213-0455",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2439954000120"
+ },
+ "cpf_responsavel": "***029676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2439954000120"
+ },
+ "nome": "COLETIVO DE EMPRESARIOS E EMPREENDEDORES AFRO-BRASILEIROS DE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "20226900014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2439954000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2439954000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2439954000120",
+ "nome_responsavel": "BERNARDO NASCIMENTO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 - 3077-1183",
+ "cep": "30160011",
+ "endereco": "RUA DA BAHIA 1148 Nº 1148 SALA 1908 19º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/453DF59866FD4644BE5CC05B854078D1BF485EB9",
+   "id": "453DF59866FD4644BE5CC05B854078D1BF485EB9"
+  }
+ },
+ "id": 2439954000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.407.176\/0001-50",
+ "fax": "31-2515-8521",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3407176000150"
+ },
+ "cpf_responsavel": "***824939**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3407176000150"
+ },
+ "nome": "ASSOCIACAO CULTURAL EU SOU ANGOLEIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3407176000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3407176000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3407176000150",
+ "nome_responsavel": "CAREM CRISTINI NOBRE DE ABREU",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031- 92971582",
+ "cep": "30160010",
+ "endereco": "RUA DA BAHIA 570 DÉCIMO SEGUNDO ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A1E71337AAAC95285E459ADC881A2D81C623A057",
+   "id": "A1E71337AAAC95285E459ADC881A2D81C623A057"
+  }
+ },
+ "id": 3407176000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

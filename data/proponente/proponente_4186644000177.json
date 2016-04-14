@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.186.644\/0001-77",
+ "fax": "031-21032725",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4186644000177"
+ },
+ "cpf_responsavel": "***426255**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4186644000177"
+ },
+ "nome": "FUNDACAO AVSI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4186644000177"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4186644000177"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4186644000177",
+ "nome_responsavel": "FABRIZIO PELLICELLI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031-21032700",
+ "cep": "31741450",
+ "endereco": "RUA JOVENTINA DA ROCHA 211",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/78C5DA9D0CC5163E6A18546977BDE44A652F6605",
+   "id": "78C5DA9D0CC5163E6A18546977BDE44A652F6605"
+  }
+ },
+ "id": 4186644000177,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

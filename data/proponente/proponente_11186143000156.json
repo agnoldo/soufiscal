@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.186.143\/0001-56",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11186143000156"
+ },
+ "cpf_responsavel": "***898256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11186143000156"
+ },
+ "nome": "ASSOCIACAO DOS AMIGOS DO MEIO AMBIENTE DE RIO MANSO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11186143000156"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11186143000156"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11186143000156",
+ "nome_responsavel": "LENICE NEVES GUIMARAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/35731237",
+ "cep": "35525000",
+ "endereco": "RUA BELCHIOR ROMUALDO DE MORAIS 96",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9414ED8529367AB5DB47A90D99D11132E3EBE6A0",
+   "id": "9414ED8529367AB5DB47A90D99D11132E3EBE6A0"
+  }
+ },
+ "id": 11186143000156,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13936",
+   "id": 13936
+  }
+ }
+}

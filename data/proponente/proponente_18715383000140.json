@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.383\/0001-40",
+ "fax": "31 - 3224-3099",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715383000140"
+ },
+ "cpf_responsavel": "***734726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715383000140"
+ },
+ "nome": "MUNICIPIO DE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715383000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715383000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715383000140",
+ "nome_responsavel": "MARCIO ARAUJO DE LACERDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 - 3277-8564\/4808",
+ "cep": "30130003",
+ "endereco": "AV. AFONSO PENA 1212 2º ANDAR - CENTRO - BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9428999D114091C70FF16D32902AE26CE8B46B82",
+   "id": "9428999D114091C70FF16D32902AE26CE8B46B82"
+  }
+ },
+ "id": 18715383000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

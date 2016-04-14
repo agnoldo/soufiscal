@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.769.055\/0001-00",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7769055000100"
+ },
+ "cpf_responsavel": "***516736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7769055000100"
+ },
+ "nome": "INSTITUTO CIDADAO EM MOVIMENTO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7769055000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7769055000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7769055000100",
+ "nome_responsavel": "ALEXANDRE LACERDA FERNANDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "36377177",
+ "cep": "33125220",
+ "endereco": "AV. APUCARANA 229 - 2º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3F3F9842FD309D0D2EC1118031E68A588525A8E7",
+   "id": "3F3F9842FD309D0D2EC1118031E68A588525A8E7"
+  }
+ },
+ "id": 7769055000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

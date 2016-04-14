@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.503.693\/0001-96",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4503693000196"
+ },
+ "cpf_responsavel": "***909486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4503693000196"
+ },
+ "nome": "INSTITUTO DE ACAO SOCIAL PROJETO RESTAURANDO VIDAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "12551001476",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4503693000196"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4503693000196"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4503693000196",
+ "nome_responsavel": "CARLOS ROBERTO GABRIEL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135770909",
+ "cep": "32450000",
+ "endereco": "AV BALNEÁRIA S\/ NUMERO LOTE 66 67",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F9DB151BF364EE34BC364AB3BE7D69DDB910CE11",
+   "id": "F9DB151BF364EE34BC364AB3BE7D69DDB910CE11"
+  }
+ },
+ "id": 4503693000196,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11488",
+   "id": 11488
+  }
+ }
+}

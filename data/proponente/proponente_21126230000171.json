@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.126.230\/0001-71",
+ "fax": "31-87485857",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21126230000171"
+ },
+ "cpf_responsavel": "***279806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21126230000171"
+ },
+ "nome": "CORPORACAO MUSICAL SAO JOSE",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21126230000171"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21126230000171"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21126230000171",
+ "nome_responsavel": "GUILHERME LOPES FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-36231651",
+ "cep": "33350000",
+ "endereco": "RUA PADRE JOSÉ DIAS Nº 592",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8A365D92DE2F7B7B21F805845B2E3742C8F42258",
+   "id": "8A365D92DE2F7B7B21F805845B2E3742C8F42258"
+  }
+ },
+ "id": 21126230000171,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15303",
+   "id": 15303
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.691.369\/0001-86",
+ "fax": "031 3369.0299",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3691369000186"
+ },
+ "cpf_responsavel": "***888736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3691369000186"
+ },
+ "nome": "FRED - UMA ALTERNATIVA A REINTEGRACAO",
+ "inscricao_estadual": "1861133250010",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "541640100",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3691369000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3691369000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3691369000186",
+ "nome_responsavel": "MARCELO QUITES MACHADO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3369.0299",
+ "cep": "32145100",
+ "endereco": "RUA PROJETO FRED340",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/41A8E254AEB098015463E2016C3AB6DC4EE5E3A7",
+   "id": "41A8E254AEB098015463E2016C3AB6DC4EE5E3A7"
+  }
+ },
+ "id": 3691369000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

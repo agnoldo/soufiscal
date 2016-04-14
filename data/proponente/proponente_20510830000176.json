@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.510.830\/0001-76",
+ "fax": "3134778274",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20510830000176"
+ },
+ "cpf_responsavel": "***445276**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20510830000176"
+ },
+ "nome": "COMUNIDADE KOLPING PADRE TEODORO DA VILA BELEM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20510830000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20510830000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20510830000176",
+ "nome_responsavel": "ANDERSON BATISTA COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134778274",
+ "cep": "30881640",
+ "endereco": "RUA GENERAL CLARK 485",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A9D2F42230FF6802305E7A4F2947DE4F5FC16340",
+   "id": "A9D2F42230FF6802305E7A4F2947DE4F5FC16340"
+  }
+ },
+ "id": 20510830000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

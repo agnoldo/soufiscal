@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.944.422\/0001-76",
+ "fax": "3132923802",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4944422000176"
+ },
+ "cpf_responsavel": "***360246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4944422000176"
+ },
+ "nome": "ASSOCIACAO ARTE PELA PAZ",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "174065001-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4944422000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4944422000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4944422000176",
+ "nome_responsavel": "LEONARDO RABELLO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132923802",
+ "cep": "30180111",
+ "endereco": "AV.OLEGÁRIO MACIEL1233",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AF0145DA9039CBFD32C1BA349E09EED3CDB52E13",
+   "id": "AF0145DA9039CBFD32C1BA349E09EED3CDB52E13"
+  }
+ },
+ "id": 4944422000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

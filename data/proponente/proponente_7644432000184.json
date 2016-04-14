@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.644.432\/0001-84",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7644432000184"
+ },
+ "cpf_responsavel": "***772166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7644432000184"
+ },
+ "nome": "MAIS VIDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7644432000184"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7644432000184"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7644432000184",
+ "nome_responsavel": "REGINA FERREIRA COUTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3651. 2506",
+ "cep": "34800000",
+ "endereco": "RUA QUATORZE 154",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2FC8BDE2BE92B0B6EC5192622B684CF9C1A4FB2D",
+   "id": "2FC8BDE2BE92B0B6EC5192622B684CF9C1A4FB2D"
+  }
+ },
+ "id": 7644432000184,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

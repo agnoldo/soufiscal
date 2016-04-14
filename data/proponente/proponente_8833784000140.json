@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.833.784\/0001-40",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8833784000140"
+ },
+ "cpf_responsavel": "***113596**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8833784000140"
+ },
+ "nome": "INSTITUTO DE DEFESA A EDUCACAO, AO ACESSO E A LIBERDADE - IDEAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8833784000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8833784000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8833784000140",
+ "nome_responsavel": "ALEXSANDRA CILENE BORGES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "34955419",
+ "cep": "31720300",
+ "endereco": "AV. DR CRISTIANO GUIMARAES 887 SALA 13",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EEFE5366F8C4A375FCED15E105FC9A4457E13727",
+   "id": "EEFE5366F8C4A375FCED15E105FC9A4457E13727"
+  }
+ },
+ "id": 8833784000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.741.480\/0001-81",
+ "fax": "3134639186",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16741480000181"
+ },
+ "cpf_responsavel": "***221826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16741480000181"
+ },
+ "nome": "ASSOCIACAO GALPAO",
+ "inscricao_estadual": "0624165100012",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "344359\/0014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16741480000181"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16741480000181"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16741480000181",
+ "nome_responsavel": "ROBERTO CARVALHO FRANCO DE ALMEIDA FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134639186",
+ "cep": "31030065",
+ "endereco": "RUA PITANGUI3413",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DE013BB6BEE630A8D6BD3052BB65C3DC058B177C",
+   "id": "DE013BB6BEE630A8D6BD3052BB65C3DC058B177C"
+  }
+ },
+ "id": 16741480000181,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

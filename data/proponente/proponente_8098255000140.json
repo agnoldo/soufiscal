@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.098.255\/0001-40",
+ "fax": "3132869797",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8098255000140"
+ },
+ "cpf_responsavel": "***017788**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8098255000140"
+ },
+ "nome": "ASSOCIACAO INTERNACIONAL DE COMPETENCIAS EMPRESARIAIS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "120203620",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8098255000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8098255000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8098255000140",
+ "nome_responsavel": "SILVANA ARRIVABENI RIZZIOLI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132869797",
+ "cep": "34000000",
+ "endereco": "ALAMEDA A SERRA 1021 LOJA 06",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/02362BBBB173B946A8AD37149CBCF929C95B3642",
+   "id": "02362BBBB173B946A8AD37149CBCF929C95B3642"
+  }
+ },
+ "id": 8098255000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.419.038\/0001-78",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9419038000178"
+ },
+ "cpf_responsavel": "***468256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9419038000178"
+ },
+ "nome": "PEMAM SOLUCOES TECNOLOGIA EM INTERNET LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9419038000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9419038000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9419038000178",
+ "nome_responsavel": "EULER MAGALHAES JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32741029",
+ "cep": "30130000",
+ "endereco": "AV. AFONSO PENA 867 - SL813",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BAE7BC6E95F0EF727A7BD1BDF3AE1C6441E59FAC",
+   "id": "BAE7BC6E95F0EF727A7BD1BDF3AE1C6441E59FAC"
+  }
+ },
+ "id": 9419038000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

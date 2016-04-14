@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.784.211\/0001-86",
+ "fax": "31-3671-0411",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5784211000186"
+ },
+ "cpf_responsavel": "***358376**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5784211000186"
+ },
+ "nome": "ACAO FACA UMA FAMILIA SORRIR",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5784211000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5784211000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5784211000186",
+ "nome_responsavel": "DAVID CARLOS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3671-0411",
+ "cep": "34585110",
+ "endereco": "RUA ABAETÉ80",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9B4CB348DF7143FDEA6CE39D5D7F056A7A632C5F",
+   "id": "9B4CB348DF7143FDEA6CE39D5D7F056A7A632C5F"
+  }
+ },
+ "id": 5784211000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

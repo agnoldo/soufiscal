@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.994.939\/0001-35",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11994939000135"
+ },
+ "cpf_responsavel": "***307296**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11994939000135"
+ },
+ "nome": "ASSOCIACAO LEAO DA TRIBO DE JUDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11994939000135"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11994939000135"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11994939000135",
+ "nome_responsavel": "ALVARO CESAR RAMIREZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 35869261",
+ "cep": "30626190",
+ "endereco": "RUA JOÃO FERREIRA CARDOSO 123",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BCC7F7C548DA3A663BE7221D1F4B54225971D39D",
+   "id": "BCC7F7C548DA3A663BE7221D1F4B54225971D39D"
+  }
+ },
+ "id": 11994939000135,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

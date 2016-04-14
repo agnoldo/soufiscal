@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.156.408\/0001-00",
+ "fax": "3125520966",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65156408000100"
+ },
+ "cpf_responsavel": "***628786**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65156408000100"
+ },
+ "nome": "COMUNIDADE SANTO ANTONIO - COMUNA S.A",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1167500013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65156408000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65156408000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65156408000100",
+ "nome_responsavel": "MARIA ELISA PEREIRA DE ALMEIDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3125528882",
+ "cep": "31030130",
+ "endereco": "RUA ANTÔNIO TORRES 89",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7DD3AC618FC1D58EB1212502A6ED0E9CCA2F7EC1",
+   "id": "7DD3AC618FC1D58EB1212502A6ED0E9CCA2F7EC1"
+  }
+ },
+ "id": 65156408000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

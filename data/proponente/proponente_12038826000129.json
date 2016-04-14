@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.038.826\/0001-29",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12038826000129"
+ },
+ "cpf_responsavel": "***396596**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12038826000129"
+ },
+ "nome": "WESLEY DE AQUINO COSTA 88239659691",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12038826000129"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12038826000129"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12038826000129",
+ "nome_responsavel": "WESLEY DE AQUINO COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03197091586",
+ "cep": "34400000",
+ "endereco": "RUA TOCANTINS 45.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BC87EEE62AD3120A809414186ADD136068172CCF",
+   "id": "BC87EEE62AD3120A809414186ADD136068172CCF"
+  }
+ },
+ "id": 12038826000129,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12470",
+   "id": 12470
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.843.923\/0001-00",
+ "fax": "31 3425-0720",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23843923000100"
+ },
+ "cpf_responsavel": "***805816**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23843923000100"
+ },
+ "nome": "ELO INSTITUTO DE PROMOCAO E DEFESA DA CIDADANIA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "168956001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23843923000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23843923000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23843923000100",
+ "nome_responsavel": "ANTONIO PEREIRA KBCA DA SILVA FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3425-0720",
+ "cep": "30190050",
+ "endereco": "RUA DOS GOITACAZES 71 SL 609D",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/205E947C7AEB07DAFB8D81776B71E1FA29613B1E",
+   "id": "205E947C7AEB07DAFB8D81776B71E1FA29613B1E"
+  }
+ },
+ "id": 23843923000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

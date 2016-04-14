@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.633.245\/0001-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9633245000120"
+ },
+ "cpf_responsavel": "***084686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9633245000120"
+ },
+ "nome": "AQUECENDO VIDAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2260280018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9633245000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9633245000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9633245000120",
+ "nome_responsavel": "VALERIA GOMES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031-34419976",
+ "cep": "31545140",
+ "endereco": "RUA MARIA REGINA DE JESUS Nº1050",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C899FF89926DF9DF8B7D177C443A0822E30F18CC",
+   "id": "C899FF89926DF9DF8B7D177C443A0822E30F18CC"
+  }
+ },
+ "id": 9633245000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

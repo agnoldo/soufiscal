@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.974.176\/0001-20",
+ "fax": "31 3226-4233",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6974176000120"
+ },
+ "cpf_responsavel": "***937846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6974176000120"
+ },
+ "nome": "CRUZ VERMELHA BRASILEIRA FILIAL DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "194.111\/001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6974176000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6974176000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6974176000120",
+ "nome_responsavel": "GILBERTO MADEIRA PEIXOTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3226-4233",
+ "cep": "30130110",
+ "endereco": "ALAMEDA EZEQUIEL DIAS 427",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E5B18178DC9A600CA942C3E8B029823282372570",
+   "id": "E5B18178DC9A600CA942C3E8B029823282372570"
+  }
+ },
+ "id": 6974176000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

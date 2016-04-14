@@ -1,0 +1,50 @@
+{
+ "cnpj": "60.194.990\/0008-44",
+ "fax": "31 99857-2630",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=60194990000844"
+ },
+ "cpf_responsavel": "***234578**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=60194990000844"
+ },
+ "nome": "INSTITUTO DAS PEQUENAS MISSIONARIAS DE MARIA IMACULADA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3052570015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=60194990000844"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=60194990000844"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/60194990000844",
+ "nome_responsavel": "NADIR DE ABREU",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33398389",
+ "cep": "30441070",
+ "endereco": "AVENIDA RAJA GABAGLIA 1002",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4BB4942559234C3FFBA22314F66FBC852B3AB2FA",
+   "id": "4BB4942559234C3FFBA22314F66FBC852B3AB2FA"
+  }
+ },
+ "id": 60194990000844,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

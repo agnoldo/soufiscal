@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.057.711\/0001-19",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11057711000119"
+ },
+ "cpf_responsavel": "***724856**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11057711000119"
+ },
+ "nome": "INSTITUTO DE REFERENCIA EM RESIDUOS - IRR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2446250011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11057711000119"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11057711000119"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11057711000119",
+ "nome_responsavel": "JOSE CLAUDIO JUNQUEIRA RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134669267",
+ "cep": "30130009",
+ "endereco": "AVENIDA AFONSO PENA 3924 SALA 1001",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1AD7F57BC161A396CE51E0C07728CB768EAF4132",
+   "id": "1AD7F57BC161A396CE51E0C07728CB768EAF4132"
+  }
+ },
+ "id": 11057711000119,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

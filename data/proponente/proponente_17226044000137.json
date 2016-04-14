@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.226.044\/0001-37",
+ "fax": "31-34485310 \/ 34485301",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17226044000137"
+ },
+ "cpf_responsavel": "***883706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17226044000137"
+ },
+ "nome": "ASSOCIACAO BENEFICENTE PAULO DE TARSO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "408656\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17226044000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17226044000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17226044000137",
+ "nome_responsavel": "CARLOS EDUARDO DOS SANTOS COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34485331 \/ 34485300",
+ "cep": "31255190",
+ "endereco": "RUA ESTORIL 207",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0D52A662845E7160A63EBA0CB8ACDA1864AE3ACC",
+   "id": "0D52A662845E7160A63EBA0CB8ACDA1864AE3ACC"
+  }
+ },
+ "id": 17226044000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

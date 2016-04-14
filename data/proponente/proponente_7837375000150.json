@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.837.375\/0001-50",
+ "fax": "3132199030",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7837375000150"
+ },
+ "cpf_responsavel": "***524926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7837375000150"
+ },
+ "nome": "INSTITUTO CULTURAL FILARMONICA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2058710015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7837375000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7837375000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7837375000150",
+ "nome_responsavel": "TIAGO CACIQUE MORAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132199000",
+ "cep": "30130917",
+ "endereco": "RUA PARAÍBA 330 12 ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/673481C7F4363821A2242C535176EFD7D944F4B0",
+   "id": "673481C7F4363821A2242C535176EFD7D944F4B0"
+  }
+ },
+ "id": 7837375000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

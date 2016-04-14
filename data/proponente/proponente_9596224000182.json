@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.596.224\/0001-82",
+ "fax": "31-30719683",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9596224000182"
+ },
+ "cpf_responsavel": "***590966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9596224000182"
+ },
+ "nome": "ASSOCIACAO SOCIAL E ESPORTIVA SADA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "11778000012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9596224000182"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9596224000182"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9596224000182",
+ "nome_responsavel": "VITTORIO MEDIOLI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-30719520 - 2520",
+ "cep": "32604218",
+ "endereco": "RUA DO ROSARIO182 SALA 03",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1DAC40DA755E4B275D5C66783FFF9A8E1ED02C7E",
+   "id": "1DAC40DA755E4B275D5C66783FFF9A8E1ED02C7E"
+  }
+ },
+ "id": 9596224000182,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

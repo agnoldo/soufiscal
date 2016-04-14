@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.966.740\/0001-09",
+ "fax": "(31)3674-4722",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5966740000109"
+ },
+ "cpf_responsavel": "***522966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5966740000109"
+ },
+ "nome": "INSTITUTO SABARENSE DE EDUCACAO E CIDADANIA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5966740000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5966740000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5966740000109",
+ "nome_responsavel": "GIOVANNE CUNHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3674-4722",
+ "cep": "34505400",
+ "endereco": "RUA MESTRE HERCULINO Nº26",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CE661321D138E0F657F9A46404C177DA08EA03E9",
+   "id": "CE661321D138E0F657F9A46404C177DA08EA03E9"
+  }
+ },
+ "id": 5966740000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

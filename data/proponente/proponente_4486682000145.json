@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.486.682\/0001-45",
+ "fax": "31\/32874242",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4486682000145"
+ },
+ "cpf_responsavel": "***483106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4486682000145"
+ },
+ "nome": "ASSOCIACAO DOS MUNICIPIOS DO CIRCUITO TURISTICO DO OURO - ACO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "17215900010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4486682000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4486682000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4486682000145",
+ "nome_responsavel": "UBIRANEY DE FIGUEIREDO SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32874242",
+ "cep": "30130008",
+ "endereco": "AVENIDA AFONSO PENA 3111. SALA: 1111",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/35D034B2096CCC7E1B0355E08911776B07D59CAA",
+   "id": "35D034B2096CCC7E1B0355E08911776B07D59CAA"
+  }
+ },
+ "id": 4486682000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

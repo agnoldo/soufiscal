@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.468.334\/0001-36",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13468334000136"
+ },
+ "cpf_responsavel": "***245166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13468334000136"
+ },
+ "nome": "ASSOCIACAO CASA DE APOIO GETSEMANI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13468334000136"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13468334000136"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13468334000136",
+ "nome_responsavel": "RICARDO LUIZ MAGALHAES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3185310054",
+ "cep": "33830005",
+ "endereco": "ALAMEDA DOS MURICIS 240",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5F82B577DD3460796F07FEA37A6325DC1279F42A",
+   "id": "5F82B577DD3460796F07FEA37A6325DC1279F42A"
+  }
+ },
+ "id": 13468334000136,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

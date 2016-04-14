@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.951\/0001-10",
+ "fax": "31 9-9633.4343",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217951000110"
+ },
+ "cpf_responsavel": "***831526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217951000110"
+ },
+ "nome": "MINAS TENIS CLUBE",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "403.306.001\/3",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217951000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217951000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217951000110",
+ "nome_responsavel": "LUIZ GUSTAVO DE MIRANDA LAGE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35161063",
+ "cep": "30160012",
+ "endereco": "RUA DA BAHIA Nº2244",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/105AECD3D07D4B0C7815B18496DF9F761A7156CE",
+   "id": "105AECD3D07D4B0C7815B18496DF9F761A7156CE"
+  }
+ },
+ "id": 17217951000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

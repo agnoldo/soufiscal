@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.346.954\/0001-62",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8346954000162"
+ },
+ "cpf_responsavel": "***455276**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8346954000162"
+ },
+ "nome": "INSTITUTO CULTURAL ANIBAL MACHADO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8346954000162"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8346954000162"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8346954000162",
+ "nome_responsavel": "BRUNO DOMINGOS RAMALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3674-4170",
+ "cep": "34505060",
+ "endereco": "PRAÇA PAULO DE SOUZA LIMA 22",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4B5136B27933017B5F6F802F1844F46374BB9AF9",
+   "id": "4B5136B27933017B5F6F802F1844F46374BB9AF9"
+  }
+ },
+ "id": 8346954000162,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

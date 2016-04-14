@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.089.917\/0001-30",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2089917000130"
+ },
+ "cpf_responsavel": "***827806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2089917000130"
+ },
+ "nome": "ASSOCIACAO ESTADUAL DE COOPERACAO AGRICOLA DE MINAS GERAIS",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isenta",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2089917000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2089917000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2089917000130",
+ "nome_responsavel": "CLAUDIA REGINA GONCALVES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31.3224.0696",
+ "cep": "30170131",
+ "endereco": "RUA SÃO PAULO 818 SALA 1201",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E97F1F7B1B99D1F67C7853A6F148EA42CE83EE5C",
+   "id": "E97F1F7B1B99D1F67C7853A6F148EA42CE83EE5C"
+  }
+ },
+ "id": 2089917000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

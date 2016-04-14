@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.365.486\/0001-97",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2365486000197"
+ },
+ "cpf_responsavel": "***882996**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2365486000197"
+ },
+ "nome": "COMPANHIA CANDONGAS E OUTRAS FIRULAS",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "142.915\/001-4",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2365486000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2365486000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2365486000197",
+ "nome_responsavel": "GUILHERME THEO ABRAHAO MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134441964",
+ "cep": "31985080",
+ "endereco": "RUA SALOÁ Nº 120",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2B935AC5D882E42497656521D83F5518A908B7A0",
+   "id": "2B935AC5D882E42497656521D83F5518A908B7A0"
+  }
+ },
+ "id": 2365486000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

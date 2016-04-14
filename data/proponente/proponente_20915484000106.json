@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.915.484\/0001-06",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20915484000106"
+ },
+ "cpf_responsavel": "***103796**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20915484000106"
+ },
+ "nome": "BANDA DE MUSICA NOSSA SRA DAS DORES DE ITAGUARA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20915484000106"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20915484000106"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20915484000106",
+ "nome_responsavel": "ANA MARIA NOGUEIRA REZENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "37 3384-1232",
+ "cep": "35514000",
+ "endereco": "RUA TENENTE ULISSES-135",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D036080967AFAE01532A1DF623178B38EA311978",
+   "id": "D036080967AFAE01532A1DF623178B38EA311978"
+  }
+ },
+ "id": 20915484000106,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13839",
+   "id": 13839
+  }
+ }
+}

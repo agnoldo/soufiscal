@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.158.241\/0001-33",
+ "fax": "3134623316",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21158241000133"
+ },
+ "cpf_responsavel": "***975806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21158241000133"
+ },
+ "nome": "PROVINCIA SANTA CLARA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21158241000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21158241000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21158241000133",
+ "nome_responsavel": "INES ANDRADE CARNEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134625918",
+ "cep": "31230000",
+ "endereco": "AV. PRESIDENTE CARLOS LUZ 547",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/24294C2FA68C47CFDEEE3542DFABA32B10F34AFB",
+   "id": "24294C2FA68C47CFDEEE3542DFABA32B10F34AFB"
+  }
+ },
+ "id": 21158241000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

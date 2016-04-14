@@ -1,0 +1,53 @@
+<ion-view>
+  <ion-nav-title>Convênios e Obras <i class="icon ion-ios-search"></i></ion-nav-title>
+  <ion-content padding="true">
+    <br>
+    <form name="form.search" ng-submit="form.search.$valid && goToList()">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="text" ng-model="search.string" required="required" placeholder="Obra, empresa, prefeitura, órgão público">
+      </label>
+      <br />
+      <div>
+        <label class="checkbox" style="display:flex; align-items: center">
+          <input type="checkbox" ng-model="search.satTrans" style="margin-right: 20px;">
+          Busca local (raio de 50km)
+        </label>
+      </div>
+      <button class="button button-balanced button-block" ng-disabled="form.search.$invalid"><b>Procurar</b></button>
+    </form>
+    <br>
+    <h3>Convênios</h3>
+    <ion-list>
+      <ion-item class="item-icon-right item-thumbnail-left item-royal"  ui-sref="{{ list.id == '1' ? 'list({id:1})' : ( list.id == '2' ? 'list_reg({id:2})' : (list.id == '3' ? 'list_uf({id:3})' : 'list_br'))}}" ng-repeat="list in lists track by list.id">
+        <img ng-src="{{list.thumb}}" style="object-fit: cover;">
+        <h2 class="positive">{{list.nome}} ({{list.total}})</h2>
+        <p>
+          {{list.descricao}}<br>
+          {{list.descricao2}}
+        </p>
+        <i class="icon ion-ios-arrow-right"></i>
+      </ion-item>
+    </ion-list>
+<!--
+    <br>
+    <h3>Convênios ({{iniciais}} de {{total}})</h3>
+    <ion-list>
+      <ion-item class="item-icon-right item-avatar item-royal" ui-sref="detail({id: event.id})" ng-repeat="event in events track by event.id | limitTo:limit">
+        <img ng-src="{{event.thumb}}">
+        <h2 class="positive">{{event.name}}</h2>
+        <p>
+          <b>{{event.city}}</b> / {{event.district}}<br>
+          {{event.street}} {{event.number}}, {{event.zip}} {{event.city}}
+        </p>
+        <i class="icon ion-ios-arrow-right"></i>
+      </ion-item>
+      <ion-item class="text-center item-royal" ng-if="events && !events.length">No events found :(</ion-item>
+    </ion-list>
+    <ion-infinite-scroll
+      ng-if="!events"
+      on-infinite="loadNext()">
+    </ion-infinite-scroll>
+-->
+  </ion-content>
+</ion-view>

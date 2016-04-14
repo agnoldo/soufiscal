@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.151.078\/0001-52",
+ "fax": "3136216058",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65151078000152"
+ },
+ "cpf_responsavel": "***456736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65151078000152"
+ },
+ "nome": "GRUPO CRIANCA EM BUSCA DE UMA NOVA VIDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65151078000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65151078000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65151078000152",
+ "nome_responsavel": "VANDA PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136216058",
+ "cep": "33200000",
+ "endereco": "RUA QUATRO Nº277",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9C69A934EA6BC260CE33CD7F1B0D0E1A7736FB2F",
+   "id": "9C69A934EA6BC260CE33CD7F1B0D0E1A7736FB2F"
+  }
+ },
+ "id": 65151078000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

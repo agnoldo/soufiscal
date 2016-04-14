@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.572.868\/0001-97",
+ "fax": "31-3421.4172",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25572868000197"
+ },
+ "cpf_responsavel": "***792836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25572868000197"
+ },
+ "nome": "REDE DE INTERCAMBIO DE TECNOLOGIAS ALTERNATIVAS",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "376.273\/001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25572868000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25572868000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25572868000197",
+ "nome_responsavel": "ANADELIA IONA OLIVEIRA DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3421.4172",
+ "cep": "31110640",
+ "endereco": "RUA TAMBORIL 248",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CBF1C0B5DF408F82B91497D5F0F8FBA09CF4E674",
+   "id": "CBF1C0B5DF408F82B91497D5F0F8FBA09CF4E674"
+  }
+ },
+ "id": 25572868000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

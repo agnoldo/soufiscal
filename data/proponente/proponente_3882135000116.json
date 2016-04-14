@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.882.135\/0001-16",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3882135000116"
+ },
+ "cpf_responsavel": "***966686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3882135000116"
+ },
+ "nome": "ASSOCIACAO DE INCETIVO A CIDADANIA - AICA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3882135000116"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3882135000116"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3882135000116",
+ "nome_responsavel": "JAIME IRANDI MENDES DA COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 35116724",
+ "cep": "32532170",
+ "endereco": "RUA:MOACIR HORONATO DA SILVA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B03BBBD5247517BC65C2280B47CF2B7020B9ABC9",
+   "id": "B03BBBD5247517BC65C2280B47CF2B7020B9ABC9"
+  }
+ },
+ "id": 3882135000116,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

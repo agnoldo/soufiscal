@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.733.547\/0001-39",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22733547000139"
+ },
+ "cpf_responsavel": "***228376**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22733547000139"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DE MAES AMIGOS E MOR.DO ALTEROSA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22733547000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22733547000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22733547000139",
+ "nome_responsavel": "ZILEIDE ALVES TEIXEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)35952023",
+ "cep": "32654530",
+ "endereco": "RUA OITO 275",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DE81D9E201D8043EDBD02EDF87E98FC8EDAA0827",
+   "id": "DE81D9E201D8043EDBD02EDF87E98FC8EDAA0827"
+  }
+ },
+ "id": 22733547000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

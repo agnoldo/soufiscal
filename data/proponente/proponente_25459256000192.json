@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.459.256\/0001-92",
+ "fax": "3134082218",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25459256000192"
+ },
+ "cpf_responsavel": "***761426**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25459256000192"
+ },
+ "nome": "FUNDACAO DE ASSISTENCIA INTEGRAL A SAUDE",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1766520011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25459256000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25459256000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25459256000192",
+ "nome_responsavel": "JOSE MOREIRA SOBRINHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34082238",
+ "cep": "31844130",
+ "endereco": "RUA ANTONIO BANDEIRA 1060",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B68E8E2B00EC3FA14F6B5CADCF772D18678F7FC2",
+   "id": "B68E8E2B00EC3FA14F6B5CADCF772D18678F7FC2"
+  }
+ },
+ "id": 25459256000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

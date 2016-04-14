@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.972.773\/0001-89",
+ "fax": "3135753154",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7972773000189"
+ },
+ "cpf_responsavel": "***890696**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7972773000189"
+ },
+ "nome": "INSTITUTO INTERDISCIPLINAR DE ESTUDOS E PESQUISAS EM SUSTENTABILIDADE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1917\/2006",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7972773000189"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7972773000189"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7972773000189",
+ "nome_responsavel": "JACQUELINE ELIZABETH RUTKOWSKI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197930428",
+ "cep": "35460000",
+ "endereco": "AV. HUM 2863",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5C295986A80B5F10EF1A46E2B96AC82359509A9F",
+   "id": "5C295986A80B5F10EF1A46E2B96AC82359509A9F"
+  }
+ },
+ "id": 7972773000189,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

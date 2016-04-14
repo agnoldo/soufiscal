@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.607.216\/0001-50",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16607216000150"
+ },
+ "cpf_responsavel": "***237666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16607216000150"
+ },
+ "nome": "PHYSIS EMPREENDIMENTOS E CONSULTORIA AMBIENTAL LTDA. - ME",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "002\/466-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16607216000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16607216000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16607216000150",
+ "nome_responsavel": "HELBERT ANTONIO BOTELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3185149192",
+ "cep": "32113240",
+ "endereco": "CASTANHEIRA 97 APTO 102",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F2C00465FC23F8132144364C6119DCF3AECCCAC7",
+   "id": "F2C00465FC23F8132144364C6119DCF3AECCCAC7"
+  }
+ },
+ "id": 16607216000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

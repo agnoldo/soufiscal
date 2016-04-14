@@ -1,0 +1,60 @@
+<ion-view>
+  <ion-nav-title>Dados sobre Convênio</ion-nav-title>
+  <ion-content padding="true" class="has-footer">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+      <br>
+
+<!--
+      <div class="text-center">
+        <img ng-src="{{event.image}}" class="image">
+      </div>
+-->
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Endereço</b> <i class="icon ion-map" ng-click="map()"></i></ion-item>
+        <ion-item>
+          <b>{{event.municipio}}</b><br>
+          {{event.endereco}} - {{event.cep}}<br>
+          {{event.telefone}}
+        </ion-item>
+      </ion-list>
+
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Tarefas criadas por mim</b> <i class="icon ion-speakerphone"></i></ion-item>
+        <ion-item ng-repeat="tarefa in event.minhastarefas">
+          {{tarefa.descricao}} {{tarefa.data_limite ? ' até ' + tarefa.data_limite : ''}}<br>
+          {{tarefa.nome_empresa}}<br>
+          {{tarefa.Tx_Endereco}}<br>
+          {{tarefa.Tx_Municipio}}/{{tarefa.Uf_Despesa}}
+        </ion-item>
+      </ion-list>
+
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Tarefas criadas por outros</b> <i class="icon ion-speakerphone"></i></ion-item>
+        <ion-item ng-repeat="tarefa in event.outrastarefas">
+          {{tarefa.descricao}} {{tarefa.data_limite ? ' até ' + tarefa.data_limite : ''}}<br>
+          {{tarefa.nome_empresa}}<br>
+          {{tarefa.Tx_Endereco}}<br>
+          {{tarefa.Tx_Municipio}}/{{tarefa.Uf_Despesa}}
+        </ion-item>
+      </ion-list>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <div class="button button-clear" ng-disabled="loading">
+          Voltar ao Convênio
+          <i class="icon ion-arrow-left-a"></i>
+        </div>
+      </a>
+    </div>
+  </ion-footer-bar>
+</ion-view>

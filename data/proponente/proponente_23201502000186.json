@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.201.502\/0001-86",
+ "fax": "3132966583",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23201502000186"
+ },
+ "cpf_responsavel": "***872516**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23201502000186"
+ },
+ "nome": "OBRAS SOCIAIS NOSSA SENHORA DO MORRO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2388850015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23201502000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23201502000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23201502000186",
+ "nome_responsavel": "GILMAR CALISTO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132966583",
+ "cep": "30330460",
+ "endereco": "RUA PRINCIPAL 441 - MORRO DO PAPAGAIO - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5C3B5F3515DE8BE7AFE6D3EAA90B27A1A0FD66B3",
+   "id": "5C3B5F3515DE8BE7AFE6D3EAA90B27A1A0FD66B3"
+  }
+ },
+ "id": 23201502000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

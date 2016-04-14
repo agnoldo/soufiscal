@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.767.563\/0001-72",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1767563000172"
+ },
+ "cpf_responsavel": "***590606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1767563000172"
+ },
+ "nome": "COMPANHIA SUSPENSA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1356030014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1767563000172"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1767563000172"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1767563000172",
+ "nome_responsavel": "PATRICIA DE MORAES MANATA LANNA AMARO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3517-8284",
+ "cep": "30320670",
+ "endereco": "RUA DESEMBARGADOR JORGE FONTANA 408 SALA 603",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/60891E0F1A1A9F928C6E4CA876F971DD2CA9374B",
+   "id": "60891E0F1A1A9F928C6E4CA876F971DD2CA9374B"
+  }
+ },
+ "id": 1767563000172,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

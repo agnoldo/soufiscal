@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.571.357\/0001-50",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25571357000150"
+ },
+ "cpf_responsavel": "***391766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25571357000150"
+ },
+ "nome": "MISSAO PAZ",
+ "inscricao_estadual": "insenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "215404\/001-7",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25571357000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25571357000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25571357000150",
+ "nome_responsavel": "VALERIA EVANGELISTA MARQUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03134510243",
+ "cep": "31520370",
+ "endereco": "RUA CIRENE CRIVELARI BELONIA 141",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C8A3D41CC1563A7713354F1B057D2CB6548EC831",
+   "id": "C8A3D41CC1563A7713354F1B057D2CB6548EC831"
+  }
+ },
+ "id": 25571357000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

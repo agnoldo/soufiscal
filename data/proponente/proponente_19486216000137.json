@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.486.216\/0001-37",
+ "fax": "3133285800",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19486216000137"
+ },
+ "cpf_responsavel": "***894876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19486216000137"
+ },
+ "nome": "NEW QUIMICA LTDA - EPP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19486216000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19486216000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19486216000137",
+ "nome_responsavel": "ARMANDO PERRETT BRAGA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3133285800",
+ "cep": "30520540",
+ "endereco": "RUA GENTIL PORTUGAL DO BRASIL172",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/64B045CC81C0A82B5D33241FB935EBC03E811B5E",
+   "id": "64B045CC81C0A82B5D33241FB935EBC03E811B5E"
+  }
+ },
+ "id": 19486216000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

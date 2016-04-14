@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.658.611\/0001-82",
+ "fax": "(31)98322907",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4658611000182"
+ },
+ "cpf_responsavel": "***243736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4658611000182"
+ },
+ "nome": "AGENCIA DE DESENVOLVIMENTO DO CIRCUITO DO VALE DO PARAOPEBA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4658611000182"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4658611000182"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4658611000182",
+ "nome_responsavel": "BRENO DE CASTRO ALVES CARONE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)91559153",
+ "cep": "35460000",
+ "endereco": "RUA ITAGUA N 1000",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BA926E6FCD067924B706B1885C12E063580A0FD9",
+   "id": "BA926E6FCD067924B706B1885C12E063580A0FD9"
+  }
+ },
+ "id": 4658611000182,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.122.376\/0001-31",
+ "fax": "cel 96921797",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1122376000131"
+ },
+ "cpf_responsavel": "***949766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1122376000131"
+ },
+ "nome": "ASSOCIACAO DOS MORADORES DO PIMENTEL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1122376000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1122376000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1122376000131",
+ "nome_responsavel": "LIONIZ APARECIDA TEIXEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3662-8246",
+ "cep": "33600000",
+ "endereco": "RUA PRINCIPAL S\/Nº - FAZENDA PIMENTEL - PEDRO LEOPOLDO - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0411052B74FE73FF41949685A0BCC743D2A55276",
+   "id": "0411052B74FE73FF41949685A0BCC743D2A55276"
+  }
+ },
+ "id": 1122376000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

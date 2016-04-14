@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.427.000\/0001-99",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11427000000199"
+ },
+ "cpf_responsavel": "***078441**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11427000000199"
+ },
+ "nome": "FUNDACAO CENTRO INTERNACIONAL DE EDUCACAO, CAPACITACAO E PESQUISA APLICADA EM AGUAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11427000000199"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11427000000199"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11427000000199",
+ "nome_responsavel": "RONALDO PENA COSTA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31-39167495",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI Nº 4.001 PRÉDIO GERAIS 10º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2B132655D53BE08270333D2CFD793F4D415897BA",
+   "id": "2B132655D53BE08270333D2CFD793F4D415897BA"
+  }
+ },
+ "id": 11427000000199,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

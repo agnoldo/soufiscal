@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.734.016\/0001-60",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22734016000160"
+ },
+ "cpf_responsavel": "***656526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22734016000160"
+ },
+ "nome": "LIGA ESMERALDENSE DE DESPORTOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22734016000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22734016000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22734016000160",
+ "nome_responsavel": "DANIEL NUNES BATISTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3196861269",
+ "cep": "35740000",
+ "endereco": "RUA FRANSCISCO DE ASSIS VIEIRA DO CARMO 120 SALA 04",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C65A2EEA5A010BC4A139D2701D31F24C2162C89F",
+   "id": "C65A2EEA5A010BC4A139D2701D31F24C2162C89F"
+  }
+ },
+ "id": 22734016000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12102",
+   "id": 12102
+  }
+ }
+}

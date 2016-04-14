@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.162.497\/0001-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6162497000120"
+ },
+ "cpf_responsavel": "***901809**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6162497000120"
+ },
+ "nome": "AGENCIA OPUS DE DESENVOLVIMENTO ECONOMICO E SOCIAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6162497000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6162497000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6162497000120",
+ "nome_responsavel": "RUBENS LUIZ KROEFF",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 98161543",
+ "cep": "34400000",
+ "endereco": "ESTRADA RAPOSOS SABARÁ KM 9CAIXA POSTAL 25",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C20A2FA03FF5C21477C2F89982CA5925A54095A6",
+   "id": "C20A2FA03FF5C21477C2F89982CA5925A54095A6"
+  }
+ },
+ "id": 6162497000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12470",
+   "id": 12470
+  }
+ }
+}

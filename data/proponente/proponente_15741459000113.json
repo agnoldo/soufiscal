@@ -1,0 +1,50 @@
+{
+ "cnpj": "15.741.459\/0001-13",
+ "fax": "CX 98",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=15741459000113"
+ },
+ "cpf_responsavel": "***837586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=15741459000113"
+ },
+ "nome": "ASSOCIACAO DE EDUCACAO, ECOLOGIA E SOLIDARIEDADE AMANU",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=15741459000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=15741459000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/15741459000113",
+ "nome_responsavel": "DAYA GLOOR VELLASCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-91952726",
+ "cep": "35830000",
+ "endereco": "CAPÃO DO SÍTIO S\/N",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0923756162198F9AF842FCE57779B3DD2FC3270B",
+   "id": "0923756162198F9AF842FCE57779B3DD2FC3270B"
+  }
+ },
+ "id": 15741459000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

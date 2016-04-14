@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.223.268\/0001-46",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10223268000146"
+ },
+ "cpf_responsavel": "***829686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10223268000146"
+ },
+ "nome": "COOPERATIVA REDE SOLIDARIA DE CONTAGEM",
+ "inscricao_estadual": "0010822290057",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "720537030",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10223268000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10223268000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10223268000146",
+ "nome_responsavel": "JUSILEI BORGES CUSTODIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3357 4225",
+ "cep": "32371120",
+ "endereco": "SEDE ADMINISTRATIVA: RUA SÃO MARCOS 247 \/ BAIRRO:",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/54193D7807D7DB2FBCC88957E650F40367F32BB8",
+   "id": "54193D7807D7DB2FBCC88957E650F40367F32BB8"
+  }
+ },
+ "id": 10223268000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.230.607\/0001-51",
+ "fax": "031\/32738902",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26230607000151"
+ },
+ "cpf_responsavel": "***771026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26230607000151"
+ },
+ "nome": "ASSOCIACAO PROJETO PROVIDENCIA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1385840010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26230607000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26230607000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26230607000151",
+ "nome_responsavel": "ADEMIR RAGAZZI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/34935227",
+ "cep": "31975390",
+ "endereco": "RUA D 300",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/806EB8429B5274BADB04E0009B50775A2516B8B5",
+   "id": "806EB8429B5274BADB04E0009B50775A2516B8B5"
+  }
+ },
+ "id": 26230607000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

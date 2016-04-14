@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.967.865\/0001-39",
+ "fax": "31\/32713054",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20967865000139"
+ },
+ "cpf_responsavel": "***874046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20967865000139"
+ },
+ "nome": "FEDERACAO DE TAEKWON-DO DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20967865000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20967865000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20967865000139",
+ "nome_responsavel": "CHANG SEON LIM",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32246732",
+ "cep": "30180110",
+ "endereco": "AV. OLEGARIO MACIEL 311 SALAS 306 307 E 308 CENTRO BELO HORIZONTE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B344377EB0BEE2AEF439DD9ACD3A8B733CC91B51",
+   "id": "B344377EB0BEE2AEF439DD9ACD3A8B733CC91B51"
+  }
+ },
+ "id": 20967865000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

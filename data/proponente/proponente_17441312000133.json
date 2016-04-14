@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.441.312\/0001-33",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17441312000133"
+ },
+ "cpf_responsavel": "***827726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17441312000133"
+ },
+ "nome": "ASSOCIACAO RECREATIVA MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17441312000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17441312000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17441312000133",
+ "nome_responsavel": "RAIMUNDO ANTONIO GONCALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32244146",
+ "cep": "30180100",
+ "endereco": "RUA GUAJAJARAS 410 - SALAS 201 A 205",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/106CA13C900DD207088B7589DE55311688C30584",
+   "id": "106CA13C900DD207088B7589DE55311688C30584"
+  }
+ },
+ "id": 17441312000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

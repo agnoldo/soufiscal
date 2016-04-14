@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.717.494\/0001-31",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8717494000131"
+ },
+ "cpf_responsavel": "***466546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8717494000131"
+ },
+ "nome": "UNIAO DE NEGROS PELA IGUALDADE - UNEGRO - SECCAO MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8717494000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8717494000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8717494000131",
+ "nome_responsavel": "ALEXANDRE FRANCISCO BRAGA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-96561564",
+ "cep": "31070210",
+ "endereco": "RUA PROFESSOR BRESSANE76",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EB7B34ABED775371B409B4D8005C3DC4377FDC58",
+   "id": "EB7B34ABED775371B409B4D8005C3DC4377FDC58"
+  }
+ },
+ "id": 8717494000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

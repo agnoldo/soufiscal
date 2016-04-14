@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.270.877\/0001-03",
+ "fax": "31-32124964",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17270877000103"
+ },
+ "cpf_responsavel": "***701406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17270877000103"
+ },
+ "nome": "SINDICATO COM VAREJ GENEROS ALIMENTICIOS DE BELO HTE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "321493001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17270877000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17270877000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17270877000103",
+ "nome_responsavel": "IVO JOSE DE CASTRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32124964",
+ "cep": "30170120",
+ "endereco": "RUA CURITIBA 561 10 ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A0516AC06A75181C99AA0A8AF0E9E1E0D607B80F",
+   "id": "A0516AC06A75181C99AA0A8AF0E9E1E0D607B80F"
+  }
+ },
+ "id": 17270877000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.233.239\/0001-13",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8233239000113"
+ },
+ "cpf_responsavel": "***663766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8233239000113"
+ },
+ "nome": "IDESSC - INSTITUTO DE DESENVOLVIMENTO E SUSTENTABILIDADE SOCIO CULTURAL",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8233239000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8233239000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8233239000113",
+ "nome_responsavel": "MARCIA ANDREA ARMOND",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3538-8289\/98568074",
+ "cep": "35740000",
+ "endereco": "RUA OLEGÁRIO MACIEL Nº46",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8E4B0CCCD380C60F4BA2016FB449547766FD62DE",
+   "id": "8E4B0CCCD380C60F4BA2016FB449547766FD62DE"
+  }
+ },
+ "id": 8233239000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12102",
+   "id": 12102
+  }
+ }
+}

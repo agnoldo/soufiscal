@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.745.790\/0001-98",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10745790000198"
+ },
+ "cpf_responsavel": "***633906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10745790000198"
+ },
+ "nome": "AGENCIA DE DESENVOLVIMENTO DA REGIAO METROPOLITANA DE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10745790000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10745790000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10745790000198",
+ "nome_responsavel": "FLAVIA MOURAO PARREIRA DO AMARAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 39167704",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI 4143 ANDAR 13 EDIFÍCIO GERAIS - SERRA VERDE - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2D0858771D8F32F3A1926A6B004C1B60E957ED68",
+   "id": "2D0858771D8F32F3A1926A6B004C1B60E957ED68"
+  }
+ },
+ "id": 10745790000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

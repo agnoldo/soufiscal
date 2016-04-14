@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.434.143\/0001-01",
+ "fax": "3130480717",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=434143000101"
+ },
+ "cpf_responsavel": "***351658**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=434143000101"
+ },
+ "nome": "FUNDACAO AC MINAS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1435020011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=434143000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=434143000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/434143000101",
+ "nome_responsavel": "WAGNER TOMAZ DE SA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130480701",
+ "cep": "30130001",
+ "endereco": "AV. AFONSO PENA Nº 372 - ANEXO 3º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5F25A8E2320B556AADB32FC097B28BD1D8CAC227",
+   "id": "5F25A8E2320B556AADB32FC097B28BD1D8CAC227"
+  }
+ },
+ "id": 434143000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

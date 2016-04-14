@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.315.194\/0001-09",
+ "fax": "(31)3915-5264",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6315194000109"
+ },
+ "cpf_responsavel": "***539916**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6315194000109"
+ },
+ "nome": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INTEGRACAO DO NORTE E NORDESTE DE MINAS GERAIS - SEDINOR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6315194000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6315194000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6315194000109",
+ "nome_responsavel": "PAULO JOSE CARLOS GUEDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31)3915-5261 - 31 3915-5239",
+ "cep": "31630901",
+ "endereco": "CIDADE ADMINISTRATIVA  - RODOVIA PREFEITO AMÉRICO GIANETTI S\/Nº EDIFÍCIO GERAIS 8º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E5CD6FA513907F89A4184F32497E9C1D3F441F84",
+   "id": "E5CD6FA513907F89A4184F32497E9C1D3F441F84"
+  }
+ },
+ "id": 6315194000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

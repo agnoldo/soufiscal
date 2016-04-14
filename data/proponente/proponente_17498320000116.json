@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.498.320\/0001-16",
+ "fax": "3134118796",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17498320000116"
+ },
+ "cpf_responsavel": "***626076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17498320000116"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DE BACHAREIS EM TURISMO MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1905330011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17498320000116"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17498320000116"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17498320000116",
+ "nome_responsavel": "SERGIO FERNANDES MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134128979",
+ "cep": "30750420",
+ "endereco": "RUA CONCEIÇÃO PINTO FERREIRA 275",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/271C5C428837872CE59313A3BFDB630351B94789",
+   "id": "271C5C428837872CE59313A3BFDB630351B94789"
+  }
+ },
+ "id": 17498320000116,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.226.051\/0001-39",
+ "fax": "(31)3312-1650",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17226051000139"
+ },
+ "cpf_responsavel": "***422766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17226051000139"
+ },
+ "nome": "FUNDACAO ESPIRITA NOSSO LAR",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "40166220022",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17226051000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17226051000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17226051000139",
+ "nome_responsavel": "CREUSMAR RIBEIRO MARQUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3312-1650",
+ "cep": "30550650",
+ "endereco": "RUA DOUTOR SAMUEL HAHNEMANN165",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/624136BBA9A30E30795EF14A231BC12A159E78AE",
+   "id": "624136BBA9A30E30795EF14A231BC12A159E78AE"
+  }
+ },
+ "id": 17226051000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

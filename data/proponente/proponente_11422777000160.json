@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.422.777\/0001-60",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11422777000160"
+ },
+ "cpf_responsavel": "***586096**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11422777000160"
+ },
+ "nome": "COPENGE COOPERATIVA DE TRABALHO DOS PROFISSIONAIS DA AREA DE ENGENHARIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0251430\/001-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11422777000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11422777000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11422777000160",
+ "nome_responsavel": "ALFREDO MARQUES DINIZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32717355",
+ "cep": "30190110",
+ "endereco": "RUA ARAGUARI 658",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C7AB9AD2EFE25DF666901F36CA22EB573BFB8F02",
+   "id": "C7AB9AD2EFE25DF666901F36CA22EB573BFB8F02"
+  }
+ },
+ "id": 11422777000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

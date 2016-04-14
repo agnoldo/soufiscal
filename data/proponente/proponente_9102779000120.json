@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.102.779\/0001-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9102779000120"
+ },
+ "cpf_responsavel": "***052016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9102779000120"
+ },
+ "nome": "ASSOCIACAO RECREATIVA CUIDANDO DA COMUNIDADE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9102779000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9102779000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9102779000120",
+ "nome_responsavel": "VAGNER DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136747054",
+ "cep": "34525020",
+ "endereco": "RUA DOM PEDRO II Nº 187",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/36128ADA7C5B427BE1DDE8AD7C67F2F284E92E60",
+   "id": "36128ADA7C5B427BE1DDE8AD7C67F2F284E92E60"
+  }
+ },
+ "id": 9102779000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

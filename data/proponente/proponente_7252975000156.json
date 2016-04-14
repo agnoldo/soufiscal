@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.252.975\/0001-56",
+ "fax": "031\/32779248",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7252975000156"
+ },
+ "cpf_responsavel": "***497126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7252975000156"
+ },
+ "nome": "FUNDACAO MUNICIPAL DE CULTURA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7252975000156"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7252975000156"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7252975000156",
+ "nome_responsavel": "LEONIDAS JOSE DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "031\/32774681",
+ "cep": "30160011",
+ "endereco": "RUA DA BAHIA888 - 13ºANDAR - CENTRO BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/332EA1BC721A545105009F0C10FA0DF0158AED4D",
+   "id": "332EA1BC721A545105009F0C10FA0DF0158AED4D"
+  }
+ },
+ "id": 7252975000156,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

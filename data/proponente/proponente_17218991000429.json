@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.218.991\/0004-29",
+ "fax": "3134328336",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17218991000429"
+ },
+ "cpf_responsavel": "***736216**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17218991000429"
+ },
+ "nome": "ORDEM RELIGIOSA DAS ESCOLAS PIAS PADRES ESCOLAPIOS",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17218991000429"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17218991000429"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17218991000429",
+ "nome_responsavel": "MAX MELQUIADES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134321760",
+ "cep": "31930525",
+ "endereco": "RUA DOS COQUEIROS 205",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B92F4BBE84B5EC662010AED452E39DDF26B00F39",
+   "id": "B92F4BBE84B5EC662010AED452E39DDF26B00F39"
+  }
+ },
+ "id": 17218991000429,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

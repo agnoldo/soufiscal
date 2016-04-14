@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.225.425\/0001-85",
+ "fax": "031\/3201-3043",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6225425000185"
+ },
+ "cpf_responsavel": "***376686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6225425000185"
+ },
+ "nome": "ITTAF - INSTITUTO DOS TRABALHADORES E TRABALHADORAS NA AGRICULTURA FAMILIAR DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "105.925\/2010-4",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6225425000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6225425000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6225425000185",
+ "nome_responsavel": "TEREZA DOS SANTOS DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/3201-3043",
+ "cep": "30180110",
+ "endereco": "AV. OLEGÁRIO MACIEL 516 SALA 09",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1409341561393944DAD1712E5E5873DF38CF4A6C",
+   "id": "1409341561393944DAD1712E5E5873DF38CF4A6C"
+  }
+ },
+ "id": 6225425000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

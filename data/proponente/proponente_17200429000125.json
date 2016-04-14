@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.200.429\/0001-25",
+ "fax": "34891665",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17200429000125"
+ },
+ "cpf_responsavel": "***303326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17200429000125"
+ },
+ "nome": "FUNDACAO BENJAMIN GUIMARAES",
+ "inscricao_estadual": "0628944070015",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "301.945.001\/4",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17200429000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17200429000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17200429000125",
+ "nome_responsavel": "TEREZA DA GAMA GUIMARAES PAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "34891658 - 34891562 - 1608 - 1609",
+ "cep": "30285000",
+ "endereco": "RUA JURAMENTO 1464",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C6E9A43966619ADFA76B8BD1583DFACA39E9B768",
+   "id": "C6E9A43966619ADFA76B8BD1583DFACA39E9B768"
+  }
+ },
+ "id": 17200429000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

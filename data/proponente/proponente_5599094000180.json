@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.599.094\/0001-80",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5599094000180"
+ },
+ "cpf_responsavel": "***532166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5599094000180"
+ },
+ "nome": "DEFENSORIA PUBLICA DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5599094000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5599094000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5599094000180",
+ "nome_responsavel": "CHRISTIANE NEVES PROCOPIO MALARD",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(031)33486008",
+ "cep": "30140082",
+ "endereco": "RUA BERNARDO GUIMARAES 2640 - SANTO AGOSTINHO - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EAFAB43199B81910D4DF6E8F925A2BFECB382148",
+   "id": "EAFAB43199B81910D4DF6E8F925A2BFECB382148"
+  }
+ },
+ "id": 5599094000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

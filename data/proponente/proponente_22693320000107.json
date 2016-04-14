@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.693.320\/0001-07",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22693320000107"
+ },
+ "cpf_responsavel": "***755606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22693320000107"
+ },
+ "nome": "ASSOCIACAO AMADOS DO PAI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22693320000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22693320000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22693320000107",
+ "nome_responsavel": "EVA PEREIRA DE ANDRADE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "36379889",
+ "cep": "33110070",
+ "endereco": "AVENIDA JOAQUIM RODRIGUES DA ROCHA 240 BAIRRO JAQUELINE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0D616ED50E4839D50162D88AC80C96184FBE2A2A",
+   "id": "0D616ED50E4839D50162D88AC80C96184FBE2A2A"
+  }
+ },
+ "id": 22693320000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

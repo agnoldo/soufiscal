@@ -1,0 +1,1 @@
+{"metadados": {"total_registros": 1}, "municipios": [{"nome": "ITATIAIUCU", "cod_siconv": 13844, "href": "http://api.convenios.gov.br/siconv/id/municipio/13844", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13844"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13844}]}

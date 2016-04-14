@@ -1,0 +1,33 @@
+<ion-view>
+  <ion-nav-title>Tarefas Disponíveis</ion-nav-title>
+  <ion-nav-buttons side="right">
+    <button class="button button-clear icon" ng-disabled="loading" ng-class="{'ion-earth': show.list, 'ion-ios-list': !show.list}" ng-click="show.list = !show.list">
+    </button>
+  </ion-nav-buttons>
+  <div id="map" data-tap-disabled="true" google-map style="height:100%; width: 100%;" api-key="AIzaSyB16sGmIekuGIvYOfNoW9T44377IU2d2Es" events="events"></div>
+  <ion-content ng-show="show.list" class="background-stable">
+    <ion-refresher on-refresh="reload()">
+    </ion-refresher>
+    <div ng-show="show.list">
+      <ion-list>
+        <ion-item auto-list-divider auto-list-divider-value="{{event.task}}"  ui-sref="detail_regtarefa({id: event.id})" class="item-royal item-avatar item-icon-right" ng-repeat="event in events | limitTo:limit | orderBy: 'task'">
+          <img ng-src="{{event.thumb}}">
+          <small>{{event.name}}</small>
+          <h2>{{event.task}}</h2>
+          <p>
+            <b>{{event.municipio}}</b><br>
+            {{event.endereco}} - {{event.cep}}<br>
+            {{event.telefone}}
+          </p>
+          <i class="icon ion-ios-arrow-right"></i>
+        </ion-item>
+        <ion-item class="text-center item-royal" ng-if="events && !events.length">Nenhuma tarefa disponível :(</ion-item>
+      </ion-list>
+    </div>
+    <ion-infinite-scroll
+      ng-if="!events || events.length > limit"
+      class=""
+      on-infinite="loadMore()">
+    </ion-infinite-scroll>
+  </ion-content>
+</ion-view>

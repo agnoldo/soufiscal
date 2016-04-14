@@ -1,0 +1,50 @@
+{
+ "cnpj": "71.256.283\/0001-85",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=71256283000185"
+ },
+ "cpf_responsavel": "***332466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=71256283000185"
+ },
+ "nome": "SAWAE TECNOLOGIA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=71256283000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=71256283000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/71256283000185",
+ "nome_responsavel": "GIOVANI PIERRE ALMEIDA SOUTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 3117-4400",
+ "cep": "34000000",
+ "endereco": "RUA STAR 420",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/786CD2B1DEA76CA5F9535BA5261C654E88B67E15",
+   "id": "786CD2B1DEA76CA5F9535BA5261C654E88B67E15"
+  }
+ },
+ "id": 71256283000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "73.313.025\/0001-19",
+ "fax": "31-36216000",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=73313025000119"
+ },
+ "cpf_responsavel": "***310826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=73313025000119"
+ },
+ "nome": "CENTRO DE RECUPERACAO E REABILITACAO VIDA PLENA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=73313025000119"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=73313025000119"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/73313025000119",
+ "nome_responsavel": "FABIANO DE OLIVEIRA COUTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-36216000",
+ "cep": "33200000",
+ "endereco": "RUA PRINCIPAL Nº689",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6EA1895CD90A02307B5A59E4EA751D7052C03F92",
+   "id": "6EA1895CD90A02307B5A59E4EA751D7052C03F92"
+  }
+ },
+ "id": 73313025000119,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

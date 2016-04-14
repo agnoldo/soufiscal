@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.970.014\/0001-14",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6970014000114"
+ },
+ "cpf_responsavel": "***773625**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6970014000114"
+ },
+ "nome": "ASSOCIACAO TRENS DE MINAS - ASTREM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "199467\/001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6970014000114"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6970014000114"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6970014000114",
+ "nome_responsavel": "ANTONEL SILVA OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)84586992",
+ "cep": "30150380",
+ "endereco": "RUA ITAJUBÁ 295",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2EF050861CD1BBC11004E65618E03FEC28436003",
+   "id": "2EF050861CD1BBC11004E65618E03FEC28436003"
+  }
+ },
+ "id": 6970014000114,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

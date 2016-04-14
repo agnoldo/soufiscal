@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.719.369\/0001-14",
+ "fax": "31",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18719369000114"
+ },
+ "cpf_responsavel": "***990876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18719369000114"
+ },
+ "nome": "CORPO LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18719369000114"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18719369000114"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18719369000114",
+ "nome_responsavel": "VICTOR LOUIS STUTZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 86087485",
+ "cep": "30315000",
+ "endereco": "AV.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EC1B878E3C218239BC143CDB87ADA196F4D43B0F",
+   "id": "EC1B878E3C218239BC143CDB87ADA196F4D43B0F"
+  }
+ },
+ "id": 18719369000114,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

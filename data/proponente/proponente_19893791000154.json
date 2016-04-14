@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.893.791\/0001-54",
+ "fax": "31 3651-4516",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19893791000154"
+ },
+ "cpf_responsavel": "***953006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19893791000154"
+ },
+ "nome": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19893791000154"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19893791000154"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19893791000154",
+ "nome_responsavel": "BERNARDO MOURAO VORCARO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 3651-5100",
+ "cep": "34800000",
+ "endereco": "RUA MONSENHOR DOMINGOS242",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C2292480CCFF7A44F188E3F0F34041CC2502D196",
+   "id": "C2292480CCFF7A44F188E3F0F34041CC2502D196"
+  }
+ },
+ "id": 19893791000154,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

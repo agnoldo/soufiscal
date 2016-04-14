@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.652.144\/0001-10",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3652144000110"
+ },
+ "cpf_responsavel": "***990876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3652144000110"
+ },
+ "nome": "CORPO CIDADAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1650660011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3652144000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3652144000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3652144000110",
+ "nome_responsavel": "VICTOR LOUIS STUTZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3 2 6 4 4 4 9 7",
+ "cep": "30315000",
+ "endereco": "AV. BANDEIRANTES 866 SALA 3",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EC1B878E3C218239BC143CDB87ADA196F4D43B0F",
+   "id": "EC1B878E3C218239BC143CDB87ADA196F4D43B0F"
+  }
+ },
+ "id": 3652144000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

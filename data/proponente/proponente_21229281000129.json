@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.229.281\/0001-29",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21229281000129"
+ },
+ "cpf_responsavel": "***734098**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21229281000129"
+ },
+ "nome": "FUNDACAO TV MINAS CULTURAL E EDUCATIVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21229281000129"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21229281000129"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21229281000129",
+ "nome_responsavel": "ISRAEL DO VALE NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3132343032",
+ "cep": "30310000",
+ "endereco": "AV. NOSSA SENHORA DO CARMO931",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A89B30B420F14A644BEF50DEAB53C2B0FD767475",
+   "id": "A89B30B420F14A644BEF50DEAB53C2B0FD767475"
+  }
+ },
+ "id": 21229281000129,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

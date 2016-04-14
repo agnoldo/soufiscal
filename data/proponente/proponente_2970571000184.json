@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.970.571\/0001-84",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2970571000184"
+ },
+ "cpf_responsavel": "***098186**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2970571000184"
+ },
+ "nome": "CENTRO DE ESTUDOS DA IMAGINARIA BRASILEIRA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2970571000184"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2970571000184"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2970571000184",
+ "nome_responsavel": "BEATRIZ RAMOS DE VASCONCELOS COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34095290",
+ "cep": "31270010",
+ "endereco": "AVENIDA PRESIDENTE ANTÔNIO CARLOS 6627",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D3C532D69A3CB6976A7C1996F825947E744FCDDA",
+   "id": "D3C532D69A3CB6976A7C1996F825947E744FCDDA"
+  }
+ },
+ "id": 2970571000184,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

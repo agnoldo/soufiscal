@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.253.253\/0005-01",
+ "fax": "(31) 32285206",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17253253000501"
+ },
+ "cpf_responsavel": "***839056**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17253253000501"
+ },
+ "nome": "FUNDACAO MINEIRA DE EDUCACAO E CULTURA",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "336713\/008-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17253253000501"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17253253000501"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17253253000501",
+ "nome_responsavel": "EDUARDO MARTINS DE LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 32285279",
+ "cep": "30130009",
+ "endereco": "AVENIDA AFONSO PENA 3880",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D7C805F283BF30274C9C5342A44330E695A8D1B6",
+   "id": "D7C805F283BF30274C9C5342A44330E695A8D1B6"
+  }
+ },
+ "id": 17253253000501,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

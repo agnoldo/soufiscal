@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.429.321\/0002-36",
+ "fax": "31-3547-2114",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7429321000236"
+ },
+ "cpf_responsavel": "***214846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7429321000236"
+ },
+ "nome": "ASSOCIACAO DOS CONDOMINIOS HORIZONTAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/214\/90928",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7429321000236"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7429321000236"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7429321000236",
+ "nome_responsavel": "GUSTAVO HENRIQUE WYKROTA TOSTES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-35472114",
+ "cep": "34000000",
+ "endereco": "RUA PRÍNCIPE CHARLES 138-A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EAB16B9119C4B5279502F6683B4B66AD065C4413",
+   "id": "EAB16B9119C4B5279502F6683B4B66AD065C4413"
+  }
+ },
+ "id": 7429321000236,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

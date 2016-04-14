@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.416.685\/0001-87",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2416685000187"
+ },
+ "cpf_responsavel": "***242506**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2416685000187"
+ },
+ "nome": "TEATRO ALBATROZ",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2416685000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2416685000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2416685000187",
+ "nome_responsavel": "NYVEA KARAM FRAGA MARON",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31  92250840",
+ "cep": "33600000",
+ "endereco": "RUA SÃO JOSÉ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DDBC6727E97D0639A9378A07903C0A6EA835A426",
+   "id": "DDBC6727E97D0639A9378A07903C0A6EA835A426"
+  }
+ },
+ "id": 2416685000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

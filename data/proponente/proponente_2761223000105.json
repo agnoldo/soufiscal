@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.761.223\/0001-05",
+ "fax": "31-363645964",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2761223000105"
+ },
+ "cpf_responsavel": "***508931**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2761223000105"
+ },
+ "nome": "INSTITUTO ZILAH SPOSITO PARA O DESENVOLVIMENTO HUMANO E SOCIAL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1595590010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2761223000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2761223000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2761223000105",
+ "nome_responsavel": "JOAQUIM CALDEIRA DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34548663",
+ "cep": "31748435",
+ "endereco": "RUA CARNAÚBA286 - BELO HORIZONTE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8D86BEE83303A16AC2F495461F83F877E14DA6D2",
+   "id": "8D86BEE83303A16AC2F495461F83F877E14DA6D2"
+  }
+ },
+ "id": 2761223000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

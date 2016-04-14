@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.737.292\/0001-12",
+ "fax": "(31) 3223 1100",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38737292000112"
+ },
+ "cpf_responsavel": "***067686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38737292000112"
+ },
+ "nome": "SINDICATO DAS IND DE BOLSAS E CINTOS NO ESTADO DE M G",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38737292000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38737292000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38737292000112",
+ "nome_responsavel": "ROGERIO SOARES LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3282 7468",
+ "cep": "30140080",
+ "endereco": "RUA BERNARDO GUIMARÃES63",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/31FA687FC7B6AA992B4E9EA408201FF943E6B1B2",
+   "id": "31FA687FC7B6AA992B4E9EA408201FF943E6B1B2"
+  }
+ },
+ "id": 38737292000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

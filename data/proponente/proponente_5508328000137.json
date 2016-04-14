@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.508.328\/0001-37",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5508328000137"
+ },
+ "cpf_responsavel": "***127676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5508328000137"
+ },
+ "nome": "INSTITUTO TECNICO CIRCUITO DA VIDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5508328000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5508328000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5508328000137",
+ "nome_responsavel": "WELLINGTON RODRIGUES SCHETTINI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 36429220",
+ "cep": "33125250",
+ "endereco": "RUA ITAREMA 275",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AC148DF40F455FC79E69C3D9580BFC6B9E42F5C2",
+   "id": "AC148DF40F455FC79E69C3D9580BFC6B9E42F5C2"
+  }
+ },
+ "id": 5508328000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

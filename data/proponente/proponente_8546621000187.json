@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.546.621\/0001-87",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8546621000187"
+ },
+ "cpf_responsavel": "***992966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8546621000187"
+ },
+ "nome": "INSTITUTO CULTURAL CIDA BRIZOLA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8546621000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8546621000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8546621000187",
+ "nome_responsavel": "MARIA APARECIDA DE OLIVEIRA BRIZOLA E SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32219600",
+ "cep": "30220150",
+ "endereco": "RUA PIRAPETINGA 332",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/267C3C0EAC2E954260DD677E5229A4AC57453036",
+   "id": "267C3C0EAC2E954260DD677E5229A4AC57453036"
+  }
+ },
+ "id": 8546621000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

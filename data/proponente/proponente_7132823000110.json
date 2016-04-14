@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.132.823\/0001-10",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7132823000110"
+ },
+ "cpf_responsavel": "***392396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7132823000110"
+ },
+ "nome": "INSTITUTO BEM ME QUERO DE APOIO A CRIANCA, AO ADOLESCENTE, A FAMILIA E AO AMBIENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7132823000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7132823000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7132823000110",
+ "nome_responsavel": "ADRIANA DINIZ CUNHA ANDRADE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135222944",
+ "cep": "32900000",
+ "endereco": "AVENIDA CHICA DA SILVA 1795 -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9B2D6729EECB76324B3ED0447876845FA71F782B",
+   "id": "9B2D6729EECB76324B3ED0447876845FA71F782B"
+  }
+ },
+ "id": 7132823000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15091",
+   "id": 15091
+  }
+ }
+}

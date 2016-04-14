@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.691.766\/0001-25",
+ "fax": "31 3572 1244",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18691766000125"
+ },
+ "cpf_responsavel": "***985076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18691766000125"
+ },
+ "nome": "PREFEITURA MUNICIPAL DE ITATIAIUCU",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18691766000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18691766000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18691766000125",
+ "nome_responsavel": "WAGNER MENDONCA CHAVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 3572 1106",
+ "cep": "35685000",
+ "endereco": "PRAÇA ANTONIO QUIRINO DA SILVA404-CENTRO-ITATIAIUÇU\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AB024C7E7653258C4C743D83D9D1CC6CC03DE479",
+   "id": "AB024C7E7653258C4C743D83D9D1CC6CC03DE479"
+  }
+ },
+ "id": 18691766000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13844",
+   "id": 13844
+  }
+ }
+}

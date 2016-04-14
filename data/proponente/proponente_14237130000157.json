@@ -1,0 +1,50 @@
+{
+ "cnpj": "14.237.130\/0001-57",
+ "fax": "31-3364-7430",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=14237130000157"
+ },
+ "cpf_responsavel": "***558976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=14237130000157"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=14237130000157"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=14237130000157"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/14237130000157",
+ "nome_responsavel": "RICARDO ROCHA DE FARIA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31-3362-1760",
+ "cep": "32210110",
+ "endereco": "AV GENERAL DAVID SARNOFF 3130",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/50A48A4409F1A4DE726869018D62BC8F13F52D0D",
+   "id": "50A48A4409F1A4DE726869018D62BC8F13F52D0D"
+  }
+ },
+ "id": 14237130000157,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

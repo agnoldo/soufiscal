@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.069.550\/0001-37",
+ "fax": "86318190",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21069550000137"
+ },
+ "cpf_responsavel": "***636696**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21069550000137"
+ },
+ "nome": "ASSOCIACAO BENEFICENTE LAR EMANUEL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21069550000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21069550000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21069550000137",
+ "nome_responsavel": "RAFAEL SOARES MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-31621016",
+ "cep": "32920000",
+ "endereco": "RUA 34",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/55559D92AB3682F79100D02ADE50B8B299C47FE8",
+   "id": "55559D92AB3682F79100D02ADE50B8B299C47FE8"
+  }
+ },
+ "id": 21069550000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11484",
+   "id": 11484
+  }
+ }
+}

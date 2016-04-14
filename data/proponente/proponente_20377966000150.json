@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.377.966\/0001-50",
+ "fax": "(31) 3391-2378",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20377966000150"
+ },
+ "cpf_responsavel": "***012576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20377966000150"
+ },
+ "nome": "CENTRO INDUSTRIAL DE CONTAGEM-CINCO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20377966000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20377966000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20377966000150",
+ "nome_responsavel": "LEONARDO ANTUNES DA CONCEICAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31) 3391-1233",
+ "cep": "32010120",
+ "endereco": "RUA HAECKEL BEN HUR SALVADOR Nº 180",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BDF300788183F50B73C9355CD6E429881DAEC5FC",
+   "id": "BDF300788183F50B73C9355CD6E429881DAEC5FC"
+  }
+ },
+ "id": 20377966000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

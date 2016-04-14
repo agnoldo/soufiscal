@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.710.829\/0001-90",
+ "fax": "31 3214-0417",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8710829000190"
+ },
+ "cpf_responsavel": "***250056**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8710829000190"
+ },
+ "nome": "INSTITUTO MINAS PELA PAZ - IMPP",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "210142001-x",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8710829000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8710829000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8710829000190",
+ "nome_responsavel": "MAURILIO LEITE PEDROSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3214-0417",
+ "cep": "30110916",
+ "endereco": "AVENIDA DO CONTORNO 4520 7º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8A3A4D60D98878FADC1EB37DBA3E4053D32DADC4",
+   "id": "8A3A4D60D98878FADC1EB37DBA3E4053D32DADC4"
+  }
+ },
+ "id": 8710829000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

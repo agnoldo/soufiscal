@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.197.962\/0001-36",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10197962000136"
+ },
+ "cpf_responsavel": "***744166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10197962000136"
+ },
+ "nome": "ASSOCIACAO CHUTE CERTO - ESPORTE E CULTURA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10197962000136"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10197962000136"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10197962000136",
+ "nome_responsavel": "CLEITO PINTO RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 92525666",
+ "cep": "33400000",
+ "endereco": "AVENIDA PREFEITO JOÃO DAHER Nº937",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7D8B5DBAC4B8F1E8789ADBB75EB67A3981F49C2F",
+   "id": "7D8B5DBAC4B8F1E8789ADBB75EB67A3981F49C2F"
+  }
+ },
+ "id": 10197962000136,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.157.714\/0001-97",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12157714000197"
+ },
+ "cpf_responsavel": "***214976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12157714000197"
+ },
+ "nome": "CIRC - CENTRO INTERNACIONAL DE REFERENCIA DO CIRCO",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2638480015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12157714000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12157714000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12157714000197",
+ "nome_responsavel": "THEREZA AURELIA ALVARES VIDIGAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132257521",
+ "cep": "30150160",
+ "endereco": "RUA AQUILES LOBO 260",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C1005BFCA035DC5A37A5FF8C7CC06C2C305F3B74",
+   "id": "C1005BFCA035DC5A37A5FF8C7CC06C2C305F3B74"
+  }
+ },
+ "id": 12157714000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

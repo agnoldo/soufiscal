@@ -1,0 +1,50 @@
+{
+ "cnpj": "73.647.943\/0001-84",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=73647943000184"
+ },
+ "cpf_responsavel": "***242706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=73647943000184"
+ },
+ "nome": "GRUPO DE CONVIVENCIA DA 3 IDADE -TURMINHA ALEGRE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "144.840\/001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=73647943000184"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=73647943000184"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/73647943000184",
+ "nome_responsavel": "ADAO VICTOR DE ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31.34361412",
+ "cep": "31810390",
+ "endereco": "RUA JOANA ANGÉLICA 45",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CFC261290CAB77FDE4CB8630E27BDE2856A2C316",
+   "id": "CFC261290CAB77FDE4CB8630E27BDE2856A2C316"
+  }
+ },
+ "id": 73647943000184,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

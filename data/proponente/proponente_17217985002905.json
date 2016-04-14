@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.985\/0029-05",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217985002905"
+ },
+ "cpf_responsavel": "***885776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217985002905"
+ },
+ "nome": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217985002905"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217985002905"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217985002905",
+ "nome_responsavel": "FABRICIO JOSE FERNANDINO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3409-7606",
+ "cep": "31080010",
+ "endereco": "RUA GUSTAVO DA SILVEIRA 1035.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5C5C4EB06FC54A8E01E70C282373D7B1AC2B831A",
+   "id": "5C5C4EB06FC54A8E01E70C282373D7B1AC2B831A"
+  }
+ },
+ "id": 17217985002905,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

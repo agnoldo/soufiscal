@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.473.625\/0001-88",
+ "fax": "3132910661",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20473625000188"
+ },
+ "cpf_responsavel": "***308726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20473625000188"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE DEFESA DO AMBIENTE - AMDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20473625000188"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20473625000188"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20473625000188",
+ "nome_responsavel": "PAULO AFONSO DA MATA MACHADO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132910661",
+ "cep": "30140061",
+ "endereco": "RUA TIMBIRAS 1560\/17º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B7E11B7D9C9B52CA7F2E55562907A34A91D51922",
+   "id": "B7E11B7D9C9B52CA7F2E55562907A34A91D51922"
+  }
+ },
+ "id": 20473625000188,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

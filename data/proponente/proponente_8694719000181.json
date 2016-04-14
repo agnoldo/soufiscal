@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.694.719\/0001-81",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8694719000181"
+ },
+ "cpf_responsavel": "***979326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8694719000181"
+ },
+ "nome": "CENTRO DE REFERENCIA DA CULTURA NEGRA DE VENDA NOVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8694719000181"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8694719000181"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8694719000181",
+ "nome_responsavel": "MONICA AGUIAR DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34516796",
+ "cep": "31510380",
+ "endereco": "RUA MONSENHOR JOSE COELHO 111 SL. B",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/38432DA2B20201F8A3C92DA33E53A484A21E4414",
+   "id": "38432DA2B20201F8A3C92DA33E53A484A21E4414"
+  }
+ },
+ "id": 8694719000181,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

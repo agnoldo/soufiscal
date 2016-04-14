@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.763.874\/0001-51",
+ "fax": "(31)2512-0943",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4763874000151"
+ },
+ "cpf_responsavel": "***517456**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4763874000151"
+ },
+ "nome": "ASSOCIACAO EFIGENIA VIDIGAL DE EDUCACAO E CULTURA - AVEC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4763874000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4763874000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4763874000151",
+ "nome_responsavel": "ANA ROSA VIDIGAL DOLABELLA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)2512-0943",
+ "cep": "30110043",
+ "endereco": "AVENIDA DO CONTORNO N° 7069 - SALA 212.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D0E15A5668B627A5B9166BE921960933EC0BEA84",
+   "id": "D0E15A5668B627A5B9166BE921960933EC0BEA84"
+  }
+ },
+ "id": 4763874000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

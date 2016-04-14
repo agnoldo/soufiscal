@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.184.170\/0001-15",
+ "fax": "(31) 73428049",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13184170000115"
+ },
+ "cpf_responsavel": "***606226**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13184170000115"
+ },
+ "nome": "ASSOCIACAO CULTURAL DE CAPOEIRA ANGOLA - BHZ CONNECTION",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13184170000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13184170000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13184170000115",
+ "nome_responsavel": "WILLIAM MOREIRA DE SOUSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3483 8242",
+ "cep": "30285320",
+ "endereco": "RUA GENERAL OSORIO 145",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7A85AFF5CA814C1E67DC07468810DC97CA982542",
+   "id": "7A85AFF5CA814C1E67DC07468810DC97CA982542"
+  }
+ },
+ "id": 13184170000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

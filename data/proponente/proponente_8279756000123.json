@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.279.756\/0001-23",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8279756000123"
+ },
+ "cpf_responsavel": "***854336**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8279756000123"
+ },
+ "nome": "CENTRO CULTURAL DONA ANTONIA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8279756000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8279756000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8279756000123",
+ "nome_responsavel": "HARLEI JULIO DE LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "313596-8448",
+ "cep": "32606114",
+ "endereco": "RUA MARIA DE LOURDES 678",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CAF2CC4CFFC6B6F2CF8609DFD403248231AE7A77",
+   "id": "CAF2CC4CFFC6B6F2CF8609DFD403248231AE7A77"
+  }
+ },
+ "id": 8279756000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

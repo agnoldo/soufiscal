@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.289.889\/0001-80",
+ "fax": "31 33311789",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8289889000180"
+ },
+ "cpf_responsavel": "***446596**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8289889000180"
+ },
+ "nome": "ASSOCIACAO SER PARTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8289889000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8289889000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8289889000180",
+ "nome_responsavel": "ANA RITA DE MACEDO MOURA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33311789",
+ "cep": "32210360",
+ "endereco": "AVENIDA PRESIDENTE CASTELO BRANCO 105",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9374E533412B70EDCBD61E8EB8C13E71876DC347",
+   "id": "9374E533412B70EDCBD61E8EB8C13E71876DC347"
+  }
+ },
+ "id": 8289889000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

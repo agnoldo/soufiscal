@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.894.548\/0001-00",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21894548000100"
+ },
+ "cpf_responsavel": "***255796**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21894548000100"
+ },
+ "nome": "ASSOCIACAO DE DESENVOLVIMENTO ARTES E OFICIOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21894548000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21894548000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21894548000100",
+ "nome_responsavel": "FRANCISCA DE PAULA MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 96473173",
+ "cep": "35720000",
+ "endereco": "RUA DOMINGOS GOMES FERREIRA Nº130",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/06D98BBFC6C22EA0F285669E8650FFE0942A8D5A",
+   "id": "06D98BBFC6C22EA0F285669E8650FFE0942A8D5A"
+  }
+ },
+ "id": 21894548000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

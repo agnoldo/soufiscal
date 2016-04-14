@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.224.744\/0001-76",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6224744000176"
+ },
+ "cpf_responsavel": "***949356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6224744000176"
+ },
+ "nome": "COMPANHIA LUDICA DOS ATORES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6224744000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6224744000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6224744000176",
+ "nome_responsavel": "LEONARDO ROBERTO HORTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33184282\/91986132",
+ "cep": "30720440",
+ "endereco": "RUA TUIUTI 1240 FUNDOS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A3666A14E8569FD8FDFDA793909666CFD1B32E28",
+   "id": "A3666A14E8569FD8FDFDA793909666CFD1B32E28"
+  }
+ },
+ "id": 6224744000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

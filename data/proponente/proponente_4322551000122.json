@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.322.551\/0001-22",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4322551000122"
+ },
+ "cpf_responsavel": "***602076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4322551000122"
+ },
+ "nome": "MISSAO APRISCO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4322551000122"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4322551000122"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4322551000122",
+ "nome_responsavel": "ELIODORO ANTONIO MOURAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 30883826",
+ "cep": "31814030",
+ "endereco": "RUA MADRE DOS ANJOS 61",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/06F6977B9956596068B92FCA59F2E24BB90B9C86",
+   "id": "06F6977B9956596068B92FCA59F2E24BB90B9C86"
+  }
+ },
+ "id": 4322551000122,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

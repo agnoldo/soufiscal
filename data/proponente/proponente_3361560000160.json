@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.361.560\/0001-60",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3361560000160"
+ },
+ "cpf_responsavel": "***565906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3361560000160"
+ },
+ "nome": "FUNDACAO EDUCATIVA CULTURAL COMUNITARIA DE BELO HORIZONTE",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "161.555.001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3361560000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3361560000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3361560000160",
+ "nome_responsavel": "MARCIA AVELINA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3283-0919",
+ "cep": "30230160",
+ "endereco": "RUA FLOR DE MAIO Nº 85",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3864B1AF35F2B2DCC84223358BD64AD25B8B5F97",
+   "id": "3864B1AF35F2B2DCC84223358BD64AD25B8B5F97"
+  }
+ },
+ "id": 3361560000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

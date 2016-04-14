@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.404.302\/0001-28",
+ "fax": "(31) 3237-3500",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17404302000128"
+ },
+ "cpf_responsavel": "***213716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17404302000128"
+ },
+ "nome": "IMPRENSA OFICIAL DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17404302000128"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17404302000128"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17404302000128",
+ "nome_responsavel": "EUGENIO FERRAZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3237-3411",
+ "cep": "30190001",
+ "endereco": "AV. AUGUSTO DE LIMA 270",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/89A3FDA10DFB8C733B44C5CDD7670403AF774BDE",
+   "id": "89A3FDA10DFB8C733B44C5CDD7670403AF774BDE"
+  }
+ },
+ "id": 17404302000128,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

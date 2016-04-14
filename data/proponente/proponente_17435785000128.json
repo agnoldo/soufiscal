@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.435.785\/0001-28",
+ "fax": "(31) 3223 1100",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17435785000128"
+ },
+ "cpf_responsavel": "***704366**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17435785000128"
+ },
+ "nome": "SINDICATO DE IND DE CALCADOS NO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17435785000128"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17435785000128"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17435785000128",
+ "nome_responsavel": "JANIO GOMES LEMOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3282 7468",
+ "cep": "30140080",
+ "endereco": "RUA BERNARDO GUIMARÃES63",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C4BD0F490D0A858B54D450AEDAC44CFE2317C276",
+   "id": "C4BD0F490D0A858B54D450AEDAC44CFE2317C276"
+  }
+ },
+ "id": 17435785000128,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

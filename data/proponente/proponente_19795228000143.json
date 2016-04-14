@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.795.228\/0001-43",
+ "fax": "31-8438-88-44",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19795228000143"
+ },
+ "cpf_responsavel": "***391506**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19795228000143"
+ },
+ "nome": "ASSOCIACAO NACIONAL DE ASSISTENCIA SOCIAL E PROMOCAO DO TRABALHADOR ZUMBI DOS PALMARES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19795228000143"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19795228000143"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19795228000143",
+ "nome_responsavel": "POLLYANNA CRISTINA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3041-77-18",
+ "cep": "30160040",
+ "endereco": "RUA RIO DE JANEIRO Nº 243 SALA 904",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E73B68AE5BB01E9514477CFEB99AE23662F5387A",
+   "id": "E73B68AE5BB01E9514477CFEB99AE23662F5387A"
+  }
+ },
+ "id": 19795228000143,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

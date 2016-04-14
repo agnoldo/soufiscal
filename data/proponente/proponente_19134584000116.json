@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.134.584\/0001-16",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19134584000116"
+ },
+ "cpf_responsavel": "***747506**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19134584000116"
+ },
+ "nome": "CENTRO DE DEFESA DOS DIREITOS HUMANOS DE BETIM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19134584000116"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19134584000116"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19134584000116",
+ "nome_responsavel": "MARCIO PAULINO DE MATOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135312980",
+ "cep": "32630150",
+ "endereco": "PRAÇA DOS EXPEDICINÁRIOS 60",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D2363D53CB6DC267B9E69C610654675B447CB425",
+   "id": "D2363D53CB6DC267B9E69C610654675B447CB425"
+  }
+ },
+ "id": 19134584000116,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

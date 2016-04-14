@@ -1,0 +1,50 @@
+{
+ "cnpj": "74.125.600\/0001-12",
+ "fax": "31\/32868225",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=74125600000112"
+ },
+ "cpf_responsavel": "***873656**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=74125600000112"
+ },
+ "nome": "INSTITUTO DE ESTUDOS PRO-CIDADANIA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/313-03531",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=74125600000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=74125600000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/74125600000112",
+ "nome_responsavel": "JANE DE SOUZA E SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32868225",
+ "cep": "34000000",
+ "endereco": "RUA DA PAISAGEM 240. SALA 15",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E183103E1B21AFAC2987B3BE89C531F3C3D1F3B6",
+   "id": "E183103E1B21AFAC2987B3BE89C531F3C3D1F3B6"
+  }
+ },
+ "id": 74125600000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

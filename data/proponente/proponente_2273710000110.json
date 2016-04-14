@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.273.710\/0001-10",
+ "fax": "31 3261-3127",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2273710000110"
+ },
+ "cpf_responsavel": "***563406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2273710000110"
+ },
+ "nome": "FUNDACAO BELO HORIZONTE TURISMO E EVENTOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2273710000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2273710000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2273710000110",
+ "nome_responsavel": "ROBERTO SA DE NORONHA FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3261-2547",
+ "cep": "30140003",
+ "endereco": "AV. BRASIL Nº1666 15º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4F07ECA5086049A0BD631FA3F0DBBFE0DEF4FFE2",
+   "id": "4F07ECA5086049A0BD631FA3F0DBBFE0DEF4FFE2"
+  }
+ },
+ "id": 2273710000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

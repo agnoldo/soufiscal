@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.992.438\/0001-17",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5992438000117"
+ },
+ "cpf_responsavel": "***790396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5992438000117"
+ },
+ "nome": "ASSOCIACAO DE INSERCAO SOCIAL PARA EX-DEPENDENTES QUIMICOS VASO NOVO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5992438000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5992438000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5992438000117",
+ "nome_responsavel": "WESLEY NUNES AMARAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33947428",
+ "cep": "32150245",
+ "endereco": "VIA MANOEL JACINTO COELHO JUNIOR N 13",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/ADEDC12AA7F8DC685B3741089449D985B8FFBF90",
+   "id": "ADEDC12AA7F8DC685B3741089449D985B8FFBF90"
+  }
+ },
+ "id": 5992438000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

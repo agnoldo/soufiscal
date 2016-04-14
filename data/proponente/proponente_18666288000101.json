@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.666.288\/0001-01",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18666288000101"
+ },
+ "cpf_responsavel": "***596047**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18666288000101"
+ },
+ "nome": "CENTRO DE DEFESA DA CRIANCA E DO ADOLESCENTE DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18666288000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18666288000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18666288000101",
+ "nome_responsavel": "LILIANE MARIA ALBERTO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3199539455",
+ "cep": "30170040",
+ "endereco": "RUA OURO PRETO 718 - SALA 1102",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9D3B1ABC5FF11BD317F6E2488C6AB014FF621952",
+   "id": "9D3B1ABC5FF11BD317F6E2488C6AB014FF621952"
+  }
+ },
+ "id": 18666288000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

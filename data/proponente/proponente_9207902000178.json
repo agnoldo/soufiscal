@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.207.902\/0001-78",
+ "fax": "3132015211",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9207902000178"
+ },
+ "cpf_responsavel": "***116308**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9207902000178"
+ },
+ "nome": "ASSOCIACAO CINE THEATRO BRASIL - VALLOUREC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02188000018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9207902000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9207902000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9207902000178",
+ "nome_responsavel": "CLEIDISSON PLAUTINO DORNELAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132224389",
+ "cep": "30180000",
+ "endereco": "AVENIDA AMAZONAS Nº 315",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/370BBBCB073A4F460A6E2C91B135785FF4CE3920",
+   "id": "370BBBCB073A4F460A6E2C91B135785FF4CE3920"
+  }
+ },
+ "id": 9207902000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

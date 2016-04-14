@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.549.030\/0001-54",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17549030000154"
+ },
+ "cpf_responsavel": "***385466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17549030000154"
+ },
+ "nome": "ORGANIZACAO NAO GOVERNAMENTAL NA ACAO - ONG NA ACAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17549030000154"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17549030000154"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17549030000154",
+ "nome_responsavel": "JORGE LUIS COSTA PINTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 88430043",
+ "cep": "34535100",
+ "endereco": "AV. ALBERT SCHARLE 31",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7A16075296A169EE5EA17B9FE3A267B011828598",
+   "id": "7A16075296A169EE5EA17B9FE3A267B011828598"
+  }
+ },
+ "id": 17549030000154,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

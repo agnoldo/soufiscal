@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.524.054\/0002-77",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16524054000277"
+ },
+ "cpf_responsavel": "***804806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16524054000277"
+ },
+ "nome": "AGENCIA ADVENTISTA DE DESENVOLVIMENTO E RECURSOS ASSISTENCIAIS SUDESTE BRASILEIRA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16524054000277"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16524054000277"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16524054000277",
+ "nome_responsavel": "NOEDSON DORNELIS DE MOURA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 2121-6950",
+ "cep": "31550000",
+ "endereco": "AVENIDA PORTUGAL 931",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/20F1614EA166D1CEA17FB856F5135DB801739618",
+   "id": "20F1614EA166D1CEA17FB856F5135DB801739618"
+  }
+ },
+ "id": 16524054000277,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

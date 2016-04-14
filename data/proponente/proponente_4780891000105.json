@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.780.891\/0001-05",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4780891000105"
+ },
+ "cpf_responsavel": "***531726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4780891000105"
+ },
+ "nome": "ASSOCIACAO CULTURAL DESPORTIVA RAIZES - A.C.D.R.",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4780891000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4780891000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4780891000105",
+ "nome_responsavel": "MARIANA VIEIRA RIBEIRO MOTA COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)88695861",
+ "cep": "30330310",
+ "endereco": "RUA PASSA TEMPO 562",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F5F8E9CB8BAD5E9737A5B25BA6CA38EA0203D79D",
+   "id": "F5F8E9CB8BAD5E9737A5B25BA6CA38EA0203D79D"
+  }
+ },
+ "id": 4780891000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

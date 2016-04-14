@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.004.764\/0001-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9004764000120"
+ },
+ "cpf_responsavel": "***643596**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9004764000120"
+ },
+ "nome": "ASSOCIACAO PARA A RECUPERACAO E CONSERVACAO AMBIENTAL EM DEFESA DA SERRA DA CALCADA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9004764000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9004764000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9004764000120",
+ "nome_responsavel": "SIMONE ALVARENGA BORJA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03184139494",
+ "cep": "35460000",
+ "endereco": "RUA CASUARINA 129",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/23D3BFD84CACA1781D58F64296CF1F95DBC94A2C",
+   "id": "23D3BFD84CACA1781D58F64296CF1F95DBC94A2C"
+  }
+ },
+ "id": 9004764000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

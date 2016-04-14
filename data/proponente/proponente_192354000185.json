@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.192.354\/0001-85",
+ "fax": "3132612467",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=192354000185"
+ },
+ "cpf_responsavel": "***546846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=192354000185"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DA INDUSTRIA DE HOTEIS ABIHMG",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1697000018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=192354000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=192354000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/192354000185",
+ "nome_responsavel": "SILVANIA MARIA CAPANEMA ALVARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132612233",
+ "cep": "30140003",
+ "endereco": "AV. BRASIL 1666 - 15º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E961C38C1E3CE32D0BF58AA85BBC5587A343BC41",
+   "id": "E961C38C1E3CE32D0BF58AA85BBC5587A343BC41"
+  }
+ },
+ "id": 192354000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

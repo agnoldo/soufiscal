@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.593.822\/0001-06",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9593822000106"
+ },
+ "cpf_responsavel": "***175736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9593822000106"
+ },
+ "nome": "ASSOCIACAO CAMPO DAS VERTENTES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "225.409\/001-6",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9593822000106"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9593822000106"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9593822000106",
+ "nome_responsavel": "ANA IRIS TEIXEIRA SILVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 8860.2123",
+ "cep": "30160906",
+ "endereco": "RUA DA BAHIA 1148 BLOCO 1 SALA 739",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D9B8DC6736D112A7B5809896A06F070BB4A8F4B6",
+   "id": "D9B8DC6736D112A7B5809896A06F070BB4A8F4B6"
+  }
+ },
+ "id": 9593822000106,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

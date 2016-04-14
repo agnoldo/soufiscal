@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.457.946\/0005-36",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25457946000536"
+ },
+ "cpf_responsavel": "***503316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25457946000536"
+ },
+ "nome": "COMUNIDADE MISSIONARIA DE VILLAREGIA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3849470069",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25457946000536"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25457946000536"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25457946000536",
+ "nome_responsavel": "VALERIO D ELISEO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33742233",
+ "cep": "30570020",
+ "endereco": "RUA CIPRIANO DE CARVALHO 574",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6CCCE61EB26103970A520D5129C6BC8A93A19B5B",
+   "id": "6CCCE61EB26103970A520D5129C6BC8A93A19B5B"
+  }
+ },
+ "id": 25457946000536,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

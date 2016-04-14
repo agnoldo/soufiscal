@@ -1,0 +1,50 @@
+{
+ "cnpj": "33.685.686\/0008-27",
+ "fax": "31.3224.2434",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=33685686000827"
+ },
+ "cpf_responsavel": "***845188**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=33685686000827"
+ },
+ "nome": "CONFERENCIA NACIONAL DOS BISPOS DO BRASIL",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3536620010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=33685686000827"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=33685686000827"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/33685686000827",
+ "nome_responsavel": "JOSE ALBERTO MOURA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31.3224.2434",
+ "cep": "30130180",
+ "endereco": "AV. JOÃO PINHEIRO 39 - SALA 22",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/098520DE493CADBBA8EDD1D4DAB233AB805AC63E",
+   "id": "098520DE493CADBBA8EDD1D4DAB233AB805AC63E"
+  }
+ },
+ "id": 33685686000827,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

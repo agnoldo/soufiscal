@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.404.948\/0002-96",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17404948000296"
+ },
+ "cpf_responsavel": "***123066**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17404948000296"
+ },
+ "nome": "SOCIEDADE CIVIL ESPIRITO SANTO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17404948000296"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17404948000296"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17404948000296",
+ "nome_responsavel": "CARLOS ANTONIO BARBOSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134179026",
+ "cep": "31010230",
+ "endereco": "PRAÇA DUQUE DE CAXIAS 200",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/36F98D774168A5B16C850B7DE376F47B71CD0F4C",
+   "id": "36F98D774168A5B16C850B7DE376F47B71CD0F4C"
+  }
+ },
+ "id": 17404948000296,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

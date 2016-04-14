@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.001\/0001-95",
+ "fax": "31-92510923",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217001000195"
+ },
+ "cpf_responsavel": "***167677**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217001000195"
+ },
+ "nome": "ASSOC BRAS DOS CRIADORES DO CAVALO MANGALARGA MARCHADOR",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217001000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217001000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217001000195",
+ "nome_responsavel": "MAGDI ABDEL RAOUF GABR SHAAT",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32879173",
+ "cep": "30510000",
+ "endereco": "AV. AMAZONAS 6020",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A237F18C657085A08F93AB21CDD7AEFD28C23059",
+   "id": "A237F18C657085A08F93AB21CDD7AEFD28C23059"
+  }
+ },
+ "id": 17217001000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

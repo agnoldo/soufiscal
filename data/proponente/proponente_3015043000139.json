@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.015.043\/0001-39",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3015043000139"
+ },
+ "cpf_responsavel": "***640016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3015043000139"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DE PREVENCAO AO USO INDEVIDO DE DROGAS - PROJETO DE VIDA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "524550170",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3015043000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3015043000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3015043000139",
+ "nome_responsavel": "GIOVANNI ALEXANDRE DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/3361.75.26",
+ "cep": "32223540",
+ "endereco": "RUA RIO BRANCO 233D",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/620259207D027C4480F7FAE20FD9F4C8F2EE9C17",
+   "id": "620259207D027C4480F7FAE20FD9F4C8F2EE9C17"
+  }
+ },
+ "id": 3015043000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

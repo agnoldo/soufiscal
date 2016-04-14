@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.553.643\/0001-37",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9553643000137"
+ },
+ "cpf_responsavel": "***530616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9553643000137"
+ },
+ "nome": "GRUPO CULTURAL MENINAS DE SINHA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2246060014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9553643000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9553643000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9553643000137",
+ "nome_responsavel": "VALDETE DA SILVA CORDEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134666881",
+ "cep": "30285160",
+ "endereco": "RUA FERNÃO DIAS 1131 A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/01CC0DBBADC5142BAF79E7D7D82022D566E871F9",
+   "id": "01CC0DBBADC5142BAF79E7D7D82022D566E871F9"
+  }
+ },
+ "id": 9553643000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

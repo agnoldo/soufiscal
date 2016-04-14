@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.927.392\/0001-52",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5927392000152"
+ },
+ "cpf_responsavel": "***514646**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5927392000152"
+ },
+ "nome": "MULHERES EM UNIAO - CENTRO DE APOIO E DEFESA DOS DIREITOS DA MULHER",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "19544450017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5927392000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5927392000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5927392000152",
+ "nome_responsavel": "ROSEMARY BAETA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34219421",
+ "cep": "31235060",
+ "endereco": "RUA APORÉ 217",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/42586F81B0E2E743264C8A54E56733EE06DDFBC7",
+   "id": "42586F81B0E2E743264C8A54E56733EE06DDFBC7"
+  }
+ },
+ "id": 5927392000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

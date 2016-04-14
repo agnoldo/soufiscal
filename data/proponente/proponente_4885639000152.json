@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.885.639\/0001-52",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4885639000152"
+ },
+ "cpf_responsavel": "***591246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4885639000152"
+ },
+ "nome": "INSTITUTO DE TERRAS DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4885639000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4885639000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4885639000152",
+ "nome_responsavel": "ANDRE LUIZ COELHO MERLO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(031)39159646",
+ "cep": "31630901",
+ "endereco": "ROD PREFEITO AMÉRICO GIANETTI 4143 - EDIF. GERAIS ANDAR 11 - SERRA VERDE - BELO HORIZONTE\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E0FE89803B1C09F6CBFC366469EB6258E4C6742A",
+   "id": "E0FE89803B1C09F6CBFC366469EB6258E4C6742A"
+  }
+ },
+ "id": 4885639000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.792.229\/0001-67",
+ "fax": "31 3288-0015",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4792229000167"
+ },
+ "cpf_responsavel": "***328406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4792229000167"
+ },
+ "nome": "ASSOCIACAO CULTURAL DOS AMIGOS DA CIDADE E LAR DOS MENINOS SAO VICENTE DE PAULO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1725620011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4792229000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4792229000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4792229000167",
+ "nome_responsavel": "JAIRO SIQUEIRA DE AZEVEDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3228-9237",
+ "cep": "30390570",
+ "endereco": "RUA SÃO VICENTE 300 ENTRADA B",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C47FB52EE9EFA9401051C8B94A9C8189FC838D82",
+   "id": "C47FB52EE9EFA9401051C8B94A9C8189FC838D82"
+  }
+ },
+ "id": 4792229000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

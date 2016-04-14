@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.250.101\/0001-08",
+ "fax": "031 9273-7874",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12250101000108"
+ },
+ "cpf_responsavel": "***496138**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12250101000108"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE TURISMOLOGOS - TURISMOLOGOS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2676770017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12250101000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12250101000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12250101000108",
+ "nome_responsavel": "MARCIO BENSUASCHI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3657-7874",
+ "cep": "30170120",
+ "endereco": "RUA JOSE HEMERCEDINO DE MIRANDA 21",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B2BB8F2B0F0B08234ED3ECD6DA1BCA8B5AA262FC",
+   "id": "B2BB8F2B0F0B08234ED3ECD6DA1BCA8B5AA262FC"
+  }
+ },
+ "id": 12250101000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

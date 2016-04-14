@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.299.826\/0001-69",
+ "fax": "31\/35351044",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18299826000169"
+ },
+ "cpf_responsavel": "***160976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18299826000169"
+ },
+ "nome": "SINDICATO DOS TRABALHADORES RURAIS ASSALARIADOS E AGRICULTORES FAMILIARES DE MATEUS LEME , FLORESTAL, IGARAPE, JUATUBA E SAO JOAQUIM DE BICAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18299826000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18299826000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18299826000169",
+ "nome_responsavel": "JOAO GUALBERTO BORGES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-35351044",
+ "cep": "35670000",
+ "endereco": "AVENIDA PADRE VILAÇA N º 451",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2D8A11C0668E51FAA9CC37E49E5AA31744A7C1EC",
+   "id": "2D8A11C0668E51FAA9CC37E49E5AA31744A7C1EC"
+  }
+ },
+ "id": 18299826000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11795",
+   "id": 11795
+  }
+ }
+}

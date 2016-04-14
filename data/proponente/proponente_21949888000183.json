@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.949.888\/0001-83",
+ "fax": "(31) 3280-2160",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21949888000183"
+ },
+ "cpf_responsavel": "***547806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21949888000183"
+ },
+ "nome": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21949888000183"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21949888000183"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21949888000183",
+ "nome_responsavel": "EVALDO FERREIRA VILELA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3280-2102",
+ "cep": "30330080",
+ "endereco": "AV. JOSE CANDIDO DA SILVEIRA 1500 - CT",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E8DE402E8B374B73681FD368793BD83C21E79FE8",
+   "id": "E8DE402E8B374B73681FD368793BD83C21E79FE8"
+  }
+ },
+ "id": 21949888000183,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

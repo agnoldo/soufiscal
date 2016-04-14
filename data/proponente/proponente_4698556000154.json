@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.698.556\/0001-54",
+ "fax": "31 - 99197878",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4698556000154"
+ },
+ "cpf_responsavel": "***205706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4698556000154"
+ },
+ "nome": "ASSOCIACAO MOVIMENTO RENASCER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4698556000154"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4698556000154"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4698556000154",
+ "nome_responsavel": "CLAUDIO ROBERTO OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 - 30532222",
+ "cep": "32627005",
+ "endereco": "RODOVIA MG 050 KM 2.400 Nº3320",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1A48265A9D25D71676829A75ABE0177F856AEB69",
+   "id": "1A48265A9D25D71676829A75ABE0177F856AEB69"
+  }
+ },
+ "id": 4698556000154,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

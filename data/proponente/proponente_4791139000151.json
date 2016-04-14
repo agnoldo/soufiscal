@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.791.139\/0001-51",
+ "fax": "031 9997-4026",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4791139000151"
+ },
+ "cpf_responsavel": "***785926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4791139000151"
+ },
+ "nome": "COOPERATIVA METROPOLITANA DE HABITACAO POPULAR DE BELO HORIZONTE LIMITADA",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "170261001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4791139000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4791139000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4791139000151",
+ "nome_responsavel": "ITAGORIO CELIO DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3272-9697",
+ "cep": "30190051",
+ "endereco": "RUA DOS GOITACAZES 746 SALA 07",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9F5625F6C2CD0F67CEF114AD6A841B7A2C783D91",
+   "id": "9F5625F6C2CD0F67CEF114AD6A841B7A2C783D91"
+  }
+ },
+ "id": 4791139000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

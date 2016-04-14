@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.574.443\/0001-17",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25574443000117"
+ },
+ "cpf_responsavel": "***583456**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25574443000117"
+ },
+ "nome": "ORGANIZACAO OMOKORIN S DO ILE DE OXAGUIAN",
+ "inscricao_estadual": "2010000038183922",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "751850012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25574443000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25574443000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25574443000117",
+ "nome_responsavel": "ANGELA MARIA DA SILVA GOMES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34565360",
+ "cep": "32675460",
+ "endereco": "RUA POUSO ALEGRE 492",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BE6284D6ED83693F307D2D43A27D59836E95B29E",
+   "id": "BE6284D6ED83693F307D2D43A27D59836E95B29E"
+  }
+ },
+ "id": 25574443000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

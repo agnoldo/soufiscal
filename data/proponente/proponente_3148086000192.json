@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.148.086\/0001-92",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3148086000192"
+ },
+ "cpf_responsavel": "***480796**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3148086000192"
+ },
+ "nome": "INSTITUTO AVANCA BRASIL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3148086000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3148086000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3148086000192",
+ "nome_responsavel": "DIEGO MARCOLI DOS ANJOS MOTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134321596",
+ "cep": "34515460",
+ "endereco": "RUA: ANTONIO MARTINS DOS ANJOS 92",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0C52515514867C27CD3200048ED923C94F524C52",
+   "id": "0C52515514867C27CD3200048ED923C94F524C52"
+  }
+ },
+ "id": 3148086000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

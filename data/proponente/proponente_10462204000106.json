@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.462.204\/0001-06",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10462204000106"
+ },
+ "cpf_responsavel": "***937156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10462204000106"
+ },
+ "nome": "ASSOCIACAO DOS PRODUTORES DE DERIVADOS DE JABUTICABA DE SABARA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10462204000106"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10462204000106"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10462204000106",
+ "nome_responsavel": "EFIGENIA GUIMARAES DO CARMO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3671-6380",
+ "cep": "34515580",
+ "endereco": "RUA D. VIÇOSO 51",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9B7BE7A2838AEFB75696BBF5F0DEDD7C85E4E516",
+   "id": "9B7BE7A2838AEFB75696BBF5F0DEDD7C85E4E516"
+  }
+ },
+ "id": 10462204000106,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

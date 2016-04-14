@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.398.561\/0001-93",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17398561000193"
+ },
+ "cpf_responsavel": "***489416**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17398561000193"
+ },
+ "nome": "ASSOCIACAO DE PROTECAO A MATERNIDADE E A INFANCIA",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17398561000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17398561000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17398561000193",
+ "nome_responsavel": "MARIA DA CONCEICAO PEREIRA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/37131066",
+ "cep": "35730000",
+ "endereco": "RUA SALATIEL ALVES DE DEUS 21",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DAD49A96CBFCC9A4435D27DADF2BB5F3ACE77664",
+   "id": "DAD49A96CBFCC9A4435D27DADF2BB5F3ACE77664"
+  }
+ },
+ "id": 17398561000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13764",
+   "id": 13764
+  }
+ }
+}

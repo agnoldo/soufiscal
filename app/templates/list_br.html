@@ -1,0 +1,18 @@
+<ion-view>
+  <ion-nav-title>{{titulo}}</ion-nav-title>
+  <ion-content padding="true">
+    <h3>{{titulo_painel}}</h3>
+    <ion-list>
+      <ion-item class="item-icon-right item-thumbnail-left item-royal" ui-sref="list({id: list.id})" ng-repeat="list in lists | orderBy: 'nome'">
+        <img ng-src="{{list.thumb}}" style="object-fit: cover;">
+        <h2 class="positive">{{list.nome}}</h2>
+        <p>
+          {{list.total_convenios}} convênios celebrados<br>
+          {{list.descricao}}<br>
+          {{list.descricao2}}
+        </p>
+        <i class="icon ion-ios-arrow-right"></i>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

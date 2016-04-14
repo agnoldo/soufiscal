@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.394.610\/0001-10",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17394610000110"
+ },
+ "cpf_responsavel": "***098116**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17394610000110"
+ },
+ "nome": "FUNDACAO HOSPITALAR SANTO ANTONIO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTA",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17394610000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17394610000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17394610000110",
+ "nome_responsavel": "NIDIA MARIA FONSECA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 36831023",
+ "cep": "35830000",
+ "endereco": "AVENIDA BENEDITO VALADARES 201",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E824640ABDE07BB40FDE0A6D6131C6B694F82F37",
+   "id": "E824640ABDE07BB40FDE0A6D6131C6B694F82F37"
+  }
+ },
+ "id": 17394610000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

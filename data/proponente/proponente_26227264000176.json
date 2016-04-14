@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.227.264\/0001-76",
+ "fax": "31-36714141",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26227264000176"
+ },
+ "cpf_responsavel": "***159006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26227264000176"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA CRISTA DE SABARA",
+ "inscricao_estadual": "2622726400076",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "26227265000176",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26227264000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26227264000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26227264000176",
+ "nome_responsavel": "JOAQUIM DE ROMULO COTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-36714141",
+ "cep": "34505040",
+ "endereco": "RUA INTENDENCIA 278 SALA 02",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FC5554BD1C01B99A30F1159C2CC67426BA90FC69",
+   "id": "FC5554BD1C01B99A30F1159C2CC67426BA90FC69"
+  }
+ },
+ "id": 26227264000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

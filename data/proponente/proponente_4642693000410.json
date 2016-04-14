@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.642.693\/0004-10",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4642693000410"
+ },
+ "cpf_responsavel": "***089006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4642693000410"
+ },
+ "nome": "ASSOCIACAO DESPORTIVA SONHOS DE LIBERDADE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4642693000410"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4642693000410"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4642693000410",
+ "nome_responsavel": "MAURICIO NONATO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 30210021",
+ "cep": "33825500",
+ "endereco": "RUA SETE 87",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E326030C63E891DF55ECA504ED3803CAE2E73E53",
+   "id": "E326030C63E891DF55ECA504ED3803CAE2E73E53"
+  }
+ },
+ "id": 4642693000410,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

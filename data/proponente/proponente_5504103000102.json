@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.504.103\/0001-02",
+ "fax": "31-93476647",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5504103000102"
+ },
+ "cpf_responsavel": "***999426**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5504103000102"
+ },
+ "nome": "ASSOCIACAO GESTORA DE BENEFICIOS SOCIAIS DOS TRABALHADORES EM TRANSPORTES RODOVIARIOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5504103000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5504103000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5504103000102",
+ "nome_responsavel": "JOSE THEODORO GUIMARAES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32220733",
+ "cep": "30120060",
+ "endereco": "RUA DOS CARIJÓS 141 7º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4DF7DD9A84B391BB312FBF7E9C121AB40FD8A3F3",
+   "id": "4DF7DD9A84B391BB312FBF7E9C121AB40FD8A3F3"
+  }
+ },
+ "id": 5504103000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

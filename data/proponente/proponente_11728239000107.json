@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.728.239\/0001-07",
+ "fax": "(31) 32777789",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11728239000107"
+ },
+ "cpf_responsavel": "***352106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11728239000107"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11728239000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11728239000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11728239000107",
+ "nome_responsavel": "MARCELO GOUVEA TEIXEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31) 32775246",
+ "cep": "30130007",
+ "endereco": "AVENIDA AFONSO PENA 2336 - 13º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DC6C8A39332F5564E8CAA19B0C00A613373C7A04",
+   "id": "DC6C8A39332F5564E8CAA19B0C00A613373C7A04"
+  }
+ },
+ "id": 11728239000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

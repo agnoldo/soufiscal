@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.993.139\/0001-13",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16993139000113"
+ },
+ "cpf_responsavel": "***766738**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16993139000113"
+ },
+ "nome": "CGP SOLUTIONS LTDA - EPP",
+ "inscricao_estadual": "002389949.00-70",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16993139000113"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16993139000113"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16993139000113",
+ "nome_responsavel": "CLAUDINEI APARECIDO DE CAMILLO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3130882331",
+ "cep": "32671104",
+ "endereco": "AV JUIZ MARCO TULIO ISAAC 4764",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9E40401D2D22F71231DD5EB6AFAAB7F8CB1B868E",
+   "id": "9E40401D2D22F71231DD5EB6AFAAB7F8CB1B868E"
+  }
+ },
+ "id": 16993139000113,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

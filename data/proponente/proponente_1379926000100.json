@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.379.926\/0001-00",
+ "fax": "31 3227-0006",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1379926000100"
+ },
+ "cpf_responsavel": "***219826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1379926000100"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE EMPRESAS DE TURISMO RURAL - AMETU",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1379926000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1379926000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1379926000100",
+ "nome_responsavel": "SUZANA MARIA DE SOUSA LIMA MATTOS DE PAIVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3227-0006",
+ "cep": "30130141",
+ "endereco": "RUA PARAÍBA 1317 LOJA 15",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CA009702B091332F4EF915129091D691DC41B03B",
+   "id": "CA009702B091332F4EF915129091D691DC41B03B"
+  }
+ },
+ "id": 1379926000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

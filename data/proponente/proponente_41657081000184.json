@@ -1,0 +1,50 @@
+{
+ "cnpj": "41.657.081\/0001-84",
+ "fax": "031\/3379-5660",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=41657081000184"
+ },
+ "cpf_responsavel": "***347856**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=41657081000184"
+ },
+ "nome": "EMPRESA DE TRANSP E TRANSITO DE B HORIZONTE SA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=41657081000184"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=41657081000184"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/41657081000184",
+ "nome_responsavel": "RAMON VICTOR CESAR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "031\/3379-5596\/5596",
+ "cep": "30455902",
+ "endereco": "AVENIDA ENGENHEIRO CARLOS GOULART 900",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F215E3710F21AD4FC73E5065B4349F55647401E5",
+   "id": "F215E3710F21AD4FC73E5065B4349F55647401E5"
+  }
+ },
+ "id": 41657081000184,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

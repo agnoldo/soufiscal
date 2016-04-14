@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.968.681\/0001-93",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20968681000193"
+ },
+ "cpf_responsavel": "***932536**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20968681000193"
+ },
+ "nome": "COMUNIDADE DE DANCAS E CANTOS MUSICAIS VIDA E ADORACAO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isendo",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20968681000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20968681000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20968681000193",
+ "nome_responsavel": "WILSON DE ARAUJO PIMENTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/36213949",
+ "cep": "33200000",
+ "endereco": "RUA ALAGOAS 774 BAIRRO CÉLVIA VESPASIANO MG 33.200-000",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7F9AAE2AE418EAA4BE80D0926CF08216C8CAC300",
+   "id": "7F9AAE2AE418EAA4BE80D0926CF08216C8CAC300"
+  }
+ },
+ "id": 20968681000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

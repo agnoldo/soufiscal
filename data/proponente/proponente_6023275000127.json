@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.023.275\/0001-27",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6023275000127"
+ },
+ "cpf_responsavel": "***799006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6023275000127"
+ },
+ "nome": "VOLUNTARIADO INTERNACIONAL DE DESENVOLVIMENTO E EDUCACAO SOCIAL DO BRASIL - SECAO MINAS GERAIS - VIDES BRASIL - MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6023275000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6023275000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6023275000127",
+ "nome_responsavel": "RODRIGO MARINHO STARLING",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031)32699343",
+ "cep": "30535370",
+ "endereco": "RUA GUAJARÁ 62",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/54E08A947F65D9F09E54F9195AF90740EB2FF9CB",
+   "id": "54E08A947F65D9F09E54F9195AF90740EB2FF9CB"
+  }
+ },
+ "id": 6023275000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

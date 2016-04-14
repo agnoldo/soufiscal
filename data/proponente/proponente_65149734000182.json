@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.149.734\/0001-82",
+ "fax": "031 3641-2069",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65149734000182"
+ },
+ "cpf_responsavel": "***973586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65149734000182"
+ },
+ "nome": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SANTA LUZIA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65149734000182"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65149734000182"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65149734000182",
+ "nome_responsavel": "JOAO BOSCO PINTO MONTEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3641-2069",
+ "cep": "33030130",
+ "endereco": "RUA JOAQUIM SOARES MEIRELLES 117",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/66EDF0B2EE008774C46A1D58D26103AEE416BCA3",
+   "id": "66EDF0B2EE008774C46A1D58D26103AEE416BCA3"
+  }
+ },
+ "id": 65149734000182,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

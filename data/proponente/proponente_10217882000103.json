@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.217.882\/0001-03",
+ "fax": "3135434179",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10217882000103"
+ },
+ "cpf_responsavel": "***957476**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10217882000103"
+ },
+ "nome": "ASSOCIACAO DE AMPARO E RECUPERACAO DE DEPENDENTES QUIMICOS DE RAPOSOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10217882000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10217882000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10217882000103",
+ "nome_responsavel": "MICHEL LEITE DE ABREU",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135434179",
+ "cep": "34400000",
+ "endereco": "RUA ANTONIO CATARINO FERNANDES 178",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/65CD016A8CE94862671EBFDDDCD813E68E2E40BC",
+   "id": "65CD016A8CE94862671EBFDDDCD813E68E2E40BC"
+  }
+ },
+ "id": 10217882000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12470",
+   "id": 12470
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.089.886\/0001-78",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6089886000178"
+ },
+ "cpf_responsavel": "***261205**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6089886000178"
+ },
+ "nome": "NUCLEO BRASILEIRO DE PERCUSSAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2034080011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6089886000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6089886000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6089886000178",
+ "nome_responsavel": "DJALMA NOVAES CORREA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133447843",
+ "cep": "30240140",
+ "endereco": "RUA APODI 59",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3F462025AFAE7A82E44B6AA75E54D08F10C1CB4F",
+   "id": "3F462025AFAE7A82E44B6AA75E54D08F10C1CB4F"
+  }
+ },
+ "id": 6089886000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

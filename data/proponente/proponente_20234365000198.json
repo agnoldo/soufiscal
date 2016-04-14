@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.234.365\/0001-98",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20234365000198"
+ },
+ "cpf_responsavel": "***900676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20234365000198"
+ },
+ "nome": "GRUPO DAS SAMARITANAS NUCLEO DE SABARA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20234365000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20234365000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20234365000198",
+ "nome_responsavel": "ALEXANDRE FELIPE DUARTE CORRADI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3674 6756",
+ "cep": "34535100",
+ "endereco": "AVENIDA ALBERT SCHARLE 1458 SABARÁ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FFAE4A730DF60BD259C23291493BDBF0CD8E0DA7",
+   "id": "FFAE4A730DF60BD259C23291493BDBF0CD8E0DA7"
+  }
+ },
+ "id": 20234365000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

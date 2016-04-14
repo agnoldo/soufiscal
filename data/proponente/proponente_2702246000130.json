@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.702.246\/0001-30",
+ "fax": "(31) 3465-6800",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2702246000130"
+ },
+ "cpf_responsavel": "***775436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2702246000130"
+ },
+ "nome": "OFICINA DE IMAGENS COMUNICACAO E EDUCACAO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "156.097.0011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2702246000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2702246000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2702246000130",
+ "nome_responsavel": "ANDRE HALLAK MARTINS DA COSTA CAMILO GUIMARAES DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3465-6800",
+ "cep": "31015365",
+ "endereco": "RUA SALINAS Nº 1.101",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7032BB159982D4B551A9B871E16BB474994D8ABF",
+   "id": "7032BB159982D4B551A9B871E16BB474994D8ABF"
+  }
+ },
+ "id": 2702246000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

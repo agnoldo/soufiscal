@@ -1,0 +1,1 @@
+{"metadados": {"total_registros": 1}, "municipios": [{"nome": "CONTAGEM", "cod_siconv": 16749, "href": "http://api.convenios.gov.br/siconv/id/municipio/16749", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=16749"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 16749}]}

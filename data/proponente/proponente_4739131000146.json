@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.739.131\/0001-46",
+ "fax": "31 2129-6175",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4739131000146"
+ },
+ "cpf_responsavel": "***847366**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4739131000146"
+ },
+ "nome": "NASCER-NUCLEOS DE ASSISTENCIA SOCIAL CULTURAL E ESPORTE RECREATIVO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4739131000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4739131000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4739131000146",
+ "nome_responsavel": "ANA BEATRIZ DE OLIVEIRA HERINGER",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3053-8552",
+ "cep": "32673144",
+ "endereco": "RUA AZALÉIA 647",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E4400FBBBB128E8E816CBF93440918334E663833",
+   "id": "E4400FBBBB128E8E816CBF93440918334E663833"
+  }
+ },
+ "id": 4739131000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

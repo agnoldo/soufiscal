@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.572.199\/0001-53",
+ "fax": "3132252700",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25572199000153"
+ },
+ "cpf_responsavel": "***303711**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25572199000153"
+ },
+ "nome": "ABRACO - ASSOCIACAO BRASILEIRA COMUNITARIA PARA A PREVENCAO DO ABUSO DE DROGAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1155580017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25572199000153"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25572199000153"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25572199000153",
+ "nome_responsavel": "MONICA CRISTINA MIRANDA SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132252700",
+ "cep": "30110031",
+ "endereco": "AVENIDA DO CONTORNO Nº 4.777",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A4A8BC338486C5B69A525B6E1D0B94D64C25BB78",
+   "id": "A4A8BC338486C5B69A525B6E1D0B94D64C25BB78"
+  }
+ },
+ "id": 25572199000153,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

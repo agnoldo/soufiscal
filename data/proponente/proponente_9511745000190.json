@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.511.745\/0001-90",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9511745000190"
+ },
+ "cpf_responsavel": "***001516**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9511745000190"
+ },
+ "nome": "INSTITUTO APRENDER PROFISSIONALIZAR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2240860019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9511745000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9511745000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9511745000190",
+ "nome_responsavel": "MARCELO GALVAO VILELA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 87343901",
+ "cep": "30720310",
+ "endereco": "RUA CASTIGLIANO 1197",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CD136E994DE8E6CAD8AD5BBDE4BDBB47AF497236",
+   "id": "CD136E994DE8E6CAD8AD5BBDE4BDBB47AF497236"
+  }
+ },
+ "id": 9511745000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

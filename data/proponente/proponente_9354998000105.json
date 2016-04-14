@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.354.998\/0001-05",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9354998000105"
+ },
+ "cpf_responsavel": "***828316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9354998000105"
+ },
+ "nome": "INSTITUTO DE PERMACULTURA ECOVIDA SAO MIGUEL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9354998000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9354998000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9354998000105",
+ "nome_responsavel": "DANIELA GRANDI PANTUSO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197727983",
+ "cep": "30160960",
+ "endereco": "RUA DA BAHIA 1148 SALA 838.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EBC7AE933569F109E2BFD2DEE775A4EA8BD14420",
+   "id": "EBC7AE933569F109E2BFD2DEE775A4EA8BD14420"
+  }
+ },
+ "id": 9354998000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.509.948\/0001-47",
+ "fax": "31-3592-9962",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21509948000147"
+ },
+ "cpf_responsavel": "***817286**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21509948000147"
+ },
+ "nome": "ASSOCIACAO BENEFICIENTE PARA O DESENVOLVIMENTO EDUCACIONAL QUALIFICACAO E REITEGRACAO SOCIAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21509948000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21509948000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21509948000147",
+ "nome_responsavel": "JONATHAN MARTINS ITABORAHI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031-3592-9962 \/ 8503-0943",
+ "cep": "32636100",
+ "endereco": "RUA JOSÉ CAPITÃO 1270",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7F32122596D1F58D291F63061C9E092BD1B8288E",
+   "id": "7F32122596D1F58D291F63061C9E092BD1B8288E"
+  }
+ },
+ "id": 21509948000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

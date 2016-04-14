@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.763.938\/0001-03",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42763938000103"
+ },
+ "cpf_responsavel": "***854546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42763938000103"
+ },
+ "nome": "SERVICO DE ASSISTENCIA A COMUNIDADE SEVAC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42763938000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42763938000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42763938000103",
+ "nome_responsavel": "ADILSON MARQUES DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130371531",
+ "cep": "30512000",
+ "endereco": "RUA INDEPENDENCIA 640",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/031F7BA5132A1B1A6E1E8AB7AA543E905F1E32E9",
+   "id": "031F7BA5132A1B1A6E1E8AB7AA543E905F1E32E9"
+  }
+ },
+ "id": 42763938000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

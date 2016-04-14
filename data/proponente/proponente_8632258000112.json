@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.632.258\/0001-12",
+ "fax": "30320-670",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8632258000112"
+ },
+ "cpf_responsavel": "***514206**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8632258000112"
+ },
+ "nome": "ABOUTFACE BRASIL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "224468001",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8632258000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8632258000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8632258000112",
+ "nome_responsavel": "GUILHERME CORREA GONCALVES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197985452",
+ "cep": "30320670",
+ "endereco": "R. DESEMBARGADOR JORGE FONTANA 200\/1004",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6AA7CB7688263E6544974BE34CDCF5605DF3A82A",
+   "id": "6AA7CB7688263E6544974BE34CDCF5605DF3A82A"
+  }
+ },
+ "id": 8632258000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

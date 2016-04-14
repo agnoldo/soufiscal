@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.241.398\/0001-46",
+ "fax": "31 - 2514 1997",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3241398000146"
+ },
+ "cpf_responsavel": "***115196**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3241398000146"
+ },
+ "nome": "ASSOCIACAO FILMES DE QUINTAL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0200812001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3241398000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3241398000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3241398000146",
+ "nome_responsavel": "EWERTON BELICO DE SOUSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3889 1997",
+ "cep": "30140000",
+ "endereco": "AV. BRASIL 75 - SALA 06",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A3943BE55197A791A7DCCFBD3DE26B3FCE108F7B",
+   "id": "A3943BE55197A791A7DCCFBD3DE26B3FCE108F7B"
+  }
+ },
+ "id": 3241398000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

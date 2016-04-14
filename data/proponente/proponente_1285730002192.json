@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.285.730\/0021-92",
+ "fax": "3132172318",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1285730002192"
+ },
+ "cpf_responsavel": "***977186**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1285730002192"
+ },
+ "nome": "MORADIA E CIDADANIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1929030018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1285730002192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1285730002192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1285730002192",
+ "nome_responsavel": "AUGUSTO DE OLIVEIRA SCHWARTZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132172704",
+ "cep": "30110062",
+ "endereco": "AVENIDA DO CONTORNO 8256 - 1º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/ABA069D3F1D48F84926C96D969EF74E6768EDB89",
+   "id": "ABA069D3F1D48F84926C96D969EF74E6768EDB89"
+  }
+ },
+ "id": 1285730002192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

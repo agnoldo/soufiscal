@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.619.330\/0001-65",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23619330000165"
+ },
+ "cpf_responsavel": "***747456**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23619330000165"
+ },
+ "nome": "IVAIR CARLOS FERREIRA 60974745634",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23619330000165"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23619330000165"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23619330000165",
+ "nome_responsavel": "IVAIR CARLOS FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3196435088",
+ "cep": "30280250",
+ "endereco": "RUA HORTENCIA 432",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/905DE92FE77439B89E61D48DAAA05FDE2620F4A9",
+   "id": "905DE92FE77439B89E61D48DAAA05FDE2620F4A9"
+  }
+ },
+ "id": 23619330000165,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

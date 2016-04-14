@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.728.373\/0001-53",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21728373000153"
+ },
+ "cpf_responsavel": "***858106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21728373000153"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DO BAIRRO ALVARO CAMARGOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0.940.297\/001-6",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21728373000153"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21728373000153"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21728373000153",
+ "nome_responsavel": "GERALDO EZEQUIEL PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3417-7146",
+ "cep": "30860080",
+ "endereco": "RUA PROFESSOR FERNANDO MAGALHÃES 26",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/71AC6A215B0B1857F3AC392C3A27851F6F56F3F6",
+   "id": "71AC6A215B0B1857F3AC392C3A27851F6F56F3F6"
+  }
+ },
+ "id": 21728373000153,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

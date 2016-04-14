@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.264.289\/0001-03",
+ "fax": "31 88661577",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7264289000103"
+ },
+ "cpf_responsavel": "***631966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7264289000103"
+ },
+ "nome": "CENTRO CULTURAL CASA AFRICA C.C.C.A",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "208.606.001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7264289000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7264289000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7264289000103",
+ "nome_responsavel": "MARIA CAROLINA TORRES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 36534244",
+ "cep": "30130140",
+ "endereco": "AV. PORTUGAL 4075 SALA 20 - BAIRRO ITAPOÃ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2265DED23544AE5D3DFC2A41442D6F69D466A4FB",
+   "id": "2265DED23544AE5D3DFC2A41442D6F69D466A4FB"
+  }
+ },
+ "id": 7264289000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

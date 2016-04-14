@@ -1,0 +1,50 @@
+{
+ "cnpj": "73.357.469\/0001-56",
+ "fax": "31 3681 1390",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=73357469000156"
+ },
+ "cpf_responsavel": "***279446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=73357469000156"
+ },
+ "nome": "MUNICIPIO DE LAGOA SANTA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=73357469000156"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=73357469000156"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/73357469000156",
+ "nome_responsavel": "FERNANDO PEREIRA GOMES NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 3688 1300",
+ "cep": "33400000",
+ "endereco": "AV ACADÊMICO NILO FIGUEIREDO 2.500 LOJA ANCORA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/794AD2EB312B9E13CEDD801EF23474D692BDEED3",
+   "id": "794AD2EB312B9E13CEDD801EF23474D692BDEED3"
+  }
+ },
+ "id": 73357469000156,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.087.926\/0004-60",
+ "fax": "31-3461-4400",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4087926000460"
+ },
+ "cpf_responsavel": "***746046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4087926000460"
+ },
+ "nome": "CREDEQ- CENTRO DE RECUPERACAO DE DEPENDENCIA QUIMICA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "005911-2007",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4087926000460"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4087926000460"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4087926000460",
+ "nome_responsavel": "ANA CAROLINA FIGUEIREDO VIEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3461-4400",
+ "cep": "33400000",
+ "endereco": "RUA LUCAS DE MATOS PINHO N° 145BAIRRO VÁRZEA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8F1660BEFB23825B6AD7D20592F80E9B53F43D8E",
+   "id": "8F1660BEFB23825B6AD7D20592F80E9B53F43D8E"
+  }
+ },
+ "id": 4087926000460,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

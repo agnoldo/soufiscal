@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.543.976\/0001-31",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25543976000131"
+ },
+ "cpf_responsavel": "***910806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25543976000131"
+ },
+ "nome": "ALDEBARAM VALUE - INDUSTRIA COMERCIO E CONSULTORIA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25543976000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25543976000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25543976000131",
+ "nome_responsavel": "RICARDO PENNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134279970",
+ "cep": "31255700",
+ "endereco": "RUA FCO VAZ DE MELO 32 B",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E4764C2472DFB82857506B9C8C1645162166CD48",
+   "id": "E4764C2472DFB82857506B9C8C1645162166CD48"
+  }
+ },
+ "id": 25543976000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

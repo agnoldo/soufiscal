@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.947.700\/0001-68",
+ "fax": "31 34762036",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21947700000168"
+ },
+ "cpf_responsavel": "***924976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21947700000168"
+ },
+ "nome": "CRECHE COMUNITARIA RECANTO FELIZ",
+ "inscricao_estadual": "DECRETO Nº 9.708",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3522470011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21947700000168"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21947700000168"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21947700000168",
+ "nome_responsavel": "JOSE HOMERO MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34762036 20",
+ "cep": "31360020",
+ "endereco": "RUA CONGONHAL 165\/153",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EE27CE45D0FCB34033109B301A35A56A0901FF28",
+   "id": "EE27CE45D0FCB34033109B301A35A56A0901FF28"
+  }
+ },
+ "id": 21947700000168,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

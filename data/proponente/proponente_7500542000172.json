@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.500.542\/0001-72",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7500542000172"
+ },
+ "cpf_responsavel": "***600826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7500542000172"
+ },
+ "nome": "ASSOCIACAO RECRIAR DO MUNICIPIO DE BETIM",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7500542000172"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7500542000172"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7500542000172",
+ "nome_responsavel": "DAMARES NIGIA FERREIRA DE QUEIROZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "30535829",
+ "cep": "32652220",
+ "endereco": "RUA SAO SALVADOR 335",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D0B1C7B93271A0238B426DFC98B4712F351D713A",
+   "id": "D0B1C7B93271A0238B426DFC98B4712F351D713A"
+  }
+ },
+ "id": 7500542000172,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.055.795\/0001-59",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5055795000159"
+ },
+ "cpf_responsavel": "***593836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5055795000159"
+ },
+ "nome": "INSTITUTO CULTURAL AMILCAR MARTINS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1734550012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5055795000159"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5055795000159"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5055795000159",
+ "nome_responsavel": "AMILCAR VIANA MARTINS FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32746666",
+ "cep": "30150311",
+ "endereco": "RUA CEARÁ 2037",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/35C1FF451002EC4EFB8716FF94D46BB38A68B35D",
+   "id": "35C1FF451002EC4EFB8716FF94D46BB38A68B35D"
+  }
+ },
+ "id": 5055795000159,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.969.855\/0001-90",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18969855000190"
+ },
+ "cpf_responsavel": "***265716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18969855000190"
+ },
+ "nome": "INSTITUTO DEBORAH EPI- IDE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18969855000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18969855000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18969855000190",
+ "nome_responsavel": "HAYDEE GUERRA DA CONCEICAO OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 33528981",
+ "cep": "32341340",
+ "endereco": "RUA URUCURI 311 - SALA 03",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2A727FF2E2CF2E2AEE2DF084AF16501BB3ED861F",
+   "id": "2A727FF2E2CF2E2AEE2DF084AF16501BB3ED861F"
+  }
+ },
+ "id": 18969855000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

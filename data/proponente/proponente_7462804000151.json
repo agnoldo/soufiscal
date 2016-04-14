@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.462.804\/0001-51",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7462804000151"
+ },
+ "cpf_responsavel": "***057908**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7462804000151"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DAS EMPRESAS DE ECOTURISMO E TURISMO DE AVENTURA - ABETA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1961500016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7462804000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7462804000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7462804000151",
+ "nome_responsavel": "JEAN CLAUDE MARC RAZEL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3261-5707",
+ "cep": "30140150",
+ "endereco": "AV. CRISTÓVÃO COLOMBO Nº 550 - SALA 505",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F963E8E51D7E81CD66A594F37E1541F0432C1BFF",
+   "id": "F963E8E51D7E81CD66A594F37E1541F0432C1BFF"
+  }
+ },
+ "id": 7462804000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

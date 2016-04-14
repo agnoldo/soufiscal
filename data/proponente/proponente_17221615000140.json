@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.221.615\/0001-40",
+ "fax": "031-3304-1327",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17221615000140"
+ },
+ "cpf_responsavel": "***398246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17221615000140"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE REABILITACAO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "402738001-X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17221615000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17221615000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17221615000140",
+ "nome_responsavel": "ANGELO ALVES MENDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031-3304-1300",
+ "cep": "30210300",
+ "endereco": "RUA PROFESSOR OTÁVIO COELHO DE MAGALHÃES 111",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F3D7C501CC76B9AE8E56A45F2638829B96A461BF",
+   "id": "F3D7C501CC76B9AE8E56A45F2638829B96A461BF"
+  }
+ },
+ "id": 17221615000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

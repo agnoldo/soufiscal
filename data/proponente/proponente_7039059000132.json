@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.039.059\/0001-32",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7039059000132"
+ },
+ "cpf_responsavel": "***561396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7039059000132"
+ },
+ "nome": "ASCAR - ASSOCIACAO DOS CATADORES DE MATERIAIS RECICLAVEIS DE RAPOSOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7039059000132"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7039059000132"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7039059000132",
+ "nome_responsavel": "MARIA TEREZINHA SILVA MAGALHAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 8504-5190",
+ "cep": "34400000",
+ "endereco": "RUA JOSE EUSTÁQUIO DE MELO 88",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/583F62FCB9E53680B178ED1DEC0D825D979371F2",
+   "id": "583F62FCB9E53680B178ED1DEC0D825D979371F2"
+  }
+ },
+ "id": 7039059000132,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12470",
+   "id": 12470
+  }
+ }
+}

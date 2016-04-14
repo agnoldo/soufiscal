@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.359.415\/0001-59",
+ "fax": "31-3356-6537",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17359415000159"
+ },
+ "cpf_responsavel": "***734546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17359415000159"
+ },
+ "nome": "INSTITUICAO ESPIRITA LAR DE MARCOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "72049016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17359415000159"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17359415000159"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17359415000159",
+ "nome_responsavel": "EUSTAQUIO GERVASIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3392-3855",
+ "cep": "32113460",
+ "endereco": "RUA CARLOS PINHEIRO CHAGAS 170",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E9F7282CFF8123B5C6469364D05ABA9F45AF7393",
+   "id": "E9F7282CFF8123B5C6469364D05ABA9F45AF7393"
+  }
+ },
+ "id": 17359415000159,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

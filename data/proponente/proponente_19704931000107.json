@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.704.931\/0001-07",
+ "fax": "97664310",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19704931000107"
+ },
+ "cpf_responsavel": "***135876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19704931000107"
+ },
+ "nome": "GRUPO ESPIRITA IRMAO LAZARO",
+ "inscricao_estadual": "11558\/16081994",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "4974\/08011988",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19704931000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19704931000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19704931000107",
+ "nome_responsavel": "ELIANDRO DAMIAO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "30895000",
+ "cep": "32400000",
+ "endereco": "RUA GONÇALVES DIAS N°205",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DA667EEF93A00778659CA04B3D64EA3A34F79782",
+   "id": "DA667EEF93A00778659CA04B3D64EA3A34F79782"
+  }
+ },
+ "id": 19704931000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13510",
+   "id": 13510
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.592.252\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7592252000104"
+ },
+ "cpf_responsavel": "***716226**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7592252000104"
+ },
+ "nome": "ASSOCIACAO TEIA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "197401001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7592252000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7592252000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7592252000104",
+ "nome_responsavel": "SERGIO BORGES MARTINS FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121274979",
+ "cep": "30431058",
+ "endereco": "RUA RIO NEGRO 855 ALTO BARROCA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/741544CD4926BE613A6F884CB7D0989AA86B4127",
+   "id": "741544CD4926BE613A6F884CB7D0989AA86B4127"
+  }
+ },
+ "id": 7592252000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

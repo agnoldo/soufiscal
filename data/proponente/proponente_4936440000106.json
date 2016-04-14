@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.936.440\/0001-06",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4936440000106"
+ },
+ "cpf_responsavel": "***595036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4936440000106"
+ },
+ "nome": "BAI - EDUCACAO, ARTE E MEIO AMBIENTE",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1722410016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4936440000106"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4936440000106"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4936440000106",
+ "nome_responsavel": "KLEBER GESTEIRA E MATOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135678612",
+ "cep": "30190050",
+ "endereco": "RUA DOS GOITACAZES 103\/1706",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5C30E8327000FAB8A1C154447AB13358DCD0B91A",
+   "id": "5C30E8327000FAB8A1C154447AB13358DCD0B91A"
+  }
+ },
+ "id": 4936440000106,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

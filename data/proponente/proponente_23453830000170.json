@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.453.830\/0001-70",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23453830000170"
+ },
+ "cpf_responsavel": "***893228**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23453830000170"
+ },
+ "nome": "INSTITUTO NACIONAL DE DESENVOLVIMENTO SOCIAL E HUMANO - INDSH",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0116",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23453830000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23453830000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23453830000170",
+ "nome_responsavel": "JOSE CARLOS RIZOLI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 - 36603719",
+ "cep": "33600000",
+ "endereco": "RUA DR. CRISTIANO OTTONI 233",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FB33A66E1EB84B0F8EE4EF5C61CB1A73C76A5F44",
+   "id": "FB33A66E1EB84B0F8EE4EF5C61CB1A73C76A5F44"
+  }
+ },
+ "id": 23453830000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

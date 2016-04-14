@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.382.922\/0001-24",
+ "fax": "31 9999 2144",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5382922000124"
+ },
+ "cpf_responsavel": "***678106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5382922000124"
+ },
+ "nome": "ASSOCIACAO CULTIVANDO VIDAS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "91085\/0011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5382922000124"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5382922000124"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5382922000124",
+ "nome_responsavel": "JOAO BATISTA DE LANA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 9758 3306",
+ "cep": "32690270",
+ "endereco": "RUA LAS VEGAS 100",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/479DC7CFAFCB4DA414DD0B40A44D0DD99D64C7DE",
+   "id": "479DC7CFAFCB4DA414DD0B40A44D0DD99D64C7DE"
+  }
+ },
+ "id": 5382922000124,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

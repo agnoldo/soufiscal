@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.042.322\/0001-17",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5042322000117"
+ },
+ "cpf_responsavel": "***107896**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5042322000117"
+ },
+ "nome": "CRECHE LAR CRIANCA FELIZ",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5042322000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5042322000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5042322000117",
+ "nome_responsavel": "ROSILENE DE PAULA DA SILVA FERNANDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)35118258",
+ "cep": "32611232",
+ "endereco": "RUA PIRAPANEMA Nº 340",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EA018DA58C85BECBBD76178E2418B2C13C2D91AC",
+   "id": "EA018DA58C85BECBBD76178E2418B2C13C2D91AC"
+  }
+ },
+ "id": 5042322000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

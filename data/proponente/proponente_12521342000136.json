@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.521.342\/0001-36",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12521342000136"
+ },
+ "cpf_responsavel": "***014006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12521342000136"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE EMPRESAS DE BIOTECNOLOGIA E CIENCIAS DA VIDA",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "72061868-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12521342000136"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12521342000136"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12521342000136",
+ "nome_responsavel": "GIANA MARCELLINI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3331-1625",
+ "cep": "32210180",
+ "endereco": "AV. BABITA CAMARGOS 766 - 1O. ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9EC3A14FA6020B1C256CA3C054D198E344C23A04",
+   "id": "9EC3A14FA6020B1C256CA3C054D198E344C23A04"
+  }
+ },
+ "id": 12521342000136,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

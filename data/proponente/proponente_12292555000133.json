@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.292.555\/0001-33",
+ "fax": "31\/87759916",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12292555000133"
+ },
+ "cpf_responsavel": "***291706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12292555000133"
+ },
+ "nome": "GENESIS - ASSOCIACAO DOS MORADORES DO BAIRRO WASHINGTON PIRES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12292555000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12292555000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12292555000133",
+ "nome_responsavel": "CARLOS ELIAS DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/35999492",
+ "cep": "32400000",
+ "endereco": "RUA PLATINA 19A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/75A28E8D3D367E3040E6FE643BED2295220C38D2",
+   "id": "75A28E8D3D367E3040E6FE643BED2295220C38D2"
+  }
+ },
+ "id": 12292555000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13510",
+   "id": 13510
+  }
+ }
+}

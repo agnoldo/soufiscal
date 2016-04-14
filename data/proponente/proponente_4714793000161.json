@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.714.793\/0001-61",
+ "fax": "31-3269-9343",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4714793000161"
+ },
+ "cpf_responsavel": "***611646**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4714793000161"
+ },
+ "nome": "INSTITUTO DE GESTAO ORGANIZACIONAL E TECNOLOGIA APLICADA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "16951200016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4714793000161"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4714793000161"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4714793000161",
+ "nome_responsavel": "HELIANE DE GUADALUPE ALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3269-9343",
+ "cep": "30130141",
+ "endereco": "RUA PARAIBA 1352 CONJ. 1501",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E61BA791EB40CE86B065F44A162A398C41B74D25",
+   "id": "E61BA791EB40CE86B065F44A162A398C41B74D25"
+  }
+ },
+ "id": 4714793000161,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.798.141\/0001-00",
+ "fax": "31 34733611",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=798141000100"
+ },
+ "cpf_responsavel": "***473666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=798141000100"
+ },
+ "nome": "LUZ, CAMERA, AQUI, LOCACAO LTDA - ME",
+ "inscricao_estadual": "0622996070070",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "1201550014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=798141000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=798141000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/798141000100",
+ "nome_responsavel": "JULIANO MAGALHAES DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 34179460",
+ "cep": "30850620",
+ "endereco": "RUA NELSON SOARES 85",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7AFD57522F12DC2966E9AE4368912EC3D93271F4",
+   "id": "7AFD57522F12DC2966E9AE4368912EC3D93271F4"
+  }
+ },
+ "id": 798141000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.936.236\/0001-95",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4936236000195"
+ },
+ "cpf_responsavel": "***354206**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4936236000195"
+ },
+ "nome": "ASSOCIACAO DOS ARTISTAS DE PEDRO LEOPOLDO E REGIAO COOPERART",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4936236000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4936236000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4936236000195",
+ "nome_responsavel": "VALERIO SENA THOMAZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-99952263",
+ "cep": "33600000",
+ "endereco": "RUA COMENDADOR ANTÔNIO ALVES 201 - A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F05383FADB40F7423BB7C0B545E43E3090A3F810",
+   "id": "F05383FADB40F7423BB7C0B545E43E3090A3F810"
+  }
+ },
+ "id": 4936236000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

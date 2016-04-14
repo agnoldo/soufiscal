@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.505.249\/0282-42",
+ "fax": "31 33194225",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17505249028242"
+ },
+ "cpf_responsavel": "***841296**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17505249028242"
+ },
+ "nome": "MITRA ARQUIDIOCESANA DE BELO HORIZONTE",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17505249028242"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17505249028242"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17505249028242",
+ "nome_responsavel": "MONICA EUSTAQUIO FONSECA FERNANDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33194487",
+ "cep": "30535901",
+ "endereco": "AV. DOM JOSÉ GASPAR 500",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D6A200DFF0707A84DE859B78A5ED1827BC1C1380",
+   "id": "D6A200DFF0707A84DE859B78A5ED1827BC1C1380"
+  }
+ },
+ "id": 17505249028242,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

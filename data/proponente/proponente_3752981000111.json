@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.752.981\/0001-11",
+ "fax": "3130323004",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3752981000111"
+ },
+ "cpf_responsavel": "***868439**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3752981000111"
+ },
+ "nome": "CISPEMG-CENTRO DE INTEGRACAO DOS SERVIDORES PUBLICOS DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "01949030013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3752981000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3752981000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3752981000111",
+ "nome_responsavel": "STEVAN BRASILISIO STELMATCHUK",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3132719976",
+ "cep": "30130923",
+ "endereco": "AV AFONSO PENA 262",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/790596EC372F9627B10C66F391B00A52B5625EB6",
+   "id": "790596EC372F9627B10C66F391B00A52B5625EB6"
+  }
+ },
+ "id": 3752981000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

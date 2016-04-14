@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.888.232\/0001-89",
+ "fax": "(31) 39155264",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4888232000189"
+ },
+ "cpf_responsavel": "***180526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4888232000189"
+ },
+ "nome": "INSTITUTO DE DESENVOLVIMENTO DO NORTE E NORDESTE DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4888232000189"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4888232000189"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4888232000189",
+ "nome_responsavel": "RICARDO AUGUSTO DA COSTA CAMPOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 39155198\/5209",
+ "cep": "30630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/N - SERRA VERDE - 8°ANDAR EDIFÍCIO GERAIS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/245896AB9B024DCAF11EA56E2749C6F34D34DB8D",
+   "id": "245896AB9B024DCAF11EA56E2749C6F34D34DB8D"
+  }
+ },
+ "id": 4888232000189,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

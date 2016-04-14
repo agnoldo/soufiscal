@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.579.011\/0001-42",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9579011000142"
+ },
+ "cpf_responsavel": "***849786**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9579011000142"
+ },
+ "nome": "ASSOCIACAO CUFA - BH DA JUVENTUDE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2251640015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9579011000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9579011000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9579011000142",
+ "nome_responsavel": "CARLOS HENRIQUE RODRIGUES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34710885",
+ "cep": "30820360",
+ "endereco": "R.ANTONIO PRETO 81",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E4F66462B7B61904ED93F3745C5B126C46DC57A2",
+   "id": "E4F66462B7B61904ED93F3745C5B126C46DC57A2"
+  }
+ },
+ "id": 9579011000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

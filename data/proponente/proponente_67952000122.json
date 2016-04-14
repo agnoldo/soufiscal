@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.067.952\/0001-22",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=67952000122"
+ },
+ "cpf_responsavel": "***158766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=67952000122"
+ },
+ "nome": "PROJETO BOM PASTOR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=67952000122"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=67952000122"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/67952000122",
+ "nome_responsavel": "MARINALDO TEIXEIRA NASCIMENTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 \/ 3672-2277",
+ "cep": "34600000",
+ "endereco": "RUA SANTO ANTÔNIO DO AMPARO 207",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/52D934B7F231F18D53C9DE9EFFDEB7DB7E68E54B",
+   "id": "52D934B7F231F18D53C9DE9EFFDEB7DB7E68E54B"
+  }
+ },
+ "id": 67952000122,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

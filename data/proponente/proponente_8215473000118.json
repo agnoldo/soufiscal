@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.215.473\/0001-18",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8215473000118"
+ },
+ "cpf_responsavel": "***970266**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8215473000118"
+ },
+ "nome": "INSTITUTO JOAO AYRES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2415000013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8215473000118"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8215473000118"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8215473000118",
+ "nome_responsavel": "AIRAM RESENDE BOA MORTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031)32269807",
+ "cep": "30180111",
+ "endereco": "AV. CONTORNO 800 - SALA 507",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5A88A101D8111A9C307E0FB258E6AFCDDDB5DE50",
+   "id": "5A88A101D8111A9C307E0FB258E6AFCDDDB5DE50"
+  }
+ },
+ "id": 8215473000118,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

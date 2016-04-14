@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.305.990\/0001-15",
+ "fax": "31 25516226",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7305990000115"
+ },
+ "cpf_responsavel": "***563316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7305990000115"
+ },
+ "nome": "PROJETO DE GENEROSIDADE E AMOR EM MUTIRAO- OFICINAS DA CIDADANIA (PROJETO GAM)",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2035530010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7305990000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7305990000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7305990000115",
+ "nome_responsavel": "FABIO AURELIO GABRIEL DE LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 25516226",
+ "cep": "30640000",
+ "endereco": "AV. SINFRÔNIO BROCHADO 1053",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DD17F6F21994B676403C71ECFE45A49F8BFC9748",
+   "id": "DD17F6F21994B676403C71ECFE45A49F8BFC9748"
+  }
+ },
+ "id": 7305990000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.508.312\/0001-80",
+ "fax": "31 33857753",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21508312000180"
+ },
+ "cpf_responsavel": "***594706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21508312000180"
+ },
+ "nome": "CRECHE COMUNITARIA PINGO DE GENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "01213000014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21508312000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21508312000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21508312000180",
+ "nome_responsavel": "CREUZA IZAQUIEL GABRIEL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33857753",
+ "cep": "30662290",
+ "endereco": "AVENIDA SENADOR LEVINDO COELHO 130",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5A0EEE07AF19E94A1170A982908329EE5FEB00A0",
+   "id": "5A0EEE07AF19E94A1170A982908329EE5FEB00A0"
+  }
+ },
+ "id": 21508312000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.921.357\/0001-26",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5921357000126"
+ },
+ "cpf_responsavel": "***757346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5921357000126"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE DEFESA DO TRABALHO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0.201.254\/001-X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5921357000126"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5921357000126"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5921357000126",
+ "nome_responsavel": "IRANI VIEIRA BARBOSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136438360",
+ "cep": "31720200",
+ "endereco": "AVENIDA GENERAL OLÍMPIO MOURÃO FILHO Nº 496",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4A1E092369F6B203740472619F5702EDF3B49FD9",
+   "id": "4A1E092369F6B203740472619F5702EDF3B49FD9"
+  }
+ },
+ "id": 5921357000126,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

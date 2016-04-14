@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.439.458\/0001-68",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11439458000168"
+ },
+ "cpf_responsavel": "***417546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11439458000168"
+ },
+ "nome": "OBSERVATORIO DA DIVERSIDADE CULTURAL",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "251853001-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11439458000168"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11439458000168"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11439458000168",
+ "nome_responsavel": "ALEXANDRE DE SOUZA MILAGRES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3184692181",
+ "cep": "30160906",
+ "endereco": "RUA DA BAHIA 1148 SALA 1708",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/79ECF43A0D6346A526C3A0E1E373C7186E1736E8",
+   "id": "79ECF43A0D6346A526C3A0E1E373C7186E1736E8"
+  }
+ },
+ "id": 11439458000168,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

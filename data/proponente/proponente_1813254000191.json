@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.813.254\/0001-91",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1813254000191"
+ },
+ "cpf_responsavel": "***503888**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1813254000191"
+ },
+ "nome": "CENTRO APOIO COMUNITARIO BAIRRO RETIRO E NOVO RETIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1813254000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1813254000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1813254000191",
+ "nome_responsavel": "VALERIA CRISTINA SOARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3187797867",
+ "cep": "35740000",
+ "endereco": "RUA MAESTRO CID SILVA 875",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/612581419C28D3175024D33E605D4A7C66E402D0",
+   "id": "612581419C28D3175024D33E605D4A7C66E402D0"
+  }
+ },
+ "id": 1813254000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12102",
+   "id": 12102
+  }
+ }
+}

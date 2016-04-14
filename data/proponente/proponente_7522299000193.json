@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.522.299\/0001-93",
+ "fax": "3197973052",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7522299000193"
+ },
+ "cpf_responsavel": "***121416**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7522299000193"
+ },
+ "nome": "AMIPS - ASSOCIACAO MINEIRA PROJETOS SOCIAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7522299000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7522299000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7522299000193",
+ "nome_responsavel": "DARIO JOSE DA SILVA FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197973052",
+ "cep": "30120908",
+ "endereco": "RUA DOS CAETÉS Nº 530 SALA 620",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/655210AFC17A53FE22F7E7420E68437C037E95AD",
+   "id": "655210AFC17A53FE22F7E7420E68437C037E95AD"
+  }
+ },
+ "id": 7522299000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

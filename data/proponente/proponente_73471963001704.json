@@ -1,0 +1,50 @@
+{
+ "cnpj": "73.471.963\/0017-04",
+ "fax": "31-3408-1503",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=73471963001704"
+ },
+ "cpf_responsavel": "***480126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=73471963001704"
+ },
+ "nome": "SENAT SERVICO NACIONAL DE APRENDIZAGEM DO TRANSPORTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=73471963001704"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=73471963001704"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/73471963001704",
+ "nome_responsavel": "JOSE VICENTE GONCALVES PINTO JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3408-1501",
+ "cep": "31615500",
+ "endereco": "RUA PRESIDENTE MANOEL SOARES COSTA 01",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3AD16A4455AEFE658EBB826357FBB6DC877A39F4",
+   "id": "3AD16A4455AEFE658EBB826357FBB6DC877A39F4"
+  }
+ },
+ "id": 73471963001704,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

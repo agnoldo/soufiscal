@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.711.187\/0001-02",
+ "fax": "31 3713 1420",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1711187000102"
+ },
+ "cpf_responsavel": "***816886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1711187000102"
+ },
+ "nome": "ACAO SOCIAL COMUNITARIA DE CAPIM BRANCO - ASCOCAB",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1711187000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1711187000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1711187000102",
+ "nome_responsavel": "ROMAR GONCALVES RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3713 1661",
+ "cep": "35730000",
+ "endereco": "RUA JOSÉ DIAS DA SILVA 460",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/19C52A18A67F0250619AA9918EE0F5BF7145244F",
+   "id": "19C52A18A67F0250619AA9918EE0F5BF7145244F"
+  }
+ },
+ "id": 1711187000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13764",
+   "id": 13764
+  }
+ }
+}

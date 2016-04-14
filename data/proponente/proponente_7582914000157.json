@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.582.914\/0001-57",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7582914000157"
+ },
+ "cpf_responsavel": "***687346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7582914000157"
+ },
+ "nome": "COOMARRIN COOPERATIVA DE MATERIAIS RECICLAVEIS DE RIBEIRAO DAS NEVES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7582914000157"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7582914000157"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7582914000157",
+ "nome_responsavel": "ERENICE MENDES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 36257464",
+ "cep": "33880160",
+ "endereco": "RUA JOÃO LÉLIO NOGUEIRA FILHO 2138",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E47F20797BCD5DC4C3F0EB96EFC2CC2C2B54704E",
+   "id": "E47F20797BCD5DC4C3F0EB96EFC2CC2C2B54704E"
+  }
+ },
+ "id": 7582914000157,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

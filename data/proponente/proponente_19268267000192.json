@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.268.267\/0001-92",
+ "fax": "(31) 3589-7412",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19268267000192"
+ },
+ "cpf_responsavel": "***899486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19268267000192"
+ },
+ "nome": "FUNDACAO DOM CABRAL",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "319\/02447",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19268267000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19268267000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19268267000192",
+ "nome_responsavel": "EMERSON DE ALMEIDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3589-7328",
+ "cep": "34000000",
+ "endereco": "AV. PRINCESA DIANA 760",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E34E457BFAAAA463DA76D71DBC71BECE310242A8",
+   "id": "E34E457BFAAAA463DA76D71DBC71BECE310242A8"
+  }
+ },
+ "id": 19268267000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

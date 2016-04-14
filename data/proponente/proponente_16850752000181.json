@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.850.752\/0001-81",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16850752000181"
+ },
+ "cpf_responsavel": "***962346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16850752000181"
+ },
+ "nome": "LIGA MUNICIPAL DE DESPORTO DE NOVA LIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/202\/10000",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16850752000181"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16850752000181"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16850752000181",
+ "nome_responsavel": "ABILIO COUTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3542-5711",
+ "cep": "34000000",
+ "endereco": "RUA JOSÉ NERY SANTOS41",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8A4135664E22C06B4B9CA381E02536841172133C",
+   "id": "8A4135664E22C06B4B9CA381E02536841172133C"
+  }
+ },
+ "id": 16850752000181,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

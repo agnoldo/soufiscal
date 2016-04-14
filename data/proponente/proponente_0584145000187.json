@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.584.145\/0001-87",
+ "fax": "3185988156",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=584145000187"
+ },
+ "cpf_responsavel": "***465946**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=584145000187"
+ },
+ "nome": "ASSOCIACAO DOS CONSELHEIROS TUTELARES DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=584145000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=584145000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/584145000187",
+ "nome_responsavel": "JOSE FERNANDES DOS SANTOS NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134478782",
+ "cep": "31985190",
+ "endereco": "RUA DJALMA CASSIMIRO DE ARAÚJO 204 - DOM SILVÉRIO - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A11C669827BF447809836775E469BDFA89AF6B5E",
+   "id": "A11C669827BF447809836775E469BDFA89AF6B5E"
+  }
+ },
+ "id": 584145000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.422.056\/0001-37",
+ "fax": "31\/32844750",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17422056000137"
+ },
+ "cpf_responsavel": "***374886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17422056000137"
+ },
+ "nome": "INSTITUTO EUVALDO LODI NUCLEO REGIONAL MINAS GERAIS",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "402777\/001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17422056000137"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17422056000137"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17422056000137",
+ "nome_responsavel": "OLAVO MACHADO JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32634752",
+ "cep": "30110028",
+ "endereco": "AV DO CONTORNO  4456 -FUNCIONÁRIOS - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1F7FB4FF4F69E27B9112439554BEC635A9F4475F",
+   "id": "1F7FB4FF4F69E27B9112439554BEC635A9F4475F"
+  }
+ },
+ "id": 17422056000137,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

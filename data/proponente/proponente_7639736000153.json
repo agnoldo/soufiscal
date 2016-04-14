@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.639.736\/0001-53",
+ "fax": "31- 30829367",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7639736000153"
+ },
+ "cpf_responsavel": "***929586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7639736000153"
+ },
+ "nome": "GRUPO CULTURAL NUC - GC. NUC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7639736000153"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7639736000153"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7639736000153",
+ "nome_responsavel": "JULIO CEZAR PEREIRA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31- 30829367",
+ "cep": "30285170",
+ "endereco": "RUA DESEMBARGADOR BRÁULIO 938 LJ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/38F0FBC2D997486664A61CA2E78C869BB32C5070",
+   "id": "38F0FBC2D997486664A61CA2E78C869BB32C5070"
+  }
+ },
+ "id": 7639736000153,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.126.040\/0001-54",
+ "fax": "31-3277-5286",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21126040000154"
+ },
+ "cpf_responsavel": "***293526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21126040000154"
+ },
+ "nome": "ASSOCIACAO MUNICIPAL DE ASSISTENCIA SOCIAL AMAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21126040000154"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21126040000154"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21126040000154",
+ "nome_responsavel": "AJALMAR JOSE DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3277-5005",
+ "cep": "30130009",
+ "endereco": "AV. AFONSO PENA 4000 - TÉRREO - MANGABEIRAS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CD86761A8D8E50DEC8F78FFB5E7DB00F8E417752",
+   "id": "CD86761A8D8E50DEC8F78FFB5E7DB00F8E417752"
+  }
+ },
+ "id": 21126040000154,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

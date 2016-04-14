@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.313.833\/0001-78",
+ "fax": "3135363972",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18313833000178"
+ },
+ "cpf_responsavel": "***078836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18313833000178"
+ },
+ "nome": "MUNICIPIO DE FLORESTAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18313833000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18313833000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18313833000178",
+ "nome_responsavel": "HERBERT FERNANDO MARTINS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3135363990",
+ "cep": "35690000",
+ "endereco": "RUA: BENEDITO VALADARES Nº 243",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6B330F09C41EF8AA5D33247552064BE3226A7C19",
+   "id": "6B330F09C41EF8AA5D33247552064BE3226A7C19"
+  }
+ },
+ "id": 18313833000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13810",
+   "id": 13810
+  }
+ }
+}

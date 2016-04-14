@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.080.900\/0001-59",
+ "fax": "3132010463",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1080900000159"
+ },
+ "cpf_responsavel": "***306906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1080900000159"
+ },
+ "nome": "INSTITUTO POLIT GOVERNAMENTAIS E ASSESSORAM PARLAMENTAR",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1080900000159"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1080900000159"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1080900000159",
+ "nome_responsavel": "ALANCLAY NUNES PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132010463",
+ "cep": "30180001",
+ "endereco": "AVENIDA AMAZONAS Nº 687 CONJUNTO 1005",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/88C99D65D804319D5FFCF10E5DF54A80F75AD79A",
+   "id": "88C99D65D804319D5FFCF10E5DF54A80F75AD79A"
+  }
+ },
+ "id": 1080900000159,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

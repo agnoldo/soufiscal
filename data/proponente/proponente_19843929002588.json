@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.843.929\/0025-88",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19843929002588"
+ },
+ "cpf_responsavel": "***290856**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19843929002588"
+ },
+ "nome": "FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19843929002588"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19843929002588"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19843929002588",
+ "nome_responsavel": "RAQUEL MARTINS PINHEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3132179001",
+ "cep": "30130110",
+ "endereco": "ALAMEDA EZEQUIEL DIAS 365",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2150C422C03A9D0D2EA387E4E175FA66E7A56C04",
+   "id": "2150C422C03A9D0D2EA387E4E175FA66E7A56C04"
+  }
+ },
+ "id": 19843929002588,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

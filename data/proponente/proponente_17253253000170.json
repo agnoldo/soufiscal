@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.253.253\/0001-70",
+ "fax": "(31) 3280-9135",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17253253000170"
+ },
+ "cpf_responsavel": "***141736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17253253000170"
+ },
+ "nome": "FUNDACAO MINEIRA DE EDUCACAO E CULTURA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3367130011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17253253000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17253253000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17253253000170",
+ "nome_responsavel": "ANTONIO TOME LOURES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3280-9100",
+ "cep": "30130009",
+ "endereco": "AV. AFONSO PENA N.º 3880\/4.º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4F91EC6B4DFAAC12523809681FE4F59FFBE8C31A",
+   "id": "4F91EC6B4DFAAC12523809681FE4F59FFBE8C31A"
+  }
+ },
+ "id": 17253253000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

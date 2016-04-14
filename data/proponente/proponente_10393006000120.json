@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.393.006\/0001-20",
+ "fax": "31-34842387",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10393006000120"
+ },
+ "cpf_responsavel": "***734726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10393006000120"
+ },
+ "nome": "CONSORCIO REGIONAL DE PROMOCAO DA CIDADANIA - MULHERES DAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/34",
+   "id": 34
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10393006000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10393006000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10393006000120",
+ "nome_responsavel": "MARCIO ARAUJO DE LACERDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/28",
+   "id": 28
+  }
+ },
+ "telefone": "31-34842387",
+ "cep": "31170200",
+ "endereco": "AV.DOUTOR JULIO OTAVIANO FERREIRA 1000 - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9428999D114091C70FF16D32902AE26CE8B46B82",
+   "id": "9428999D114091C70FF16D32902AE26CE8B46B82"
+  }
+ },
+ "id": 10393006000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

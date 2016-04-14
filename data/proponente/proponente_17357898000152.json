@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.357.898\/0001-52",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17357898000152"
+ },
+ "cpf_responsavel": "***607616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17357898000152"
+ },
+ "nome": "CONVENCAO BATISTA MINEIRA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "04169730010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17357898000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17357898000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17357898000152",
+ "nome_responsavel": "RAMON MARCIO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34292000",
+ "cep": "31110090",
+ "endereco": "RUA PLOMBAGINA 250CASA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4E4DB56B79D04406CF7174A0D8EB23A8BD836BCB",
+   "id": "4E4DB56B79D04406CF7174A0D8EB23A8BD836BCB"
+  }
+ },
+ "id": 17357898000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

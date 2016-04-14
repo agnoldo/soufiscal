@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.302.299\/0001-02",
+ "fax": "31 3651-2777",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18302299000102"
+ },
+ "cpf_responsavel": "***583466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18302299000102"
+ },
+ "nome": "MUNICIPIO DE CAETE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18302299000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18302299000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18302299000102",
+ "nome_responsavel": "JOSE GERALDO DE OLIVEIRA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 3651-3556",
+ "cep": "34800000",
+ "endereco": "PRAÇA JOÃO PINHEIRO 15",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AB4AAEC023B5B9ACEED3E85D80506494AAECE48A",
+   "id": "AB4AAEC023B5B9ACEED3E85D80506494AAECE48A"
+  }
+ },
+ "id": 18302299000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

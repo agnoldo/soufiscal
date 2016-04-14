@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.480.378\/0001-53",
+ "fax": "031-3915-3080",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5480378000153"
+ },
+ "cpf_responsavel": "***863817**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5480378000153"
+ },
+ "nome": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONOMICO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5480378000153"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5480378000153"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5480378000153",
+ "nome_responsavel": "DOROTHEA FONSECA FURQUIM WERNECK",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "031-3915-3045",
+ "cep": "31630900",
+ "endereco": "CIDADE ADMINISTRATIVA PRESIDENTE TANCREDO NEVESRODOVIA PREFEITO AMÉRICO GIANETTI S\/NºEDIFÍCIO MINAS - 3º ANDAR - SERRA VERDE 31630-900 - BELO HORIZONTE.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FDD6A9580E15A6363DA01FB5CCE0CFE1616687DE",
+   "id": "FDD6A9580E15A6363DA01FB5CCE0CFE1616687DE"
+  }
+ },
+ "id": 5480378000153,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

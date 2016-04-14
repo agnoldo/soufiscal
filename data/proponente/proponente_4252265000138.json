@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.252.265\/0001-38",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4252265000138"
+ },
+ "cpf_responsavel": "***332036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4252265000138"
+ },
+ "nome": "CENTRO DE PRODUCAO CULTURAL CATIBRUM TEATRO DE BONECOS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "167159\/001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4252265000138"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4252265000138"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4252265000138",
+ "nome_responsavel": "ALOISIO SILVA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34112103",
+ "cep": "30720340",
+ "endereco": "RUA FRANCISCO BICALHO 1912 SOBRELOJA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E19B02763AD7561119918423F24AD7C376A7595F",
+   "id": "E19B02763AD7561119918423F24AD7C376A7595F"
+  }
+ },
+ "id": 4252265000138,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

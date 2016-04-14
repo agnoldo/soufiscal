@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.927.090\/0001-63",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17927090000163"
+ },
+ "cpf_responsavel": "***698442**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17927090000163"
+ },
+ "nome": "ASSOCIACAO COLETIVO CULTURAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17927090000163"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17927090000163"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17927090000163",
+ "nome_responsavel": "CLAYTON DE SOUZA NOBRE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3125113883",
+ "cep": "30240290",
+ "endereco": "RUA DANTE 465",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4B4926B9F3BB7BAA0E5C71C70DEF5BADAE55981A",
+   "id": "4B4926B9F3BB7BAA0E5C71C70DEF5BADAE55981A"
+  }
+ },
+ "id": 17927090000163,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

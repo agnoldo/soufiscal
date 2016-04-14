@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.147.167\/0001-25",
+ "fax": "3186047557",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65147167000125"
+ },
+ "cpf_responsavel": "***021476**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65147167000125"
+ },
+ "nome": "MOVIMENTO JOVEM JEOVA-JIRE-MOVIJ",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65147167000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65147167000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65147167000125",
+ "nome_responsavel": "BRUNO ISRAEL SOARES MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133857498",
+ "cep": "30664470",
+ "endereco": "RUA RAIMUNDO JANUÁRIO 81",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2676AB12A5C606D04A2F9A68C44985CC697D586B",
+   "id": "2676AB12A5C606D04A2F9A68C44985CC697D586B"
+  }
+ },
+ "id": 65147167000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.934.889\/0001-17",
+ "fax": "31 \/ 3541.1326",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22934889000117"
+ },
+ "cpf_responsavel": "***071866**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22934889000117"
+ },
+ "nome": "MUNICIPIO DE NOVA LIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22934889000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22934889000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22934889000117",
+ "nome_responsavel": "CASSIO MAGNANI JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 \/ 3541.4361",
+ "cep": "34000000",
+ "endereco": "PRAÇA BERNARDINO DE LIMA Nº 80",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C3F2E5BCB5F129AE03A49878B02C827581963CDD",
+   "id": "C3F2E5BCB5F129AE03A49878B02C827581963CDD"
+  }
+ },
+ "id": 22934889000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

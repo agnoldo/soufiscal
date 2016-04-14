@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.200.272\/0001-11",
+ "fax": "031 3227-1187",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6200272000111"
+ },
+ "cpf_responsavel": "***207496**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6200272000111"
+ },
+ "nome": "ASSOCIACAO CULTURAL TAMBOR MINEIRO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6200272000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6200272000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6200272000111",
+ "nome_responsavel": "MAURICIO LINO MOREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3295-4149",
+ "cep": "30411023",
+ "endereco": "RUA ITUIUTABA 339",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6262C56364702A2CE42233638242ADFC6A3BCA16",
+   "id": "6262C56364702A2CE42233638242ADFC6A3BCA16"
+  }
+ },
+ "id": 6200272000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.203.848\/0001-79",
+ "fax": "31\/32132308",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4203848000179"
+ },
+ "cpf_responsavel": "***335308**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4203848000179"
+ },
+ "nome": "FUNDACAO DE EDUCACAO GENI NUNES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4203848000179"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4203848000179"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4203848000179",
+ "nome_responsavel": "CARMEN EUGENIA BRETAS BAVOSO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32132308",
+ "cep": "30160012",
+ "endereco": "RUS DA BAHIA 905 SALA 603",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/919827B4B5BAD60A799ACE2C695AEE0DC7554350",
+   "id": "919827B4B5BAD60A799ACE2C695AEE0DC7554350"
+  }
+ },
+ "id": 4203848000179,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

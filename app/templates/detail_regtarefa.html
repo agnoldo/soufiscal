@@ -1,0 +1,81 @@
+<ion-view>
+  <ion-nav-title>Realizar Tarefa em Convênio</ion-nav-title>
+  <ion-content padding="true" class="has-footer">
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Tarefa</b> <i class="icon ion-map"></i></ion-item>
+        <label class="item item-input">
+          <span class="input-label">Tipo de Tarefa</span>
+          <input type="text" name="descricao" id="descricao" value="{{event.tarefa.descricao}}">
+        </label>
+        <label class="item item-input" ng-show="{{event.tarefa.data_limite}}">
+          <span class="input-label">Data-Limite</span>
+          <input type="text" value="{{event.tarefa.data_limite | date:'dd/MM/yyyy'}}">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Objeto</span>
+          <input type="text" name="nome_empresa" id="nome_empresa" value="{{event.tarefa.nome_empresa}}">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Endereço</span>
+          <input type="text" name="endereco" id="endereco" value="{{event.tarefa.endereco}}">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Município/UF</span>
+          <input type="text" value="{{event.tarefa.Tx_Municipio + '/' + event.tarefa.Uf_Despesa}}">
+        </label>
+      </ion-list>
+    </div>
+
+    <br>
+    <div class="row">
+      <div class="col">
+        <a class="tilelink" ng-click="captureImage()">
+          <div class="tile energized-bg tile-title">
+            <h1><i class="ion-ios-camera-outline"></i></h1>
+            <h2>Adicionar foto</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a class="tilelink" ng-click="captureVideo()">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-ios-videocam"></i></h1>
+            <h2>Adicionar vídeo</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a class="tilelink" ng-click="report()">
+          <div class="tile calm-bg tile-title">
+            <h1><i class="ion-android-alert"></i></h1>
+            <h2>Adicionar comentário</h2>
+          </div>
+        </a>
+      </div>
+    </div>
+
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <div class="button button-clear" ng-disabled="loading">
+          Voltar
+          <i class="icon ion-arrow-left-a"></i>
+        </div>
+      </a>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <div class="button button-clear" ng-disabled="loading">
+          Gravar
+          <i class="icon ion-ios-download-outline"></i>
+        </div>
+      </a>
+    </div>
+  </ion-footer-bar>
+</ion-view>

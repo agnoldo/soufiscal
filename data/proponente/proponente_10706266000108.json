@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.706.266\/0001-08",
+ "fax": "3132811162",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10706266000108"
+ },
+ "cpf_responsavel": "***474926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10706266000108"
+ },
+ "nome": "AMBAR SAUDE",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "238744001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10706266000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10706266000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10706266000108",
+ "nome_responsavel": "LUCIANA SANTANA RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132821333",
+ "cep": "30210090",
+ "endereco": "AV. JOSE DO PATROCINIO PONTES 1355",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/022617012505354942CE5454B78BA8DBC12EEB56",
+   "id": "022617012505354942CE5454B78BA8DBC12EEB56"
+  }
+ },
+ "id": 10706266000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

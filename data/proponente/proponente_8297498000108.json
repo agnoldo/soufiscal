@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.297.498\/0001-08",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8297498000108"
+ },
+ "cpf_responsavel": "***699116**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8297498000108"
+ },
+ "nome": "PACTO - DESENVOLVIMENTO SOCIAL E PESQUISA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2110350010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8297498000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8297498000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8297498000108",
+ "nome_responsavel": "ANGELA GUERRA MONTEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3196981815",
+ "cep": "30160906",
+ "endereco": "RUA DA BAHIA 1148 SALA 1029 - BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/454CFC99D81F5590119B5441EAE5AD2C3ECD1519",
+   "id": "454CFC99D81F5590119B5441EAE5AD2C3ECD1519"
+  }
+ },
+ "id": 8297498000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

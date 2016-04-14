@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.961.485\/0001-21",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13961485000121"
+ },
+ "cpf_responsavel": "***167876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13961485000121"
+ },
+ "nome": "ASSOCIACAO DOS POVOS INDIGENAS DE BELO HORIZONTE E REGIAO METROPOLITANA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13961485000121"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13961485000121"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13961485000121",
+ "nome_responsavel": "MARINALVA MARIA DE JESUS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 25100998",
+ "cep": "30431031",
+ "endereco": "RUA CONSELHEIRO SARAIVA 80",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/91309CA6B32583787292AAB8FBEA9DCECD7CE628",
+   "id": "91309CA6B32583787292AAB8FBEA9DCECD7CE628"
+  }
+ },
+ "id": 13961485000121,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

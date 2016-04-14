@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.771.238\/0001-86",
+ "fax": "(31) 3712-4172",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18771238000186"
+ },
+ "cpf_responsavel": "***172546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18771238000186"
+ },
+ "nome": "MUNICIPIO DE MATOZINHOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18771238000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18771238000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18771238000186",
+ "nome_responsavel": "ANTONIO DIVINO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31) 3712-4144",
+ "cep": "35720000",
+ "endereco": "PRAÇA BOM JESUS 99 - CENTRO - MATOZINHOS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B6833FBE599FDB1E4948FD75FCF80D2C60CB785E",
+   "id": "B6833FBE599FDB1E4948FD75FCF80D2C60CB785E"
+  }
+ },
+ "id": 18771238000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

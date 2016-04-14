@@ -1,0 +1,50 @@
+{
+ "cnpj": "67.729.178\/0002-20",
+ "fax": "RAMAL 4321",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=67729178000220"
+ },
+ "cpf_responsavel": "***424516**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=67729178000220"
+ },
+ "nome": "COMERCIAL CIRURGICA RIOCLARENSE LTDA",
+ "inscricao_estadual": "062.996580.00-21",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "128201\/001-4",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=67729178000220"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=67729178000220"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/67729178000220",
+ "nome_responsavel": "MAURICIO MORLEY DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031-3439-4300\/ 08002836071",
+ "cep": "32669712",
+ "endereco": "RUA PAULO COSTA 320- GALPÕES 0910 E 11",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0BE13798814C645FB9C0139568DFA9AB050FA3A3",
+   "id": "0BE13798814C645FB9C0139568DFA9AB050FA3A3"
+  }
+ },
+ "id": 67729178000220,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.345.636\/0001-91",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11345636000191"
+ },
+ "cpf_responsavel": "***828686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11345636000191"
+ },
+ "nome": "INSTITUTO MINEIRO DE PROMOCAO SOCIAL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11345636000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11345636000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11345636000191",
+ "nome_responsavel": "ARNALDO CLEMENTE DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-9622.8473",
+ "cep": "33200000",
+ "endereco": "ALAMEDA DOS MARANHENSES 155- VESPASIANO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FD250F3A6368BDA96E93FBD2E62A25A1BD2740F7",
+   "id": "FD250F3A6368BDA96E93FBD2E62A25A1BD2740F7"
+  }
+ },
+ "id": 11345636000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.111.535\/0001-16",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6111535000116"
+ },
+ "cpf_responsavel": "***852196**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6111535000116"
+ },
+ "nome": "VETOR - INSTITUTO DE ASSESSORIA, PLANEJAMENTO, PESQUISAS E ESTUDOS SOCIAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6111535000116"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6111535000116"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6111535000116",
+ "nome_responsavel": "ALEXANDRE EUSTAQUIO MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 87016080",
+ "cep": "32650720",
+ "endereco": "AV AMAZONAS 1393 SL 01",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/35D435CB6C7A5C51F516B9607918318A0C635396",
+   "id": "35D435CB6C7A5C51F516B9607918318A0C635396"
+  }
+ },
+ "id": 6111535000116,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "33.654.419\/0008-92",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=33654419000892"
+ },
+ "cpf_responsavel": "***145685**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=33654419000892"
+ },
+ "nome": "CARITAS BRASILEIRA",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3797580012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=33654419000892"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=33654419000892"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/33654419000892",
+ "nome_responsavel": "VALQUIRIA ALVES SMITH LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134128743",
+ "cep": "30770010",
+ "endereco": "RUA FORNACIARI 129",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5F27814B2E2C6A8FD569AC2F21988AE4592EE159",
+   "id": "5F27814B2E2C6A8FD569AC2F21988AE4592EE159"
+  }
+ },
+ "id": 33654419000892,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.316.015\/0001-87",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5316015000187"
+ },
+ "cpf_responsavel": "***930026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5316015000187"
+ },
+ "nome": "ASSOCIACAO DOS CATADORES AUTONOMOS DE MATERIAIS RECICLAVEIS DE CONTAGEM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "702280190",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5316015000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5316015000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5316015000187",
+ "nome_responsavel": "ISABEL DE PAULA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-30461044",
+ "cep": "32145180",
+ "endereco": "RUA TRÊS 85",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8936F40ADAE26B8CC27B6BC3E0C99F57F5E3E263",
+   "id": "8936F40ADAE26B8CC27B6BC3E0C99F57F5E3E263"
+  }
+ },
+ "id": 5316015000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

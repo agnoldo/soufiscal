@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.417\/0001-04",
+ "fax": "31-36831072",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715417000104"
+ },
+ "cpf_responsavel": "***171836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715417000104"
+ },
+ "nome": "MUNICIPIO DE JABOTICATUBAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715417000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715417000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715417000104",
+ "nome_responsavel": "FABIO MOREIRA SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31-36831071",
+ "cep": "35830000",
+ "endereco": "PRACA NOSSA SENHORA DA CONCEICAO 38",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D46DAD84084D6CC3CC04DA9649146B2B976F6134",
+   "id": "D46DAD84084D6CC3CC04DA9649146B2B976F6134"
+  }
+ },
+ "id": 18715417000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

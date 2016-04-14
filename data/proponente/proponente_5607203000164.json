@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.607.203\/0001-64",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5607203000164"
+ },
+ "cpf_responsavel": "***835946**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5607203000164"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DE RIBEIRAO DAS NEVES CIDADANIA ATIVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5607203000164"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5607203000164"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5607203000164",
+ "nome_responsavel": "MARIO CABALLERO GARCIA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/30330243",
+ "cep": "33820080",
+ "endereco": "RUA MARIA ADELAIDE 225",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4D6A4C7525EC867B96ABDB1D4A8ADB1D398B4979",
+   "id": "4D6A4C7525EC867B96ABDB1D4A8ADB1D398B4979"
+  }
+ },
+ "id": 5607203000164,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

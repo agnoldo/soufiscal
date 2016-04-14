@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.905.389\/0001-78",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10905389000178"
+ },
+ "cpf_responsavel": "***880716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10905389000178"
+ },
+ "nome": "ECOAVIS ECOLOGIA E OBSERVACAO DE AVES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10905389000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10905389000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10905389000178",
+ "nome_responsavel": "EDUARDO SILVA FRANCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 \\\\ 93413584",
+ "cep": "31340420",
+ "endereco": "RUA SORRENTO 96 SALA B",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8EA165C2E7D71EE3E2731C63A3A7740E5C914D1F",
+   "id": "8EA165C2E7D71EE3E2731C63A3A7740E5C914D1F"
+  }
+ },
+ "id": 10905389000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

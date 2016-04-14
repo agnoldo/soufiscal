@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.272.081\/0001-41",
+ "fax": "3137122472",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1272081000141"
+ },
+ "cpf_responsavel": "***386556**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1272081000141"
+ },
+ "nome": "CONSORCIO INTERMU.DE SAUDE DA REGIAO DO CALCAREO CISREC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1272081000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1272081000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1272081000141",
+ "nome_responsavel": "MURILO PEREIRA DE REZENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3137121541",
+ "cep": "35720000",
+ "endereco": "RUA OITO DE DEZEMBRO 650",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2EC5C53CA59B3B36ACA7EEF233DC4B465E80312F",
+   "id": "2EC5C53CA59B3B36ACA7EEF233DC4B465E80312F"
+  }
+ },
+ "id": 1272081000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

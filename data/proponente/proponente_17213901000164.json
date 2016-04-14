@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.213.901\/0001-64",
+ "fax": "31 32015211",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17213901000164"
+ },
+ "cpf_responsavel": "***885690**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17213901000164"
+ },
+ "nome": "FUNDACAO SIDERTUBE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "451720011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17213901000164"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17213901000164"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17213901000164",
+ "nome_responsavel": "FLAVIO ROBERTO SILVA DE AZEVEDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32727498",
+ "cep": "30640010",
+ "endereco": "AV. OLINTO MEIRELES 65 - PRÉDIO 203",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8A4FE68DC76E504BAFAD8D1914DB0F58D4F27ECA",
+   "id": "8A4FE68DC76E504BAFAD8D1914DB0F58D4F27ECA"
+  }
+ },
+ "id": 17213901000164,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

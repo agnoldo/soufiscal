@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.547.258\/0001-66",
+ "fax": "3136587707",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10547258000166"
+ },
+ "cpf_responsavel": "***958906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10547258000166"
+ },
+ "nome": "INSTITUTO SUPERACAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02360110017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10547258000166"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10547258000166"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10547258000166",
+ "nome_responsavel": "MAURICIO DA SILVA MOREIRA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3188567682",
+ "cep": "30720360",
+ "endereco": "RUA HENRIQUE GOERCIX 950",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/029818C373F5C300898F95493FF40668900361D4",
+   "id": "029818C373F5C300898F95493FF40668900361D4"
+  }
+ },
+ "id": 10547258000166,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

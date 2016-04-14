@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.693.946\/0001-01",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25693946000101"
+ },
+ "cpf_responsavel": "***430826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25693946000101"
+ },
+ "nome": "ARCAL CONSULTORIA GERENENCIAL LTDA - ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "03734910015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25693946000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25693946000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25693946000101",
+ "nome_responsavel": "HAROLDO MOTA DE ALMEIDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3184925993",
+ "cep": "30260320",
+ "endereco": "RUA ITABERA 900",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A4E3C6E35A29358E9AC3272467653B0B1CF129BA",
+   "id": "A4E3C6E35A29358E9AC3272467653B0B1CF129BA"
+  }
+ },
+ "id": 25693946000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

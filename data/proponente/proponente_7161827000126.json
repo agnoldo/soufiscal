@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.161.827\/0001-26",
+ "fax": "31-35818373",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7161827000126"
+ },
+ "cpf_responsavel": "***696366**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7161827000126"
+ },
+ "nome": "QUIK COMPANHIA DE DANCA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/308\/90264",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7161827000126"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7161827000126"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7161827000126",
+ "nome_responsavel": "SIMONE GOMES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-35818673",
+ "cep": "34000000",
+ "endereco": "RUA VANCOUVER  344A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EF52CEFD679C3D7E9D9D16F58415031ABF52C18B",
+   "id": "EF52CEFD679C3D7E9D9D16F58415031ABF52C18B"
+  }
+ },
+ "id": 7161827000126,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

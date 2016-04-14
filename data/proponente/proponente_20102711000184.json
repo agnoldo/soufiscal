@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.102.711\/0001-84",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20102711000184"
+ },
+ "cpf_responsavel": "***505556**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20102711000184"
+ },
+ "nome": "IRMANDADE DE NOSSA SENHORA DO ROSARIO DE CONTAGEM",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20102711000184"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20102711000184"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20102711000184",
+ "nome_responsavel": "MARCOS EUSTAQUIO DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3191241512",
+ "cep": "32013090",
+ "endereco": "RUA DA CAPELINHA50 -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4A0A9E5AD620985627C9F213B2EE92A756FAC884",
+   "id": "4A0A9E5AD620985627C9F213B2EE92A756FAC884"
+  }
+ },
+ "id": 20102711000184,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

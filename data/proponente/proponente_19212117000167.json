@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.212.117\/0001-67",
+ "fax": "3134630012",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19212117000167"
+ },
+ "cpf_responsavel": "***402056**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19212117000167"
+ },
+ "nome": "CENTRO POPULAR DE CULTURA E DESENVOLVIMENTO - CPCD",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1740680011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19212117000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19212117000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19212117000167",
+ "nome_responsavel": "SEBASTIAO ROCHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134636357",
+ "cep": "31010475",
+ "endereco": "RUA PARAISOPOLIS 80 A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9404B82918ECE0BEA2AE67CD3195A5ED5BB60B5E",
+   "id": "9404B82918ECE0BEA2AE67CD3195A5ED5BB60B5E"
+  }
+ },
+ "id": 19212117000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

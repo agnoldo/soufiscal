@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.657.295\/0001-97",
+ "fax": "31 96576813",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5657295000197"
+ },
+ "cpf_responsavel": "***433806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5657295000197"
+ },
+ "nome": "CASA DE ACOLHIMENTO DA CRIANCA E DO ADOLESCENTE LUZ DA ETERNIDADE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5657295000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5657295000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5657295000197",
+ "nome_responsavel": "RITA DE CASSIA CAMPOS NICACIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35713362",
+ "cep": "35460000",
+ "endereco": "RUA PRESIDENTE VARGAS 367",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/70DC5C0206C27E1D67015DD847F3F438171CA9A8",
+   "id": "70DC5C0206C27E1D67015DD847F3F438171CA9A8"
+  }
+ },
+ "id": 5657295000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

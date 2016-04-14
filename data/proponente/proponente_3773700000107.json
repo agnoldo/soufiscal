@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.773.700\/0001-07",
+ "fax": "031\/32634319",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3773700000107"
+ },
+ "cpf_responsavel": "***475776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3773700000107"
+ },
+ "nome": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI",
+ "inscricao_estadual": "0620145160040",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3168270034",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3773700000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3773700000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3773700000107",
+ "nome_responsavel": "LUCIO JOSE DE FIGUEIREDO SAMPAIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/32634319",
+ "cep": "30110916",
+ "endereco": "AV DO CONTORNO 4520",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E3AAD570970523FEB630D6424B63EEA2ADC8A95C",
+   "id": "E3AAD570970523FEB630D6424B63EEA2ADC8A95C"
+  }
+ },
+ "id": 3773700000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

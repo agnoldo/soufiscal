@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.437.757\/0001-40",
+ "fax": "3121051414",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17437757000140"
+ },
+ "cpf_responsavel": "***983806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17437757000140"
+ },
+ "nome": "SINDICATO TRABS EMPRESAS TRANSP PASSAGEIROS URBANO,SEMI-URBANO, METROP, RODOV,INTERMUNI, INTERESTAD, INTERN, FRETAMENTO, TURISMO, ESCOLAR DE BH E RM",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "406879001",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17437757000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17437757000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17437757000140",
+ "nome_responsavel": "RONALDO BATISTA DE MORAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121051504",
+ "cep": "30180002",
+ "endereco": "AVENIDA AMAZONAS 2445",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E08DA920E3054051A630EA5EBBE3D3956A4879B7",
+   "id": "E08DA920E3054051A630EA5EBBE3D3956A4879B7"
+  }
+ },
+ "id": 17437757000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

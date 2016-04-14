@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.578.361\/0001-69",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7578361000169"
+ },
+ "cpf_responsavel": "***109676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7578361000169"
+ },
+ "nome": "CENTRO DE EDUCACAO PARA O TRABALHO VIRGILIO RESI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7578361000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7578361000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7578361000169",
+ "nome_responsavel": "ALIPIO BATISTA RODRIGUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121032711",
+ "cep": "31741450",
+ "endereco": "RUA JOVENTINA DA ROCHA 289",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/445EA9DA8E2B76EA5C0D5242F96A2EB50E61C93D",
+   "id": "445EA9DA8E2B76EA5C0D5242F96A2EB50E61C93D"
+  }
+ },
+ "id": 7578361000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

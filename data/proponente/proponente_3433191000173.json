@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.433.191\/0001-73",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3433191000173"
+ },
+ "cpf_responsavel": "***359806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3433191000173"
+ },
+ "nome": "ASSOCIACAO SAO JUDAS TADEU",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3433191000173"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3433191000173"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3433191000173",
+ "nome_responsavel": "GENESIO RODRIGUES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3356-3996",
+ "cep": "32310210",
+ "endereco": "AV. JOSÉ FARIA DA ROCHA N° 5631",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D992A9F692BDAA72D0F40E4E426B26399598B5B2",
+   "id": "D992A9F692BDAA72D0F40E4E426B26399598B5B2"
+  }
+ },
+ "id": 3433191000173,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

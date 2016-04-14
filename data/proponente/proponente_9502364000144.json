@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.502.364\/0001-44",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9502364000144"
+ },
+ "cpf_responsavel": "***916436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9502364000144"
+ },
+ "nome": "ONG MULTIDISCIPLINAR OMD",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9502364000144"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9502364000144"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9502364000144",
+ "nome_responsavel": "ISABEL CRISTINA DE ALMEIDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)87261309",
+ "cep": "31365470",
+ "endereco": "RUA PEDRO CELESTINO MENDONÇA 400",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BA60FAEF2A03D35293BF8050503958CE4F296280",
+   "id": "BA60FAEF2A03D35293BF8050503958CE4F296280"
+  }
+ },
+ "id": 9502364000144,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

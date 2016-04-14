@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.475.097\/0001-02",
+ "fax": "031-39157089",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5475097000102"
+ },
+ "cpf_responsavel": "***406626**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5475097000102"
+ },
+ "nome": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL, POLITICA URBANA E GESTAO METROPOLITANA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5475097000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5475097000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5475097000102",
+ "nome_responsavel": "LUIZ TADEU MARTINS LEITE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "031-39157089",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/N",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/221E16BF0149BB232D555B51EE7FB838FF2DB7F9",
+   "id": "221E16BF0149BB232D555B51EE7FB838FF2DB7F9"
+  }
+ },
+ "id": 5475097000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

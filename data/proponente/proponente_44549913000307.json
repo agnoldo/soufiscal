@@ -1,0 +1,50 @@
+{
+ "cnpj": "44.549.913\/0003-07",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=44549913000307"
+ },
+ "cpf_responsavel": "***534358**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=44549913000307"
+ },
+ "nome": "ASSOCIACAO DAS IRMAS DA DIVINA VONTADE ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=44549913000307"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=44549913000307"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/44549913000307",
+ "nome_responsavel": "LUIZA CARDOSO PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3495 2546",
+ "cep": "31710630",
+ "endereco": "RUA DES. CUSTODIO LUSTOSA 383 BELO HORIZONTE MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/41FA2DE4505DD1ABEEB315938B852A1461879B51",
+   "id": "41FA2DE4505DD1ABEEB315938B852A1461879B51"
+  }
+ },
+ "id": 44549913000307,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

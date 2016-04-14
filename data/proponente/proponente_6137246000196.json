@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.137.246\/0001-96",
+ "fax": "31 34429353",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6137246000196"
+ },
+ "cpf_responsavel": "***561686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6137246000196"
+ },
+ "nome": "TENIS PARA TODOS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6137246000196"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6137246000196"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6137246000196",
+ "nome_responsavel": "EDILA TAIS DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34212193",
+ "cep": "31110150",
+ "endereco": "R. PONTE NOVA 809\/ 804",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F4B8CAE2BA395EEEB644F58967D26F0827280643",
+   "id": "F4B8CAE2BA395EEEB644F58967D26F0827280643"
+  }
+ },
+ "id": 6137246000196,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

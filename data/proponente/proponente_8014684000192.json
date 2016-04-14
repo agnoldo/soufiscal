@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.014.684\/0001-92",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8014684000192"
+ },
+ "cpf_responsavel": "***901346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8014684000192"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DA VILA IDEAL E COMUNIDADES DO ENTORNO - ASCOVICE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/2 143 2 5822",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8014684000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8014684000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8014684000192",
+ "nome_responsavel": "DANIEL JULIO GOMES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135980422",
+ "cep": "32400000",
+ "endereco": "RUA HUM Nº 31",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/604E429C0C53EBC94DD22984383490DCA4E00680",
+   "id": "604E429C0C53EBC94DD22984383490DCA4E00680"
+  }
+ },
+ "id": 8014684000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13510",
+   "id": 13510
+  }
+ }
+}

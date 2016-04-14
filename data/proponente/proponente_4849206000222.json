@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.849.206\/0002-22",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4849206000222"
+ },
+ "cpf_responsavel": "***382126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4849206000222"
+ },
+ "nome": "ASSOCIACAO PROJETO CIDADE REFUGIO",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2265570014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4849206000222"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4849206000222"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4849206000222",
+ "nome_responsavel": "JULIO FLAVIO LACERDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 25511017",
+ "cep": "31110450",
+ "endereco": "RUA IPE 41",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/73EA695E68C420134261A3F65580BEDBC627D7BF",
+   "id": "73EA695E68C420134261A3F65580BEDBC627D7BF"
+  }
+ },
+ "id": 4849206000222,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

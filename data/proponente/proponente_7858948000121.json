@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.858.948\/0001-21",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7858948000121"
+ },
+ "cpf_responsavel": "***241896**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7858948000121"
+ },
+ "nome": "ASSOCIACAO UNIVERSIDADE ATIVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7858948000121"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7858948000121"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7858948000121",
+ "nome_responsavel": "CHRISTIANO ROCCO CARNEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03184870807",
+ "cep": "31140070",
+ "endereco": "RUA JUSSARA 514\/301",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1CB181FD6750276224BE67FF0844F50DB9035FA4",
+   "id": "1CB181FD6750276224BE67FF0844F50DB9035FA4"
+  }
+ },
+ "id": 7858948000121,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,193 @@
+<ion-view>
+  <ion-nav-title>SouFiscal - Login / Novo Usuário</ion-nav-title>
+  <ion-content padding="true" class="has-footer">
+    <div ng-show="!loading">
+
+<!--
+      <div class="row tilerow"><div class="col">
+        <a class="tilelink" ui-sref="dashboard"><div class="tile royal-bg tile-image" style="background-size:cover; background-image: url(img/obras.jpg)">Convênios e Obras</div></a>
+      </div></div>
+-->
+      <div class="tile royal-bg tile-image" style="background-size:cover; background-image: url(img/obras.jpg)">
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">
+          <button class="col button button-clear button-dark" style="color:white; font-weight:bold;" ng-click="tab = 'Login'">
+            Login <i class="icon ion-ios-arrow-down" ng-show="tab == 'Login'"></i>
+          </button>
+          <button class="col button button-clear button-dark" style="color:white; font-weight:bold;" ng-click="tab = 'Anonimo'">
+            Anônimo <i class="icon ion-ios-arrow-down" ng-show="tab == 'Anonimo'"></i>
+          </button>
+          <button class="col button button-clear button-dark" style="color:white; font-weight:bold;" ng-click="tab = 'Email'">
+            Email <i class="icon ion-ios-arrow-down" ng-show="tab == 'Email'"></i>
+          </button>
+          <button class="col button button-clear button-dark" style="color:white; font-weight:bold;" ng-click="tab = 'Social'">
+            Social <i class="icon ion-ios-arrow-down" ng-show="tab == 'Social'"></i>
+          </button>
+        </div>
+      </div>
+      <br>
+
+      <ion-list ng-show="tab == 'Login'">
+        <ion-item class="item-divider item-icon-right"><b>Dados de Usuário</b> <i class="icon ion-person"></i></ion-item>
+        <br>
+        <label class="item item-input">
+          <span class="input-label">E-mail</span>
+          <input type="text" placeholder="Ex.: agnoldo@gmail.com">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Senha</span>
+          <input type="password" placeholder="6+ caracteres com letras e números">
+        </label>
+      </ion-list>
+
+      <ion-list ng-show="tab == 'Anonimo'">
+        <ion-item class="item-divider item-icon-right"><b>Dados de Usuário</b> <i class="icon ion-person"></i></ion-item>
+        <br>
+        <p>Ao optar por utilizar a ferramenta em modo Anônimo, será criado um usuário para você com nome no formato "usr999999999" e apresentada uma senha que você deve guardar de forma segura. Esta senha possibilitará o login com o mesmo usuário em outros dispositivos, preservando desta forma o seu trabalho.</p>
+        <br>
+        <button class="button button-block button-light" ng-click="criarUsuarioAnonimo()">
+          Criar Usuário Anônimo
+        </button>
+        <br>
+        <p style="text-align:center">{{usuario_anonimo ? 'Usuário: ' + usuario_anonimo : ''}}</p>
+        <p style="text-align:center">{{senha_anonima ? 'Senha: ' + senha_anonima : ''}}</p>
+      </ion-list>
+
+      <ion-list ng-show="tab == 'Email'">
+        <ion-item class="item-divider item-icon-right"><b>Dados de Usuário</b> <i class="icon ion-person"></i></ion-item>
+        <br>
+        <label class="item item-input">
+          <span class="input-label">E-mail</span>
+          <input type="text" placeholder="Ex.: agnoldo@gmail.com">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Senha</span>
+          <input type="password" placeholder="6+ caracteres com letras e números">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Confirmar Senha</span>
+          <input type="password" placeholder="Repita a senha, por favor">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Nome Completo</span>
+          <input type="text" placeholder="Ex.: Arnaldo Gomes dos Santos Junior">
+        </label>
+<!--
+        <div class="item item-input">
+          <span class="input-label">Nascimento</span>
+          <label class="item-input-wrapper">
+            <input type="text" placeholder="Ex.: 08/04/1974" value="{{data_nascimento | date:'dd/MM/yyyy'}}">
+          </label>
+          <button class="button button-clear" style="margin:0;padding:0;top:-9px;height:29px;min-height:29px;max-height:29px;" ng-click="openDatePicker()"><i class="ion-calendar"></i></button>
+        </div>
+        <label class="item item-input item-select">
+          <span class="input-label">Sexo</span>
+          <select name="sexo" id="sexo">
+            <option selected value="">--Sexo--</option>
+            <option>Masculino</option>
+            <option>Feminino</option>
+          </select>
+        </label>
+        <label class="item item-input item-select">
+          <span class="input-label">Formação</span>
+          <select name="formacao" id="formacao">
+            <option selected value="">--Grau de Formação--</option>
+            <option>Fundamental Incompleto</option>
+            <option>Fundamental</option>
+            <option>Médio</option>
+            <option>Superior</option>
+            <option>Especialização</option>
+            <option>Mestrado</option>
+            <option>Doutorado</option>
+          </select>
+        </label>
+-->
+        <ion-toggle ng-model="localizacao_coordenadas" toggle-class="toggle-calm">Usar localização do smartphone?</ion-toggle>
+        <label class="item item-input item-select" ng-show="!localizacao_coordenadas">
+          <span class="input-label">UF</span>
+          <select name="Uf_Despesa" id="Uf_Despesa">
+            <option selected value="">--Escolha UF--</option>
+            <option value="AC">Acre</option>
+            <option value="AL">Alagoas</option>
+            <option value="AP">Amapá</option>
+            <option value="AM">Amazonas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espírito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MS">Mato Grosso do Sul</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="PI">Piauí</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RN">Rio Grande do Norte</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="RR">Roraima</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+            <option value="SE">Sergipe</option>
+            <option value="TO">Tocantins</option>
+          </select>
+        </label>
+        <label class="item item-input item-select" ng-show="!localizacao_coordenadas">
+          <span class="input-label">Município</span>
+          <select name="Tx_Municipio" id="Tx_Municipio">
+            <option selected value="">--Escolha município--</option>
+            <option>Corruptolândia</option>
+            <option>Explode Tudo</option>
+            <option>Fraudópolis</option>
+            <option>Safadópolis</option>
+          </select>
+        </label>
+      </ion-list>
+
+      <ion-list ng-show="tab == 'Social'">
+        <br>
+        <div class="row">
+          <div class="col">
+            <a class="tilelink" href="#/detail_localizacao/{{event.id}}">
+              <div class="tile royal-bg tile-title">
+                <h1><i class="ion-social-facebook"></i></h1>
+                <h2>Facebook</h2>
+              </div>
+            </a>
+          </div>
+          <div class="col">
+            <a class="tilelink" href="#/detail_timeline/{{event.id}}">
+              <div class="tile assertive-bg tile-title">
+                <h1><i class="ion-social-googleplus"></i></h1>
+                <h2>Google+</h2>
+              </div>
+            </a>
+          </div>
+          <div class="col">
+            <a class="tilelink" href="#/detail_todos/{{event.id}}">
+              <div class="tile positive-bg tile-title">
+                <h1><i class="ion-social-twitter"></i></h1>
+                <h2>Twitter</h2>
+              </div>
+            </a>
+          </div>
+        </div>
+      </ion-list>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <h1 class="title"></h1>
+    <div class="buttons">
+        <div class="button button-clear" ng-disabled="loading" ng-click="entrar()">
+          Entrar
+          <i class="icon ion-log-in"></i>
+        </div>
+    </div>
+  </ion-footer-bar>
+</ion-view>

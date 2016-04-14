@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.735.746\/0001-92",
+ "fax": "03136236124",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7735746000192"
+ },
+ "cpf_responsavel": "***537726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7735746000192"
+ },
+ "nome": "ILE ASE ALA OJU MEJI OFA OTUN",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "001086",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7735746000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7735746000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7735746000192",
+ "nome_responsavel": "GIUSEPPE LORENZINI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03136236124",
+ "cep": "33350000",
+ "endereco": "RUA C Nº 178 LETRA A CXPST:25",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5B73EC2DD703CAA1FF5ACA249B87766A00490266",
+   "id": "5B73EC2DD703CAA1FF5ACA249B87766A00490266"
+  }
+ },
+ "id": 7735746000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15303",
+   "id": 15303
+  }
+ }
+}

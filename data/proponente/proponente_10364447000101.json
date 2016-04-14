@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.364.447\/0001-01",
+ "fax": "31-37253212",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10364447000101"
+ },
+ "cpf_responsavel": "***885126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10364447000101"
+ },
+ "nome": "ASSOCIACAO E DESENVOLVIMENTO DE PROJETOS - ADP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "115.507\/0001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10364447000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10364447000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10364447000101",
+ "nome_responsavel": "FRANCISCO CARAM",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-37253212",
+ "cep": "30180070",
+ "endereco": "RUA TENENTE BRITO MELO587",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/86AB4E9A64D05F89D9A2BC9F1B76CBB0FD572862",
+   "id": "86AB4E9A64D05F89D9A2BC9F1B76CBB0FD572862"
+  }
+ },
+ "id": 10364447000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.945.415\/0003-70",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21945415000370"
+ },
+ "cpf_responsavel": "***035176**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21945415000370"
+ },
+ "nome": "ASSOCIACAO MADRE PAULA DE EDUCACAO E ASSISTENCIA SOCIAL - AMAPAULA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21945415000370"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21945415000370"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21945415000370",
+ "nome_responsavel": "VALERIA PEREIRA COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136362047",
+ "cep": "33140720",
+ "endereco": "RUA JOÃO HIGINO RODRIGUES 162",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4BB75712C721362BAF72E84A16541E07C217E338",
+   "id": "4BB75712C721362BAF72E84A16541E07C217E338"
+  }
+ },
+ "id": 21945415000370,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

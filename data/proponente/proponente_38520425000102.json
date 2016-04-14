@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.520.425\/0001-02",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38520425000102"
+ },
+ "cpf_responsavel": "***478814**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38520425000102"
+ },
+ "nome": "FEDERACAO DAS APAES DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38520425000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38520425000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38520425000102",
+ "nome_responsavel": "SERGIO SAMPAIO BEZERRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3291 6626",
+ "cep": "30140061",
+ "endereco": "RUA TIMBIRAS 2612 SALAS 201\/202",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0117EF1A235917B4DA7B46EE7258A7C91E7A4306",
+   "id": "0117EF1A235917B4DA7B46EE7258A7C91E7A4306"
+  }
+ },
+ "id": 38520425000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

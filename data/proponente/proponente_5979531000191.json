@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.979.531\/0001-91",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5979531000191"
+ },
+ "cpf_responsavel": "***094096**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5979531000191"
+ },
+ "nome": "INSTITUTO DE OBSERVACAO DA TERRA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02811930013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5979531000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5979531000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5979531000191",
+ "nome_responsavel": "LUIZ RICARDO SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34638282\/21",
+ "cep": "31015220",
+ "endereco": "RUA SERRAVITE 22",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7BCD245C0772B94D40892F61F03CB8E88CBDD4B8",
+   "id": "7BCD245C0772B94D40892F61F03CB8E88CBDD4B8"
+  }
+ },
+ "id": 5979531000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

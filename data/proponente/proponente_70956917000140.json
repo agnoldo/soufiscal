@@ -1,0 +1,50 @@
+{
+ "cnpj": "70.956.917\/0001-40",
+ "fax": "31 3271 8310",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=70956917000140"
+ },
+ "cpf_responsavel": "***632247**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=70956917000140"
+ },
+ "nome": "GRUPO DE INT SOC AP AO POR DO HIV\/AIDS E INF GER VHIVER",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1335000019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=70956917000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=70956917000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/70956917000140",
+ "nome_responsavel": "VALDECIR FERNANDES BUZON",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3201 5236",
+ "cep": "30140080",
+ "endereco": "RUA BERNARDO GUIMARÃES 512",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2DF826CC9409701940CD291F4057A9C085CCB4F3",
+   "id": "2DF826CC9409701940CD291F4057A9C085CCB4F3"
+  }
+ },
+ "id": 70956917000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

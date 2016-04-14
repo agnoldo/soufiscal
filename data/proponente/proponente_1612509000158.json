@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.612.509\/0001-58",
+ "fax": "03135777326",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1612509000158"
+ },
+ "cpf_responsavel": "***066956**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1612509000158"
+ },
+ "nome": "MUNICIPIO DE SARZEDO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1612509000158"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1612509000158"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1612509000158",
+ "nome_responsavel": "WERTHER CLAYTON DE REZENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "03135777447",
+ "cep": "32450000",
+ "endereco": "RUA ELOY CANDIDO DE MELO 477",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/ECB640CFFCDD64023CDBE6A1F1DB59E897475625",
+   "id": "ECB640CFFCDD64023CDBE6A1F1DB59E897475625"
+  }
+ },
+ "id": 1612509000158,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11488",
+   "id": 11488
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.288.724\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5288724000104"
+ },
+ "cpf_responsavel": "***155267**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5288724000104"
+ },
+ "nome": "ASSOCIACAO CULTURAL NEGRIM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5288724000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5288724000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5288724000104",
+ "nome_responsavel": "WEVERTON MAURICIO RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 36237699",
+ "cep": "33350000",
+ "endereco": "AV INGRACIO MARQUES SIQUEIRA 339",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9CE78642144E96384E91F6458A11224157A0A8AA",
+   "id": "9CE78642144E96384E91F6458A11224157A0A8AA"
+  }
+ },
+ "id": 5288724000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15303",
+   "id": 15303
+  }
+ }
+}

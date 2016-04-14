@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.589.137\/0001-63",
+ "fax": "31\/33799343",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16589137000163"
+ },
+ "cpf_responsavel": "***866326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16589137000163"
+ },
+ "nome": "SERVICO DE APOIO AS MICRO E PEQUENAS EMPRESAS DE MG - SEBRAE MG",
+ "inscricao_estadual": "0629555760097",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isenta",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16589137000163"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16589137000163"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16589137000163",
+ "nome_responsavel": "MARCELO BARROSO DE RESENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33799321",
+ "cep": "30140100",
+ "endereco": "AV. BARÃO HOMEM DE MELO 329",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/35D6357E5CDEDAA09E5A421E5BABF625A0889702",
+   "id": "35D6357E5CDEDAA09E5A421E5BABF625A0889702"
+  }
+ },
+ "id": 16589137000163,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

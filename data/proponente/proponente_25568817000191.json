@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.568.817\/0001-91",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25568817000191"
+ },
+ "cpf_responsavel": "***225897**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25568817000191"
+ },
+ "nome": "SALUS ASSOCIACAO PARA SAUDE SOCIOEDUCATIVO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1657880017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25568817000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25568817000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25568817000191",
+ "nome_responsavel": "IRENE KAY ADAMS BRUINSMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031)3444-3877",
+ "cep": "31210120",
+ "endereco": "RUA ALÉM PARAIBA 917 A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4FBE6649B6C0FFEBA6847602D101F65CF015FEF7",
+   "id": "4FBE6649B6C0FFEBA6847602D101F65CF015FEF7"
+  }
+ },
+ "id": 25568817000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

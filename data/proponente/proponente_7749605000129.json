@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.749.605\/0001-29",
+ "fax": "3132908912",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7749605000129"
+ },
+ "cpf_responsavel": "***654886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7749605000129"
+ },
+ "nome": "INSTITUTO UNA DE RESPONSABILIDADE SOCIAL E CULTURAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7749605000129"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7749605000129"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7749605000129",
+ "nome_responsavel": "RAQUEL TEIXEIRA DE SOUZA RUAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132908917",
+ "cep": "30140071",
+ "endereco": "RUA AIMORÉS 1451",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6A82A32C6012C487D176AC91B2ED4638E2CA61E0",
+   "id": "6A82A32C6012C487D176AC91B2ED4638E2CA61E0"
+  }
+ },
+ "id": 7749605000129,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

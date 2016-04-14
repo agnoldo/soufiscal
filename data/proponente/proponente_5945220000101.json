@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.945.220\/0001-01",
+ "fax": "30130-180",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5945220000101"
+ },
+ "cpf_responsavel": "***269546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5945220000101"
+ },
+ "nome": "ASSOCIACAO JUNIOR ACHIEVEMENT DE MINAS GERAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "183.918 -0010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5945220000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5945220000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5945220000101",
+ "nome_responsavel": "CATARINA LUTERO MENDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132491652",
+ "cep": "30130180",
+ "endereco": "AV. JOÃO PINHEIRO Nº 495 7º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AEA6697563308AF2A5FE164EDDECD89F607C8C12",
+   "id": "AEA6697563308AF2A5FE164EDDECD89F607C8C12"
+  }
+ },
+ "id": 5945220000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

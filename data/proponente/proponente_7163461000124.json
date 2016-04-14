@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.163.461\/0001-24",
+ "fax": "31-3456-4074",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7163461000124"
+ },
+ "cpf_responsavel": "***626036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7163461000124"
+ },
+ "nome": "ASSOCIACAO ESPORTIVA MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7163461000124"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7163461000124"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7163461000124",
+ "nome_responsavel": "RONDERSON RODRIGUES DUARTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-98721014",
+ "cep": "31578040",
+ "endereco": "RUA EXPEDITO FLAVIANO DA COSTA Nº. 114 - BAIRRO LAGOA - BELO HORIZONTE - MINAS GERAIS.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5D11107EBCCD068441153D2CEE858A506A163234",
+   "id": "5D11107EBCCD068441153D2CEE858A506A163234"
+  }
+ },
+ "id": 7163461000124,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.456.492\/0001-55",
+ "fax": "031 32130251",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25456492000155"
+ },
+ "cpf_responsavel": "***568816**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25456492000155"
+ },
+ "nome": "FEDERACAO DAS ASSOCIACOES, PAIS E ALUNOS DAS ESCOLAS PUBLICAS DE MINAS GERAIS",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isenta",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25456492000155"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25456492000155"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25456492000155",
+ "nome_responsavel": "MARIO DE ASSIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 32130251",
+ "cep": "30190050",
+ "endereco": "RUA DOS GOITACAZES N-º 43 SALA 1502",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C461D7FFBD2FC70B75F18D78A3D2609C729EC40F",
+   "id": "C461D7FFBD2FC70B75F18D78A3D2609C729EC40F"
+  }
+ },
+ "id": 25456492000155,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

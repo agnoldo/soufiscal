@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.090.748\/0001-46",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5090748000146"
+ },
+ "cpf_responsavel": "***859708**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5090748000146"
+ },
+ "nome": "ARKEPETRO TRANSPORTADORA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5090748000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5090748000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5090748000146",
+ "nome_responsavel": "RODRIGO OTAVIO CANTO CAIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133333333102",
+ "cep": "31170000",
+ "endereco": "RUA A 56",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D2C0529E68FB24C254A6779BBDBDC49A59CA1F80",
+   "id": "D2C0529E68FB24C254A6779BBDBDC49A59CA1F80"
+  }
+ },
+ "id": 5090748000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

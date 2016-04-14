@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.984.258\/0001-87",
+ "fax": "(31) 3712-1386",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20984258000187"
+ },
+ "cpf_responsavel": "***500416**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20984258000187"
+ },
+ "nome": "ASSOC DE PROT A MATERNIDADE E A INFANCIA DE MATOZINHOS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "952",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20984258000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20984258000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20984258000187",
+ "nome_responsavel": "MARIA IMACULADA ANDRADE DRUMMOND MATTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3712-1386",
+ "cep": "35720000",
+ "endereco": "AV. CAIO MARTINS 210",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/26ECDA4BFC711E080C9CD06443B6B22D0FAAD1A4",
+   "id": "26ECDA4BFC711E080C9CD06443B6B22D0FAAD1A4"
+  }
+ },
+ "id": 20984258000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

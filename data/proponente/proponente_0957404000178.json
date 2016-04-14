@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.957.404\/0001-78",
+ "fax": "031-3915-1842",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=957404000178"
+ },
+ "cpf_responsavel": "***815396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=957404000178"
+ },
+ "nome": "SECRETARIA ESTADO MEIO AMBIENTE E DESENV. SUSTENTAVEL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=957404000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=957404000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/957404000178",
+ "nome_responsavel": "LUIZ SAVIO DE SOUZA CRUZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "031-3915-1842",
+ "cep": "31630900",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/N 2ºANDAR - SERRA VERDE - PRÉDIO MINAS - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D3D7D6585E8D6A19AC5E8505A840786CB229EB9F",
+   "id": "D3D7D6585E8D6A19AC5E8505A840786CB229EB9F"
+  }
+ },
+ "id": 957404000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

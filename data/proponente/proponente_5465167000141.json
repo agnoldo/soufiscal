@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.465.167\/0001-41",
+ "fax": "39168207",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5465167000141"
+ },
+ "cpf_responsavel": "***688756**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5465167000141"
+ },
+ "nome": "SECRETARIA DE ESTADO DE TRABALHO E DESENVOLVIMENTO SOCIAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5465167000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5465167000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5465167000141",
+ "nome_responsavel": "ANDRE QUINTAO SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "3916.8212",
+ "cep": "31630900",
+ "endereco": "CIDADE ADMINISTRATIVA - PRESIDENTE TANCREDO NEVES RODOVIA PREFEITO AMÉRICO GIANETTI 4143 -  PRÉDIO MINAS DÉCIMO QUARTO ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A9006D31EEB96774FC2DB25014961AAD66B74264",
+   "id": "A9006D31EEB96774FC2DB25014961AAD66B74264"
+  }
+ },
+ "id": 5465167000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

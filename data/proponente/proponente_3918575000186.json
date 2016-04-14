@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.918.575\/0001-86",
+ "fax": "313458-7034",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3918575000186"
+ },
+ "cpf_responsavel": "***288536**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3918575000186"
+ },
+ "nome": "ASSOCIACAO DE BOMBEIROS VOLUNTARIOS DE MINAS GERAIS - ABVMG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2221250014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3918575000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3918575000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3918575000186",
+ "nome_responsavel": "ROBERTO PROCACIO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "313458-7034",
+ "cep": "31155710",
+ "endereco": "RUA JOVIANO NAVES 274",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D5917129BE6B9FB6CC4F771DBC68DA0D9D5F493C",
+   "id": "D5917129BE6B9FB6CC4F771DBC68DA0D9D5F493C"
+  }
+ },
+ "id": 3918575000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

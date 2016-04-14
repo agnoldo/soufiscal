@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.892.093\/0001-31",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2892093000131"
+ },
+ "cpf_responsavel": "***251806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2892093000131"
+ },
+ "nome": "COOPERATIVA DE TRABALHO DOS CONSULTORES E INSTRUTORES DE FORMACAO PROFISSIONAL, PROMOCAO SOCIAL E ECONOMICA LTDA - COOPIFOR",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1457330013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2892093000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2892093000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2892093000131",
+ "nome_responsavel": "JOSE AILTON JUNQUEIRA DE CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/ 32718584",
+ "cep": "30130003",
+ "endereco": "AV. AFONSO PENA 952 SALAS 612 E 614",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FBF927811728850FC63E06D3B76E398B8A82BE5C",
+   "id": "FBF927811728850FC63E06D3B76E398B8A82BE5C"
+  }
+ },
+ "id": 2892093000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

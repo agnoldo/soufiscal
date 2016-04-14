@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.829.093\/0001-85",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5829093000185"
+ },
+ "cpf_responsavel": "***914206**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5829093000185"
+ },
+ "nome": "VALE DA CIDADANIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5829093000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5829093000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5829093000185",
+ "nome_responsavel": "CLESIO DA GAMA FERNANDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32241821",
+ "cep": "30160906",
+ "endereco": "RUA DA BAHIA 1148 SALAS 307\/311",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9ADA69F165E8A31DE7143B77E1D6E5064EAB1857",
+   "id": "9ADA69F165E8A31DE7143B77E1D6E5064EAB1857"
+  }
+ },
+ "id": 5829093000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

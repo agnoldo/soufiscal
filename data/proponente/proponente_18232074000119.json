@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.232.074\/0001-19",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18232074000119"
+ },
+ "cpf_responsavel": "***283166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18232074000119"
+ },
+ "nome": "LAGOA SANTA ESPORTE CLUBE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18232074000119"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18232074000119"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18232074000119",
+ "nome_responsavel": "CELIO MARIANO CARDOSO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 88184449",
+ "cep": "33400000",
+ "endereco": "RUA JOÃO PINHEIRO 18",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EE1B72FC47239823B9B700B1DDC9E0C0B7F5C1E7",
+   "id": "EE1B72FC47239823B9B700B1DDC9E0C0B7F5C1E7"
+  }
+ },
+ "id": 18232074000119,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

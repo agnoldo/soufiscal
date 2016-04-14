@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.492.828\/0001-16",
+ "fax": "31-99234607",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8492828000116"
+ },
+ "cpf_responsavel": "***718846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8492828000116"
+ },
+ "nome": "TEMPO DE NOVOS TRABALHOS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "sento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8492828000116"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8492828000116"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8492828000116",
+ "nome_responsavel": "GILBERTO RESENDE DE MORAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3629586 (provisorio)",
+ "cep": "33200000",
+ "endereco": "AV. EXISTENTE Nº1183",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F9877EAAE26A31578FD01CC75A2A0976E21864EB",
+   "id": "F9877EAAE26A31578FD01CC75A2A0976E21864EB"
+  }
+ },
+ "id": 8492828000116,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

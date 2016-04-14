@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.731.253\/0001-08",
+ "fax": "(31)2129-6000",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38731253000108"
+ },
+ "cpf_responsavel": "***739126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38731253000108"
+ },
+ "nome": "SINDICATO DOS OFICIAIS DE REGISTRO CIVIL DAS PESSOAS NATURAIS DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38731253000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38731253000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38731253000108",
+ "nome_responsavel": "PAULO ALBERTO RISSO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)2129-6008",
+ "cep": "30350540",
+ "endereco": "AV. RAJA GABÁGLIA 1.666 – 5º ANDAR BELO HORIZONTE-MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A13AA004E0CC158B3CA4507A4838A62B8F5690C0",
+   "id": "A13AA004E0CC158B3CA4507A4838A62B8F5690C0"
+  }
+ },
+ "id": 38731253000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

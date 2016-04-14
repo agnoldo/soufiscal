@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.562.368\/0010-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21562368001004"
+ },
+ "cpf_responsavel": "***815786**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21562368001004"
+ },
+ "nome": "ASSOCIACAO PROPAGADORA ESDEVA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21562368001004"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21562368001004"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21562368001004",
+ "nome_responsavel": "RENE LUIZ PAULINO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135245150",
+ "cep": "30140020",
+ "endereco": "PRAÇA JOÃO PESSOA 200",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4B8992B3DC9A8AC41B798ED4F08DEE898F057540",
+   "id": "4B8992B3DC9A8AC41B798ED4F08DEE898F057540"
+  }
+ },
+ "id": 21562368001004,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.426.729\/0001-07",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9426729000107"
+ },
+ "cpf_responsavel": "***639726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9426729000107"
+ },
+ "nome": "GRUPO MELHOR IDADE SERENIDADE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9426729000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9426729000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9426729000107",
+ "nome_responsavel": "MARIA LETICIA COSTA DE SIQUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)36741216",
+ "cep": "34515680",
+ "endereco": "RUA SERRA DA MANTIQUEIRA 33",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A704DD36D5ABE0BF269ED7817A1D0AAC91444346",
+   "id": "A704DD36D5ABE0BF269ED7817A1D0AAC91444346"
+  }
+ },
+ "id": 9426729000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

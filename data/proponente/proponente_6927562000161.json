@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.927.562\/0001-61",
+ "fax": "31 3212-4310",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6927562000161"
+ },
+ "cpf_responsavel": "***146376**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6927562000161"
+ },
+ "nome": "INSTITUTO DE TECNOLOGIA APLICADA - ITA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1995610019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6927562000161"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6927562000161"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6927562000161",
+ "nome_responsavel": "RITA CRISTINA VASCONCELOS COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 2512-4311",
+ "cep": "30180908",
+ "endereco": "AVENIDA AMAZONAS 641 CONJUNTO 11C EDIFICI CENTRO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/36B4BE952CE0FA1F100B64589201C6E065F78C09",
+   "id": "36B4BE952CE0FA1F100B64589201C6E065F78C09"
+  }
+ },
+ "id": 6927562000161,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

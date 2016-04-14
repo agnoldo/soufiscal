@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.915.330\/0001-57",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42915330000157"
+ },
+ "cpf_responsavel": "***594606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42915330000157"
+ },
+ "nome": "ESSENCIAL INFORMATICA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42915330000157"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42915330000157"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42915330000157",
+ "nome_responsavel": "ADRIANO MACHADO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31\/32672442",
+ "cep": "31035470",
+ "endereco": "RUA C 10",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/32A04CFB07B374B726923EDE1791BFD86E6FEB63",
+   "id": "32A04CFB07B374B726923EDE1791BFD86E6FEB63"
+  }
+ },
+ "id": 42915330000157,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

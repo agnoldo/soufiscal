@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.887.078\/0001-68",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3887078000168"
+ },
+ "cpf_responsavel": "***173138**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3887078000168"
+ },
+ "nome": "DIRETORIO MUNICIPAL DO PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3887078000168"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3887078000168"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3887078000168",
+ "nome_responsavel": "WILLIAN ALVES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/3084 4321",
+ "cep": "30170131",
+ "endereco": "RUA SAO PAULO 834 CENTRO  BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/249D5D61FC8436157E493889CBF2A8D9EB77123D",
+   "id": "249D5D61FC8436157E493889CBF2A8D9EB77123D"
+  }
+ },
+ "id": 3887078000168,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

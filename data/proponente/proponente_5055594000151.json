@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.055.594\/0001-51",
+ "fax": "3442 2539",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5055594000151"
+ },
+ "cpf_responsavel": "***284396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5055594000151"
+ },
+ "nome": "INSTITUTO DATA LEX",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1889840014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5055594000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5055594000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5055594000151",
+ "nome_responsavel": "DEBORAH MANGUEIRA SANTOS CARDOSO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 99992144",
+ "cep": "31780430",
+ "endereco": "RUA LIRIOS DO CAMPO 396",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/33EE155FDD8F1B7E9AAAB49521AE05CBA5B87825",
+   "id": "33EE155FDD8F1B7E9AAAB49521AE05CBA5B87825"
+  }
+ },
+ "id": 5055594000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

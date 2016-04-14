@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.257.666\/0001-58",
+ "fax": "3135396502",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19257666000158"
+ },
+ "cpf_responsavel": "***813776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19257666000158"
+ },
+ "nome": "SINDICATO DOS TRABS INDUSTRIAS MET MEC MAT ELET BETIM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19257666000158"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19257666000158"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19257666000158",
+ "nome_responsavel": "GLEYSON BORGES FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135396503",
+ "cep": "32510020",
+ "endereco": "RUA SANTA CRUZ811",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/77E6E91F2F8C2BA699156D38634C61CE146B01D6",
+   "id": "77E6E91F2F8C2BA699156D38634C61CE146B01D6"
+  }
+ },
+ "id": 19257666000158,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

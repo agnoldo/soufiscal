@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.421.416\/0001-08",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11421416000108"
+ },
+ "cpf_responsavel": "***002436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11421416000108"
+ },
+ "nome": "ASSOCIACAO PARA BENEFICIOS DE IDOSOS E JOVENS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTA",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11421416000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11421416000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11421416000108",
+ "nome_responsavel": "RUBENS LIMA PURISCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-92634570",
+ "cep": "34800000",
+ "endereco": "RUA RENATO LAUDATE S\/N - LOCAL RUBENS PURYSCO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/69B2EEF8B0085B33C1C687199018E3897EB476E9",
+   "id": "69B2EEF8B0085B33C1C687199018E3897EB476E9"
+  }
+ },
+ "id": 11421416000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

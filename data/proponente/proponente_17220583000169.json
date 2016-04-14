@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.220.583\/0001-69",
+ "fax": "(31) 3213-1080",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17220583000169"
+ },
+ "cpf_responsavel": "***656036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17220583000169"
+ },
+ "nome": "FUNDACAO UNIVERSITARIA MENDES PIMENTEL",
+ "inscricao_estadual": "0627574310075",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "406637\/001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17220583000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17220583000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17220583000169",
+ "nome_responsavel": "SANDRA MARIA GUALBERTO BRAGA BIANCHET",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3213-5237",
+ "cep": "31275000",
+ "endereco": "AV. ANTONIO ABRAHAO CARAM 610",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C81C5EBC7DDFACFC8EE86A4211F3A386C65ED7BD",
+   "id": "C81C5EBC7DDFACFC8EE86A4211F3A386C65ED7BD"
+  }
+ },
+ "id": 17220583000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

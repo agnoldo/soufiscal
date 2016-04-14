@@ -1,0 +1,103 @@
+<ion-view>
+  <ion-nav-title>Nova Tarefa em Convênio</ion-nav-title>
+  <ion-content padding="true" class="has-footer">
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Tarefa</b> <i class="icon ion-speakerphone"></i></ion-item>
+        <label class="item item-input item-select">
+          <span class="input-label">Tipo de Tarefa</span>
+          <select name="descricao" id="descricao">
+            <option selected value="">--Escolha tipo de tarefa--</option>
+            <option>Acompanhar progresso de obra</option>
+            <option>Checar existência de empresa</option>
+            <option>Checar histórico de empresa</option>
+            <option>Verificar existência de itens comprados</option>
+            <option>Verificar realização de serviço</option>
+          </select>
+        </label>
+        <div class="item item-input">
+          <span class="input-label">Data-Limite</span>
+          <label class="item-input-wrapper">
+            <input type="text" placeholder="Ex.: 25/04/2016" value="{{data_limite | date:'dd/MM/yyyy'}}">
+          </label>
+          <button class="button button-clear" style="margin:0;padding:0;top:-9px;height:29px;min-height:29px;max-height:29px;" ng-click="openDatePicker()"><i class="ion-calendar"></i></button>
+        </div>
+        <label class="item item-input item-select">
+          <span class="input-label">Objeto</span>
+          <select name="nome_empresa" id="nome_empresa">
+            <option selected value="">--Escolha objeto--</option>
+            <option>Construtora DezenoveVezesNove</option>
+            <option>Depósito TopaTudo</option>
+            <option>Incorporadora DezPorCento</option>
+          </select>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Endereço</span>
+          <input type="text" placeholder="Ex.: Rua Gabriel Garcia Márquez, 1927">
+        </label>
+        <label class="item item-input item-select">
+          <span class="input-label">UF</span>
+          <select name="Uf_Despesa" id="Uf_Despesa">
+            <option selected value="">--Escolha UF--</option>
+            <option value="AC">Acre</option>
+            <option value="AL">Alagoas</option>
+            <option value="AP">Amapá</option>
+            <option value="AM">Amazonas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espírito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MS">Mato Grosso do Sul</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="PI">Piauí</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RN">Rio Grande do Norte</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="RR">Roraima</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+            <option value="SE">Sergipe</option>
+            <option value="TO">Tocantins</option>
+          </select>
+        </label>
+        <label class="item item-input item-select">
+          <span class="input-label">Município</span>
+          <select name="Tx_Municipio" id="Tx_Municipio">
+            <option selected value="">--Escolha município--</option>
+          </select>
+        </label>
+      </ion-list>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <div class="button button-clear" ng-disabled="loading">
+          Voltar
+          <i class="icon ion-arrow-left-a"></i>
+        </div>
+      </a>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <div class="button button-clear" ng-disabled="loading">
+          Gravar
+          <i class="icon ion-ios-download-outline"></i>
+        </div>
+      </a>
+    </div>
+  </ion-footer-bar>
+</ion-view>

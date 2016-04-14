@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.198.118\/0001-02",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19198118000102"
+ },
+ "cpf_responsavel": "***554806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19198118000102"
+ },
+ "nome": "EMPRESA DE ASSISTENCIA TECNICA E EXTENSAO RURAL DO ESTADO DE MINAS GERAIS - EMATER-MG",
+ "inscricao_estadual": "062202262.00-70",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "03121490011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19198118000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19198118000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19198118000102",
+ "nome_responsavel": "AMARILDO JOSE BRUMANO KALIL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 33498090",
+ "cep": "30350540",
+ "endereco": "AVENIDA RAJA GABÁGLIA N 1626",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B3DDBC9A3F7F559E5C99D07F9A2042A409DB70C9",
+   "id": "B3DDBC9A3F7F559E5C99D07F9A2042A409DB70C9"
+  }
+ },
+ "id": 19198118000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

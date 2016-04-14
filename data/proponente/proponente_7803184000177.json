@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.803.184\/0001-77",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7803184000177"
+ },
+ "cpf_responsavel": "***600466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7803184000177"
+ },
+ "nome": "INSTITUTO TURING",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7803184000177"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7803184000177"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7803184000177",
+ "nome_responsavel": "ANDRE LUIZ DE SENNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3125516936",
+ "cep": "30455700",
+ "endereco": "AV ENGENHEIRO CARLOS GOULART 931",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0F2D0EBC3311D89E27998DC66DF5F50E95FDD809",
+   "id": "0F2D0EBC3311D89E27998DC66DF5F50E95FDD809"
+  }
+ },
+ "id": 7803184000177,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

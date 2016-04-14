@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.103.931\/0001-31",
+ "fax": "1278",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11103931000131"
+ },
+ "cpf_responsavel": "***961456**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11103931000131"
+ },
+ "nome": "CLINICA DE ARTE HOMEOPATICA DE CURAR ENFERMOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11103931000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11103931000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11103931000131",
+ "nome_responsavel": "ANDRE LUIZ DIAS GOMES MACHADO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3198275466",
+ "cep": "32900000",
+ "endereco": "RUA J 300",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/861222EF0053FE8CC0338B5F8C32E9F280A44656",
+   "id": "861222EF0053FE8CC0338B5F8C32E9F280A44656"
+  }
+ },
+ "id": 11103931000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15091",
+   "id": 15091
+  }
+ }
+}

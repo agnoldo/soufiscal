@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.109.343\/0001-69",
+ "fax": "(31) 3225-2416",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21109343000169"
+ },
+ "cpf_responsavel": "***105946**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21109343000169"
+ },
+ "nome": "O MOVIMENTO DO GRAAL NO BRASIL",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3810800001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21109343000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21109343000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21109343000169",
+ "nome_responsavel": "MARIA HELENA DINIZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3225-2224",
+ "cep": "30220150",
+ "endereco": "RUA PIRAPETINGA Nº 390",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D86CC566323CD90BDA809F8314D6AA625768B5B3",
+   "id": "D86CC566323CD90BDA809F8314D6AA625768B5B3"
+  }
+ },
+ "id": 21109343000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

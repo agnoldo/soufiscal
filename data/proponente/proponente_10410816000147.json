@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.410.816\/0001-47",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10410816000147"
+ },
+ "cpf_responsavel": "***550926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10410816000147"
+ },
+ "nome": "MALAGUETA COMUNICACAO, PRODUCAO E EVENTOS LTDA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "2331860011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10410816000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10410816000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10410816000147",
+ "nome_responsavel": "ALOISIO JOSE PIRES ANGELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 - 34882769",
+ "cep": "31070050",
+ "endereco": "RUA AGUA BRANCA 72",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/693FF9A0CD65015405609E4D6312E81616D92EDC",
+   "id": "693FF9A0CD65015405609E4D6312E81616D92EDC"
+  }
+ },
+ "id": 10410816000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

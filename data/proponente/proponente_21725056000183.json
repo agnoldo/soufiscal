@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.725.056\/0001-83",
+ "fax": "31\/33931988",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21725056000183"
+ },
+ "cpf_responsavel": "***198936**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21725056000183"
+ },
+ "nome": "CENTRO DE ATENDIMENTO E INCLUSAO SOCIAL - CAIS",
+ "inscricao_estadual": "1863177710000",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21725056000183"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21725056000183"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21725056000183",
+ "nome_responsavel": "ALUISIO BARTOLOMEU PEGO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33931988",
+ "cep": "32370270",
+ "endereco": "RUA AJ 171",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C66E5523EE3129679A38019C6E2D9E15269B2F8B",
+   "id": "C66E5523EE3129679A38019C6E2D9E15269B2F8B"
+  }
+ },
+ "id": 21725056000183,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

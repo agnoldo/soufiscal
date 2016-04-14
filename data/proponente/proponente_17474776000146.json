@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.474.776\/0001-46",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17474776000146"
+ },
+ "cpf_responsavel": "***004976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17474776000146"
+ },
+ "nome": "DPT DE MINAS GERAIS DO INSTITUTO ARQUITETOS DO BRASIL",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17474776000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17474776000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17474776000146",
+ "nome_responsavel": "CLAUDIA TERESA PEREIRA PIRES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132256408",
+ "cep": "30310240",
+ "endereco": "R. MESTRE LUCAS 70 ¿ B. CRUZEIRO ¿ BELO HORIZONTE - MG.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F7328E34C154CC3D952A251CE031E00EB00D57BF",
+   "id": "F7328E34C154CC3D952A251CE031E00EB00D57BF"
+  }
+ },
+ "id": 17474776000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

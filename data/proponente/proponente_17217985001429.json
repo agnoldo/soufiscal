@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.217.985\/0014-29",
+ "fax": "31-34092030",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17217985001429"
+ },
+ "cpf_responsavel": "***716676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17217985001429"
+ },
+ "nome": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/33",
+   "id": 33
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17217985001429"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17217985001429"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17217985001429",
+ "nome_responsavel": "FRANCISCO CARLOS FARIA LOBATO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/31",
+   "id": 31
+  }
+ },
+ "telefone": "31-34092001",
+ "cep": "30270901",
+ "endereco": "AV. ANTONIO CARLOS 6627 PAMPULHA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9462A78B9A81163F2C4F520B46462BE640413089",
+   "id": "9462A78B9A81163F2C4F520B46462BE640413089"
+  }
+ },
+ "id": 17217985001429,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

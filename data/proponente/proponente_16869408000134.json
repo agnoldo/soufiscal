@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.869.408\/0001-34",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16869408000134"
+ },
+ "cpf_responsavel": "***805036**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16869408000134"
+ },
+ "nome": "ASSOCIACAO POR AMOR DE TI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16869408000134"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16869408000134"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16869408000134",
+ "nome_responsavel": "WANDERSON RODRIGUES FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-33628367",
+ "cep": "32210161",
+ "endereco": "BECO TREZE DE MAIO 20",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FB218B4A3D8631CBFF8085699F858648515517B5",
+   "id": "FB218B4A3D8631CBFF8085699F858648515517B5"
+  }
+ },
+ "id": 16869408000134,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

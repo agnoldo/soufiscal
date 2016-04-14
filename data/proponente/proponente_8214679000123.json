@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.214.679\/0001-23",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8214679000123"
+ },
+ "cpf_responsavel": "***251846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8214679000123"
+ },
+ "nome": "ASSOCIACAO MALARRUMADA DE TEATRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8214679000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8214679000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8214679000123",
+ "nome_responsavel": "GERMAN ANDRES MILICH ESCANELLAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 86123973",
+ "cep": "31030360",
+ "endereco": "JOAO CARLOS 258",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/11997CBFD2F01774A264F1E7F3F37CE11887FEB1",
+   "id": "11997CBFD2F01774A264F1E7F3F37CE11887FEB1"
+  }
+ },
+ "id": 8214679000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

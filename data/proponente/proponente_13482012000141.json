@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.482.012\/0001-41",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13482012000141"
+ },
+ "cpf_responsavel": "***367606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13482012000141"
+ },
+ "nome": "ASSOCIACAO CULTURAL AFRO-BRASILEIRA BETIM COR BRAZIL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13482012000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13482012000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13482012000141",
+ "nome_responsavel": "MARLENE BENTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-9823-4257",
+ "cep": "32600308",
+ "endereco": "PRAÇA JOSÉ LINO DA SILVA 08",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2DD86BAF463EDD375E9040A594C39ABD53CA9F22",
+   "id": "2DD86BAF463EDD375E9040A594C39ABD53CA9F22"
+  }
+ },
+ "id": 13482012000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

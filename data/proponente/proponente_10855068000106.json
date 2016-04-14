@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.855.068\/0001-06",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10855068000106"
+ },
+ "cpf_responsavel": "***797926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10855068000106"
+ },
+ "nome": "ASSOCIACAO DE AMIGOS E FAMILIARES DE PESSOAS EM PRIVACAO DE LIBERDADE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10855068000106"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10855068000106"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10855068000106",
+ "nome_responsavel": "MARIA TERESA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/32740337",
+ "cep": "30120907",
+ "endereco": "RUA DOS TUPINAMBÁS 179 15º ANDAR SALA 156 BAIRRO CENTRO BELO HORIZONTE\/MG CEP: 30120-903.TELEFONE(S): (31) 3274-0337 \/ (31) 3582-3320",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/495D07D7731C11AF823A2C29EBB140E94D453FDF",
+   "id": "495D07D7731C11AF823A2C29EBB140E94D453FDF"
+  }
+ },
+ "id": 10855068000106,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.179.400\/0001-51",
+ "fax": "(31)3915-8654",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65179400000151"
+ },
+ "cpf_responsavel": "***855096**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65179400000151"
+ },
+ "nome": "INSTITUTO MINEIRO DE AGROPECUARIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65179400000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65179400000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65179400000151",
+ "nome_responsavel": "MARCIO DA SILVA BOTELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31)3915-8646",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMERICO GIANETTI S\/Nº 10º ANDAR - PREDIO GERAIS - CIDADE ADMINISTRATIVA.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E167B5726746EFC5F0C713164073A06DEA3093CB",
+   "id": "E167B5726746EFC5F0C713164073A06DEA3093CB"
+  }
+ },
+ "id": 65179400000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

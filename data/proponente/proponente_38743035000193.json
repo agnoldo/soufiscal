@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.743.035\/0001-93",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38743035000193"
+ },
+ "cpf_responsavel": "***455808**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38743035000193"
+ },
+ "nome": "ASSOCIACAO DOS CATADORES DE PAPEL P MAT REAPROVEITAVEL",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38743035000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38743035000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38743035000193",
+ "nome_responsavel": "FERNANDO GODOY ALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "97331314",
+ "cep": "30110140",
+ "endereco": "AVENIDA DO CONTORNO 10555",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7E9E77ED45059C95C9D65DE7CE5E0F639C3C8248",
+   "id": "7E9E77ED45059C95C9D65DE7CE5E0F639C3C8248"
+  }
+ },
+ "id": 38743035000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

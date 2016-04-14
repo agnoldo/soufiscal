@@ -1,0 +1,50 @@
+{
+ "cnpj": "29.363.868\/0001-38",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=29363868000138"
+ },
+ "cpf_responsavel": "***422806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=29363868000138"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DE BARES E RESTAURANTES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1916000018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=29363868000138"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=29363868000138"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/29363868000138",
+ "nome_responsavel": "ANTONIO PAULO SOLMUCCI JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03132643101",
+ "cep": "30210490",
+ "endereco": "RUA BAMBUÍ NO. 20 SALA 102",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7D6E44131EE6F9A2137A745F52D627635E944DD0",
+   "id": "7D6E44131EE6F9A2137A745F52D627635E944DD0"
+  }
+ },
+ "id": 29363868000138,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

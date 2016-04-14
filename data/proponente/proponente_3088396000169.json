@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.088.396\/0001-69",
+ "fax": "31\/32229113",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3088396000169"
+ },
+ "cpf_responsavel": "***154746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3088396000169"
+ },
+ "nome": "INSTITUTO MINEIRO DE SAUDE MENTAL E SOCIAL - INSTITUTO ALBAM",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "000150142.0019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3088396000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3088396000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3088396000169",
+ "nome_responsavel": "LUCIANO PINHEIRO DE CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/32229113",
+ "cep": "30150311",
+ "endereco": "RUA CEARÁ 1111\/SALA 04.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4FF85CA38C04A27CEC3C766DB6BFA9C909C97ACC",
+   "id": "4FF85CA38C04A27CEC3C766DB6BFA9C909C97ACC"
+  }
+ },
+ "id": 3088396000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

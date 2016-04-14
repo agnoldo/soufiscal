@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.358.877\/0001-60",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8358877000160"
+ },
+ "cpf_responsavel": "***935586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8358877000160"
+ },
+ "nome": "ASSOCIACAO NACIONAL DOS VIOLEIROS DO BRASIL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2195010015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8358877000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8358877000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8358877000160",
+ "nome_responsavel": "VALMIR RIBEIRO DE CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34031483",
+ "cep": "30150101",
+ "endereco": "AVENIDA ASSIS CHATEAUBRIAND 809 EDIFÍCIO CTM SALA 03 ANEXO A SERRARIA SOUZA PINTO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BFCA43C8D8AE8B27FE7522F06D174AA8675BF991",
+   "id": "BFCA43C8D8AE8B27FE7522F06D174AA8675BF991"
+  }
+ },
+ "id": 8358877000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

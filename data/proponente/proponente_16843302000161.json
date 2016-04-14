@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.843.302\/0001-61",
+ "fax": "3135670330",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16843302000161"
+ },
+ "cpf_responsavel": "***840486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16843302000161"
+ },
+ "nome": "ASSOC DE GUIAS DE TURISMO DO BRASIL S DE M G AGTURB M G",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16843302000161"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16843302000161"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16843302000161",
+ "nome_responsavel": "SIDNEIA MOURAO DINIZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135670330",
+ "cep": "30130001",
+ "endereco": "AV. AFONSO PENA 526 - SALA 1207",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/70531385B843A4FC2A5595E83BF53EBBD503D396",
+   "id": "70531385B843A4FC2A5595E83BF53EBBD503D396"
+  }
+ },
+ "id": 16843302000161,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

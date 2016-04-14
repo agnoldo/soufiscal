@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.420.830\/0001-00",
+ "fax": "31 35232708",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22420830000100"
+ },
+ "cpf_responsavel": "***383606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22420830000100"
+ },
+ "nome": "FUNDACAO HOSPITAL SANTA TEREZINHA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02397",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22420830000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22420830000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22420830000100",
+ "nome_responsavel": "JOSE EUSTAQUIO PINTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35232702",
+ "cep": "35670000",
+ "endereco": "RUA TOMAZ DE ANDRADE 408",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/471D132C23A565E3251478C97C92D02A13048A97",
+   "id": "471D132C23A565E3251478C97C92D02A13048A97"
+  }
+ },
+ "id": 22420830000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11795",
+   "id": 11795
+  }
+ }
+}

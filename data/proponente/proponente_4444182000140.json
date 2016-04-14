@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.444.182\/0001-40",
+ "fax": "31 32272534",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4444182000140"
+ },
+ "cpf_responsavel": "***120616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4444182000140"
+ },
+ "nome": "INSTITUTO CULTURAL BOA ESPERANCA",
+ "inscricao_estadual": "1655320014",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4444182000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4444182000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4444182000140",
+ "nome_responsavel": "ANTONIO GEORGE SALGADO HELT",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32272534",
+ "cep": "30310730",
+ "endereco": "RUA BOA ESPERANÇA 26",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F8CA40BE2F1247E9286C5A65E9D59071C48EA9AA",
+   "id": "F8CA40BE2F1247E9286C5A65E9D59071C48EA9AA"
+  }
+ },
+ "id": 4444182000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

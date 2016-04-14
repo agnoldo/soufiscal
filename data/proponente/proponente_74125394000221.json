@@ -1,0 +1,50 @@
+{
+ "cnpj": "74.125.394\/0002-21",
+ "fax": "31-32828301",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=74125394000221"
+ },
+ "cpf_responsavel": "***986666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=74125394000221"
+ },
+ "nome": "INSTITUTO CENTRO DE CAPACITACAO E APOIO AO EMPREENDEDOR - INSTITUTO CENTRO CAPE",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1439970014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=74125394000221"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=74125394000221"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/74125394000221",
+ "nome_responsavel": "TANIA MARIA MACHADO SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32828313",
+ "cep": "30310010",
+ "endereco": "RUA GRÃO MOGOL Nº 662",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E71FCF83495B4545076B731B67EE7D691AD1AA9A",
+   "id": "E71FCF83495B4545076B731B67EE7D691AD1AA9A"
+  }
+ },
+ "id": 74125394000221,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

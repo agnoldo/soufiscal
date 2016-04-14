@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.737.621\/0001-95",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22737621000195"
+ },
+ "cpf_responsavel": "***492146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22737621000195"
+ },
+ "nome": "ASSOCIACAO DOS DEFICIENTES FISICOS DE BETIM",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "8775\/001-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22737621000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22737621000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22737621000195",
+ "nome_responsavel": "MICHELE DOS SANTOS MARINHEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3532-5576",
+ "cep": "32604130",
+ "endereco": "RUA PEDRO DA SILVA FORTES 179",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6BDC8B451058CDD872E7C349E66DC7F838D8D1DD",
+   "id": "6BDC8B451058CDD872E7C349E66DC7F838D8D1DD"
+  }
+ },
+ "id": 22737621000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.312.108\/0001-85",
+ "fax": "031 35451286",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18312108000185"
+ },
+ "cpf_responsavel": "***214466**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18312108000185"
+ },
+ "nome": "MUNICIPIO DE RIO ACIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18312108000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18312108000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18312108000185",
+ "nome_responsavel": "WANDERSON FABIO DE LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "031 35451286",
+ "cep": "34300000",
+ "endereco": "RUA ANTONIO CARLOS40",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7D274D9DB03E47954E0B4735122C2B88822125B7",
+   "id": "7D274D9DB03E47954E0B4735122C2B88822125B7"
+  }
+ },
+ "id": 18312108000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12475",
+   "id": 12475
+  }
+ }
+}

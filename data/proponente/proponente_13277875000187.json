@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.277.875\/0001-87",
+ "fax": "(31) 3916-7510",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13277875000187"
+ },
+ "cpf_responsavel": "***224996**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13277875000187"
+ },
+ "nome": "GABINETE DA SECRETARIA DE ESTADO EXTRAORDINARIO DE GESTAO METROPOLITANA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13277875000187"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13277875000187"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13277875000187",
+ "nome_responsavel": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3916-7704",
+ "cep": "31630900",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/NEDIFÍCIO GERAIS ¿ 13º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D069F792C0913565E203451DAC16D8B5C4C4EFAE",
+   "id": "D069F792C0913565E203451DAC16D8B5C4C4EFAE"
+  }
+ },
+ "id": 13277875000187,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

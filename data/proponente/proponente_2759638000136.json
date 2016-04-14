@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.759.638\/0001-36",
+ "fax": "3132935163",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2759638000136"
+ },
+ "cpf_responsavel": "***689296**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2759638000136"
+ },
+ "nome": "S O S FALCONIFORMES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "028383622298",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2759638000136"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2759638000136"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2759638000136",
+ "nome_responsavel": "CARLOS EDUARDO ALENCAR CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132935163",
+ "cep": "30310390",
+ "endereco": "RUA ODILON BRAGA 1370",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9412F0F88135FDC6E919D79B507AE6847A3958EB",
+   "id": "9412F0F88135FDC6E919D79B507AE6847A3958EB"
+  }
+ },
+ "id": 2759638000136,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

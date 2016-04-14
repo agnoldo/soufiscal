@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.202.699\/0001-96",
+ "fax": "31-3238-8185",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5202699000196"
+ },
+ "cpf_responsavel": "***014256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5202699000196"
+ },
+ "nome": "FUNDACAO SANTA CASA DE MISERICORDIA DE BELO HORIZONTE",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1760020017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5202699000196"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5202699000196"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5202699000196",
+ "nome_responsavel": "SAULO LEVINDO COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3238-8291",
+ "cep": "30150300",
+ "endereco": "PRAÇA HUGO WERNECK 166",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AAFA3D57A53336F3F4FCE3AC6AE1A039938CAE6E",
+   "id": "AAFA3D57A53336F3F4FCE3AC6AE1A039938CAE6E"
+  }
+ },
+ "id": 5202699000196,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

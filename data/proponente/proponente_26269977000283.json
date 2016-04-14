@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.269.977\/0002-83",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26269977000283"
+ },
+ "cpf_responsavel": "***824656**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26269977000283"
+ },
+ "nome": "FUNDACAO BIOMINAS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3928260024",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26269977000283"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26269977000283"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26269977000283",
+ "nome_responsavel": "EDUARDO EMRICH SOARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33030000",
+ "cep": "30140003",
+ "endereco": "AV BRASIL 1666 - 13O ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1FE8A89E175774F050075C804721BB6C53EFB88B",
+   "id": "1FE8A89E175774F050075C804721BB6C53EFB88B"
+  }
+ },
+ "id": 26269977000283,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

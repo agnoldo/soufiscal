@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.511.135\/0001-29",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20511135000129"
+ },
+ "cpf_responsavel": "***790396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20511135000129"
+ },
+ "nome": "GRUPO DE ESTU E TRABALHO EM EDUCACAO COMUNITARIA GETEC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "5997601-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20511135000129"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20511135000129"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20511135000129",
+ "nome_responsavel": "MARIA DOLORES LIMA DE PAIVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133931747",
+ "cep": "32371090",
+ "endereco": "RUA PAULO SERGIO 872",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8BA2E25A5F11C86D507C7E06D0E004F9AE80C774",
+   "id": "8BA2E25A5F11C86D507C7E06D0E004F9AE80C774"
+  }
+ },
+ "id": 20511135000129,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

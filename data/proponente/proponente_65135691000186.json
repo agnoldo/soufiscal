@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.135.691\/0001-86",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65135691000186"
+ },
+ "cpf_responsavel": "***243986**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65135691000186"
+ },
+ "nome": "SINDICATO DAS IND. DE JOAL., OURIVES., LAPIDACOES E OBRAS DE PEDRAS PRECIOSAS, RELOJ., FOLHEADOS DE METAIS PRECIOSOS E BIJUTERIAS NO ESTADO DE MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65135691000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65135691000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65135691000186",
+ "nome_responsavel": "RAYMUNDO DE ALMEIDA VIANNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "61 9907 0335",
+ "cep": "30140060",
+ "endereco": "RUA TIMBIRAS FUNCIONÁRIOS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3658317A3BFE19DD593506319E9AB67DAC0641E1",
+   "id": "3658317A3BFE19DD593506319E9AB67DAC0641E1"
+  }
+ },
+ "id": 65135691000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

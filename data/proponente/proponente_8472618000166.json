@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.472.618\/0001-66",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8472618000166"
+ },
+ "cpf_responsavel": "***701086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8472618000166"
+ },
+ "nome": "QUATRO ESTACOES ACOES SOCIAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "08472618000166",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8472618000166"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8472618000166"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8472618000166",
+ "nome_responsavel": "ELIANE MESQUITA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 87803707",
+ "cep": "30820250",
+ "endereco": "RUA DESEMBARGADOR CAMPOS 107",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4DF8198AACAD142EAAAC3B9DBACE86E6FBF33862",
+   "id": "4DF8198AACAD142EAAAC3B9DBACE86E6FBF33862"
+  }
+ },
+ "id": 8472618000166,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

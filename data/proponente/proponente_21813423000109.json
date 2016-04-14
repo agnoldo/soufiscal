@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.813.423\/0001-09",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21813423000109"
+ },
+ "cpf_responsavel": "***227246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21813423000109"
+ },
+ "nome": "ASIGAM - ASSOCIACAO DOS SERVIDORES DO IGAM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21813423000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21813423000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21813423000109",
+ "nome_responsavel": "CAROLINA MELO BARRETO DE CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 33447877",
+ "cep": "30170081",
+ "endereco": "RUA STA CATARINA 1354",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0DE3C63E37C48EF6799F4CA11614C3C603E59517",
+   "id": "0DE3C63E37C48EF6799F4CA11614C3C603E59517"
+  }
+ },
+ "id": 21813423000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

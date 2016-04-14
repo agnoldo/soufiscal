@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.319.857\/0001-67",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3319857000167"
+ },
+ "cpf_responsavel": "***243546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3319857000167"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE RECICLAGEM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3319857000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3319857000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3319857000167",
+ "nome_responsavel": "MARIA MARTA TEIXEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 86623943",
+ "cep": "33200000",
+ "endereco": "RUA 59 151",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B958E68B1013D9454C2A79A78866C4A4C475D87D",
+   "id": "B958E68B1013D9454C2A79A78866C4A4C475D87D"
+  }
+ },
+ "id": 3319857000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

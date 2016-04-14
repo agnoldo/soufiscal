@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.500.589\/0001-85",
+ "fax": "(31) 3915-9587",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3500589000185"
+ },
+ "cpf_responsavel": "***325026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3500589000185"
+ },
+ "nome": "SECRETARIA DE ESTADO DE TURISMO E ESPORTES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3500589000185"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3500589000185"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3500589000185",
+ "nome_responsavel": "MARIO HENRIQUE DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3915-9567",
+ "cep": "31630369",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI 4143 ANDAR 11 PRÉDIO GERAIS - SERRA VERDE - BELO HORIZONTE\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AEAF2D824E349FFD319B24B661695CC116FC1CD3",
+   "id": "AEAF2D824E349FFD319B24B661695CC116FC1CD3"
+  }
+ },
+ "id": 3500589000185,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

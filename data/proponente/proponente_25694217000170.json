@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.694.217\/0001-70",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25694217000170"
+ },
+ "cpf_responsavel": "***172716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25694217000170"
+ },
+ "nome": "ASSOCIACAO CULTURAL NOVA ACROPOLE DE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "373130001",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25694217000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25694217000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25694217000170",
+ "nome_responsavel": "JOSE CARLOS POSSAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3327.0586",
+ "cep": "30170011",
+ "endereco": "AV. BIAS FORTES 1097",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8293FEFA4AD22C63E0E1CC07974CD313C775578D",
+   "id": "8293FEFA4AD22C63E0E1CC07974CD313C775578D"
+  }
+ },
+ "id": 25694217000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

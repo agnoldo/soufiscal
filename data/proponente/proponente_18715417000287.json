@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.417\/0002-87",
+ "fax": "3136831103",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715417000287"
+ },
+ "cpf_responsavel": "***072246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715417000287"
+ },
+ "nome": "JABOTICATUBAS PREFEITURA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715417000287"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715417000287"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715417000287",
+ "nome_responsavel": "MARIA DE FATIMA SOARES NOGUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3136831071\/Ramal208",
+ "cep": "35830000",
+ "endereco": "RUA DOM CARLOS VASCONCELOS350.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D11586A8E97461B881103DCB3C715CEBF5F98B34",
+   "id": "D11586A8E97461B881103DCB3C715CEBF5F98B34"
+  }
+ },
+ "id": 18715417000287,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

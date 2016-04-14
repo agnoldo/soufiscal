@@ -1,0 +1,50 @@
+{
+ "cnpj": "15.191.159\/0001-08",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=15191159000108"
+ },
+ "cpf_responsavel": "***854196**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=15191159000108"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE ECOLOGIA E DESENVOLVIMENTO SUSTENTAVEL - IBEDS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=15191159000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=15191159000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/15191159000108",
+ "nome_responsavel": "FRANCISCO LUCIO MOURAO FERREIRA BLANCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32963502",
+ "cep": "30110935",
+ "endereco": "AV DO CONTORNO Nº 6777 - SALA 703 - SANTO ANTONIO - BELO HORIZONTE - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CD7682D153DF538D5A98FD601ADC3853CE989FD6",
+   "id": "CD7682D153DF538D5A98FD601ADC3853CE989FD6"
+  }
+ },
+ "id": 15191159000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

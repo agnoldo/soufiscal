@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.983.244\/0002-85",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1983244000285"
+ },
+ "cpf_responsavel": "***219526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1983244000285"
+ },
+ "nome": "INSTITUTO DE QUALIDADE DE VIDA - IQUAVI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "218.252\/001-x",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1983244000285"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1983244000285"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1983244000285",
+ "nome_responsavel": "LEANDRO RAMON CAMPOS GUSMAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3442-1434",
+ "cep": "30130090",
+ "endereco": "RUA PADRE ROLIM Nº18 - SALA:604",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8BE40C146B8BD3A486A8835DAC72B191BAE50C1D",
+   "id": "8BE40C146B8BD3A486A8835DAC72B191BAE50C1D"
+  }
+ },
+ "id": 1983244000285,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"metadados": {"total_registros": 1}, "municipios": [{"nome": "BALDIM", "cod_siconv": 12022, "href": "http://api.convenios.gov.br/siconv/id/municipio/12022", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12022"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12022}]}

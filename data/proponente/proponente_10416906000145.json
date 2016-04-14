@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.416.906\/0001-45",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10416906000145"
+ },
+ "cpf_responsavel": "***995906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10416906000145"
+ },
+ "nome": "INSTITUTO DE EDUCACAO E CIDADANIA IEC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2333510018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10416906000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10416906000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10416906000145",
+ "nome_responsavel": "CLEISE APARECIDA DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32230797",
+ "cep": "30220000",
+ "endereco": "RUA DO OURO 104 - SALA 803 - SERRA - BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/53C2ED87DDFC2BEB5EE652A3AB295D016D6E3B48",
+   "id": "53C2ED87DDFC2BEB5EE652A3AB295D016D6E3B48"
+  }
+ },
+ "id": 10416906000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

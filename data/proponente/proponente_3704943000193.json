@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.704.943\/0001-93",
+ "fax": "3135353999",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3704943000193"
+ },
+ "cpf_responsavel": "***864756**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3704943000193"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE DE MATEUS LEME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3704943000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3704943000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3704943000193",
+ "nome_responsavel": "GILBERTO RONY VIEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3135353990",
+ "cep": "35670000",
+ "endereco": "RUA DR. TOMAZ DE ANDRADE 707",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8354A8BA2204D2D848F877964CD36E26E8197811",
+   "id": "8354A8BA2204D2D848F877964CD36E26E8197811"
+  }
+ },
+ "id": 3704943000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11795",
+   "id": 11795
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.379.811\/0001-04",
+ "fax": "33-33217560",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4379811000104"
+ },
+ "cpf_responsavel": "***393926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4379811000104"
+ },
+ "nome": "CENTRO EDUCACIONAL LAGOA PIAU",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2254590019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4379811000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4379811000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4379811000104",
+ "nome_responsavel": "CLAUDIO CEZAR AZEVEDO DE ALMEIDA LEITAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32235940",
+ "cep": "30220000",
+ "endereco": "RUA DO OURO N. 136 - SALA 405 - BELO HORIZONTTE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/09D430579FC8B5F98D7379F0CF48FB3D11FC4D0A",
+   "id": "09D430579FC8B5F98D7379F0CF48FB3D11FC4D0A"
+  }
+ },
+ "id": 4379811000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

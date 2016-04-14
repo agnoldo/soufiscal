@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.573\/0001-67",
+ "fax": "31 - 3215-6582",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715573000167"
+ },
+ "cpf_responsavel": "***410246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715573000167"
+ },
+ "nome": "SECRETARIA DE ESTADO DE AGRICULTURA, PECUARIA E ABASTECIMENTO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715573000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715573000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715573000167",
+ "nome_responsavel": "JOAO CRUZ REIS FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31 - 3215-8596",
+ "cep": "30630901",
+ "endereco": "RODOVIA PREFEITO AMERICO GIANETTI S\/NR.- 10º ANDAR - PREDIO GERAIS -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/85366DB12BBEA57FC8CF94BAF3159F6344B50D49",
+   "id": "85366DB12BBEA57FC8CF94BAF3159F6344B50D49"
+  }
+ },
+ "id": 18715573000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

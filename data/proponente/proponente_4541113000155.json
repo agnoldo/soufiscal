@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.541.113\/0001-55",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4541113000155"
+ },
+ "cpf_responsavel": "***192977**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4541113000155"
+ },
+ "nome": "INSTITUTO DE EXTENSAO CULTURAL - IEC",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1671600018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4541113000155"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4541113000155"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4541113000155",
+ "nome_responsavel": "JOSE BARCELOS DOS REIS FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35681960",
+ "cep": "31365203",
+ "endereco": "AV HERÁCLITO MOURÃO DE MIRANDA 3087",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E972A4E44053F6968434A4430393165F065BBE39",
+   "id": "E972A4E44053F6968434A4430393165F065BBE39"
+  }
+ },
+ "id": 4541113000155,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

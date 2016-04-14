@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.636.540\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16636540000104"
+ },
+ "cpf_responsavel": "***912046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16636540000104"
+ },
+ "nome": "COMPANHIA DE TECNOLOGIA DA INFORMACAO DO ESTADO DE MINAS GERAIS - PRODEMGE",
+ "inscricao_estadual": "0629081290052",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "3066860010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16636540000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16636540000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16636540000104",
+ "nome_responsavel": "PAULO DE MOURA RAMOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "33391378",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI 4.001",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1668D61EE7E35AAD9647F1C217418228792FBD98",
+   "id": "1668D61EE7E35AAD9647F1C217418228792FBD98"
+  }
+ },
+ "id": 16636540000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

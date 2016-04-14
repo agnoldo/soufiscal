@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.683.646\/0001-74",
+ "fax": "(31) 3623-3293",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10683646000174"
+ },
+ "cpf_responsavel": "***851436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10683646000174"
+ },
+ "nome": "INSTITUTO SILVER DE REFERENCIA DA ASSISTENCIA SOCIAL",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "010469",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10683646000174"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10683646000174"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10683646000174",
+ "nome_responsavel": "ALCIMERIO PEREIRA SILVESTRE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 8783-5909",
+ "cep": "33350000",
+ "endereco": "AV. JOÃO ALVES DA COSTA Nº 450",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/49B41A3CE550D27783C3BE1ACA1970504F45FE05",
+   "id": "49B41A3CE550D27783C3BE1ACA1970504F45FE05"
+  }
+ },
+ "id": 10683646000174,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15303",
+   "id": 15303
+  }
+ }
+}

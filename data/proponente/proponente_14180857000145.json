@@ -1,0 +1,50 @@
+{
+ "cnpj": "14.180.857\/0001-45",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=14180857000145"
+ },
+ "cpf_responsavel": "***167456**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=14180857000145"
+ },
+ "nome": "INSTITUTO DE PROMOCAO DE DESENVOLVIMENTO SOCIAL TUCUM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=14180857000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=14180857000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/14180857000145",
+ "nome_responsavel": "EDUARDO ABREU DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 87197214",
+ "cep": "33145490",
+ "endereco": "RUA TABELIÃO ANTONIO ROBERTO DE ALAMEIDA 86",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/73D13C10689511BB8BA33F0ECC47C0B2DBD774E0",
+   "id": "73D13C10689511BB8BA33F0ECC47C0B2DBD774E0"
+  }
+ },
+ "id": 14180857000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.504.325\/0001-04",
+ "fax": "31\/3392709",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17504325000104"
+ },
+ "cpf_responsavel": "***906396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17504325000104"
+ },
+ "nome": "CENTRAIS DE ABASTECIMENTO DE MINAS GERAIS S\/A - CEASAMINAS",
+ "inscricao_estadual": "1860294850069",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "023961017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17504325000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17504325000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17504325000104",
+ "nome_responsavel": "JOAO ALBERTO PAIXAO LAGES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31\/33992002",
+ "cep": "32145900",
+ "endereco": "BR.040.KM.688.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AB5304FF139A76C03D37490C1B4E4D547D43F40D",
+   "id": "AB5304FF139A76C03D37490C1B4E4D547D43F40D"
+  }
+ },
+ "id": 17504325000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

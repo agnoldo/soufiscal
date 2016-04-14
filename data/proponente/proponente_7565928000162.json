@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.565.928\/0001-62",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7565928000162"
+ },
+ "cpf_responsavel": "***777636**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7565928000162"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE DESENVOLVIMENTO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2809940015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7565928000162"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7565928000162"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7565928000162",
+ "nome_responsavel": "RICARDO MATOS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3201-3211",
+ "cep": "30180100",
+ "endereco": "RUA DOS GUAJAJARAS 910 SALA 1308",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/600209D9D08511A41FC3528C66E651881D0847CB",
+   "id": "600209D9D08511A41FC3528C66E651881D0847CB"
+  }
+ },
+ "id": 7565928000162,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

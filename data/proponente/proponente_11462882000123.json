@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.462.882\/0001-23",
+ "fax": "3136727709",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11462882000123"
+ },
+ "cpf_responsavel": "***166676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11462882000123"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11462882000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11462882000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11462882000123",
+ "nome_responsavel": "MARIA DE LOURDES MENEZES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3136727214",
+ "cep": "34535100",
+ "endereco": "RUA ALBERT SCHARLET Nº 212",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8BAC070DE211F7541E832EAA42A6A49BD0B36181",
+   "id": "8BAC070DE211F7541E832EAA42A6A49BD0B36181"
+  }
+ },
+ "id": 11462882000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "33.583.592\/0060-20",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=33583592006020"
+ },
+ "cpf_responsavel": "***020916**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=33583592006020"
+ },
+ "nome": "INSPETORIA SAO JOAO BOSCO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0300690\/007-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=33583592006020"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=33583592006020"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/33583592006020",
+ "nome_responsavel": "MANOEL DE SOUZA SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34763467",
+ "cep": "31365770",
+ "endereco": "AV. ANTÔNIO FRANCISCO LISBOA 2.555",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4622582715DBA22ABDADA29C81FDD120C02FF33D",
+   "id": "4622582715DBA22ABDADA29C81FDD120C02FF33D"
+  }
+ },
+ "id": 33583592006020,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

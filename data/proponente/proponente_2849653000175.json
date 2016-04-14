@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.849.653\/0001-75",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2849653000175"
+ },
+ "cpf_responsavel": "***071106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2849653000175"
+ },
+ "nome": "FOLIA DE REIS DE SABARA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2849653000175"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2849653000175"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2849653000175",
+ "nome_responsavel": "CARLOS ALBERTO CASSIANO DE FARIA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 36742045",
+ "cep": "34505000",
+ "endereco": "AV. EXPEDICIONÁRIO ROMEU JERÔNIMO DANTAS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E74A5A6185FCDC655016D15BCDFC77D0AA344FD4",
+   "id": "E74A5A6185FCDC655016D15BCDFC77D0AA344FD4"
+  }
+ },
+ "id": 2849653000175,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

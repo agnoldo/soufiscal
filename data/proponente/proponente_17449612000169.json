@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.449.612\/0001-69",
+ "fax": "31-3078-7049",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17449612000169"
+ },
+ "cpf_responsavel": "***255606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17449612000169"
+ },
+ "nome": "FEDERACAO DAS ASSOCIACOES COMERCIAIS E EMPRESARIAIS DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17449612000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17449612000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17449612000169",
+ "nome_responsavel": "WANDER LUIS SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3078-7000",
+ "cep": "30130003",
+ "endereco": "AV. AFONSO PENA 726 - 15º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7C4FB6222F664CF2F3587E1AC49E3E8DCFC85751",
+   "id": "7C4FB6222F664CF2F3587E1AC49E3E8DCFC85751"
+  }
+ },
+ "id": 17449612000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

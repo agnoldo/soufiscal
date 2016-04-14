@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.888.070\/0001-30",
+ "fax": "3135969695",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8888070000130"
+ },
+ "cpf_responsavel": "***970976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8888070000130"
+ },
+ "nome": "A ASSOCIACAO DOS AMIGOS DA CRIANCA, ADOLESCENTE E DO IDOSO - ACAI",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8888070000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8888070000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8888070000130",
+ "nome_responsavel": "JUNIA FONSECA RIBEIRO MONTEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135960695",
+ "cep": "32510020",
+ "endereco": "RUA SANTA CRUZ 355 SALA 104",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3C294869E874C5AF3E2B32E29F86D72185A1DF4A",
+   "id": "3C294869E874C5AF3E2B32E29F86D72185A1DF4A"
+  }
+ },
+ "id": 8888070000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.287.872\/0001-15",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22287872000115"
+ },
+ "cpf_responsavel": "***525046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22287872000115"
+ },
+ "nome": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO AGRARIO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22287872000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22287872000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22287872000115",
+ "nome_responsavel": "GLENIO MARTINS DE LIMA MARIANO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 39158438",
+ "cep": "31630901",
+ "endereco": "RODOVIA AMERICO GIANETTI S\/N",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/312D07596224DD9573C24590FD05ED81D90D6543",
+   "id": "312D07596224DD9573C24590FD05ED81D90D6543"
+  }
+ },
+ "id": 22287872000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

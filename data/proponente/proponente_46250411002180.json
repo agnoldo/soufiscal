@@ -1,0 +1,50 @@
+{
+ "cnpj": "46.250.411\/0021-80",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=46250411002180"
+ },
+ "cpf_responsavel": "***849886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=46250411002180"
+ },
+ "nome": "FUNDACAO FE E ALEGRIA DO BRASIL",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=46250411002180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=46250411002180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/46250411002180",
+ "nome_responsavel": "WANDERLAY ALVES BALSAMAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132919502",
+ "cep": "33146040",
+ "endereco": "RUA NOVE N° 64",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4069EA1E2B170C0335027456CD35F24CA0D9B33C",
+   "id": "4069EA1E2B170C0335027456CD35F24CA0D9B33C"
+  }
+ },
+ "id": 46250411002180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

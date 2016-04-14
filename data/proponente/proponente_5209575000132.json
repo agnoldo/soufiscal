@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.209.575\/0001-32",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5209575000132"
+ },
+ "cpf_responsavel": "***244866**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5209575000132"
+ },
+ "nome": "ORGANIZACAO NAO GOVERNAMENTAL ONG LEAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5209575000132"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5209575000132"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5209575000132",
+ "nome_responsavel": "WAGNER HENRIQUE VEREDIANO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3671-2282",
+ "cep": "34505530",
+ "endereco": "RUA ARTUR LIMA JUNIOR SEM NÚMERO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C2D930A53F0FA2AB2235EB9E86B8A1007B914172",
+   "id": "C2D930A53F0FA2AB2235EB9E86B8A1007B914172"
+  }
+ },
+ "id": 5209575000132,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

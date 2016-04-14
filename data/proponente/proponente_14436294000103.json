@@ -1,0 +1,50 @@
+{
+ "cnpj": "14.436.294\/0001-03",
+ "fax": "3137132900",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=14436294000103"
+ },
+ "cpf_responsavel": "***308766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=14436294000103"
+ },
+ "nome": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CAPIM BRANCO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=14436294000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=14436294000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/14436294000103",
+ "nome_responsavel": "JUNIA DE FATIMA TODDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3137132900",
+ "cep": "35730000",
+ "endereco": "RUA ANTÔNIO DIAS MAGALHÃES 75",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/922C6B5A8A4B6A08BCC46DC44AF927FCC51246CC",
+   "id": "922C6B5A8A4B6A08BCC46DC44AF927FCC51246CC"
+  }
+ },
+ "id": 14436294000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13764",
+   "id": 13764
+  }
+ }
+}

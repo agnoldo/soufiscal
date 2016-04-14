@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.565.129\/0001-09",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10565129000109"
+ },
+ "cpf_responsavel": "***936806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10565129000109"
+ },
+ "nome": "INSTITUTO DE DESENVOLVIMENTO SUSTENTAVEL DE COMUNIDADES HUMANIZAR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2424310011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10565129000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10565129000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10565129000109",
+ "nome_responsavel": "PLINIO DA FRANCA FIGUEIREDO FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31- 30220997",
+ "cep": "30170121",
+ "endereco": "RUA CURITIBA 1269 SALA 701",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E5EA485109A140A04692E9402C452F8497DDADB3",
+   "id": "E5EA485109A140A04692E9402C452F8497DDADB3"
+  }
+ },
+ "id": 10565129000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

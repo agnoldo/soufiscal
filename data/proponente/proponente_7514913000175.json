@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.514.913\/0001-75",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7514913000175"
+ },
+ "cpf_responsavel": "***698176**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7514913000175"
+ },
+ "nome": "INSTITUTO ELO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1977980012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7514913000175"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7514913000175"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7514913000175",
+ "nome_responsavel": "KRIS BRETTAS OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133095617",
+ "cep": "30180100",
+ "endereco": "RUA GUAJAJARAS 40\/1003",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7EA90FD731ED5EE9775EB63212FC535092BC4D82",
+   "id": "7EA90FD731ED5EE9775EB63212FC535092BC4D82"
+  }
+ },
+ "id": 7514913000175,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

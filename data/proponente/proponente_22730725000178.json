@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.730.725\/0001-78",
+ "fax": "31-92799511",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22730725000178"
+ },
+ "cpf_responsavel": "***290316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22730725000178"
+ },
+ "nome": "ASSOC.BENEFICIENTE DE CITROLANDIA DIVINO FERREIRA BRAGA",
+ "inscricao_estadual": "18454\/2009",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1.926\/2007",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22730725000178"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22730725000178"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22730725000178",
+ "nome_responsavel": "RAQUEL TEIXEIRA DA SILVA SALES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3596-1490",
+ "cep": "32800000",
+ "endereco": "RUA TURMALINA Nº97",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/20352F894461EE79A3EEDF3790CD7BD640C338A7",
+   "id": "20352F894461EE79A3EEDF3790CD7BD640C338A7"
+  }
+ },
+ "id": 22730725000178,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

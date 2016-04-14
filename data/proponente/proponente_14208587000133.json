@@ -1,0 +1,50 @@
+{
+ "cnpj": "14.208.587\/0001-33",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=14208587000133"
+ },
+ "cpf_responsavel": "***512886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=14208587000133"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE BRUMADINHO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=14208587000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=14208587000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/14208587000133",
+ "nome_responsavel": "JOSE PAULO SILVEIRA ATAIDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31\/35713020\/235",
+ "cep": "35460000",
+ "endereco": "AV NOSSA SENHORA DO BELO RAMO 350",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/14045713A12588881C480F6FBCFE83902B3B1717",
+   "id": "14045713A12588881C480F6FBCFE83902B3B1717"
+  }
+ },
+ "id": 14208587000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.391.590\/0001-23",
+ "fax": "3132413325",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17391590000123"
+ },
+ "cpf_responsavel": "***252999**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17391590000123"
+ },
+ "nome": "CAMARA MINEIRA DO LIVRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "326.321.0019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17391590000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17391590000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17391590000123",
+ "nome_responsavel": "ZULMAR WERNKE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132412177",
+ "cep": "30150230",
+ "endereco": "RUA ULHÔA CINTRA 95 - SALAS: 503\/504",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1C47155093BCFCE9A7EDB03AAB619553E0FF7341",
+   "id": "1C47155093BCFCE9A7EDB03AAB619553E0FF7341"
+  }
+ },
+ "id": 17391590000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

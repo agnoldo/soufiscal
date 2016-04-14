@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.629.287\/0001-62",
+ "fax": "(31) 3488-2736",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7629287000162"
+ },
+ "cpf_responsavel": "***011256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7629287000162"
+ },
+ "nome": "NUCLEO DE COMPOSICAO DE PARCERIAS EM PROJETOS E ACOES - O PROACAO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTA",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7629287000162"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7629287000162"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7629287000162",
+ "nome_responsavel": "ANGELA MARIA PROENCA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3488-2736",
+ "cep": "30315270",
+ "endereco": "RUA ESTADOS UNIDOS43 SION",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9BC734FC2B60FE2EB4C4F1FED149FBAFC1487C15",
+   "id": "9BC734FC2B60FE2EB4C4F1FED149FBAFC1487C15"
+  }
+ },
+ "id": 7629287000162,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

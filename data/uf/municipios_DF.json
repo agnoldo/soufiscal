@@ -1,0 +1,1 @@
+{"metadados": {"total_registros": 1}, "municipios": [{"nome": "BRASILIA", "cod_siconv": 14292, "href": "http://api.convenios.gov.br/siconv/id/municipio/14292", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=14292"}, "uf": {"regiao": {"nome": "Centro-Oeste", "sigla": "CO"}, "nome": "DISTRITO FEDERAL", "sigla": "DF"}, "id": 14292}]}

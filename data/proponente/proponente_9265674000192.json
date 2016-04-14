@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.265.674\/0001-92",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9265674000192"
+ },
+ "cpf_responsavel": "***057406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9265674000192"
+ },
+ "nome": "ARSENAL COMERCIAL LTDA - ME",
+ "inscricao_estadual": "0010859720071",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "2198360017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9265674000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9265674000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9265674000192",
+ "nome_responsavel": "HUGO LEONARDO SOUZA GOUVEA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3125511099",
+ "cep": "30320690",
+ "endereco": "RUA SEBASTIÃO FABIANODIAS 210 SALA 1011 BAIRRO BELVEDERE BELO HORIZONTE - MG CEP 30320690",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DFBAC5CC0C96A014D494EA83F73984EFDDAA35FF",
+   "id": "DFBAC5CC0C96A014D494EA83F73984EFDDAA35FF"
+  }
+ },
+ "id": 9265674000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

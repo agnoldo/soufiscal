@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.455.858\/0001-71",
+ "fax": "(31) 39151905",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25455858000171"
+ },
+ "cpf_responsavel": "***825906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25455858000171"
+ },
+ "nome": "FUNDACAO ESTADUAL DO MEIO AMBIENTE - FEAM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25455858000171"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25455858000171"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25455858000171",
+ "nome_responsavel": "DIOGO SOARES DE MELO FRANCO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31)39151905",
+ "cep": "30160030",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI 4143 SEGUNDO ANDAR - SERRA VERDE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3691CDDFE37655B459327849CE013F1D7AC33C5E",
+   "id": "3691CDDFE37655B459327849CE013F1D7AC33C5E"
+  }
+ },
+ "id": 25455858000171,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

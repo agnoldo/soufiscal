@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.769.748\/0001-59",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23769748000159"
+ },
+ "cpf_responsavel": "***784846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23769748000159"
+ },
+ "nome": "ASSOCIACAO EDUCATIVA E CULTURAL DE MATEUS LEME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3657",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23769748000159"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23769748000159"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23769748000159",
+ "nome_responsavel": "JOSE OSCAR JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 88920180",
+ "cep": "35670000",
+ "endereco": "RUA MOACIR JARDIM 540",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4D5D5D1AB96B85E9E5FB9CBCE8A29AC29577EDCD",
+   "id": "4D5D5D1AB96B85E9E5FB9CBCE8A29AC29577EDCD"
+  }
+ },
+ "id": 23769748000159,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11795",
+   "id": 11795
+  }
+ }
+}

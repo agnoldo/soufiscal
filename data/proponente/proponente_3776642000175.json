@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.776.642\/0001-75",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3776642000175"
+ },
+ "cpf_responsavel": "***210266**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3776642000175"
+ },
+ "nome": "ORGANIZACAO PONTO TERRA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3776642000175"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3776642000175"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3776642000175",
+ "nome_responsavel": "RONALDO VASCONCELLOS NOVAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132753929",
+ "cep": "30140092",
+ "endereco": "RUA GONÇALVES DIAS 1922 SALA 704.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A2339E1177BF6C15B6205A660E67DABA85F9B506",
+   "id": "A2339E1177BF6C15B6205A660E67DABA85F9B506"
+  }
+ },
+ "id": 3776642000175,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

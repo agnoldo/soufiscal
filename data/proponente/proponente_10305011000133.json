@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.305.011\/0001-33",
+ "fax": "3136717374",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10305011000133"
+ },
+ "cpf_responsavel": "***131526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10305011000133"
+ },
+ "nome": "SEIEAD SOLUCAO EDUCACIONAL NA INTERNET PARA ENSINO A DISTANCIA LTDA - ME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10305011000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10305011000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10305011000133",
+ "nome_responsavel": "ANDERSON LUIZ BRAZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3191337425",
+ "cep": "31520020",
+ "endereco": "RUA DUÍLIO PELEGRINO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DCA7523BA76F3BAFD7CC94B083BAE1E1C488EBAE",
+   "id": "DCA7523BA76F3BAFD7CC94B083BAE1E1C488EBAE"
+  }
+ },
+ "id": 10305011000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

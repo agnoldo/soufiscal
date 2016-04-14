@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.554.661\/0001-24",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18554661000124"
+ },
+ "cpf_responsavel": "***601906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18554661000124"
+ },
+ "nome": "ONG ACAO VIVER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18554661000124"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18554661000124"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18554661000124",
+ "nome_responsavel": "ROGERIO PASCOAL DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133222645",
+ "cep": "30604224",
+ "endereco": "RUA ANTÔNIO LEMOS FILHO Nº 70 SALA A BAIRRO ANGOLA CEP Nº 32.604-224 BETIM MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/23C2DFDF72558875BCCE1BDFBBACB94235AF5BA0",
+   "id": "23C2DFDF72558875BCCE1BDFBBACB94235AF5BA0"
+  }
+ },
+ "id": 18554661000124,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.227.740\/0001-72",
+ "fax": "(31)33635239",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20227740000172"
+ },
+ "cpf_responsavel": "***686406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20227740000172"
+ },
+ "nome": "CAIXA ESCOLAR VIRGILIO DE MELO FRANCO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20227740000172"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20227740000172"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20227740000172",
+ "nome_responsavel": "DEMETRIO DA ROCHA RIBEIRO JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31)33635239",
+ "cep": "32210340",
+ "endereco": "RUA LUMINOSA 75",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6B4BFF9F454E8D96857D19633B85D210335431D4",
+   "id": "6B4BFF9F454E8D96857D19633B85D210335431D4"
+  }
+ },
+ "id": 20227740000172,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

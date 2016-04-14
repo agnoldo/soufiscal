@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.867.858\/0001-28",
+ "fax": "31\/3349\/4900",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21867858000128"
+ },
+ "cpf_responsavel": "***912186**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21867858000128"
+ },
+ "nome": "SIND TRAB NAS IND QUIMICAS E FARMACEUTICAS DE B HTE",
+ "inscricao_estadual": "2011000069832725",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2499150011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21867858000128"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21867858000128"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21867858000128",
+ "nome_responsavel": "VANDEIR MESSIAS ALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/3328\/4900",
+ "cep": "30180101",
+ "endereco": "RUA DOS GUAJAJARAS Nº 1470",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BB568D5EBC5898269C099A7BCEC557C6A9983E8F",
+   "id": "BB568D5EBC5898269C099A7BCEC557C6A9983E8F"
+  }
+ },
+ "id": 21867858000128,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

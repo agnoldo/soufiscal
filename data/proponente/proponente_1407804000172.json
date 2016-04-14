@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.407.804\/0001-72",
+ "fax": "031 3041 77 18",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1407804000172"
+ },
+ "cpf_responsavel": "***391506**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1407804000172"
+ },
+ "nome": "ASSOCIACAO NACIONAL DE FOMENTO E INCENTIVO A CULTURA E AO DESPORTO E DEFESA DO PATRIMONIO MATERIAL E IMATERIAL DO TRABALHADOR ZUMBI DOS PALMARES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1407804000172"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1407804000172"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1407804000172",
+ "nome_responsavel": "POLLYANNA CRISTINA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3041 77 18",
+ "cep": "31810020",
+ "endereco": "RUA FARADAY 96",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E73B68AE5BB01E9514477CFEB99AE23662F5387A",
+   "id": "E73B68AE5BB01E9514477CFEB99AE23662F5387A"
+  }
+ },
+ "id": 1407804000172,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.565\/0001-10",
+ "fax": "(31)3915-9145",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715565000110"
+ },
+ "cpf_responsavel": "***616966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715565000110"
+ },
+ "nome": "MINAS GERAIS GABINETE MILITAR DO GOVERNADOR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715565000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715565000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715565000110",
+ "nome_responsavel": "HELBERT FIGUEIRO DE LOURDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31)3915-9146",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/N - PALÁCIO TIRADENTES - SERRA VERDE - BELO HORIZONTE\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D8546AE800214044F5F966228FB56CC2645E49CE",
+   "id": "D8546AE800214044F5F966228FB56CC2645E49CE"
+  }
+ },
+ "id": 18715565000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

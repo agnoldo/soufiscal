@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.335.313\/0001-02",
+ "fax": "3133327053",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8335313000102"
+ },
+ "cpf_responsavel": "***022676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8335313000102"
+ },
+ "nome": "IBDEEC - INSTITUTO BRAS.PARA DESENVOLVIMENTO DO ESPORTE, EDUCACAO E CULTURA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2061390018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8335313000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8335313000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8335313000102",
+ "nome_responsavel": "GILSON SANTANA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133327053",
+ "cep": "30410000",
+ "endereco": "AVENIDA AMAZONAS 2904 LOJA 236",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2752B3224F466C07D48A7F1239DCA081AC14AFD9",
+   "id": "2752B3224F466C07D48A7F1239DCA081AC14AFD9"
+  }
+ },
+ "id": 8335313000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

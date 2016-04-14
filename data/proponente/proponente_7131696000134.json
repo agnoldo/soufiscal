@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.131.696\/0001-34",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7131696000134"
+ },
+ "cpf_responsavel": "***812306**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7131696000134"
+ },
+ "nome": "ASSOCIACAO JOAO WENCESLAU JUNQUEIRA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "005",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7131696000134"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7131696000134"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7131696000134",
+ "nome_responsavel": "SUMAJ JOYA TAKAHASHI NINO GUZMAN",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3137121464",
+ "cep": "35720000",
+ "endereco": "RUA GRIMALDI DE MELO 212",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/376166C0C13CDABFEC02BE0DE25307348A16A3AB",
+   "id": "376166C0C13CDABFEC02BE0DE25307348A16A3AB"
+  }
+ },
+ "id": 7131696000134,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.214.149\/0001-76",
+ "fax": "31 3514-7432",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17214149000176"
+ },
+ "cpf_responsavel": "***798806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17214149000176"
+ },
+ "nome": "FUNDACAO FELICE ROSSO",
+ "inscricao_estadual": "062.811691.00-00",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "303.601\/004-3",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17214149000176"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17214149000176"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17214149000176",
+ "nome_responsavel": "GUY MARIA VILLELA PASCHOAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3514-7609",
+ "cep": "30110934",
+ "endereco": "AVENIDA DO CONTORNO 9530",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5570EDA1D372F932E8DF0F06BF6FE8FB49E07CD1",
+   "id": "5570EDA1D372F932E8DF0F06BF6FE8FB49E07CD1"
+  }
+ },
+ "id": 17214149000176,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

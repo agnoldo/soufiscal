@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.357.483\/0005-50",
+ "fax": "31\/32504004",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42357483000550"
+ },
+ "cpf_responsavel": "***194746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42357483000550"
+ },
+ "nome": "COMPANHIA BRASILEIRA DE TRENS URBANOS",
+ "inscricao_estadual": "0628466790046",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42357483000550"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42357483000550"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42357483000550",
+ "nome_responsavel": "MIGUEL DA SILVA MARQUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31\/32503947",
+ "cep": "31110060",
+ "endereco": "RUA JANUÁRIA Nº 181",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E078D3DD4B3AAFAFF7D8155F257D71966E9ED7FF",
+   "id": "E078D3DD4B3AAFAFF7D8155F257D71966E9ED7FF"
+  }
+ },
+ "id": 42357483000550,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

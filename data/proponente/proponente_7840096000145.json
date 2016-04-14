@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.840.096\/0001-45",
+ "fax": "3130311208",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7840096000145"
+ },
+ "cpf_responsavel": "***346946**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7840096000145"
+ },
+ "nome": "ASSOCIACAO DOADORES DA ALEGRIA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7840096000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7840096000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7840096000145",
+ "nome_responsavel": "ANDERSON CLEITON MAIA MEDINA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130311208",
+ "cep": "30170131",
+ "endereco": "RUA SAO PAULO  893  CONJUNTO 701 E 702 ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6E9B6C194C93617BE13FF672AB667870D078198F",
+   "id": "6E9B6C194C93617BE13FF672AB667870D078198F"
+  }
+ },
+ "id": 7840096000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

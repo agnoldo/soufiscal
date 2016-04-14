@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.338.633\/0001-28",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5338633000128"
+ },
+ "cpf_responsavel": "***129806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5338633000128"
+ },
+ "nome": "BETIM EXPRESS TURISMO, LOCACAO E PRESTACAO DE SERVICOS LTDA - ME",
+ "inscricao_estadual": "001000920.00-88",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "88008\/001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5338633000128"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5338633000128"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5338633000128",
+ "nome_responsavel": "MARCO ANTONIO DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3135322232",
+ "cep": "32600222",
+ "endereco": "AV GOV VALADARES 364 A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1E83A3244B7F81A11B9BE8F0351F42AC644ADDD1",
+   "id": "1E83A3244B7F81A11B9BE8F0351F42AC644ADDD1"
+  }
+ },
+ "id": 5338633000128,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

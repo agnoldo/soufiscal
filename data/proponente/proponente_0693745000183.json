@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.693.745\/0001-83",
+ "fax": "31 - 35958568",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=693745000183"
+ },
+ "cpf_responsavel": "***243736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=693745000183"
+ },
+ "nome": "CONSORCIO INTERMUNICIPAL DA BACIA HIDROGRAFICA DO RIO PARAOPEBA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1113290013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=693745000183"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=693745000183"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/693745000183",
+ "nome_responsavel": "BRENO DE CASTRO ALVES CARONE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 - 35941310",
+ "cep": "32560190",
+ "endereco": "AVENIDA SOLIMÕES 218",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BA926E6FCD067924B706B1885C12E063580A0FD9",
+   "id": "BA926E6FCD067924B706B1885C12E063580A0FD9"
+  }
+ },
+ "id": 693745000183,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

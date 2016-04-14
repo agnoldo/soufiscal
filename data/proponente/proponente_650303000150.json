@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.650.303\/0001-50",
+ "fax": "0313213-0920",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=650303000150"
+ },
+ "cpf_responsavel": "***606846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=650303000150"
+ },
+ "nome": "DIRETORIO CENTRAL DOS ESTUDANTES DA U.F.M.G.",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=650303000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=650303000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/650303000150",
+ "nome_responsavel": "DEBORA GOMES DE MELO DOS SANTOS MEDEIROS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "0313213-4758",
+ "cep": "30180100",
+ "endereco": "R: GUAJAJARAS 694",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4A2CB36DD29021C2C07714EA3034FE8D2CFA0291",
+   "id": "4A2CB36DD29021C2C07714EA3034FE8D2CFA0291"
+  }
+ },
+ "id": 650303000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

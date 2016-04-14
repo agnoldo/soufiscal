@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.065.109\/0001-56",
+ "fax": "31 33716933",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7065109000156"
+ },
+ "cpf_responsavel": "***268666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7065109000156"
+ },
+ "nome": "ACEDE - ASSOCIACAO ARTISTICA,CULTURAL E DESPORTIVA ESTRELA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1979300019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7065109000156"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7065109000156"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7065109000156",
+ "nome_responsavel": "CINDRA JULIANA ALVES GOMES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 25527770",
+ "cep": "30480420",
+ "endereco": "RUA ALMIRANTE BARROSO 35",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8BCFCC4B6DD55892FD5FB318FE6525E2F877575D",
+   "id": "8BCFCC4B6DD55892FD5FB318FE6525E2F877575D"
+  }
+ },
+ "id": 7065109000156,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

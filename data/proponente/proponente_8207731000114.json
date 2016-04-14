@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.207.731\/0001-14",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8207731000114"
+ },
+ "cpf_responsavel": "***773366**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8207731000114"
+ },
+ "nome": "DESLANDES ENGENHARIA E CONSULTORIA LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8207731000114"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8207731000114"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8207731000114",
+ "nome_responsavel": "CRISTINA DESLANDES DE FIGUEIREDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 91958358",
+ "cep": "30150270",
+ "endereco": "RUA DOS OTONI 296 - SL 403",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F06104CC7851047ED0EBA97DCE9EDC42F078FE71",
+   "id": "F06104CC7851047ED0EBA97DCE9EDC42F078FE71"
+  }
+ },
+ "id": 8207731000114,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

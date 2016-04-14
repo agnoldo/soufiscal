@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.367.166\/0001-15",
+ "fax": "31 96579810",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9367166000115"
+ },
+ "cpf_responsavel": "***874816**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9367166000115"
+ },
+ "nome": "NUCLEO MINEIRO DE OBESIDADE - NUOBES MG",
+ "inscricao_estadual": "insento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "insento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9367166000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9367166000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9367166000115",
+ "nome_responsavel": "JUSSARA XAVIER LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33246513",
+ "cep": "30140082",
+ "endereco": "RUA BERNADO GUIMARÃES 2612-SANTO AGOSTINHO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A5FA7410E8F84975D4C42612032B7271F4CF7448",
+   "id": "A5FA7410E8F84975D4C42612032B7271F4CF7448"
+  }
+ },
+ "id": 9367166000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

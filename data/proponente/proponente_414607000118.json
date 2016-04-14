@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.414.607\/0001-18",
+ "fax": "31-3374-6893",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=414607000118"
+ },
+ "cpf_responsavel": "***002548**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=414607000118"
+ },
+ "nome": "TRIBUNAL DE CONTAS DA UNIAO TCU",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/33",
+   "id": 33
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=414607000118"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=414607000118"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/414607000118",
+ "nome_responsavel": "ENIO ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/31",
+   "id": 31
+  }
+ },
+ "telefone": "31 \/ 3374-7277 \/ 213",
+ "cep": "30550340",
+ "endereco": "RUA CAMPINA VERDE 593",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0811E5C3ECD066680256DB60DA03226AE314BC5B",
+   "id": "0811E5C3ECD066680256DB60DA03226AE314BC5B"
+  }
+ },
+ "id": 414607000118,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

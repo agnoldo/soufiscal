@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.578.361\/0001-50",
+ "fax": "(31)3409-7140",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16578361000150"
+ },
+ "cpf_responsavel": "***364326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16578361000150"
+ },
+ "nome": "FUNDACAO INSTITUTO DE PESQUISAS ECONOMICAS, ADMINISTRATIVAS E CONTABEIS DE MINAS GERAIS - IPEAD",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3185880015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16578361000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16578361000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16578361000150",
+ "nome_responsavel": "ANTONIO CARLOS FERREIRA CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3409-7110",
+ "cep": "31270901",
+ "endereco": "AV. ANTÔNIO CARLOS 6627 PRÉDIO DA FACUDADE DE CIENCIAS ECONÔMICAS - 2ºANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/55ECD724A5EE581D4D2B73F220E8959FBFB120FF",
+   "id": "55ECD724A5EE581D4D2B73F220E8959FBFB120FF"
+  }
+ },
+ "id": 16578361000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

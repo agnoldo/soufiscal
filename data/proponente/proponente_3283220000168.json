@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.283.220\/0001-68",
+ "fax": "31 - 3912-3746",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3283220000168"
+ },
+ "cpf_responsavel": "***131406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3283220000168"
+ },
+ "nome": "ASSOCIACAO COMUNITARIA DOS MORADORES DA REGIAO NOROESTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3283220000168"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3283220000168"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3283220000168",
+ "nome_responsavel": "WALTECIR GONCALVES XAVIER",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 - 9315-7821",
+ "cep": "32050380",
+ "endereco": "MOVIMENTO ACORDA POVORUA PARQUE RETIRO 80 - BAIRRO RETIRO CONTAGEM - MGCEP.: 32050-380 TELEFONE:                  (31) 3912-3746E-MAIL:                       MAP@ACORDAPOVO.ORG.BRWEBSITE:                   WWW.ACORDAPOVO.ORG.BR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E682B15BF6D837DDD86ABB582FFC6A67C31D4443",
+   "id": "E682B15BF6D837DDD86ABB582FFC6A67C31D4443"
+  }
+ },
+ "id": 3283220000168,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

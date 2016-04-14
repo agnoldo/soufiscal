@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.526.528\/0001-73",
+ "fax": "35730000",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9526528000173"
+ },
+ "cpf_responsavel": "***975326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9526528000173"
+ },
+ "nome": "INSTITUTO JOSE IGNACIO MOREIRA PRO-CIDADANIA - IJIM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9526528000173"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9526528000173"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9526528000173",
+ "nome_responsavel": "AFFONSO MAGNO MOREIRA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 31284201",
+ "cep": "35730000",
+ "endereco": "AV. INDUSTRIAL 164",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/70511FD2E7DE5EDCA764B7A56BFEAA17D2C09ECC",
+   "id": "70511FD2E7DE5EDCA764B7A56BFEAA17D2C09ECC"
+  }
+ },
+ "id": 9526528000173,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13764",
+   "id": 13764
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.194.112\/0001-32",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8194112000132"
+ },
+ "cpf_responsavel": "***365676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8194112000132"
+ },
+ "nome": "FUNDACAO DIRCE DA SILVEIRA FIGUEIREDO",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0000026213",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8194112000132"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8194112000132"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8194112000132",
+ "nome_responsavel": "LEONARDO VIEIRA CAMPOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3712-7367",
+ "cep": "35720000",
+ "endereco": "AVENIDA BENTO GONÇALVES 68",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/05B6B4B754B964FB8800D724D20E7DD98B76F109",
+   "id": "05B6B4B754B964FB8800D724D20E7DD98B76F109"
+  }
+ },
+ "id": 8194112000132,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

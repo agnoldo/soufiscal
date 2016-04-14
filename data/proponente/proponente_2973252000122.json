@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.973.252\/0001-22",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2973252000122"
+ },
+ "cpf_responsavel": "***931326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2973252000122"
+ },
+ "nome": "RAVENNY MOTO PECAS LTDA - ME",
+ "inscricao_estadual": "1860617040098",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "54004011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2973252000122"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2973252000122"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2973252000122",
+ "nome_responsavel": "AGMAR GONCALVES DE FREITAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3133625722",
+ "cep": "32230020",
+ "endereco": "RUA TIRADENTES 3201",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8095D73DBC0FBC12D687E3DBFC58B778C01DF3E2",
+   "id": "8095D73DBC0FBC12D687E3DBFC58B778C01DF3E2"
+  }
+ },
+ "id": 2973252000122,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

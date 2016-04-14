@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.216.366\/0001-68",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18216366000168"
+ },
+ "cpf_responsavel": "***478814**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18216366000168"
+ },
+ "nome": "ASSOCIACAO PAIS AMIGOS EXEPCIONAIS APAE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3186840017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18216366000168"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18216366000168"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18216366000168",
+ "nome_responsavel": "SERGIO SAMPAIO BEZERRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134896939",
+ "cep": "31010110",
+ "endereco": "RUA CRISTAL 78",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0117EF1A235917B4DA7B46EE7258A7C91E7A4306",
+   "id": "0117EF1A235917B4DA7B46EE7258A7C91E7A4306"
+  }
+ },
+ "id": 18216366000168,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

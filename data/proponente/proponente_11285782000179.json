@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.285.782\/0001-79",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11285782000179"
+ },
+ "cpf_responsavel": "***997136**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11285782000179"
+ },
+ "nome": "PRO-BEM ASSESSORIA E GESTAO CRIANCA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "248844001-3",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11285782000179"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11285782000179"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11285782000179",
+ "nome_responsavel": "ANA CHRISTINA LAMOUNIER DE SA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 30435719",
+ "cep": "30150320",
+ "endereco": "RUA PIAUÍ 69 SALA 508",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7551E42224592C3D34DCF966E6668B94802B5027",
+   "id": "7551E42224592C3D34DCF966E6668B94802B5027"
+  }
+ },
+ "id": 11285782000179,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

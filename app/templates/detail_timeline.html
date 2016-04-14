@@ -1,0 +1,159 @@
+<ion-view>
+  <ion-nav-title>Linha do Tempo de Convênio</ion-nav-title>
+  <ion-content padding="true" scroll="true">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+      <br>
+
+      <div class="text-center">
+        <img ng-src="{{event.image}}" class="image">
+      </div>
+
+      <div class="divider-title">2016 - Abril</div>
+      <ul class="timeline">
+        <li>
+          <div class="timeline-thumb bg-color-blue timeline-icon">
+            <i class="ion-android-alert"></i>
+          </div>
+          <div class="timeline-item">
+            <h4>Problema detectado em prestação de conta (agnoldo <i class="ion-person"></i>)</h4>
+            <p>De acordo com Nota de Empenho 3894, estaria pronta a instalação do gerador de energia. Não foi o que vi. Confira nesta imagem...</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 45
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 2 dias atrás</span>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="http://lorempixel.com/city/400/400/" alt="" class="timeline-thumb">
+          <div class="timeline-item">
+            <h4>Nota de Empenho 3894</h4>
+            <p>Instalação do gerador de energia</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 12
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 01/04/2016</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+      <div class="divider-title">2016 - Março</div>
+      <ul class="timeline">
+        <li>
+          <img src="http://lorempixel.com/city/400/400/" alt="" class="timeline-thumb">
+          <div class="timeline-item">
+            <h4>Nota de Empenho 3877</h4>
+            <p>Construção de sala de gerador</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 11
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 21/03/2016</span>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-thumb bg-color-lightblue timeline-icon">
+            <i class="ion-hammer"></i>
+          </div>
+          <div class="timeline-item">
+            <h4>Término de Construção de sala de gerador</h4>
+            <p>Término da obra de construção da sala de gerador, que receberá o gerador de energia do posto de saúde</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 33
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 18/03/2016</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+      <div class="divider-title">2016 - Fevereiro</div>
+      <ul class="timeline">
+        <li>
+          <div class="timeline-thumb bg-color-lightblue timeline-icon">
+            <i class="ion-hammer"></i>
+          </div>
+          <div class="timeline-item">
+            <h4>Início de Construção de sala de gerador</h4>
+            <p>Início da obra de construção da sala de gerador, que receberá o gerador de energia do posto de saúde</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 15
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 20/02/2016</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+      <div class="divider-title">2016 - Janeiro</div>
+      <ul class="timeline">
+        <li>
+          <img src="http://lorempixel.com/city/400/400/" alt="" class="timeline-thumb">
+          <div class="timeline-item">
+            <h4>Execução Orçamentária</h4>
+            <p>
+              Começa a execução orçamentária do convênio pela prefeitura de Corruptolândia.
+            <!--
+              <i class="ion-ios-circle-filled icon-size-lg color-red"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-yellow"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-orange"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-blue"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-lightblue"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-bluegray"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-black"></i>
+              <i class="ion-ios-circle-filled icon-size-lg color-green"></i>
+            -->
+            </p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 33
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 20/01/2016</span>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="http://lorempixel.com/city/400/400/" alt="" class="timeline-thumb">
+          <div class="timeline-item">
+            <h4>Descentralização de verba</h4>
+            <p>Verba descentralizada para prefeitura de Corruptolândia para instalação de gerador de energia</p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 91
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 07/01/2016</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+      <div class="divider-title">2015 - Dezembro</div>
+      <ul class="timeline">
+        <li>
+          <div class="timeline-thumb bg-color-red timeline-icon">
+            <i class="ion-play"></i>
+          </div>
+          <div class="timeline-item">
+            <h4>Início do convênio</h4>
+            <p>Convênio iniciado com descentralização de verba para instalação de gerador de energia em Posto de Saúde
+            </p>
+            <div class="timeline-stats">
+              <i class="ion-share"></i> 22
+              <span class="pos-absolute-right"><i class="ion-ios-clock"></i> 12/12/2015</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Comentar
+        <i class="icon ion-android-alert"></i>
+      </div>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Acompanhar
+        <i class="icon ion-eye"></i>
+      </div>
+    </div>
+  </ion-footer-bar>
+</ion-view>

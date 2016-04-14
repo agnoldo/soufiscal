@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.498.205\/0001-41",
+ "fax": "31\/3236-7418",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17498205000141"
+ },
+ "cpf_responsavel": "***784776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17498205000141"
+ },
+ "nome": "FUNDACAO CLOVIS SALGADO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17498205000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17498205000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17498205000141",
+ "nome_responsavel": "ELIANE DENISE PARREIRAS OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31\/3236-7304",
+ "cep": "30130004",
+ "endereco": "AVENIDA AFONSO PENA 1537",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8FCEA0531CE0C0DDDAD8B79D0FD6E9075C104174",
+   "id": "8FCEA0531CE0C0DDDAD8B79D0FD6E9075C104174"
+  }
+ },
+ "id": 17498205000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

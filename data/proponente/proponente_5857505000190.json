@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.857.505\/0001-90",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5857505000190"
+ },
+ "cpf_responsavel": "***599346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5857505000190"
+ },
+ "nome": "ASSOCIACAO CULTURAL COMPANHIA PERNAS PRO AR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5857505000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5857505000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5857505000190",
+ "nome_responsavel": "DANNY ALEXANDRO LOPES DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03199952263",
+ "cep": "33600000",
+ "endereco": "RUA DOUTOR HERBESTER 298 ¿ SALA 23 ¿ CENTRO ¿ PEDRO LEOPOLDO\/MG ¿ CEP: 33.600-000",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1FD8B1984C1C78508634FFD84B012CAAF6A929D0",
+   "id": "1FD8B1984C1C78508634FFD84B012CAAF6A929D0"
+  }
+ },
+ "id": 5857505000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.944.007\/0001-36",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9944007000136"
+ },
+ "cpf_responsavel": "***634606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9944007000136"
+ },
+ "nome": "INSTITUTO ELO DE ACAO SOLIDARIA",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2269120013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9944007000136"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9944007000136"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9944007000136",
+ "nome_responsavel": "ANNA CRISTINA CORREA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132262855",
+ "cep": "30120080",
+ "endereco": "RUA DOS CAETES 360 - SALA 301",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/77656C3FB68163A12BCA986B10C45AEB5F51C755",
+   "id": "77656C3FB68163A12BCA986B10C45AEB5F51C755"
+  }
+ },
+ "id": 9944007000136,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.469.783\/0001-69",
+ "fax": "31 3681 9064",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8469783000169"
+ },
+ "cpf_responsavel": "***465736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8469783000169"
+ },
+ "nome": "SERV IMAGEM MINAS SERVICOS, INDUSTRIA E COMERCIO LTDA",
+ "inscricao_estadual": "001032231.00-24",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "57542007",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8469783000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8469783000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8469783000169",
+ "nome_responsavel": "LUCIENE AGUIAR DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "313681 9064",
+ "cep": "33400000",
+ "endereco": "RUA HUM Nº80",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1D50347E9134E2D18EA5C5D831A18FEF26AF055A",
+   "id": "1D50347E9134E2D18EA5C5D831A18FEF26AF055A"
+  }
+ },
+ "id": 8469783000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13865",
+   "id": 13865
+  }
+ }
+}

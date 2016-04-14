@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.706.534\/0001-30",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17706534000130"
+ },
+ "cpf_responsavel": "***692356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17706534000130"
+ },
+ "nome": "ASSOCIACAO DE RECUPERACAO PARA DEPENDENTES QUIMICOS SAO MIGUEL ARCANJO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3407",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17706534000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17706534000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17706534000130",
+ "nome_responsavel": "MARIA APARECIDA DE FATIMA PINTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(37) 9841-2857",
+ "cep": "35685000",
+ "endereco": "RUA AUGUSTO MOREIRA S\/N",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E04A5160DA8C082EB767B5DD9E48C45A248380C0",
+   "id": "E04A5160DA8C082EB767B5DD9E48C45A248380C0"
+  }
+ },
+ "id": 17706534000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13844",
+   "id": 13844
+  }
+ }
+}

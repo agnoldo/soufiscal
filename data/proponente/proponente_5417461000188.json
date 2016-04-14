@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.417.461\/0001-88",
+ "fax": "31- 35477625",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5417461000188"
+ },
+ "cpf_responsavel": "***072356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5417461000188"
+ },
+ "nome": "INSTITUTO KAIROS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/308\/90072",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5417461000188"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5417461000188"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5417461000188",
+ "nome_responsavel": "NESTOR COELHO DE SANT ANNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31- 35477625",
+ "cep": "34000000",
+ "endereco": "ALAMEDA DAS QUARESMAS S\/ NO.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F98F38AF3FC0125AAE80EF536923BC895A268502",
+   "id": "F98F38AF3FC0125AAE80EF536923BC895A268502"
+  }
+ },
+ "id": 5417461000188,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/14408",
+   "id": 14408
+  }
+ }
+}

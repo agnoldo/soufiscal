@@ -1,0 +1,45 @@
+<ion-view>
+  <ion-nav-title>Detalhes sobre Convênio</ion-nav-title>
+  <ion-content padding="true">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+      <br>
+
+      <div class="text-center">
+        <img ng-src="{{event.image}}" class="image">
+      </div>
+
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Endereço</b> <i class="icon ion-map" ng-click="map()"></i></ion-item>
+        <ion-item>
+          <b>{{event.municipio}}</b><br>
+          {{event.endereco}} - {{event.cep}}<br>
+          {{event.telefone}}
+        </ion-item>
+      </ion-list>
+      <br>
+      <div id="map" data-tap-disabled="true" google-map style="height:250px; width: 100%;" api-key="AIzaSyB16sGmIekuGIvYOfNoW9T44377IU2d2Es" events="events"></div>
+
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Comentar
+        <i class="icon ion-android-alert"></i>
+      </div>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Acompanhar
+        <i class="icon ion-eye"></i>
+      </div>
+    </div>
+  </ion-footer-bar>
+</ion-view>

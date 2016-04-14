@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.201.128\/0001-41",
+ "fax": "3132631540",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19201128000141"
+ },
+ "cpf_responsavel": "***415430**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19201128000141"
+ },
+ "nome": "ASSOCIACAO PROFISSIONALIZANTE DO MENOR DE BELO HORIZONTE -ASSPROM",
+ "inscricao_estadual": "0621833040006",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19201128000141"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19201128000141"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19201128000141",
+ "nome_responsavel": "ANDERSON EILERT RODRIGUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132631540",
+ "cep": "30310090",
+ "endereco": "RUA MINAS NOVAS 233",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/78CE43FCE85D9720FFE9C6C46821A5A5CD2E1407",
+   "id": "78CE43FCE85D9720FFE9C6C46821A5A5CD2E1407"
+  }
+ },
+ "id": 19201128000141,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "97.456.065\/0001-88",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=97456065000188"
+ },
+ "cpf_responsavel": "***394386**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=97456065000188"
+ },
+ "nome": "MINAS TURISMO E SERVICOS LTDA - EPP",
+ "inscricao_estadual": "0010928630099",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "9227480019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=97456065000188"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=97456065000188"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/97456065000188",
+ "nome_responsavel": "VIVIAN SIMONE VASCONCELOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3432-8475",
+ "cep": "31960320",
+ "endereco": "RUA LYNDA DEMAS TAVARES 14 GOIANIA BH\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9BC4912C0F661099E9117D79C6F1E1FD38384DBE",
+   "id": "9BC4912C0F661099E9117D79C6F1E1FD38384DBE"
+  }
+ },
+ "id": 97456065000188,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

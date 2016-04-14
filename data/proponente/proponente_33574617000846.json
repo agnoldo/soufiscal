@@ -1,0 +1,50 @@
+{
+ "cnpj": "33.574.617\/0008-46",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=33574617000846"
+ },
+ "cpf_responsavel": "***892417**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=33574617000846"
+ },
+ "nome": "JUNTA DE MISSOES NACIONAIS DA CONV BATISTA BRASILEIRA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=33574617000846"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=33574617000846"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/33574617000846",
+ "nome_responsavel": "TANIA LUCIA DIAS DE CASTRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 2526-7672",
+ "cep": "31210030",
+ "endereco": "RUA ITAPECERICA N 251",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/197BD38920BB4A76AD34C3506068BB110CF79056",
+   "id": "197BD38920BB4A76AD34C3506068BB110CF79056"
+  }
+ },
+ "id": 33574617000846,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

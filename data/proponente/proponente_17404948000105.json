@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.404.948\/0001-05",
+ "fax": "31-3465-6200",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17404948000105"
+ },
+ "cpf_responsavel": "***639806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17404948000105"
+ },
+ "nome": "SOCIEDADE CIVIL ESPIRITO SANTO",
+ "inscricao_estadual": "0627550290015",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3064230001x",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17404948000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17404948000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17404948000105",
+ "nome_responsavel": "WALMOR OLIVEIRA DE AZEVEDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3465-6200",
+ "cep": "31010230",
+ "endereco": "PRAÇA DUQUE DE CAXIAS200",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FF9D730316B49E23637E7453EAE6AE459D7AE20E",
+   "id": "FF9D730316B49E23637E7453EAE6AE459D7AE20E"
+  }
+ },
+ "id": 17404948000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

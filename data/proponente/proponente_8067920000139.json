@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.067.920\/0001-39",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8067920000139"
+ },
+ "cpf_responsavel": "***048046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8067920000139"
+ },
+ "nome": "COOPERATIVA SOLIDARIA DOS TRAB. E GRUPOS PRODUTIVOS DA REGIAO LESTE - COOPESOL - LESTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8067920000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8067920000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8067920000139",
+ "nome_responsavel": "VILMA DA SILVA ESTEVAM",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 30441350",
+ "cep": "30285180",
+ "endereco": "RUA DESENBARGADOR BRAULIO 943",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/34B7E155C9A97A1A24683D8F5B9D5D47796BFCBC",
+   "id": "34B7E155C9A97A1A24683D8F5B9D5D47796BFCBC"
+  }
+ },
+ "id": 8067920000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.444.215\/0001-27",
+ "fax": "(31) 3225-7521",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2444215000127"
+ },
+ "cpf_responsavel": "***987116**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2444215000127"
+ },
+ "nome": "SPASSO ESCOLA POPULAR DE CIRCO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "143348001-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2444215000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2444215000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2444215000127",
+ "nome_responsavel": "BERNADETE CHAGAS SETTE CAMARA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3225-7521",
+ "cep": "30410060",
+ "endereco": "AV. FRANCISCO SÁ 18",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A79F65FD04A29B9D818F9D0DAFE1C35B23497EDD",
+   "id": "A79F65FD04A29B9D818F9D0DAFE1C35B23497EDD"
+  }
+ },
+ "id": 2444215000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

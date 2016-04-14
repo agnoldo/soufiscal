@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.774.075\/0001-95",
+ "fax": "31 33643641",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18774075000195"
+ },
+ "cpf_responsavel": "***400246**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18774075000195"
+ },
+ "nome": "OBRA SOCIAL DA PAROQUIA DE NOSSA SENHORA DE FATIMA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18774075000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18774075000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18774075000195",
+ "nome_responsavel": "ISMAYR SERGIO CLAUDIO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 33643641",
+ "cep": "32330120",
+ "endereco": "RUA BARÃO DO RIO BRANCO 20",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A94662B694513E5D270938F2992C29531B94166D",
+   "id": "A94662B694513E5D270938F2992C29531B94166D"
+  }
+ },
+ "id": 18774075000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.896.229\/0001-56",
+ "fax": "31 32924706",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=896229000156"
+ },
+ "cpf_responsavel": "***957346**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=896229000156"
+ },
+ "nome": "ASSOCIACAO DE AMIGOS DA BIBLIOTECA PUBLICA ESTADUAL LUIZ DE BESSA - SABE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=896229000156"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=896229000156"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/896229000156",
+ "nome_responsavel": "MARIA DA CONCEICAO ARAUJO BERNARDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3269-1226",
+ "cep": "30140010",
+ "endereco": "PRAÇA DA LIBERDADE Nº21 - SALA 309\/ 3º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/88DBBBDE77B3D0DDB798B7F4525A0559BF3A8AC5",
+   "id": "88DBBBDE77B3D0DDB798B7F4525A0559BF3A8AC5"
+  }
+ },
+ "id": 896229000156,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

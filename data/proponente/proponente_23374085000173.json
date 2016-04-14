@@ -1,0 +1,50 @@
+{
+ "cnpj": "23.374.085\/0001-73",
+ "fax": "031 30362929",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=23374085000173"
+ },
+ "cpf_responsavel": "***685636**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=23374085000173"
+ },
+ "nome": "CENTRO DE CAPACITACAO, TREINAMENTO E CULTURA TERRA VERDE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=23374085000173"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=23374085000173"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/23374085000173",
+ "nome_responsavel": "MARCIO CORREA TEIXEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 30362929",
+ "cep": "31110080",
+ "endereco": "RUA MACHADO 207",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A7D6A279B030DC5AAB89A9FCB2CCB50F862DD10F",
+   "id": "A7D6A279B030DC5AAB89A9FCB2CCB50F862DD10F"
+  }
+ },
+ "id": 23374085000173,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,51 @@
+<ion-view>
+  <ion-nav-title style="font-weight:normal;">{{titulo}}</ion-nav-title>
+  <ion-nav-buttons side="right">
+    <button class="button button-clear icon" ng-disabled="loading" ng-class="{'ion-earth': show.list, 'ion-ios-list': !show.list}" ng-click="show.list = !show.list">
+    </button>
+  </ion-nav-buttons>
+  <div id="map" data-tap-disabled="true" google-map style="height:100%; width: 100%;" api-key="AIzaSyB16sGmIekuGIvYOfNoW9T44377IU2d2Es" events="events"></div>
+  <ion-content ng-show="show.list" class="background-stable">
+    <ion-refresher on-refresh="reload()">
+    </ion-refresher>
+
+    <h3>Filtros <i class="ion-funnel"></i></h3>
+    <ion-list>
+      <label class="item item-input item-select item-royal">
+        <span class="input-label">Modalidade</span>
+        <select name="modalidade" id="modalidade">
+          <option selected="{{modalidade == sublist.nome}}" ui-sref="modalidade({id: '{{sublist.nome}}'})" ng-repeat="sublist in modalidades">{{sublist.nome}} ({{sublist.total}})</option>
+        </select>
+      </label>
+      <label class="item item-input item-select item-royal">
+        <span class="input-label">Esfera Admin.</span>
+        <select name="esfera_administrativa" id="esfera_administrativa">
+          <option selected="{{esfera_administativa == sublist.nome}}" ui-sref="esfera_administrativa({id: '{{sublist.nome}}'})" ng-repeat="sublist in esferas_administrativas">{{sublist.nome}} ({{sublist.total}})</option>
+        </select>
+      </label>
+    </ion-list>
+
+    <br>
+    <h3>Convênios  ({{iniciais}} de {{total}}) <i class="ion-ios-list"></i></h3>
+    <div ng-show="show.list">
+      <ion-list>
+        <ion-item auto-list-divider auto-list-divider-value="{{event.name}}"  ui-sref="detail({id: event.id})" class="item-royal item-avatar item-icon-right" ng-repeat="event in events | limitTo:limit | orderBy:'name'">
+          <img ng-src="{{event.thumb}}">
+          <h2>{{event.name}}</h2>
+          <p>
+            <b>{{event.municipio}}</b><br>
+            {{event.endereco}} - {{event.cep}}<br>
+            {{event.telefone}}
+          </p>
+          <i class="icon ion-ios-arrow-right"></i>
+        </ion-item>
+        <ion-item class="text-center item-royal" ng-if="events && !events.length">Nenhum convênio ou obra.</ion-item>
+      </ion-list>
+    </div>
+    <ion-infinite-scroll
+      ng-if="!events || events.length > limit"
+      class=""
+      on-infinite="loadMore()">
+    </ion-infinite-scroll>
+  </ion-content>
+</ion-view>

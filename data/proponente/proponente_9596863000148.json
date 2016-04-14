@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.596.863\/0001-48",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9596863000148"
+ },
+ "cpf_responsavel": "***761086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9596863000148"
+ },
+ "nome": "GRUPO DE APOIO SOCIAL BARREIRO - GASB",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "225.478\/001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9596863000148"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9596863000148"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9596863000148",
+ "nome_responsavel": "LUIZ CLAUDIO DE ALMEIDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3425-0619",
+ "cep": "31210120",
+ "endereco": "RUA ALÉM PARAÍBA 181",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DBACA9C57D6E24E848DCCCC606C10EB4C313BAD2",
+   "id": "DBACA9C57D6E24E848DCCCC606C10EB4C313BAD2"
+  }
+ },
+ "id": 9596863000148,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

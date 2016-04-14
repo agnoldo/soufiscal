@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.655.675\/0001-67",
+ "fax": "(31) 3241-7147",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3655675000167"
+ },
+ "cpf_responsavel": "***935736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3655675000167"
+ },
+ "nome": "INSTITUTO ESTRADA REAL - IER",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1620780019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3655675000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3655675000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3655675000167",
+ "nome_responsavel": "BAQUES VLADIMIR CARVALHO SANNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3241-7166",
+ "cep": "30150250",
+ "endereco": "RUA ÁLVARES MACIEL 59 - 11º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/16C465B7A3BCA0503E645BFA6C16A0FF50618A27",
+   "id": "16C465B7A3BCA0503E645BFA6C16A0FF50618A27"
+  }
+ },
+ "id": 3655675000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

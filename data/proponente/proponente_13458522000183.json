@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.458.522\/0001-83",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13458522000183"
+ },
+ "cpf_responsavel": "***417106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13458522000183"
+ },
+ "nome": "ORGANIZACAO MULTIDISCIPLINAR DE CAPACITACAO E VOLUNTARIADO - OMCV",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2864540015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13458522000183"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13458522000183"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13458522000183",
+ "nome_responsavel": "GRACIE DE OLIVEIRA PIRES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 99216-7891",
+ "cep": "30130160",
+ "endereco": "RUA ALAGOAS N.º 1.049 SALAS 705\/706",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/74843DDEDC873DFBDFAF9E02449A5A43AA3D8445",
+   "id": "74843DDEDC873DFBDFAF9E02449A5A43AA3D8445"
+  }
+ },
+ "id": 13458522000183,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

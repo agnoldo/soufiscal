@@ -1,0 +1,50 @@
+{
+ "cnpj": "24.425.019\/0001-48",
+ "fax": "031 3649-7888",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=24425019000148"
+ },
+ "cpf_responsavel": "***315956**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=24425019000148"
+ },
+ "nome": "HOSPITAL SAO JOAO DE DEUS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=24425019000148"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=24425019000148"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/24425019000148",
+ "nome_responsavel": "FABIO AUGUSTO FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 3641-2071",
+ "cep": "33010030",
+ "endereco": "RUA FLORIANO PEIXOTO 333",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/075AD9E00A78D641D029B73A768BC559C9549258",
+   "id": "075AD9E00A78D641D029B73A768BC559C9549258"
+  }
+ },
+ "id": 24425019000148,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

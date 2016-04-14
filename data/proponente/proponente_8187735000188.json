@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.187.735\/0001-88",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8187735000188"
+ },
+ "cpf_responsavel": "***520916**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8187735000188"
+ },
+ "nome": "DUBEM COMUNICACAO E CULTURA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2084630015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8187735000188"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8187735000188"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8187735000188",
+ "nome_responsavel": "LUCIANA DE PAULA DOS SANTOS CANDIDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132221711",
+ "cep": "30110012",
+ "endereco": "AV. CONTORNO 2008 2ºANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/837C025DFC847D2AB1073C18C5498D26F9A16921",
+   "id": "837C025DFC847D2AB1073C18C5498D26F9A16921"
+  }
+ },
+ "id": 8187735000188,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

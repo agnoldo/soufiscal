@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.979.270\/0001-35",
+ "fax": "3133942709",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7979270000135"
+ },
+ "cpf_responsavel": "***585546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7979270000135"
+ },
+ "nome": "INSTITUTO CEASAMINAS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "718940120",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7979270000135"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7979270000135"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7979270000135",
+ "nome_responsavel": "GUILHERME CALDEIRA BRANT",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133946551",
+ "cep": "32145900",
+ "endereco": "RODOVIA. BR. 040.KM 688",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A20AF11B9889547533C12F60B62410C6088DA433",
+   "id": "A20AF11B9889547533C12F60B62410C6088DA433"
+  }
+ },
+ "id": 7979270000135,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

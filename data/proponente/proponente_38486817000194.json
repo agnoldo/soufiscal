@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.486.817\/0001-94",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38486817000194"
+ },
+ "cpf_responsavel": "***260678**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38486817000194"
+ },
+ "nome": "BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A. - BDMG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38486817000194"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38486817000194"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38486817000194",
+ "nome_responsavel": "MARCIA FERNANDA RECEFINO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "03132198000",
+ "cep": "30160907",
+ "endereco": "RUA DA BAHIA 1600",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C0E1618971F5CAE5B2B1DB462817A11D4634254B",
+   "id": "C0E1618971F5CAE5B2B1DB462817A11D4634254B"
+  }
+ },
+ "id": 38486817000194,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

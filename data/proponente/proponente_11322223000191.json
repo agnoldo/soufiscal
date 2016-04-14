@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.322.223\/0001-91",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11322223000191"
+ },
+ "cpf_responsavel": "***657656**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11322223000191"
+ },
+ "nome": "CELIVI CENTRO DE LIBERTACAO DE VIDAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "00001814",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11322223000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11322223000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11322223000191",
+ "nome_responsavel": "LUCIO SILVA TANCREDO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 985997909",
+ "cep": "35675000",
+ "endereco": "RUA RAUL POMPEIA 367",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C04A55F41188BE4C16D4168A1A3E5A956080774E",
+   "id": "C04A55F41188BE4C16D4168A1A3E5A956080774E"
+  }
+ },
+ "id": 11322223000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11665",
+   "id": 11665
+  }
+ }
+}

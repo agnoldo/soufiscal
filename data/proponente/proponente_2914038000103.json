@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.914.038\/0001-03",
+ "fax": "3130796155",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2914038000103"
+ },
+ "cpf_responsavel": "***079026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2914038000103"
+ },
+ "nome": "FUNDO MUNICIPAL DE SAUDE DE IBIRITE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2914038000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2914038000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2914038000103",
+ "nome_responsavel": "NADIA CONCEICAO MACHADO DE LIMA PINHEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3135336119",
+ "cep": "32400000",
+ "endereco": "RUA ARTHUR CAMPOS Nº 906",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BE81949DD6C73A8A5135E673411D88A2F0A0C8A7",
+   "id": "BE81949DD6C73A8A5135E673411D88A2F0A0C8A7"
+  }
+ },
+ "id": 2914038000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13510",
+   "id": 13510
+  }
+ }
+}

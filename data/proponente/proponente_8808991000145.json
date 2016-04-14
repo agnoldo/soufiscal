@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.808.991\/0001-45",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8808991000145"
+ },
+ "cpf_responsavel": "***690566**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8808991000145"
+ },
+ "nome": "ASSOCIACAO DE TRABALHO E PRODUCAO SOLIDARIA- SURICATO",
+ "inscricao_estadual": "0010956810020",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2233380015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8808991000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8808991000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8808991000145",
+ "nome_responsavel": "MARTA SOARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132776637",
+ "cep": "30160010",
+ "endereco": "RUA DA BAHIA 513\/602",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6959671C50CC05A2D5A7FA0D7107249812B28B11",
+   "id": "6959671C50CC05A2D5A7FA0D7107249812B28B11"
+  }
+ },
+ "id": 8808991000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

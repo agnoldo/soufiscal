@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.009.770\/0001-19",
+ "fax": "35460000",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5009770000119"
+ },
+ "cpf_responsavel": "***069066**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5009770000119"
+ },
+ "nome": "ASSOCIACAO DE ARTISTAS DE BRUMADINHO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5009770000119"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5009770000119"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5009770000119",
+ "nome_responsavel": "JOAO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197673237",
+ "cep": "35460000",
+ "endereco": "RUA MARIA MAIA Nº236 C- BAIRRO GRAJAÚ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/917B9F90B96C3E6571E10F4BA9BE6F4294225F48",
+   "id": "917B9F90B96C3E6571E10F4BA9BE6F4294225F48"
+  }
+ },
+ "id": 5009770000119,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

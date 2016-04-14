@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.878.294\/0001-66",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20878294000166"
+ },
+ "cpf_responsavel": "***235356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20878294000166"
+ },
+ "nome": "SANTA CASA DE MISERICORDIA DE ITAGUARA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20878294000166"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20878294000166"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20878294000166",
+ "nome_responsavel": "EDGAR APARECIDO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "37 3384-1666",
+ "cep": "35514000",
+ "endereco": "RUA ANTONIO PEREIRA DE RESENDE 19",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CE553EFBF83291F5DFCF10D5BD613995DAA876C0",
+   "id": "CE553EFBF83291F5DFCF10D5BD613995DAA876C0"
+  }
+ },
+ "id": 20878294000166,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13839",
+   "id": 13839
+  }
+ }
+}

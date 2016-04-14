@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.561.522\/0001-28",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18561522000128"
+ },
+ "cpf_responsavel": "***356516**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18561522000128"
+ },
+ "nome": "CORAL JUVENAL ALVES VILELA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18561522000128"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18561522000128"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18561522000128",
+ "nome_responsavel": "MARIO LUIZ ALVES STEHLING",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136511384",
+ "cep": "34800000",
+ "endereco": "RUA FRANCISCO DA CRUZ35",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CAAD32804F51440C6223212179930087FDA33ADA",
+   "id": "CAAD32804F51440C6223212179930087FDA33ADA"
+  }
+ },
+ "id": 18561522000128,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

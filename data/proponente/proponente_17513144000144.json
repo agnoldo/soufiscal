@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.513.144\/0001-44",
+ "fax": "31\/33952444",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17513144000144"
+ },
+ "cpf_responsavel": "***862646**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17513144000144"
+ },
+ "nome": "ACIC - ASSOCIACAO COMERCIAL E INDUSTRIAL DE CONTAGEM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "573120100",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17513144000144"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17513144000144"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17513144000144",
+ "nome_responsavel": "UMBERTO NOGUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33951822",
+ "cep": "32315140",
+ "endereco": "AV.OLIMPIO GARCIA 430",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1058880C85697044B5D8C1F254D566A30226E97F",
+   "id": "1058880C85697044B5D8C1F254D566A30226E97F"
+  }
+ },
+ "id": 17513144000144,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

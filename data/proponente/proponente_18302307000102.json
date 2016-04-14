@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.302.307\/0001-02",
+ "fax": "3136851255",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18302307000102"
+ },
+ "cpf_responsavel": "***984156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18302307000102"
+ },
+ "nome": "MUNICIPIO DE NOVA UNIAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18302307000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18302307000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18302307000102",
+ "nome_responsavel": "GERALDO DE PAULA ANDRADE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3136851255",
+ "cep": "34990000",
+ "endereco": "RUA PRESIDENTE KENNEDY 29",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BA81E8D8B507164EDE3E5852C8DE7292CD8894A0",
+   "id": "BA81E8D8B507164EDE3E5852C8DE7292CD8894A0"
+  }
+ },
+ "id": 18302307000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11778",
+   "id": 11778
+  }
+ }
+}

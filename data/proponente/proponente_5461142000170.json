@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.461.142\/0001-70",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5461142000170"
+ },
+ "cpf_responsavel": "***462696**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5461142000170"
+ },
+ "nome": "SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5461142000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5461142000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5461142000170",
+ "nome_responsavel": "RENATA MARIA PAES DE VILHENA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31-3290-8261\/8262\/8270",
+ "cep": "30180140",
+ "endereco": "RUA TOMÁS GONZAGA 686",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A30F766A146D1A34B1F5CFA1F4C04C4E6B8FDD6F",
+   "id": "A30F766A146D1A34B1F5CFA1F4C04C4E6B8FDD6F"
+  }
+ },
+ "id": 5461142000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

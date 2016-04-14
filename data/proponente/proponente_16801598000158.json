@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.801.598\/0001-58",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16801598000158"
+ },
+ "cpf_responsavel": "***957116**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16801598000158"
+ },
+ "nome": "ACAO SOCIAL CENTRO DE REINTEGRACAO A SOCIEDADE MAIS QUE VENCEDORES",
+ "inscricao_estadual": "0022713450098",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1\/017703",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16801598000158"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16801598000158"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16801598000158",
+ "nome_responsavel": "CIBELE NATALIA DA SILVA RESENDE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3641-2949",
+ "cep": "33065080",
+ "endereco": "RUA RIO DE JANEIRO 430",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/00A49AEF5971BC0A4268ACCAF546F5F534CAE19E",
+   "id": "00A49AEF5971BC0A4268ACCAF546F5F534CAE19E"
+  }
+ },
+ "id": 16801598000158,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

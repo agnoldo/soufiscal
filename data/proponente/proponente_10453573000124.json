@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.453.573\/0001-24",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10453573000124"
+ },
+ "cpf_responsavel": "***941316**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10453573000124"
+ },
+ "nome": "AGROVETERINARIA RM LTDA - EPP",
+ "inscricao_estadual": "0010979230063",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "02341300019",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10453573000124"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10453573000124"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10453573000124",
+ "nome_responsavel": "EDGAR ROLIM MACHADO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "(31)3432-6447",
+ "cep": "31960160",
+ "endereco": "RUA DR. ARCANJO GASOLI Nº120",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7D11075091E2F98F340BC5411ADDE5F905FF5CB9",
+   "id": "7D11075091E2F98F340BC5411ADDE5F905FF5CB9"
+  }
+ },
+ "id": 10453573000124,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

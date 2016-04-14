@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.215.566\/0001-04",
+ "fax": "31-32748610",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18215566000104"
+ },
+ "cpf_responsavel": "***658696**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18215566000104"
+ },
+ "nome": "ASSOCIACAO DE ASSISTENCIA AO PEQUENO JORNALEIRO",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "254.891\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18215566000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18215566000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18215566000104",
+ "nome_responsavel": "MAURICIO BRANDI ALEIXO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-2511-2437",
+ "cep": "30150280",
+ "endereco": "AV. BERNARDO MONTEIRO - 390",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4F99618E725ED46F3CE529F4AEFADFD45AA17AEE",
+   "id": "4F99618E725ED46F3CE529F4AEFADFD45AA17AEE"
+  }
+ },
+ "id": 18215566000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

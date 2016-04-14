@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.653.666\/0001-98",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7653666000198"
+ },
+ "cpf_responsavel": "***621156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7653666000198"
+ },
+ "nome": "NOVA CENTRAL SINDICAL DE TRABALHADORES - MG",
+ "inscricao_estadual": "insento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "insento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7653666000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7653666000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7653666000198",
+ "nome_responsavel": "WASHINGTON LUIZ DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "031 31320190",
+ "cep": "31130003",
+ "endereco": "AVENIDA AFONSO PENA  748 ANDAR 4",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/78B3C7C4DFB08EAD6784F49973C9646AFDCE3B4B",
+   "id": "78B3C7C4DFB08EAD6784F49973C9646AFDCE3B4B"
+  }
+ },
+ "id": 7653666000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

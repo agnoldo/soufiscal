@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.802.877\/0001-10",
+ "fax": "31\/3532-3066\/200",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5802877000110"
+ },
+ "cpf_responsavel": "***902546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5802877000110"
+ },
+ "nome": "INSTITUICAO DE COOPERACAO INTERMUNICIPAL DO MEDIO PARAOPEBA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/34",
+   "id": 34
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5802877000110"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5802877000110"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5802877000110",
+ "nome_responsavel": "CARLAILE DE JESUS PEDROSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/28",
+   "id": 28
+  }
+ },
+ "telefone": "31\/3532-3066\/218",
+ "cep": "32600284",
+ "endereco": "RUA SÃO JORGE 135",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BE0FA9B937FEF00FEDD7C87AD7918CACCE89C27B",
+   "id": "BE0FA9B937FEF00FEDD7C87AD7918CACCE89C27B"
+  }
+ },
+ "id": 5802877000110,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

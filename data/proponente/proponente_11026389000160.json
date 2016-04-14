@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.026.389\/0001-60",
+ "fax": "(31) 3661-3888",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11026389000160"
+ },
+ "cpf_responsavel": "***565716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11026389000160"
+ },
+ "nome": "MANSUR INDUSTRIA E COMERCIO LTDA - EPP",
+ "inscricao_estadual": "0013273000090",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "6557",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11026389000160"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11026389000160"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11026389000160",
+ "nome_responsavel": "ANGELO TEOFILO BATISTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3661-3888",
+ "cep": "33600000",
+ "endereco": "RUA SALGADO FILHO620",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/95AC19C3FB298D1A019DA2FA9831CEDA22D872C5",
+   "id": "95AC19C3FB298D1A019DA2FA9831CEDA22D872C5"
+  }
+ },
+ "id": 11026389000160,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.182.245\/0001-99",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8182245000199"
+ },
+ "cpf_responsavel": "***740907**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8182245000199"
+ },
+ "nome": "ASSOCIACAO BRASILEIRA DE RELACOES INTERNACIONAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8182245000199"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8182245000199"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8182245000199",
+ "nome_responsavel": "MONICA HERZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3319-4426",
+ "cep": "30535610",
+ "endereco": "AV DOM JOSE GASPAR 500 PRÉDIO 4 SL 1",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6850DD281EFC09A070D7E3186E5C1C1CFC3B0EFC",
+   "id": "6850DD281EFC09A070D7E3186E5C1C1CFC3B0EFC"
+  }
+ },
+ "id": 8182245000199,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

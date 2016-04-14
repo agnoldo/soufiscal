@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.575.861\/0001-29",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25575861000129"
+ },
+ "cpf_responsavel": "***188746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25575861000129"
+ },
+ "nome": "CENTRO ECLET DA FLUENTE LUZ UNIVERSAL MANOEL CORRENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25575861000129"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25575861000129"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25575861000129",
+ "nome_responsavel": "MARIA JOSE NASCIMENTO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-96118845",
+ "cep": "31155290",
+ "endereco": "ÁREA RURAL DO MUNICÍPIO DE SANTA LUZIA NA QUINTA DO BAÚ - ANGU DURO - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/24257D56C85EA2EA7566B071E6807D361A493480",
+   "id": "24257D56C85EA2EA7566B071E6807D361A493480"
+  }
+ },
+ "id": 25575861000129,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

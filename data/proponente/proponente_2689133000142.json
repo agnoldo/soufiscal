@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.689.133\/0001-42",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2689133000142"
+ },
+ "cpf_responsavel": "***685146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2689133000142"
+ },
+ "nome": "CENTRO DE RECUPERACAO SILOE - MINISTERIO COM MULHERES",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2689133000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2689133000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2689133000142",
+ "nome_responsavel": "BENEDITO ARGENTINO ROCHA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130314429",
+ "cep": "33826126",
+ "endereco": "RUA JANUARIA 184",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/46DB5BDFEC7BF92A96756DB37CAA85C7490ECE5F",
+   "id": "46DB5BDFEC7BF92A96756DB37CAA85C7490ECE5F"
+  }
+ },
+ "id": 2689133000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

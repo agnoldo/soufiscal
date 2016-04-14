@@ -1,0 +1,50 @@
+{
+ "cnpj": "64.487.614\/0001-22",
+ "fax": "3135355640",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=64487614000122"
+ },
+ "cpf_responsavel": "***582966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=64487614000122"
+ },
+ "nome": "MUNICIPIO DE JUATUBA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=64487614000122"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=64487614000122"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/64487614000122",
+ "nome_responsavel": "VALERIA APARECIDA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "3135355640",
+ "cep": "35675000",
+ "endereco": "PRAÇA DOS TRES PODERES S\/N",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8ADDFC893D7C7271B5CAC6D708DC1D30D2C88976",
+   "id": "8ADDFC893D7C7271B5CAC6D708DC1D30D2C88976"
+  }
+ },
+ "id": 64487614000122,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11665",
+   "id": 11665
+  }
+ }
+}

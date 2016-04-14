@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.634.704\/0001-70",
+ "fax": "3135112062",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10634704000170"
+ },
+ "cpf_responsavel": "***354163**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10634704000170"
+ },
+ "nome": "OBRA SOCIAL GLORIEUX",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10634704000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10634704000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10634704000170",
+ "nome_responsavel": "DANILSO CARLOS ESTEVAO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135112100",
+ "cep": "32673246",
+ "endereco": "RUA DRACENA 160",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F9771A45BD41EA519328A746407C7CFEA40AE5AC",
+   "id": "F9771A45BD41EA519328A746407C7CFEA40AE5AC"
+  }
+ },
+ "id": 10634704000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

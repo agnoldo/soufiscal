@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.243.160\/0001-03",
+ "fax": "(31)3916-8981",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13243160000103"
+ },
+ "cpf_responsavel": "***469896**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13243160000103"
+ },
+ "nome": "SECRETARIA DE ESTADO DE TRABALHO E EMPREGO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13243160000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13243160000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13243160000103",
+ "nome_responsavel": "HELIO AUGUSTO MARTINS RABELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31)3916-8981",
+ "cep": "31630901",
+ "endereco": "RODOVIA PREFEITO AMERICO GIANETTI S\/N   PRÉDIO MINAS - OITAVO ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BE76A65DBE9FC37C068A8EE9E14BAE785AEE6088",
+   "id": "BE76A65DBE9FC37C068A8EE9E14BAE785AEE6088"
+  }
+ },
+ "id": 13243160000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

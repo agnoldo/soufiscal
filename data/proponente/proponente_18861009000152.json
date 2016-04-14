@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.861.009\/0001-52",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18861009000152"
+ },
+ "cpf_responsavel": "***567186**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18861009000152"
+ },
+ "nome": "INSTITUTO CULTURAL ABRA PALAVRA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18861009000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18861009000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18861009000152",
+ "nome_responsavel": "LUIZ CARLOS LOPES DINUCI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3191253400",
+ "cep": "31010400",
+ "endereco": "RUA SAO GOTARDO 222 CASA 05",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/59E58492478D1C7362226E6B7A1D931CBDC8BC4D",
+   "id": "59E58492478D1C7362226E6B7A1D931CBDC8BC4D"
+  }
+ },
+ "id": 18861009000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

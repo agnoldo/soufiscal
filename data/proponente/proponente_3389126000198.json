@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.389.126\/0001-98",
+ "fax": "(31) 3915 7636",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3389126000198"
+ },
+ "cpf_responsavel": "***333906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3389126000198"
+ },
+ "nome": "CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3389126000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3389126000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3389126000198",
+ "nome_responsavel": "LUIZ HENRIQUE GUALBERTO MOREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "(31) 3915 7451",
+ "cep": "31630900",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/N  - 5 ANDAR -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/056D126DCBE4D34FC3AA4D3EB5E98E4E7478A18B",
+   "id": "056D126DCBE4D34FC3AA4D3EB5E98E4E7478A18B"
+  }
+ },
+ "id": 3389126000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

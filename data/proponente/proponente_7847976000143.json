@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.847.976\/0001-43",
+ "fax": "(31) 33097845 e 84158739",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7847976000143"
+ },
+ "cpf_responsavel": "***499716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7847976000143"
+ },
+ "nome": "ACL ASSOCIACAO DE CULTURA LIVRE",
+ "inscricao_estadual": "**********",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2002760017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7847976000143"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7847976000143"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7847976000143",
+ "nome_responsavel": "THEREZINHA DE MARIA MARTINS ALVES COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 33097845 e 84158739",
+ "cep": "30130160",
+ "endereco": "RUA ALAGOAS 1.314 SALA 413",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/09514820A3DC2FDD7C4AC7B1289DEDFD458E1718",
+   "id": "09514820A3DC2FDD7C4AC7B1289DEDFD458E1718"
+  }
+ },
+ "id": 7847976000143,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

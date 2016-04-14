@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.475.083\/0001-09",
+ "fax": "(31) 21258830",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2475083000109"
+ },
+ "cpf_responsavel": "***235259**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2475083000109"
+ },
+ "nome": "FUNDACAO MOVIMENTO DIREITO E CIDADANIA - FUNDACAO MDC",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "145051\/001-6",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2475083000109"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2475083000109"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2475083000109",
+ "nome_responsavel": "PAULO UMBERTO STUMPF",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 21258830",
+ "cep": "30160903",
+ "endereco": "RUA DA BAHIA 1032 14º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4F2068604171F28E23B1CDC7F9A3CBA138994F03",
+   "id": "4F2068604171F28E23B1CDC7F9A3CBA138994F03"
+  }
+ },
+ "id": 2475083000109,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

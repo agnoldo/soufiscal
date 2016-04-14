@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.263.848\/0001-27",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5263848000127"
+ },
+ "cpf_responsavel": "***083106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5263848000127"
+ },
+ "nome": "ASSOCIACAO MINEIRA DE EDUCACAO CONTINUADA ASMEC",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02422570016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5263848000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5263848000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5263848000127",
+ "nome_responsavel": "ANDREA PATRICIA FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134211495",
+ "cep": "31015184",
+ "endereco": "RUA POUSO ALEGRE 854",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FB8EB05296D8CA310651A85E51571B28F623D546",
+   "id": "FB8EB05296D8CA310651A85E51571B28F623D546"
+  }
+ },
+ "id": 5263848000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

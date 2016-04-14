@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.462.305\/0001-22",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20462305000122"
+ },
+ "cpf_responsavel": "***415803**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20462305000122"
+ },
+ "nome": "IRMANDADE NOSSA SENHORA DO ROSARIO DE JUSTINOPOLIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20462305000122"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20462305000122"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20462305000122",
+ "nome_responsavel": "ELIANE BALTAZAR DA COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3136253264",
+ "cep": "33900700",
+ "endereco": "RUA FRANCISCO LABANCA 189",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D7B3AB3B569B051DDDA0657D31239EFC5246DCE4",
+   "id": "D7B3AB3B569B051DDDA0657D31239EFC5246DCE4"
+  }
+ },
+ "id": 20462305000122,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

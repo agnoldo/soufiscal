@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.978.029\/0001-42",
+ "fax": "32691060",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=978029000142"
+ },
+ "cpf_responsavel": "***712046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=978029000142"
+ },
+ "nome": "ASSOCIACAO CULTURAL DO ARQUIVO PUBLICO MINEIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=978029000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=978029000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/978029000142",
+ "nome_responsavel": "EDILANE MARIA DE ALMEIDA CARNEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "32691167",
+ "cep": "30130180",
+ "endereco": "AV. JOÃO PINHEIRO - 372",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/51659D7456B1B8654050F55C8458727A6651E40B",
+   "id": "51659D7456B1B8654050F55C8458727A6651E40B"
+  }
+ },
+ "id": 978029000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

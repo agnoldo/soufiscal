@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.499.944\/0001-79",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5499944000179"
+ },
+ "cpf_responsavel": "***705726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5499944000179"
+ },
+ "nome": "COOPERATIVA DOS EMPREENDEDORES EM ACOES CULTURAIS, HISTORIA E MEMORIA - COOPERATIVA CULTURA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1830890015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5499944000179"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5499944000179"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5499944000179",
+ "nome_responsavel": "RICARDO ALEXANDRE DOS SANTOS ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/34216005",
+ "cep": "31140660",
+ "endereco": "AV. CRISTIANO MACHADO 640 SALA 1309",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DE21AFB21B65E72A2F9B4E03CDBE694351C50215",
+   "id": "DE21AFB21B65E72A2F9B4E03CDBE694351C50215"
+  }
+ },
+ "id": 5499944000179,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

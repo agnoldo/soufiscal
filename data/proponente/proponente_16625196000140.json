@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.625.196\/0001-40",
+ "fax": "031\/32352858",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16625196000140"
+ },
+ "cpf_responsavel": "***646886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16625196000140"
+ },
+ "nome": "INSTITUTO ESTADUAL DO PATRIMONIO HISTORICO E ARTISTICO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16625196000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16625196000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16625196000140",
+ "nome_responsavel": "MICHELE ABREU ARROYO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "031\/32352800\/05",
+ "cep": "30140010",
+ "endereco": "PRAÇA DA LIBERDADE S\/N PRÉDIO DO SETOP4 E 5 ANDARES",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2D16AD1D51C8DE56069B3CF9DDA5A67D38E3CF21",
+   "id": "2D16AD1D51C8DE56069B3CF9DDA5A67D38E3CF21"
+  }
+ },
+ "id": 16625196000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

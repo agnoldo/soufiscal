@@ -1,0 +1,50 @@
+{
+ "cnpj": "86.925.146\/0001-63",
+ "fax": "(31(36741777",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=86925146000163"
+ },
+ "cpf_responsavel": "***088786**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=86925146000163"
+ },
+ "nome": "CASA DA ANIMACAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=86925146000163"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=86925146000163"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/86925146000163",
+ "nome_responsavel": "KLAUBER SILVA MALAQUIAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)36741777",
+ "cep": "34505970",
+ "endereco": "RUA PARACATU 187",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/234F55981C6C068B1E157D2FEDEE3E73674FA2F7",
+   "id": "234F55981C6C068B1E157D2FEDEE3E73674FA2F7"
+  }
+ },
+ "id": 86925146000163,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

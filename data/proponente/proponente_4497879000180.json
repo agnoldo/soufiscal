@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.497.879\/0001-80",
+ "fax": "(031) 3079-6122",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4497879000180"
+ },
+ "cpf_responsavel": "***887216**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4497879000180"
+ },
+ "nome": "ASSOC DOS TRABALHADORES COM MATERIAIS RECICLAVEIS DE IBIRITE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Lei 1677\/02",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4497879000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4497879000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4497879000180",
+ "nome_responsavel": "ROSANGELA RODRIGUES NUNES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031) 3079-6122",
+ "cep": "32400000",
+ "endereco": "AV. AZEREDO Nº. 998 BAIRRO PIRATININGA MUNICÍPIO IBIRITÉ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/8412BB00A551F9E4355B01FCEE0A1C76A79979EC",
+   "id": "8412BB00A551F9E4355B01FCEE0A1C76A79979EC"
+  }
+ },
+ "id": 4497879000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13510",
+   "id": 13510
+  }
+ }
+}

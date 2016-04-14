@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.283.532\/0001-86",
+ "fax": "31 3596 2828",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17283532000186"
+ },
+ "cpf_responsavel": "***810986**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17283532000186"
+ },
+ "nome": "MISSAO RAMACRISNA",
+ "inscricao_estadual": "067.013.625.0091",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "4894\/001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17283532000186"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17283532000186"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17283532000186",
+ "nome_responsavel": "EXPEDITO MARTINS CHUMBINHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3596 2828",
+ "cep": "32600971",
+ "endereco": "RUA MESTRE RAMACRISNA 379 - CAIXA POSTAL 195",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D41EC42D9F1CB3F0ABAD160A918BE8B7D2CED115",
+   "id": "D41EC42D9F1CB3F0ABAD160A918BE8B7D2CED115"
+  }
+ },
+ "id": 17283532000186,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

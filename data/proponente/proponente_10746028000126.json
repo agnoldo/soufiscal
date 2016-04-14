@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.746.028\/0001-26",
+ "fax": "(31)3577-6741",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10746028000126"
+ },
+ "cpf_responsavel": "***680276**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10746028000126"
+ },
+ "nome": "INSTITUTO ARTISTICO E CULTURAL SARZEDO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10746028000126"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10746028000126"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10746028000126",
+ "nome_responsavel": "JOANIR MARTINS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3577-6741",
+ "cep": "32450000",
+ "endereco": "RUA IOLANDA MARTINS Nº 950",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/85AB1B0D4C1494DF270F079F6E38D051ADD4BE57",
+   "id": "85AB1B0D4C1494DF270F079F6E38D051ADD4BE57"
+  }
+ },
+ "id": 10746028000126,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11488",
+   "id": 11488
+  }
+ }
+}

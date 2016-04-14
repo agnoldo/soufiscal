@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.599\/0001-05",
+ "fax": "31 3916-7000",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715599000105"
+ },
+ "cpf_responsavel": "***540326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715599000105"
+ },
+ "nome": "MINAS GERAIS SECRETARIA DE ESTADO DA EDUCACAO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715599000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715599000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715599000105",
+ "nome_responsavel": "MACAE MARIA EVARISTO DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31 3916-7000",
+ "cep": "31630900",
+ "endereco": "RODOVIA PREFEITO AMÉRICO GIANETTI S\/Nº - PRÉDIO MINAS 11º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1E3242033516D2BB3B4A3CD18E7FFC55A8B94649",
+   "id": "1E3242033516D2BB3B4A3CD18E7FFC55A8B94649"
+  }
+ },
+ "id": 18715599000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

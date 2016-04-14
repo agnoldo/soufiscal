@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.518.865\/0001-44",
+ "fax": "(031) 36711200",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=518865000144"
+ },
+ "cpf_responsavel": "***263016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=518865000144"
+ },
+ "nome": "INSTITUTO MUNDO VELHO - IMV",
+ "inscricao_estadual": "6381",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "809",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=518865000144"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=518865000144"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/518865000144",
+ "nome_responsavel": "MARIA DE LOURDES DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(031) 36715387",
+ "cep": "34505600",
+ "endereco": "RUA: MARQUES DE SAPUCAÍ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/377C7567BD78B39312175F612BC555D99B88106A",
+   "id": "377C7567BD78B39312175F612BC555D99B88106A"
+  }
+ },
+ "id": 518865000144,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.099.565\/0002-47",
+ "fax": "-",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3099565000247"
+ },
+ "cpf_responsavel": "***630105**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3099565000247"
+ },
+ "nome": "ASSOCIACAO MINISTERIO JERICO",
+ "inscricao_estadual": "2013000047130731",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1.3.037.326.0880-001\/002",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3099565000247"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3099565000247"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3099565000247",
+ "nome_responsavel": "EDMUNDO RIBEIRO FELIX",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-36423348\/ 3641-7073",
+ "cep": "33015620",
+ "endereco": "RUA GAMA NETO Nº 265.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/43FDF9C334EE440CA03963477DBCC014E0A5383C",
+   "id": "43FDF9C334EE440CA03963477DBCC014E0A5383C"
+  }
+ },
+ "id": 3099565000247,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13950",
+   "id": 13950
+  }
+ }
+}

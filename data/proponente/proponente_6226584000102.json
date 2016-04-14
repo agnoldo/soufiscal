@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.226.584\/0001-02",
+ "fax": "03133873311",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6226584000102"
+ },
+ "cpf_responsavel": "***835856**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6226584000102"
+ },
+ "nome": "COOPERATIVA SOLIDARIA DOS RECICLADORES E GRUPOS PRODUTIVOS DO BARREIRO E REGIAO -COOPERSOLI-BARREIRO",
+ "inscricao_estadual": "0012192900031",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2416330017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6226584000102"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6226584000102"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6226584000102",
+ "nome_responsavel": "ANDRESSA DE ASSIS FONSECA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03133873311",
+ "cep": "30664720",
+ "endereco": "RUA LACYR MAFFIA 161",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B2D1A93EF9FB74F59B34B5C0601080719E1F2E9D",
+   "id": "B2D1A93EF9FB74F59B34B5C0601080719E1F2E9D"
+  }
+ },
+ "id": 6226584000102,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

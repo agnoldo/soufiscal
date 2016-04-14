@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.289.260\/0001-45",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11289260000145"
+ },
+ "cpf_responsavel": "***115436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11289260000145"
+ },
+ "nome": "M&A FREITAS TRANSPORTES LTDA - ME",
+ "inscricao_estadual": "0014852460027",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "15385000947",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11289260000145"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11289260000145"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11289260000145",
+ "nome_responsavel": "MATEUS FREITAS LANA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3135777165",
+ "cep": "32450000",
+ "endereco": "RUA OLAVO PINHEIRO RESENDE 121",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F0ACD67591BD576A29057291AF406975DBA81637",
+   "id": "F0ACD67591BD576A29057291AF406975DBA81637"
+  }
+ },
+ "id": 11289260000145,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11488",
+   "id": 11488
+  }
+ }
+}

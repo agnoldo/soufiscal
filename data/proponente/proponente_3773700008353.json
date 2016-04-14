@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.773.700\/0083-53",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3773700008353"
+ },
+ "cpf_responsavel": "***363086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3773700008353"
+ },
+ "nome": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3773700008353"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3773700008353"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3773700008353",
+ "nome_responsavel": "MONICA DE CASSIA SOUZA CAMPOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3489 2302",
+ "cep": "31035536",
+ "endereco": "AV. JOSÉ CÂNDIDO DA SILVEIRA 2000",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B00AB48E886AD2188C33E74D004E9A57C7322814",
+   "id": "B00AB48E886AD2188C33E74D004E9A57C7322814"
+  }
+ },
+ "id": 3773700008353,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

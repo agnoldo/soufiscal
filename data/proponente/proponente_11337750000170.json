@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.337.750\/0001-70",
+ "fax": "31 34355398",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11337750000170"
+ },
+ "cpf_responsavel": "***968716**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11337750000170"
+ },
+ "nome": "CENTRO DE APOIO AS ENTIDADES COMUNITARIAS E SOCIAIS - CAECS",
+ "inscricao_estadual": "Insenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0249868\/001-7",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11337750000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11337750000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11337750000170",
+ "nome_responsavel": "NATALYA DAS DORES DUARTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 30431116",
+ "cep": "31990250",
+ "endereco": "RUA PIRRO 15",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/53883FDAF72D57DAF5522FDA69A3BE773931E360",
+   "id": "53883FDAF72D57DAF5522FDA69A3BE773931E360"
+  }
+ },
+ "id": 11337750000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.930.235\/0003-70",
+ "fax": "31 3248-8606",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2930235000370"
+ },
+ "cpf_responsavel": "***329906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2930235000370"
+ },
+ "nome": "INSTITUTO CULTURAL FLAVIO GUTIERREZ - ICFG",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2930235000370"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2930235000370"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2930235000370",
+ "nome_responsavel": "ANGELA GUTIERREZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3248-8608",
+ "cep": "30160000",
+ "endereco": "PRAÇA RUI BARBOSA S\/Nº - CENTRO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D176B4782C4E343A6193CE52B6BCB1E7881E908A",
+   "id": "D176B4782C4E343A6193CE52B6BCB1E7881E908A"
+  }
+ },
+ "id": 2930235000370,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.314.261\/0001-89",
+ "fax": "(38) 2101-9758",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17314261000189"
+ },
+ "cpf_responsavel": "***150526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17314261000189"
+ },
+ "nome": "FUNDACAO EDUCACIONAL MINAS GERAIS",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17314261000189"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17314261000189"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17314261000189",
+ "nome_responsavel": "THIAGO QUEIROZ BORGES MUNIZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(38) 2101-9758",
+ "cep": "31535040",
+ "endereco": "RUA JOSE DIAS VIEIRA 46",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/447FBE82D23B8B3D346A5A5ECA0B2C939A870F44",
+   "id": "447FBE82D23B8B3D346A5A5ECA0B2C939A870F44"
+  }
+ },
+ "id": 17314261000189,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

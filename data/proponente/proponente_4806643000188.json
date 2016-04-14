@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.806.643\/0001-88",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4806643000188"
+ },
+ "cpf_responsavel": "***649362**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4806643000188"
+ },
+ "nome": "ASSOCIACAO ESPACO SOCIO CULTURAL DIADORIM",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "44527",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4806643000188"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4806643000188"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4806643000188",
+ "nome_responsavel": "ALEXANDRE RICARDO LARA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3192960275",
+ "cep": "33200000",
+ "endereco": "RUA ARARIPE 21",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/13636B2FDE290269998CE7A005310FCF2A9EDF06",
+   "id": "13636B2FDE290269998CE7A005310FCF2A9EDF06"
+  }
+ },
+ "id": 4806643000188,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

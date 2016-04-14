@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.893.350\/0001-12",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3893350000112"
+ },
+ "cpf_responsavel": "***198616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3893350000112"
+ },
+ "nome": "INSTITUTO JURIDICO PARA EFETIVACAO DA CIDADANIA-MINAS GERAIS-IJUCI\/MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3893350000112"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3893350000112"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3893350000112",
+ "nome_responsavel": "VIVIANE TOMPE SOUZA MAYRINK",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3295 5655",
+ "cep": "30190916",
+ "endereco": "AVENIDA AUGUSTO DE LIMA 1800 SALAS 1401\/02\/03",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1959BDC3252B3AC42F578E7BECA6C30F256F41DD",
+   "id": "1959BDC3252B3AC42F578E7BECA6C30F256F41DD"
+  }
+ },
+ "id": 3893350000112,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

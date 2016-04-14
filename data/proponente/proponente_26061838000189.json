@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.061.838\/0001-89",
+ "fax": "31\/33967980",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26061838000189"
+ },
+ "cpf_responsavel": "***092876**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26061838000189"
+ },
+ "nome": "ASSOCIACAO DOS DEFICIENTES DE CONTAGEM",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26061838000189"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26061838000189"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26061838000189",
+ "nome_responsavel": "JOSE MATIAS GONCALVES DE ABREU",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/33967980",
+ "cep": "32040580",
+ "endereco": "AVENIDA JOÃO DE DEUS COSTA 410",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EA05247208E350B6F7E1577D652508618CDFE886",
+   "id": "EA05247208E350B6F7E1577D652508618CDFE886"
+  }
+ },
+ "id": 26061838000189,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

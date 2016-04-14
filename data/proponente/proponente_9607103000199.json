@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.607.103\/0001-99",
+ "fax": "031 9379.8060",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9607103000199"
+ },
+ "cpf_responsavel": "***176446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9607103000199"
+ },
+ "nome": "CENTRO DE RECUPERACAO ARVORE VIVA - CRAV",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2256280017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9607103000199"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9607103000199"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9607103000199",
+ "nome_responsavel": "ANKE IRACEMA VON DER HEIDEN",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 8812.6184",
+ "cep": "30570320",
+ "endereco": "RUA JAMIL FARAH 285 - B",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FB3FED0F915CC07BDCF5703B349AB87231DA0F7A",
+   "id": "FB3FED0F915CC07BDCF5703B349AB87231DA0F7A"
+  }
+ },
+ "id": 9607103000199,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

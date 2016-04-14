@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.786.554\/0001-05",
+ "fax": "31 40090927",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7786554000105"
+ },
+ "cpf_responsavel": "***760056**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7786554000105"
+ },
+ "nome": "FUNDACAO DE APOIO A ACAO SOCIAL CULTURAL EDUCACIONAL AO DESENVOLVIMENTO TECNOLOGICO E CIENTIFICO FEAD-MINAS - FUNDACAO FEAD MINAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02007490018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7786554000105"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7786554000105"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7786554000105",
+ "nome_responsavel": "JOSE ROBERTO FRANCO TAVARES PAES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 40090932",
+ "cep": "30140100",
+ "endereco": "RUA CLAUDIO MANOEL 1162",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/58C17893B2B52CD962D2D2E33A2CB86ADAF2EA5F",
+   "id": "58C17893B2B52CD962D2D2E33A2CB86ADAF2EA5F"
+  }
+ },
+ "id": 7786554000105,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

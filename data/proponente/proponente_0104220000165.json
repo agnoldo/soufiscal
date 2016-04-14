@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.104.220\/0001-65",
+ "fax": "3191782582",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=104220000165"
+ },
+ "cpf_responsavel": "***224706**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=104220000165"
+ },
+ "nome": "CENTRO ESPIRITA PAI JOAQUIM DE ARUANDA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=104220000165"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=104220000165"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/104220000165",
+ "nome_responsavel": "JULIO PEREIRA SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135713362",
+ "cep": "35460000",
+ "endereco": "RUA PRESIDENTE VARGAS Nº 367",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/79C31CC51B3DBD914243C8670B1812E42938A384",
+   "id": "79C31CC51B3DBD914243C8670B1812E42938A384"
+  }
+ },
+ "id": 104220000165,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

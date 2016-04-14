@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.453.981\/0001-46",
+ "fax": "3134432200",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5453981000146"
+ },
+ "cpf_responsavel": "***030546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5453981000146"
+ },
+ "nome": "CENTRO INTERDISCIPLINAR DE ASSISTENCIA E PESQUISA EM ENVELHECIMENTO - CIAPE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1777500017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5453981000146"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5453981000146"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5453981000146",
+ "nome_responsavel": "MARIA APARECIDA FERREIRA DE MELLO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134432200",
+ "cep": "31275050",
+ "endereco": "AV.CORONEL JOSE DIAS BICALHO 348 LOJA 07",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D2405DCCD035A2D458EA9FB7F88A3F29C98CAA28",
+   "id": "D2405DCCD035A2D458EA9FB7F88A3F29C98CAA28"
+  }
+ },
+ "id": 5453981000146,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

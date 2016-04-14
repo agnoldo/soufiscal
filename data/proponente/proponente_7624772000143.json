@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.624.772\/0001-43",
+ "fax": "31\/ 3401-1001",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7624772000143"
+ },
+ "cpf_responsavel": "***698556**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7624772000143"
+ },
+ "nome": "PARQUE TECNOLOGICO DE BELO HORIZONTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7624772000143"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7624772000143"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7624772000143",
+ "nome_responsavel": "RONALDO TADEU PENA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/ 3401-1000",
+ "cep": "31310260",
+ "endereco": "RUA PROFESSOR JOSÉ VIEIRA DE MENDONÇA 770.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DC6250C511288B9F2B9F31A7492A8D5D8B3C574C",
+   "id": "DC6250C511288B9F2B9F31A7492A8D5D8B3C574C"
+  }
+ },
+ "id": 7624772000143,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,151 @@
+<ion-view>
+  <ion-nav-title>Dados sobre Convênio</ion-nav-title>
+  <ion-content padding="true" class="has-footer">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+      <br>
+
+      <div class="text-center">
+        <img ng-src="{{event.image}}" class="image">
+      </div>
+
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Endereço</b> <i class="icon ion-map" ng-click="map()"></i></ion-item>
+        <ion-item>
+          <b>{{event.municipio}}</b><br>
+          {{event.endereco}} - {{event.cep}}<br>
+          {{event.telefone}}
+        </ion-item>
+      </ion-list>
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Datas</b> <i class="icon ion-ios-calendar-outline"></i></ion-item>
+        <ion-item ng-repeat="date in event.dates">
+          {{date}}
+        </ion-item>
+      </ion-list>
+
+      <!--...G03-Glossário-Empenhos.pdf-->
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Empenhos</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item class="item-text-wrap" ng-repeat="empenho in event.empenhos">
+          Número {{empenho.numero}}, {{empenho.situacao}}<br>
+          R$ {{empenho.valor}} em {{empenho.data_emissao | date: 'dd/MM/yyyy'}}<br>
+          <p>{{empenho.observacao}}</p>
+        </ion-item>
+      </ion-list>
+
+      <!--...G04-Glossário-Execucao_Financeira.pdf-->
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Execução Financeira</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item class="item-text-wrap" ng-repeat="ordem in event.ordens_bancarias"><!-- olhar Nr_Cancelamento -->
+          Documento {{ordem.numero_documento_habil_siafi}} com valor R$ {{ordem.valor}}<br>
+          Emitido em {{ordem.data | date: 'dd/MM/yyyy'}}, atestado em {{ordem.data_ateste | date: 'dd/MM/yyyy'}}<br>
+          <p>{{ordem.observacao}}</p>
+        </ion-item>
+      </ion-list>
+
+      <!--...G08-Glossário-Propostas_Dados_Responsáveis.pdf (ou G09-Glossário-Propostas_Dados_Proponente.pdf)-->
+
+      <!--...G11-Glossário-Propostas_Beneficiario_Especifico.pdf-->
+<!--
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Beneficiário Específico</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item ng-repeat="beneficiarioespecifico in event.beneficiariosespecificos">
+          {{Nm_Benef_Especifico}} - CPNJ {{Nr_Cnpj_Benef_Especifico}}
+          Repasse de R$ {{Vl_Repasse_Benef_Especifico}}
+        </ion-item>
+      </ion-list>
+-->
+
+      <!--...G16_DocumentoLiquidacao.pdf-->
+      <!--......G17_PagamentoOBTV.pdf-->
+      <!--...G18_Discriminacao_OBTV.pdf-->
+
+      <!--...G19_CronogramaFisicoPT.pdf-->
+<!--      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Cronograma Físico</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item ng-repeat="meta in event.cronogramafisico">
+          Meta {{Nr_Meta}}: {{Tx_Especificacao}}
+          Período {{Dt_Inicio}} a {{Dt_Termino}}
+          Valor: R$ {{Vl_Meta}}
+        </ion-item>
+      </ion-list>
+-->
+
+      <!--...G20_CronogramaDesembolsoPT.pdf-->
+<!--
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Cronograma de Desembolso</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item ng-repeat="parcela in event.cronogramadesembolso">
+          Parcela {{Nr_Parcela}}: {{Tx_Tipo}}
+          Mês/Ano {{Tx_Mes}}/{{Tx_Ano}}
+          Valor: R$ {{Vl_Parcela}}
+        </ion-item>
+      </ion-list>
+-->
+
+      <!--...G21_PlanoAplicacaoPT.pdf-->
+<!--
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Plano de Aplicação</b> <i class="icon ion-document"></i></ion-item>
+        <ion-item ng-repeat="despesa in event.planoaplicacao">
+          Despesa: {{Tx_DescricaoDespesa}} ({{Tx_SituacaoDespesa}})
+          {{Tp_Despesa}} - {{Nm_NaturezaDespesa}}
+          {{Tx_NaturezaAquisicao}}
+          {{Qd_ItensNaturezaDespesa}} itens com valor unitário de R$ {{Vl_Unitario}}
+          Valor total: {{Vl_Total}}
+          {{Tx_UnidadeFornecimento}}
+          {{Tx_Endereco}} - {{Nr_CEP}}
+          {{Tx_Municipio}}/{{Uf_Despesa}}
+        </ion-item>
+      </ion-list>
+-->
+
+<!--
+      <br>
+      <ion-list>
+        <ion-item class="item-divider item-icon-right"><b>Contact</b> <i class="icon ion-chatboxes"></i></ion-item>
+        <ion-item class="item-icon-right" ng-click="call()">
+          Ligue
+          <i class="icon ion-android-call"></i>
+        </ion-item>
+        <ion-item class="item-icon-right" ng-click="mail()">
+          Envie e-mail
+          <i class="icon ion-ios-email"></i>
+        </ion-item>
+        <ion-item class="item-icon-right" ng-click="website()">
+          Visite página web
+          <i class="icon ion-ios-home"></i>
+        </ion-item>
+      </ion-list>
+-->
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Comentar
+        <i class="icon ion-android-alert"></i>
+      </div>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Acompanhar
+        <i class="icon ion-eye"></i>
+      </div>
+    </div>
+  </ion-footer-bar>
+</ion-view>

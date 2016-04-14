@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.893.805\/0001-62",
+ "fax": "31-94174047",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4893805000162"
+ },
+ "cpf_responsavel": "***101304**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4893805000162"
+ },
+ "nome": "INSTITUTO VITA ACTIVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4893805000162"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4893805000162"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4893805000162",
+ "nome_responsavel": "DIRCEU INACIO HAAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-30476991",
+ "cep": "31050110",
+ "endereco": "RUA PROFESSORA ACIDÁLIA LOTT 144 BELO HORIZONTE MG.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2E8805F0FD655D59968CE556DAF8A28C41D0437E",
+   "id": "2E8805F0FD655D59968CE556DAF8A28C41D0437E"
+  }
+ },
+ "id": 4893805000162,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

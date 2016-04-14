@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.013.092\/0001-23",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12013092000123"
+ },
+ "cpf_responsavel": "***115746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12013092000123"
+ },
+ "nome": "COOPERATIVA CENTRAL REDE SOLIDARIA DOS TRABALHADORES DE MATERIAIS RECICLAVEIS DE MG - REDESOL MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12013092000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12013092000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12013092000123",
+ "nome_responsavel": "IVANEIDE DA SILVA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3222-6256",
+ "cep": "30664720",
+ "endereco": "RUA LACYR MAFFIA(DT. INDUSTRIAL) 161 SALA 01. CONJUNTO JATOBA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/64470A4ECDDBDC39EEF9776D2CDCC92341111169",
+   "id": "64470A4ECDDBDC39EEF9776D2CDCC92341111169"
+  }
+ },
+ "id": 12013092000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

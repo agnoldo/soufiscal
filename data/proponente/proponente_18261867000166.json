@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.261.867\/0001-66",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18261867000166"
+ },
+ "cpf_responsavel": "***499996**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18261867000166"
+ },
+ "nome": "INSTITUTO SER FELIZ",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "54078016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18261867000166"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18261867000166"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18261867000166",
+ "nome_responsavel": "HELIMAR LUIZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03133218224",
+ "cep": "32235130",
+ "endereco": "RUA CORONEL AMÉRICO TEIXEIRA GUIMARÃES 401",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3790C542010F0B51585A4D1E34770207C006D168",
+   "id": "3790C542010F0B51585A4D1E34770207C006D168"
+  }
+ },
+ "id": 18261867000166,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

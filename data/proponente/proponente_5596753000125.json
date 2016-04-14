@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.596.753\/0001-25",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5596753000125"
+ },
+ "cpf_responsavel": "***196066**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5596753000125"
+ },
+ "nome": "MANJEDORA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5596753000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5596753000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5596753000125",
+ "nome_responsavel": "ADRIANA REZENDE CINTRA DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3130720310",
+ "cep": "30120010",
+ "endereco": "AV. DOS ANDRADAS Nº 2287 PILOTIS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A1BAE21BD21D8915DF7D6F55995CCD2844CC2277",
+   "id": "A1BAE21BD21D8915DF7D6F55995CCD2844CC2277"
+  }
+ },
+ "id": 5596753000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

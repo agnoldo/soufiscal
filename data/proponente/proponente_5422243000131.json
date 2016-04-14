@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.422.243\/0001-31",
+ "fax": "(31) 3194-7327",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5422243000131"
+ },
+ "cpf_responsavel": "***611356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5422243000131"
+ },
+ "nome": "INSTITUTO INHOTIM",
+ "inscricao_estadual": "0903876630090",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1875\/05",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5422243000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5422243000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5422243000131",
+ "nome_responsavel": "ANTONIO CARLOS GRASSI",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3194-7331",
+ "cep": "30112010",
+ "endereco": "RUA ANTONIO DE ALBUQUERQUE NR.911",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1C54F0076242B4AE2BB5DB051239C31EBB48EDCC",
+   "id": "1C54F0076242B4AE2BB5DB051239C31EBB48EDCC"
+  }
+ },
+ "id": 5422243000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

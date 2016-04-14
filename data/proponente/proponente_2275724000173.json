@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.275.724\/0001-73",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2275724000173"
+ },
+ "cpf_responsavel": "***542656**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2275724000173"
+ },
+ "nome": "INSTITUTO DE POLITICAS PUBLICAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1387930017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2275724000173"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2275724000173"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2275724000173",
+ "nome_responsavel": "EDMO LUIZ DA CUNHA PEREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3274-9083",
+ "cep": "30170907",
+ "endereco": "RUA SÃO PAULO 1071 SALA 1802",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C9BE3EA3BB1C71149C5781BECD3E8B095BCD1705",
+   "id": "C9BE3EA3BB1C71149C5781BECD3E8B095BCD1705"
+  }
+ },
+ "id": 2275724000173,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.629.388\/0001-24",
+ "fax": "03134092071",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16629388000124"
+ },
+ "cpf_responsavel": "***903886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16629388000124"
+ },
+ "nome": "FUNDACAO DE APOIO AO ENSINO PESQUISA E EXTENSAO - FEPE",
+ "inscricao_estadual": "0625913380044",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3028560013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16629388000124"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16629388000124"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16629388000124",
+ "nome_responsavel": "HELTON MATTANA SATURNINO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03134092036",
+ "cep": "31270010",
+ "endereco": "AV ANTONIO CARLOS 6627",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/170FAC18D18D7862FE5104DD09312CA71FD43B84",
+   "id": "170FAC18D18D7862FE5104DD09312CA71FD43B84"
+  }
+ },
+ "id": 16629388000124,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

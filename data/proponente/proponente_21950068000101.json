@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.950.068\/0001-01",
+ "fax": "(31) 2127-4123",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21950068000101"
+ },
+ "cpf_responsavel": "***136386**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21950068000101"
+ },
+ "nome": "ASSOCIACAO DOS DEFICIENTES VISUAIS DE BELO HORIZONTE",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1228580011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21950068000101"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21950068000101"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21950068000101",
+ "nome_responsavel": "JADERSON LUCIO PONTES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 2127-4123",
+ "cep": "30190130",
+ "endereco": "AVENIDA BARBACENA 473 SALA 601",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D9E2D7247834FABBDD1BC6BE4C0D1B1128EDDDE9",
+   "id": "D9E2D7247834FABBDD1BC6BE4C0D1B1128EDDDE9"
+  }
+ },
+ "id": 21950068000101,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

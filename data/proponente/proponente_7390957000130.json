@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.390.957\/0001-30",
+ "fax": "55.31-25555990",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7390957000130"
+ },
+ "cpf_responsavel": "***065176**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7390957000130"
+ },
+ "nome": "MABEF COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA - EPP",
+ "inscricao_estadual": "0623403180009",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "195922001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7390957000130"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7390957000130"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7390957000130",
+ "nome_responsavel": "MARCELO BEZERRA DA CRUZ",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "55.31-25555990",
+ "cep": "31015104",
+ "endereco": "RUA POUSO ALEGRE 2138 - LJ 01",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B568BD94885DFA406FA85EEC9888808DD0A398FF",
+   "id": "B568BD94885DFA406FA85EEC9888808DD0A398FF"
+  }
+ },
+ "id": 7390957000130,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

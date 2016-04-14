@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.968.680\/0001-92",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4968680000192"
+ },
+ "cpf_responsavel": "***972056**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4968680000192"
+ },
+ "nome": "ABRACO - ASSOCIACAO BRASILEIRA COMUNITARIA PARA A PREVENCAO DO ABUSO DE DROGAS - REGIONAL DE PEDRO LEOPOLDO - MG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4968680000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4968680000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4968680000192",
+ "nome_responsavel": "GERALDO EUSTAQUIO ALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3661-3509",
+ "cep": "33600000",
+ "endereco": "RUA ANTONIO RODRIGUES CARDOSO Nº 30",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3E66DD1832122AE3CF1427F663312B48E138F173",
+   "id": "3E66DD1832122AE3CF1427F663312B48E138F173"
+  }
+ },
+ "id": 4968680000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16709",
+   "id": 16709
+  }
+ }
+}

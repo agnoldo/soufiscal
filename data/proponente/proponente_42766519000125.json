@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.766.519\/0001-25",
+ "fax": "Caixa Postal 3001. CEP:30130972. Belo Horizonte\/MG",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42766519000125"
+ },
+ "cpf_responsavel": "***962136**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42766519000125"
+ },
+ "nome": "COLEGIADO DOS SECRETARIOS MUNICIPAIS SAUDE MINAS GERAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1284440017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42766519000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42766519000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42766519000125",
+ "nome_responsavel": "MAURO GUIMARAES JUNQUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32873220",
+ "cep": "30130007",
+ "endereco": "AV. AFONSO PENA 2300. 10º ANDAR.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A97E8ABA083D46E77D85D2FDBA265E1DB8DF2DE5",
+   "id": "A97E8ABA083D46E77D85D2FDBA265E1DB8DF2DE5"
+  }
+ },
+ "id": 42766519000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

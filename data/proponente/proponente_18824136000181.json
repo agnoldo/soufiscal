@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.824.136\/0001-81",
+ "fax": "3132731050",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18824136000181"
+ },
+ "cpf_responsavel": "***637146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18824136000181"
+ },
+ "nome": "TEATRO DE PESQUISA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "394377\/001-1",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18824136000181"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18824136000181"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18824136000181",
+ "nome_responsavel": "PEDRO PAULO RIBEIRO CAVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132731050",
+ "cep": "30160011",
+ "endereco": "RUA DA BAHIA 1341",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C89A1CF988AED882D9B00A702F6097556F2C0768",
+   "id": "C89A1CF988AED882D9B00A702F6097556F2C0768"
+  }
+ },
+ "id": 18824136000181,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

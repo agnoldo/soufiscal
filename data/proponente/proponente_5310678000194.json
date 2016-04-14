@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.310.678\/0001-94",
+ "fax": "31 33884533",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5310678000194"
+ },
+ "cpf_responsavel": "***654616**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5310678000194"
+ },
+ "nome": "DZM INDUSTRIA E COMERCIO LTDA.",
+ "inscricao_estadual": "1862421030067",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5310678000194"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5310678000194"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5310678000194",
+ "nome_responsavel": "DANIEL ZICKER MACHADO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 33884533",
+ "cep": "32044020",
+ "endereco": "RUA DA CAPELA 119A",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EE82AFC457D3B811D9DE067C9AB53CC0F0278308",
+   "id": "EE82AFC457D3B811D9DE067C9AB53CC0F0278308"
+  }
+ },
+ "id": 5310678000194,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

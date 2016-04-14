@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.527.444\/0001-42",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1527444000142"
+ },
+ "cpf_responsavel": "***953156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1527444000142"
+ },
+ "nome": "ASSOCIACAO ASSISTENCIAL GETSEMANI",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1527444000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1527444000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1527444000142",
+ "nome_responsavel": "JORGE LUIZ COELHO LINHARES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3448-9847",
+ "cep": "31260590",
+ "endereco": "RUA: SILVERIO RIBEIRO 360",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9CF6A9DF1F999B0E5C661D976BC91A815362A260",
+   "id": "9CF6A9DF1F999B0E5C661D976BC91A815362A260"
+  }
+ },
+ "id": 1527444000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.462.354\/0001-65",
+ "fax": "031\/3712-1315",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20462354000165"
+ },
+ "cpf_responsavel": "***484326**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20462354000165"
+ },
+ "nome": "ASSOCIACAO MUTIRAO PRO ARTE E CULTURA DE MATOZINHOS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20462354000165"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20462354000165"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20462354000165",
+ "nome_responsavel": "REGINA COELI ROSA SOARES MACIEL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/3712-1315",
+ "cep": "35720000",
+ "endereco": "RUA VISCONDE DO RIO DAS VELHAS 163 LOJA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1E775E28B63AD62824CCD24ADC031E35134E80E8",
+   "id": "1E775E28B63AD62824CCD24ADC031E35134E80E8"
+  }
+ },
+ "id": 20462354000165,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11797",
+   "id": 11797
+  }
+ }
+}

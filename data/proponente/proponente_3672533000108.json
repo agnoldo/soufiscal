@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.672.533\/0001-08",
+ "fax": "31 34914257",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3672533000108"
+ },
+ "cpf_responsavel": "***395016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3672533000108"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE EDUCACAO, INTEGRACAO E DESENVOLVIMENTO SOCIAL",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3672533000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3672533000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3672533000108",
+ "nome_responsavel": "THIAGO ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3494 1529",
+ "cep": "31375000",
+ "endereco": "AV. ANTONIO ABRAHAO CARAN 820 SL. 912",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/57F55F7C23D92EF857F51308A3114892A85A4E08",
+   "id": "57F55F7C23D92EF857F51308A3114892A85A4E08"
+  }
+ },
+ "id": 3672533000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

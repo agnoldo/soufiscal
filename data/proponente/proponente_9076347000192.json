@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.076.347\/0001-92",
+ "fax": "31 35307228",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9076347000192"
+ },
+ "cpf_responsavel": "***533546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9076347000192"
+ },
+ "nome": "PROJETO ASSITENCIAL CONSTRUINDO O AMANHA-PACOA",
+ "inscricao_estadual": "insenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "insenta",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9076347000192"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9076347000192"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9076347000192",
+ "nome_responsavel": "GLEISSON ROBERTO DE MEDEIROS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3530-7228",
+ "cep": "32641840",
+ "endereco": "SEDE PROVISÓRIA RUA MÁRIO CAMPOS LARA 45 - CEP: 32641-840 - CITROLANDIA - BETIM - MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/42C6E80690B3365AE1E97C4C4815710CCBED9C88",
+   "id": "42C6E80690B3365AE1E97C4C4815710CCBED9C88"
+  }
+ },
+ "id": 9076347000192,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

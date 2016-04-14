@@ -1,0 +1,93 @@
+<ion-view>
+  <ion-nav-title>Convênio</ion-nav-title>
+  <ion-content padding="true">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+      <h3>{{event.name}}</h3>
+      <h4><b>{{event.municipio}}</b></h4>
+      <br>
+
+      <div class="text-center">
+        <img ng-src="{{event.image}}" class="image">
+      </div>
+
+      <br>
+      <div class="row">
+        <div class="col">
+          <a class="tilelink" href="#/detail_localizacao/{{event.id}}">
+            <div class="tile balanced-bg tile-title">
+              <h1><i class="ion-map"></i></h1>
+              <h2>Localização</h2>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a class="tilelink" href="#/detail_timeline/{{event.id}}">
+            <div class="tile assertive-bg tile-title">
+              <h1><i class="ion-ios-clock-outline"></i></h1>
+              <h2>Linha do Tempo</h2>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a class="tilelink" href="#/detail_todos/{{event.id}}">
+            <div class="tile dark-bg tile-title">
+              <h1><i class="ion-ios-list-outline"></i></h1>
+              <h2>Todos os dados</h2>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="tile energized-bg tile-title">
+            <h1><i class="ion-ios-camera-outline"></i></h1>
+            <h2>Adicionar foto/vídeo...</h2>
+          </div>
+        </div>
+        <div class="col">
+          <a class="tilelink" ng-click="report()">
+            <div class="tile calm-bg tile-title">
+              <h1><i class="ion-android-alert"></i></h1>
+              <h2>Adicionar comentário</h2>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a class="tilelink" href="#/detail_soltarefa/{{event.id}}">
+            <div class="tile royal-bg tile-title">
+              <h1><i class="ion-speakerphone"></i></h1>
+              <h2>Solicitar Tarefa</h2>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <a href="#/detail_tarefas/{{event.id}}">
+        <div class="button button-clear" ng-disabled="loading">
+          Tarefas
+          <i class="icon ion-speakerphone"></i>
+        </div>
+      </a>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Acompanhar
+        <i class="icon ion-eye"></i>
+      </div>
+<!--
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Deixar de Acompanhar
+        <i class="icon ion-eye-disabled"></i>
+      </div>
+-->
+    </div>
+  </ion-footer-bar>
+</ion-view>

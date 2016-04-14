@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.867.551\/0001-27",
+ "fax": "3121032725",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21867551000127"
+ },
+ "cpf_responsavel": "***937256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21867551000127"
+ },
+ "nome": "CDM - COOPERACAO PARA O DESENVOLVIMENTO E MORADA HUMANA",
+ "inscricao_estadual": "0016934130065",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3615440015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21867551000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21867551000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21867551000127",
+ "nome_responsavel": "ERNANE MARCOS CARDOSO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3121032700",
+ "cep": "31741450",
+ "endereco": "RUA JOVENTINA DA ROCHA 211 - BAIRRO HELIÓPOLIS - BELO HORIZONTE - MINAS GERAIS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D4128DEACA87274F030A7CB829D98B4BE2A27918",
+   "id": "D4128DEACA87274F030A7CB829D98B4BE2A27918"
+  }
+ },
+ "id": 21867551000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

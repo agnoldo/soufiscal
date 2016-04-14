@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.581.448\/0001-49",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17581448000149"
+ },
+ "cpf_responsavel": "***944336**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17581448000149"
+ },
+ "nome": "ASSOCIACAO ATLETICA AIURUOCA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17581448000149"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17581448000149"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17581448000149",
+ "nome_responsavel": "HAMILTON GOUVEA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03186299330",
+ "cep": "31910130",
+ "endereco": "RUA AIURUOCA 347",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0AD99E29BEA78FF7FEE292A966EAA26E68B3B8E2",
+   "id": "0AD99E29BEA78FF7FEE292A966EAA26E68B3B8E2"
+  }
+ },
+ "id": 17581448000149,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

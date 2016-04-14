@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.219.152\/0001-54",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9219152000154"
+ },
+ "cpf_responsavel": "***888556**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9219152000154"
+ },
+ "nome": "ASSOCIACAO CENTRO DE RESTAURACAO VIDA NOVA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9219152000154"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9219152000154"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9219152000154",
+ "nome_responsavel": "JOAO MARCOS FERREIRA DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 8733-9884",
+ "cep": "35740000",
+ "endereco": "ESTRADA MUNICIPAL 22",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/9AB93EB5BB8DD3C7B02FD550EFC41106C1107147",
+   "id": "9AB93EB5BB8DD3C7B02FD550EFC41106C1107147"
+  }
+ },
+ "id": 9219152000154,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12102",
+   "id": 12102
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "26.232.447\/0002-60",
+ "fax": "31 3683-1514",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=26232447000260"
+ },
+ "cpf_responsavel": "***339996**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=26232447000260"
+ },
+ "nome": "COMUNIDADE REVIVER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=26232447000260"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=26232447000260"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/26232447000260",
+ "nome_responsavel": "DAVID ARAO SIQUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 9813-3153",
+ "cep": "35830000",
+ "endereco": "RUA ESPERANÇA 20",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/383055EBF2425B26DE2EAC76E34D456C6EC6E2BE",
+   "id": "383055EBF2425B26DE2EAC76E34D456C6EC6E2BE"
+  }
+ },
+ "id": 26232447000260,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

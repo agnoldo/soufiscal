@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.072.383\/0001-27",
+ "fax": "31 3296-8193",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5072383000127"
+ },
+ "cpf_responsavel": "***123486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5072383000127"
+ },
+ "nome": "ASSOCIACAO DOS MUNICIPIOS DO CIRCUITO TURISTICO PARQUE NACIONAL DA SERRA DO CIPO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1962850010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5072383000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5072383000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5072383000127",
+ "nome_responsavel": "AGNALDO JOSE DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3296-8193",
+ "cep": "30350540",
+ "endereco": "AV. RAJA GABAGLIA 2708 - SALA 121",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FF40A64F9B334FE73A909B51EBF39853675F3DBA",
+   "id": "FF40A64F9B334FE73A909B51EBF39853675F3DBA"
+  }
+ },
+ "id": 5072383000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

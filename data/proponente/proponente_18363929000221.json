@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.363.929\/0002-21",
+ "fax": "(31)3571-3020 (213)",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18363929000221"
+ },
+ "cpf_responsavel": "***923576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18363929000221"
+ },
+ "nome": "BRUMADINHO PREFEITURA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18363929000221"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18363929000221"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18363929000221",
+ "nome_responsavel": "GERALDO RODRIGUES DO CARMO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31)3571-3020 (213)",
+ "cep": "35460000",
+ "endereco": "RUA DR. VICTOR FREITAS 28",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/03E1BCD8C1DF76B2ECC57F4988DB99291EA2CBA6",
+   "id": "03E1BCD8C1DF76B2ECC57F4988DB99291EA2CBA6"
+  }
+ },
+ "id": 18363929000221,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.249.111\/0001-39",
+ "fax": "03132493825",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17249111000139"
+ },
+ "cpf_responsavel": "***483446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17249111000139"
+ },
+ "nome": "COOPERATIVA CENTRAL DOS PRODUTORES RURAIS DE MINAS GERAIS LTDA",
+ "inscricao_estadual": "0620041830058",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "4008770010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17249111000139"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17249111000139"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17249111000139",
+ "nome_responsavel": "RICARDO COTTA FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03132493426",
+ "cep": "30150150",
+ "endereco": "RUA ITAMBÉ Nº 40 FLORESTA BELO HORIZONTE MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3AC0B74EFDEBBB53F754CB6A1452DB626901F00A",
+   "id": "3AC0B74EFDEBBB53F754CB6A1452DB626901F00A"
+  }
+ },
+ "id": 17249111000139,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

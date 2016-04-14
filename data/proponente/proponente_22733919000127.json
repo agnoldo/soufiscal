@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.733.919\/0001-27",
+ "fax": "31 35391135",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22733919000127"
+ },
+ "cpf_responsavel": "***101626**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22733919000127"
+ },
+ "nome": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS",
+ "inscricao_estadual": "0010211520039",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22733919000127"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22733919000127"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22733919000127",
+ "nome_responsavel": "SONIA MARIA DE MELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35391155",
+ "cep": "32630440",
+ "endereco": "RUA SANTOS DUMONT 159",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/54819B2C3AF281BDDBBA2E2A2CEB500DB0FCFC58",
+   "id": "54819B2C3AF281BDDBBA2E2A2CEB500DB0FCFC58"
+  }
+ },
+ "id": 22733919000127,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

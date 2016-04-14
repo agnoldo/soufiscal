@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.042.858\/0001-99",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21042858000199"
+ },
+ "cpf_responsavel": "***785396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21042858000199"
+ },
+ "nome": "ASSOCIACAO DOS MORADORES DA COMUNIDADE DE SAPE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2268\/2007",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21042858000199"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21042858000199"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21042858000199",
+ "nome_responsavel": "CIRINEU FATIMA DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "( 31) 3547-2248 (Telefone Público da comunidade)",
+ "cep": "35460000",
+ "endereco": "LOC COMUNIDADE SAPÉ - S\/Nº",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D9BB1A03FFF819249D0B1474795D343538E9859F",
+   "id": "D9BB1A03FFF819249D0B1474795D343538E9859F"
+  }
+ },
+ "id": 21042858000199,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

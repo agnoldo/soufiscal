@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.701.872\/0001-17",
+ "fax": "31 3532 5100",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16701872000117"
+ },
+ "cpf_responsavel": "***815156**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16701872000117"
+ },
+ "nome": "SASFRA SERVICO ASSISTENCIAL SALAO DO ENCONTRO",
+ "inscricao_estadual": "067.357863.0003",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3664\/001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16701872000117"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16701872000117"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16701872000117",
+ "nome_responsavel": "NOEMI MACEDO GONTIJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 35324911",
+ "cep": "32630730",
+ "endereco": "RUA JOÃO DA SILVA SANTOS 34",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/DE44DAD6D7F786EF882A878F8A87077CC535D85B",
+   "id": "DE44DAD6D7F786EF882A878F8A87077CC535D85B"
+  }
+ },
+ "id": 16701872000117,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.000.203\/0001-58",
+ "fax": "031 31 36513809",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21000203000158"
+ },
+ "cpf_responsavel": "***484566**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21000203000158"
+ },
+ "nome": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1485",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21000203000158"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21000203000158"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21000203000158",
+ "nome_responsavel": "WILSON SALVADOR DA TRINDADE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 31 36513809",
+ "cep": "34800000",
+ "endereco": "AVENIDA CARLOS CRUZ Nº 443",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A12C0A718887F6BFCDF0CC4C03C6C2A67C1AE34B",
+   "id": "A12C0A718887F6BFCDF0CC4C03C6C2A67C1AE34B"
+  }
+ },
+ "id": 21000203000158,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

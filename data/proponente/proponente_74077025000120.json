@@ -1,0 +1,50 @@
+{
+ "cnpj": "74.077.025\/0001-20",
+ "fax": "031 3594-4366",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=74077025000120"
+ },
+ "cpf_responsavel": "***129648**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=74077025000120"
+ },
+ "nome": "EMPRESA MUNICIPAL DE TRANSPORTE E TRANSITO - TRANSBETIM",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=74077025000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=74077025000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/74077025000120",
+ "nome_responsavel": "SERGIO LUIZ MOREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "031 3594-4377",
+ "cep": "32510010",
+ "endereco": "AVENIDA GOVERNADOR VALADARES 838",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2E7D0D0B6D8D39ECD8D4EB53AEBF31DD4E325C0F",
+   "id": "2E7D0D0B6D8D39ECD8D4EB53AEBF31DD4E325C0F"
+  }
+ },
+ "id": 74077025000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

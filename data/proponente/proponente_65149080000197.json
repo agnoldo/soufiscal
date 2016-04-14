@@ -1,0 +1,50 @@
+{
+ "cnpj": "65.149.080\/0001-97",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=65149080000197"
+ },
+ "cpf_responsavel": "***417476**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=65149080000197"
+ },
+ "nome": "GRUPO DE APOIO A CRIANCA E AO ADOLESCENTE DA CABANA E REGIAO",
+ "inscricao_estadual": "1160750014",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=65149080000197"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=65149080000197"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/65149080000197",
+ "nome_responsavel": "CASSIA DE JESUS CONCEICAO SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 - 33867588",
+ "cep": "30512430",
+ "endereco": "RUA MONSENHOR PAULO BRASIL 241",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C9DC46D0BC3A715E3C23386625596ACED75CC2A8",
+   "id": "C9DC46D0BC3A715E3C23386625596ACED75CC2A8"
+  }
+ },
+ "id": 65149080000197,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

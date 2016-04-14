@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.363.978\/0001-83",
+ "fax": "(31)3573-1202",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18363978000183"
+ },
+ "cpf_responsavel": "***923766**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18363978000183"
+ },
+ "nome": "MUNICIPIO DE RIO MANSO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18363978000183"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18363978000183"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18363978000183",
+ "nome_responsavel": "NEIDE DE MORAIS MELO LUCENA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31)3573-1120",
+ "cep": "35525000",
+ "endereco": "PRAÇA FORTUNATO CAMPOS 46 - CENTRO - RIO MANSO\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/411C87FB81D469A707C21AB1A18E6F91844887C4",
+   "id": "411C87FB81D469A707C21AB1A18E6F91844887C4"
+  }
+ },
+ "id": 18363978000183,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13936",
+   "id": 13936
+  }
+ }
+}

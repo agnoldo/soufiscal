@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.573.746\/0001-33",
+ "fax": "(31) 84263170",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7573746000133"
+ },
+ "cpf_responsavel": "***870016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7573746000133"
+ },
+ "nome": "HABITAR - ASSOCIACAO COMUNITARIA HABITACIONAL POPULAR",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2660450018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7573746000133"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7573746000133"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7573746000133",
+ "nome_responsavel": "SOLANGE APARECIDA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3434-3763",
+ "cep": "31985380",
+ "endereco": "RUA CARLOS MARQUES FERREIRA 166 BAIRRO DOM SILVÉRIO - BELO HORIZONTE\/MG.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C65DE7924FBE29C17DA3F3D471B0CCB3082CDE51",
+   "id": "C65DE7924FBE29C17DA3F3D471B0CCB3082CDE51"
+  }
+ },
+ "id": 7573746000133,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

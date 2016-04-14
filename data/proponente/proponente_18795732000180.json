@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.795.732\/0001-80",
+ "fax": "31-3371-2507",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18795732000180"
+ },
+ "cpf_responsavel": "***143026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18795732000180"
+ },
+ "nome": "CAPRILEITE-ASSOC.DOS C.DE CAPRINOS E OVINOS DO EST. MG",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1939580010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18795732000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18795732000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18795732000180",
+ "nome_responsavel": "AURORA MARIA GUIMARAES GOUVEIA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3371-2507",
+ "cep": "30510050",
+ "endereco": "AV. AMAZONAS 6020 - PARQUE DE EXPOSIÇÕES BOLIVAR DE ANDRADE. BAIRRO GAMELEIRA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B26B5F7165C135D2D38184A2763AC4DA214BCF08",
+   "id": "B26B5F7165C135D2D38184A2763AC4DA214BCF08"
+  }
+ },
+ "id": 18795732000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

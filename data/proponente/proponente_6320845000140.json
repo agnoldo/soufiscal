@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.320.845\/0001-40",
+ "fax": "3134118796",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6320845000140"
+ },
+ "cpf_responsavel": "***626076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6320845000140"
+ },
+ "nome": "ASSOCIACAO DE PROMOCAO E INTEGRACAO PARA O DESENVOLVIMENTO ECONOMICO E ASSISTENCIA SOCIAL",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6320845000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6320845000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6320845000140",
+ "nome_responsavel": "SERGIO FERNANDES MARTINS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134128979",
+ "cep": "30750420",
+ "endereco": "RUA CONCEIÇÃO PINTO FERREIRA 275",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/271C5C428837872CE59313A3BFDB630351B94789",
+   "id": "271C5C428837872CE59313A3BFDB630351B94789"
+  }
+ },
+ "id": 6320845000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

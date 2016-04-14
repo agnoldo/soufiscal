@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.944.442\/0001-66",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21944442000166"
+ },
+ "cpf_responsavel": "***658126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21944442000166"
+ },
+ "nome": "INSTITUTO DE EDUCACAO ARCA DA ALIANCA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "01235450012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21944442000166"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21944442000166"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21944442000166",
+ "nome_responsavel": "ANDERSON LIRIO NUNES SALIBA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 87383027",
+ "cep": "31950100",
+ "endereco": "RUA JOSÉ ARCANJO SANTIAGO 330",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FA9110A154F095B31BE6C88A2D348FDA278FA17C",
+   "id": "FA9110A154F095B31BE6C88A2D348FDA278FA17C"
+  }
+ },
+ "id": 21944442000166,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

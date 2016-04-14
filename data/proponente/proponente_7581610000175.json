@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.581.610\/0001-75",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7581610000175"
+ },
+ "cpf_responsavel": "***364396**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7581610000175"
+ },
+ "nome": "COOPERATIVA DE TRABALHO UNIVERSIDADE LIVRE LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "196999\/001-2",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7581610000175"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7581610000175"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7581610000175",
+ "nome_responsavel": "DIMAS ANTONIO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 88115781",
+ "cep": "31010210",
+ "endereco": "RUA EURITA 768",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/EDE230D7CD6AB9090A37CE59D213C8B7387C0C10",
+   "id": "EDE230D7CD6AB9090A37CE59D213C8B7387C0C10"
+  }
+ },
+ "id": 7581610000175,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

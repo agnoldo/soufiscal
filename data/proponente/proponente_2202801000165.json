@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.202.801\/0001-65",
+ "fax": "31 3344-0393",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2202801000165"
+ },
+ "cpf_responsavel": "***975356**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2202801000165"
+ },
+ "nome": "SINDICATO DE EMPRESAS DE PROMOCAO, ORGANIZACAO E MONTAGEM DE FEIRAS, CONGRESSOS E EVENTOS DE MINAS GERAIS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2202801000165"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2202801000165"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2202801000165",
+ "nome_responsavel": "SARAH VAINTRAUB",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3296-5694",
+ "cep": "30380000",
+ "endereco": "AV PRUDENTE DE MORAIS 44 SALA 901",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B314C4C8A5DF0AD0070D6E5FA37D11C27F7D301E",
+   "id": "B314C4C8A5DF0AD0070D6E5FA37D11C27F7D301E"
+  }
+ },
+ "id": 2202801000165,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "11.242.925\/0001-65",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=11242925000165"
+ },
+ "cpf_responsavel": "***337726**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=11242925000165"
+ },
+ "nome": "ASSOCIACAO DINIZ JOAO RIBEIRO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=11242925000165"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=11242925000165"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/11242925000165",
+ "nome_responsavel": "FLAVIO DINIZ RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 86172670",
+ "cep": "32235000",
+ "endereco": "AV. BENJAMIN GUIMARÃES 815 SL02",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/36B42B913F839F9F07E9B1CFF7179CABABAF3CEC",
+   "id": "36B42B913F839F9F07E9B1CFF7179CABABAF3CEC"
+  }
+ },
+ "id": 11242925000165,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

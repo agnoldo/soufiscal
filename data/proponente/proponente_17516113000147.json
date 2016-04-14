@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.516.113\/0001-47",
+ "fax": "31 2108 7553",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17516113000147"
+ },
+ "cpf_responsavel": "***768076**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17516113000147"
+ },
+ "nome": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17516113000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17516113000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17516113000147",
+ "nome_responsavel": "ADALCLEVER RIBEIRO LOPES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31 2108 7098",
+ "cep": "30190921",
+ "endereco": "RUA RODRIGUES CALDAS 30",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/82F283EC5CD22B387785A337334C56083716B4DC",
+   "id": "82F283EC5CD22B387785A337334C56083716B4DC"
+  }
+ },
+ "id": 17516113000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

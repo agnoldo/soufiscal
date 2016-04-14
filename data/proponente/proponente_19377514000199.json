@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.377.514\/0001-99",
+ "fax": "31 73061113",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19377514000199"
+ },
+ "cpf_responsavel": "***537886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19377514000199"
+ },
+ "nome": "SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA E ENSINO SUPERIOR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19377514000199"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19377514000199"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19377514000199",
+ "nome_responsavel": "MIGUEL CORREA DA SILVA JUNIOR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "31  39155007",
+ "cep": "31630369",
+ "endereco": "RODOVIA PREFEITO AMERICO GIANETTI 4143 - ANDAR 8 - PRÉDIO GERAIS - SERRA VERDE - VENDA NOVA - MUNICÍPIO DE BELO HORIZONTE",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C1E600CB6339A7EF1312EEAD11319997B29A0188",
+   "id": "C1E600CB6339A7EF1312EEAD11319997B29A0188"
+  }
+ },
+ "id": 19377514000199,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

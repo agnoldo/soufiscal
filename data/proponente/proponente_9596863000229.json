@@ -1,0 +1,50 @@
+{
+ "cnpj": "09.596.863\/0002-29",
+ "fax": "34250619",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=9596863000229"
+ },
+ "cpf_responsavel": "***257576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=9596863000229"
+ },
+ "nome": "GRUPO DE APOIO SOCIAL BARREIRO - GASB",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02254780012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=9596863000229"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=9596863000229"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/9596863000229",
+ "nome_responsavel": "NILSON SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3197233850",
+ "cep": "31210120",
+ "endereco": "RUA ALÉM PARAIBA 181 - LAGOINHA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/5F95A2A4ACB78C7A68FEDD48BAB51BAB435019E5",
+   "id": "5F95A2A4ACB78C7A68FEDD48BAB51BAB435019E5"
+  }
+ },
+ "id": 9596863000229,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

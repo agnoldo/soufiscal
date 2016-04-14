@@ -1,0 +1,75 @@
+<ion-view>
+  <ion-nav-title>Comunidade</ion-nav-title>
+  <ion-content padding="true">
+    <ion-refresher class="spinner-balanced" on-refresh="reload()"></ion-refresher>
+    <div class="text-center">
+      <ion-spinner class="spinner-balanced" ng-show="loading"></ion-spinner>
+    </div>
+    <div ng-show="!loading">
+      <h3>{{usr.nome}}</h3>
+      <h4><b>{{usr.cidade}}</b></h4>
+      <br>
+
+      <div class="text-center">
+        <img ng-src="{{usr.imagem}}" class="image">
+      </div>
+
+      <br>
+      <div class="row">
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-trophy"></i></h1>
+            <h2>1239 pontos</h2>
+          </div>
+        </div>
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-ribbon-a"></i></h1>
+            <h2>#4 na sua cidade</h2>
+          </div>
+        </div>
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-ios-clock-outline"></i></h1>
+            <h2>Desde 03/01/2015</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-ios-camera-outline"></i></h1>
+            <h2>25 fotos, 3 vídeos</h2>
+          </div>
+        </div>
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-map"></i></h1>
+            <h2>3 estados, 15 cidades</h2>
+          </div>
+        </div>
+        <div class="col">
+          <div class="tile royal-bg tile-title">
+            <h1><i class="ion-android-alert"></i></h1>
+            <h2>49 comentários</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+  <ion-footer-bar class="bar-stable">
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading">
+        Tarefas
+        <i class="icon ion-speakerphone"></i>
+      </div>
+    </div>
+    <h1 class="title"></h1>
+    <div class="buttons">
+      <div class="button button-clear" ng-disabled="loading" ng-click="report()">
+        Ranking
+        <i class="icon ion-ribbon-b"></i>
+      </div>
+    </div>
+  </ion-footer-bar>
+</ion-view>

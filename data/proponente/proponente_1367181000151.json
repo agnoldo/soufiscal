@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.367.181\/0001-51",
+ "fax": "31- 3624-2049",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1367181000151"
+ },
+ "cpf_responsavel": "***250166**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1367181000151"
+ },
+ "nome": "ASSOC DE PAIS E AMIGOS DOS EXCEPCIONAIS DE RIB D NEVES",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1367181000151"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1367181000151"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1367181000151",
+ "nome_responsavel": "MARIA LUIZA SOARES STURZENEKER DE FARIA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3627-2191",
+ "cep": "33805500",
+ "endereco": "RUA EDUARDO MARIA DE SOUZA 41",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/09C510829A3888C0D05306B389F5B974C1ABF105",
+   "id": "09C510829A3888C0D05306B389F5B974C1ABF105"
+  }
+ },
+ "id": 1367181000151,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.240.678\/0001-53",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8240678000153"
+ },
+ "cpf_responsavel": "***473666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8240678000153"
+ },
+ "nome": "COOPERATIVA CINEMATOGRAFICA CENTRAL DE PRODUCOES LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8240678000153"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8240678000153"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8240678000153",
+ "nome_responsavel": "JULIANO MAGALHAES DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34179460",
+ "cep": "30850620",
+ "endereco": "RUA NELSON SOARES 87",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7AFD57522F12DC2966E9AE4368912EC3D93271F4",
+   "id": "7AFD57522F12DC2966E9AE4368912EC3D93271F4"
+  }
+ },
+ "id": 8240678000153,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

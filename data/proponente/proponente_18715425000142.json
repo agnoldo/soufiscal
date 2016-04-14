@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.715.425\/0001-42",
+ "fax": "(31) 3621-2560",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18715425000142"
+ },
+ "cpf_responsavel": "***757776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18715425000142"
+ },
+ "nome": "MUNICIPIO DE VESPASIANO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18715425000142"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18715425000142"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18715425000142",
+ "nome_responsavel": "CARLOS MOURA MURTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31) 3622-8781\/ 3621-1000 - R:209",
+ "cep": "33200000",
+ "endereco": "AVENIDA PREFEITO SEBASTIÃO FERNANDES 479 - CENTRO - VESPASIANO\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BCE311DA976BE42D5AC39F0225E2DB54885E49DD",
+   "id": "BCE311DA976BE42D5AC39F0225E2DB54885E49DD"
+  }
+ },
+ "id": 18715425000142,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

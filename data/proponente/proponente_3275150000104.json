@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.275.150\/0001-04",
+ "fax": "(31) 3241-4299",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3275150000104"
+ },
+ "cpf_responsavel": "***875676**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3275150000104"
+ },
+ "nome": "MEDICAL LINE COMERCIAL LTDA - ME",
+ "inscricao_estadual": "062040943.00-80",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "0.155.815\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3275150000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3275150000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3275150000104",
+ "nome_responsavel": "SERGIO RICARDO DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "(31)3241-4299",
+ "cep": "30230320",
+ "endereco": "RUA ITABERÁ 867",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F51EC680F75B7D325D1931550FBD528953A9A590",
+   "id": "F51EC680F75B7D325D1931550FBD528953A9A590"
+  }
+ },
+ "id": 3275150000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

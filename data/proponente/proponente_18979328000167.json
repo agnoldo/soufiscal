@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.979.328\/0001-67",
+ "fax": "31 36517952",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18979328000167"
+ },
+ "cpf_responsavel": "***833666**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18979328000167"
+ },
+ "nome": "SOCIEDADE CIVIL DE BENEFICENCIA CAETEENSE",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "5402890",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18979328000167"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18979328000167"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18979328000167",
+ "nome_responsavel": "ANTONIO MARIA CLARET CHAGAS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3651-7950",
+ "cep": "34800000",
+ "endereco": "RUA BARÃO DO RIO BRANCO 315 CENTRO.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/231FFCFEC78ABD56402D08B14A8F855BC73492B0",
+   "id": "231FFCFEC78ABD56402D08B14A8F855BC73492B0"
+  }
+ },
+ "id": 18979328000167,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.214.222\/0001-32",
+ "fax": "3135964206",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2214222000132"
+ },
+ "cpf_responsavel": "***998846**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2214222000132"
+ },
+ "nome": "ASSOC. BETINENSE AMPARO AO CIDADAO SITUACAO RISCO - ABACIR",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2214222000132"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2214222000132"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2214222000132",
+ "nome_responsavel": "SINARA RODRIGUES E SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135964206",
+ "cep": "32634170",
+ "endereco": "RUA ANTONIO PIO CARDOSO 115 VILA NOSSA SENHORA DAS GRAÇAS",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/075389DFE26085431F7227A4C6D0A7CA5BBC6EE0",
+   "id": "075389DFE26085431F7227A4C6D0A7CA5BBC6EE0"
+  }
+ },
+ "id": 2214222000132,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

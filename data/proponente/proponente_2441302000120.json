@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.441.302\/0001-20",
+ "fax": "(31)36712816",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2441302000120"
+ },
+ "cpf_responsavel": "***809576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2441302000120"
+ },
+ "nome": "COOPERATIVA DE RECICLAGEM E PRODUCAO ARTESANAL DOS APOSENTADOS E EMPREENDEDORES DE SABARA E CIDADES DE MINAS GERAIS",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "Isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2441302000120"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2441302000120"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2441302000120",
+ "nome_responsavel": "ANTONIO MARCELINO DE SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)36712816",
+ "cep": "34505360",
+ "endereco": "AV. PREFEITO VITOR FANTINI 209",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F1EB698376650667F8981C3A7B6CA0FE7CA41788",
+   "id": "F1EB698376650667F8981C3A7B6CA0FE7CA41788"
+  }
+ },
+ "id": 2441302000120,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13543",
+   "id": 13543
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.209.891\/0001-93",
+ "fax": "31 32388226",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17209891000193"
+ },
+ "cpf_responsavel": "***014256**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17209891000193"
+ },
+ "nome": "SANTA CASA DE MISERICORDIA DE BELO HORIZONTE",
+ "inscricao_estadual": "0628566470086",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3063680011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17209891000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17209891000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17209891000193",
+ "nome_responsavel": "SAULO LEVINDO COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32388332",
+ "cep": "30150221",
+ "endereco": "AV. FRANCISCO SALES 1.111",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/AAFA3D57A53336F3F4FCE3AC6AE1A039938CAE6E",
+   "id": "AAFA3D57A53336F3F4FCE3AC6AE1A039938CAE6E"
+  }
+ },
+ "id": 17209891000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

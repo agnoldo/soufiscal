@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.952.460\/0001-69",
+ "fax": "31-32914545",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7952460000169"
+ },
+ "cpf_responsavel": "***429606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7952460000169"
+ },
+ "nome": "DE PEITO ABERTO INCENTIVO AO ESPORTE, CULTURA E LAZER",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "210.697\/001-8",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7952460000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7952460000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7952460000169",
+ "nome_responsavel": "HAGMAR FREITAS MADEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32914545",
+ "cep": "31155480",
+ "endereco": "RUA PROFESSOR ANTÔNIO MÁRCIO N° 273",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BEEE6E95DE8EACE6D4310A2955DF4D696480A6C0",
+   "id": "BEEE6E95DE8EACE6D4310A2955DF4D696480A6C0"
+  }
+ },
+ "id": 7952460000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

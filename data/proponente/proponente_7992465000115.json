@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.992.465\/0001-15",
+ "fax": "31 325-9954",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7992465000115"
+ },
+ "cpf_responsavel": "***538006**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7992465000115"
+ },
+ "nome": "INSTITUTO DE CULTURAS E HUMANIDADES",
+ "inscricao_estadual": "203173001-5",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7992465000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7992465000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7992465000115",
+ "nome_responsavel": "ALEXANDRE DUARTE MICHALICK",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3281-7750",
+ "cep": "30315490",
+ "endereco": "RUA REPÚBLICA ARGENTINA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/A94C43699EE3C560740B61343D73D47A694F6CDE",
+   "id": "A94C43699EE3C560740B61343D73D47A694F6CDE"
+  }
+ },
+ "id": 7992465000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

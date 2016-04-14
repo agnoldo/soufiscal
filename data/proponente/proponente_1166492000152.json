@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.166.492\/0001-52",
+ "fax": "031 - 33198700",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1166492000152"
+ },
+ "cpf_responsavel": "***210806**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1166492000152"
+ },
+ "nome": "FUNDACAO DE APOIO E DESENVOLVIMENTO DA EDUCACAO, CIENCIA, E TECNOLOGIA DE MINAS GERAIS - FUNDACAO RENATO AZEREDO",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1281870010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1166492000152"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1166492000152"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1166492000152",
+ "nome_responsavel": "WANDA JULIA DE CARVALHO LACERDA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031 - 33198700",
+ "cep": "30421160",
+ "endereco": "RUA BEDRAN SAAD BEDRAN Nº 446",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B390F1323827D35B97FBE6DBF1524B330A0180A4",
+   "id": "B390F1323827D35B97FBE6DBF1524B330A0180A4"
+  }
+ },
+ "id": 1166492000152,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

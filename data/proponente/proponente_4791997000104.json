@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.791.997\/0001-04",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4791997000104"
+ },
+ "cpf_responsavel": "***700576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4791997000104"
+ },
+ "nome": "INSTITUTO PAULINE REICHSTUL DE EDUCACAO TECNOLOGICA, DIREITOS HUMANOS, ASSISTENCIA TECNICA E DEFESA DO MEIO AMBIENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4791997000104"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4791997000104"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4791997000104",
+ "nome_responsavel": "DANILO CEZAR TORRES CHAVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 2516-9801",
+ "cep": "31110000",
+ "endereco": "RUA CÉLIO DE CASTRO 347.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E7B654BFE2D74502D9339DDFF87E231F3004B88C",
+   "id": "E7B654BFE2D74502D9339DDFF87E231F3004B88C"
+  }
+ },
+ "id": 4791997000104,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

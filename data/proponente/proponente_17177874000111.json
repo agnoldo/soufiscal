@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.177.874\/0001-11",
+ "fax": "CAIXA POSTAL 99138",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17177874000111"
+ },
+ "cpf_responsavel": "***105406**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17177874000111"
+ },
+ "nome": "ASSOCIACAO BATISTA DE ASSISTENCIA SOCIAL",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1476890010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17177874000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17177874000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17177874000111",
+ "nome_responsavel": "IZAIAS DIMAS DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3596-2708",
+ "cep": "32623780",
+ "endereco": "RUA BRASÍLIA N°330",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/45C2A90DCCCA0679F15D566E072DB0D24B2D1784",
+   "id": "45C2A90DCCCA0679F15D566E072DB0D24B2D1784"
+  }
+ },
+ "id": 17177874000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

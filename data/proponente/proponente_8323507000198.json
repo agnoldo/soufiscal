@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.323.507\/0001-98",
+ "fax": "31-3222-3130",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8323507000198"
+ },
+ "cpf_responsavel": "***203736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8323507000198"
+ },
+ "nome": "ASSOCIACAO CULTURAL COMPANHIA PRODUZ ACAO CENICA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8323507000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8323507000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8323507000198",
+ "nome_responsavel": "CLAUDIO DE FREITAS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-32223130",
+ "cep": "33500000",
+ "endereco": "RUA CAMELIDAS 538 B. LAGOA DOS MARES",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2D5B385D814A1C926FE1CD29071658DD96630DD2",
+   "id": "2D5B385D814A1C926FE1CD29071658DD96630DD2"
+  }
+ },
+ "id": 8323507000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13780",
+   "id": 13780
+  }
+ }
+}

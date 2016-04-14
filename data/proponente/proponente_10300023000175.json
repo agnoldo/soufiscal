@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.300.023\/0001-75",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10300023000175"
+ },
+ "cpf_responsavel": "***886046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10300023000175"
+ },
+ "nome": "ASSOCIACAO AMIGOS DA BIBLIOTECA DE MATEUS LEME",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10300023000175"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10300023000175"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10300023000175",
+ "nome_responsavel": "HELIANE SOPHIA COELHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 353563902",
+ "cep": "35670000",
+ "endereco": "RUA TANCREDO NEVES Nº 125",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C38BD67336286CAD9DDEF7F8F6D4C6680A8243A9",
+   "id": "C38BD67336286CAD9DDEF7F8F6D4C6680A8243A9"
+  }
+ },
+ "id": 10300023000175,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11795",
+   "id": 11795
+  }
+ }
+}

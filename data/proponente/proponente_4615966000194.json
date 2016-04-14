@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.615.966\/0001-94",
+ "fax": "30720420",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4615966000194"
+ },
+ "cpf_responsavel": "***019516**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4615966000194"
+ },
+ "nome": "CMG DIAGNOSTICA LTDA",
+ "inscricao_estadual": "0621439170087",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "1700590011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4615966000194"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4615966000194"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4615966000194",
+ "nome_responsavel": "ANTONIO MARCOS DE SOUZA RODRIGUES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3134112484",
+ "cep": "30720420",
+ "endereco": "RUA AQUIDABAN 385",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F3802636D9B059CF8C55A35FFFA91FB31A778F29",
+   "id": "F3802636D9B059CF8C55A35FFFA91FB31A778F29"
+  }
+ },
+ "id": 4615966000194,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.465.596\/0001-93",
+ "fax": "3277-4663",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3465596000193"
+ },
+ "cpf_responsavel": "***685886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3465596000193"
+ },
+ "nome": "ASSOCIACAO CULTURAL DO ARQUIVO PUBLICO DA CIDADE DE BELO HORIZONTE - ACAP - BH",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1785540014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3465596000193"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3465596000193"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3465596000193",
+ "nome_responsavel": "MARIA MARTA MARTINS DE ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3277-4666",
+ "cep": "30150150",
+ "endereco": "RUA ITAMBÉ 227",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/02B389B25B8A33D4309044787AB1F54BFF3DF4F4",
+   "id": "02B389B25B8A33D4309044787AB1F54BFF3DF4F4"
+  }
+ },
+ "id": 3465596000193,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

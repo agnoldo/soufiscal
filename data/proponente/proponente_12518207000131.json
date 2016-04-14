@@ -1,0 +1,50 @@
+{
+ "cnpj": "12.518.207\/0001-31",
+ "fax": "(31)25672959",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=12518207000131"
+ },
+ "cpf_responsavel": "***780736**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=12518207000131"
+ },
+ "nome": "FUNDACAO NACIONAL DE MEDIACAO DE CONFLITOS SOCIAIS",
+ "inscricao_estadual": "insenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "720625800",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=12518207000131"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=12518207000131"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/12518207000131",
+ "nome_responsavel": "FERNANDA MARIA DIAS DE ARAUJO LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)25672949",
+ "cep": "32017230",
+ "endereco": "RUA DR. CASSIANO N.25\/3ºANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3B7A2849A8D54FC34EDC92C774D15F077190108D",
+   "id": "3B7A2849A8D54FC34EDC92C774D15F077190108D"
+  }
+ },
+ "id": 12518207000131,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

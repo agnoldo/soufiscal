@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.138.140\/0001-23",
+ "fax": "31-34895080",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17138140000123"
+ },
+ "cpf_responsavel": "***508086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17138140000123"
+ },
+ "nome": "EMPRESA DE PESQUISA AGROPECUARIA DE MINAS GERAIS - EPAMIG",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17138140000123"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17138140000123"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17138140000123",
+ "nome_responsavel": "RUI DA SILVA VERNEQUE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31-34895000",
+ "cep": "31170000",
+ "endereco": "AVENIDA JOSÉ CÂNDIDO DA SILVEIRA 1647",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/867033897792A14BFCE136950B0B756FCEAD2C65",
+   "id": "867033897792A14BFCE136950B0B756FCEAD2C65"
+  }
+ },
+ "id": 17138140000123,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

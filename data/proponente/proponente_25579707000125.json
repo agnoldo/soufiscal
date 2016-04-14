@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.579.707\/0001-25",
+ "fax": "31-3284-6322 - 3284-6323",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25579707000125"
+ },
+ "cpf_responsavel": "***520776**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25579707000125"
+ },
+ "nome": "FUNDACAO BIODIVERSITAS PARA A CONSERVACAO DA DIVERSIDADE BIOLOGICA",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "0371033\/001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25579707000125"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25579707000125"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25579707000125",
+ "nome_responsavel": "GLAUCIA MOREIRA DRUMMOND",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-3653-7794-7795-3284-6322",
+ "cep": "30320400",
+ "endereco": "AVENIDA CELSO PORFÍRIO MACHADO 1813",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/534172BE26991DEB86D739B668FF938867D1BA76",
+   "id": "534172BE26991DEB86D739B668FF938867D1BA76"
+  }
+ },
+ "id": 25579707000125,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

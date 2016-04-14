@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.247.905\/0001-14",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10247905000114"
+ },
+ "cpf_responsavel": "***327436**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10247905000114"
+ },
+ "nome": "DM PRESTACAO DE SERVICOS LTDA ME",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isenta",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10247905000114"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10247905000114"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10247905000114",
+ "nome_responsavel": "HAROLDO DE OLIVEIRA MARIANO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 86070183",
+ "cep": "30330190",
+ "endereco": "RUA PAULO SIMONI 100 \/ APTO 201 -",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C477C991160182C68164A0AA8F08DB02ADCDAD7C",
+   "id": "C477C991160182C68164A0AA8F08DB02ADCDAD7C"
+  }
+ },
+ "id": 10247905000114,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

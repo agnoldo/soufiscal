@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.491.820\/0001-11",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3491820000111"
+ },
+ "cpf_responsavel": "***067266**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3491820000111"
+ },
+ "nome": "LAR TERESA DE JESUS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "154.979\/001-0",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3491820000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3491820000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3491820000111",
+ "nome_responsavel": "MARIA MAGDALENA DE ARAUJO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132911330\/87116406",
+ "cep": "30110063",
+ "endereco": "AV DO CONTORNO 9297",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0A3FCFBB4ED5336112CDD6B3FEF96ACC322A439E",
+   "id": "0A3FCFBB4ED5336112CDD6B3FEF96ACC322A439E"
+  }
+ },
+ "id": 3491820000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

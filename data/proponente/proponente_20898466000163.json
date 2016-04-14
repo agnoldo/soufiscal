@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.898.466\/0001-63",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20898466000163"
+ },
+ "cpf_responsavel": "***163486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20898466000163"
+ },
+ "nome": "ASSOCIACAO ESPORTIVA DOS SERVIDORES DA CEDAF",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "ISENTA",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20898466000163"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20898466000163"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20898466000163",
+ "nome_responsavel": "JULIO CESAR DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 9774 5923",
+ "cep": "35690000",
+ "endereco": "AV. DOS FUNCIONARIOSSN",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1938F25D26A0533D47056AA96C978AF12F5FAEFF",
+   "id": "1938F25D26A0533D47056AA96C978AF12F5FAEFF"
+  }
+ },
+ "id": 20898466000163,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13810",
+   "id": 13810
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.444.385\/0001-49",
+ "fax": "31-3225-1659",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1444385000149"
+ },
+ "cpf_responsavel": "***336106**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1444385000149"
+ },
+ "nome": "FUNDACAO L'HERMITAGE",
+ "inscricao_estadual": "062.658.628.0086",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1444385000149"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1444385000149"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1444385000149",
+ "nome_responsavel": "MILTON CABRAL MOREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-2102-1885",
+ "cep": "30140072",
+ "endereco": "RUA AIMORÉS 2480 - 2º ANDAR",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D59194C59220DE34FB7DEE345F071BB2FC177E78",
+   "id": "D59194C59220DE34FB7DEE345F071BB2FC177E78"
+  }
+ },
+ "id": 1444385000149,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

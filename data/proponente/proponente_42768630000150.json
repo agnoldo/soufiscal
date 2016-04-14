@@ -1,0 +1,50 @@
+{
+ "cnpj": "42.768.630\/0001-50",
+ "fax": "31\/3482\/2572",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=42768630000150"
+ },
+ "cpf_responsavel": "***214486**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=42768630000150"
+ },
+ "nome": "SINDICATO EMPREG TEC TRABS ANAL SIST PROG OPER COMP MG",
+ "inscricao_estadual": "2011000070447759",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1668410017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=42768630000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=42768630000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/42768630000150",
+ "nome_responsavel": "WANDERSON ALVES DA SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/8888\/8869",
+ "cep": "31013150",
+ "endereco": "AVENIDA FLAVIO DOS SANTOS 444",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/3BE7E581CE921D099E3AF0AE63146E47C5FDE044",
+   "id": "3BE7E581CE921D099E3AF0AE63146E47C5FDE044"
+  }
+ },
+ "id": 42768630000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

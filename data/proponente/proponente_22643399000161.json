@@ -1,0 +1,50 @@
+{
+ "cnpj": "22.643.399\/0001-61",
+ "fax": "31 3288-0015",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=22643399000161"
+ },
+ "cpf_responsavel": "***308026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=22643399000161"
+ },
+ "nome": "ASSOCIACAO DE RESGATE DA DIGNIDADE HUMANA PROVIDENCIA DIVINA",
+ "inscricao_estadual": "0626163910043",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1250040016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=22643399000161"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=22643399000161"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/22643399000161",
+ "nome_responsavel": "JOSE GARCIA DE AGUIAR",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3228-9247",
+ "cep": "30390560",
+ "endereco": "RUA SANTA LUCIA 190",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E51E70EC1E7D85B9964A51D6DAC90BC4D2169C85",
+   "id": "E51E70EC1E7D85B9964A51D6DAC90BC4D2169C85"
+  }
+ },
+ "id": 22643399000161,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

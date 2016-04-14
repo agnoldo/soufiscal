@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.291.981\/0001-07",
+ "fax": "31 32138299",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2291981000107"
+ },
+ "cpf_responsavel": "***818576**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2291981000107"
+ },
+ "nome": "ASSOCIACAO IMAGEM COMUNITARIA - GRUPO DE PESQUISA E EXPERIMENTACAO EM MIDIAS DE ACESSO PUBLICO",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1790570015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2291981000107"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2291981000107"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2291981000107",
+ "nome_responsavel": "ELIAS PEREIRA DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 32243463",
+ "cep": "30150160",
+ "endereco": "RUA AQUILES LOBO 309",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1A198CCC30626ABE5D4D65D04CC1C453AD1B4BF4",
+   "id": "1A198CCC30626ABE5D4D65D04CC1C453AD1B4BF4"
+  }
+ },
+ "id": 2291981000107,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

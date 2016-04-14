@@ -1,0 +1,50 @@
+{
+ "cnpj": "38.737.938\/0001-61",
+ "fax": "31 3261 3889 ramal 206",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=38737938000161"
+ },
+ "cpf_responsavel": "***271065**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=38737938000161"
+ },
+ "nome": "CONSERVATION INTERNATIONAL DO BRASIL",
+ "inscricao_estadual": "0622237650046",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "3840970018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=38737938000161"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=38737938000161"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/38737938000161",
+ "nome_responsavel": "JOSE ALEXANDRE FELIZOLA DINIZ FILHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3261 3889",
+ "cep": "30380110",
+ "endereco": "RUA TENENTE RENATO CESAR 78",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/CB0BB2428306B9F4B1DF86302972E89A61BFF36F",
+   "id": "CB0BB2428306B9F4B1DF86302972E89A61BFF36F"
+  }
+ },
+ "id": 38737938000161,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

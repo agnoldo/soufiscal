@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.371.326\/0001-77",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13371326000177"
+ },
+ "cpf_responsavel": "***993336**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13371326000177"
+ },
+ "nome": "INSTITUTO SUSTENTAR DE RESPONSABILIDADE SOCIOAMBIENTAL",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2848340015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13371326000177"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13371326000177"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13371326000177",
+ "nome_responsavel": "JUSSARA MARIA SIMOES UTSCH",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 2515-3382\/ (31) 9149-4071",
+ "cep": "30112901",
+ "endereco": "AVENIDA GETÚLIO VARGAS 668. ANDAR S SALA 10.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B201C6C340B8F25EDC056EC1CFA1283D41E41202",
+   "id": "B201C6C340B8F25EDC056EC1CFA1283D41E41202"
+  }
+ },
+ "id": 13371326000177,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

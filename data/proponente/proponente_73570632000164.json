@@ -1,0 +1,50 @@
+{
+ "cnpj": "73.570.632\/0001-64",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=73570632000164"
+ },
+ "cpf_responsavel": "***712046**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=73570632000164"
+ },
+ "nome": "ASSOCIACAO DOS AMIGOS DO MUSEU MINEIRO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=73570632000164"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=73570632000164"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/73570632000164",
+ "nome_responsavel": "EDILANE MARIA DE ALMEIDA CARNEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "30882497",
+ "cep": "30130180",
+ "endereco": "AV JOÃO PINHEIRO 342",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/51659D7456B1B8654050F55C8458727A6651E40B",
+   "id": "51659D7456B1B8654050F55C8458727A6651E40B"
+  }
+ },
+ "id": 73570632000164,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

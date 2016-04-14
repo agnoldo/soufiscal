@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.337.977\/0001-48",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7337977000148"
+ },
+ "cpf_responsavel": "***081686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7337977000148"
+ },
+ "nome": "GEONATURE SERVICOS EM MEIO AMBIENTE LTDA - EPP",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7337977000148"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7337977000148"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7337977000148",
+ "nome_responsavel": "MAURA BARTOLOZZI FERREIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132269144",
+ "cep": "30350577",
+ "endereco": "AVENIDA RAJA GABAGLIA 4055\/302",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/95FCB0020D127588BCC9FAC850B37D0DFA13BA7C",
+   "id": "95FCB0020D127588BCC9FAC850B37D0DFA13BA7C"
+  }
+ },
+ "id": 7337977000148,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

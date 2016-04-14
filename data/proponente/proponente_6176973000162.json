@@ -1,0 +1,50 @@
+{
+ "cnpj": "06.176.973\/0001-62",
+ "fax": "31 3224-8183",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=6176973000162"
+ },
+ "cpf_responsavel": "***025555**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=6176973000162"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE GESTAO SOCIAL",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02618520011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=6176973000162"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=6176973000162"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/6176973000162",
+ "nome_responsavel": "GILSON DE CARVALHO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3224-8183",
+ "cep": "30180902",
+ "endereco": "AV. AMAZONAS Nº 115 SALA 1.714 CENTRO BELO HORIZONTE-MG CEP 30.180-902.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/608993742A01912DF73BDBC4D5CAA73AB98079C1",
+   "id": "608993742A01912DF73BDBC4D5CAA73AB98079C1"
+  }
+ },
+ "id": 6176973000162,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

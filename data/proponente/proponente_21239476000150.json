@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.239.476\/0001-50",
+ "fax": "31-7164-5113",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21239476000150"
+ },
+ "cpf_responsavel": "***919816**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21239476000150"
+ },
+ "nome": "ASSOCIACAO DE RESGATE VOLUNTARIO EM RODOVIAS GUARDIOES DO ASFALTO RESGATE - GARV",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21239476000150"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21239476000150"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21239476000150",
+ "nome_responsavel": "TIAGO FERNANDES ROSA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3173637136",
+ "cep": "33820070",
+ "endereco": "RUA ANA GRANATO DE FARIA 497 CASA F",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F07CB08265C985001BA0E5B7732FF6961A82193E",
+   "id": "F07CB08265C985001BA0E5B7732FF6961A82193E"
+  }
+ },
+ "id": 21239476000150,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

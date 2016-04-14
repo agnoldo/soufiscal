@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.869.107\/0001-69",
+ "fax": "(31)34946414",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3869107000169"
+ },
+ "cpf_responsavel": "***067976**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3869107000169"
+ },
+ "nome": "ASSOCIACAO DAS MAES CHEFE DE FAMILIA DO ESTADO DE MINAS GERAIS",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2009690014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3869107000169"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3869107000169"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3869107000169",
+ "nome_responsavel": "LUCIA HELENA DE MELO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3494-6414",
+ "cep": "31750560",
+ "endereco": "RUA ARMANDO RIBEIRO DOS SANTOS 331",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B5C4B0FF39D8F19D549A6F7E1DABF6D1CA090D92",
+   "id": "B5C4B0FF39D8F19D549A6F7E1DABF6D1CA090D92"
+  }
+ },
+ "id": 3869107000169,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

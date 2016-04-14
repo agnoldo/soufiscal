@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.794.244\/0002-86",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8794244000286"
+ },
+ "cpf_responsavel": "***044016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8794244000286"
+ },
+ "nome": "ASSOCIACAO CRESCIR-SIQUEM\/CIDADE DE REFUGIO",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8794244000286"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8794244000286"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8794244000286",
+ "nome_responsavel": "WANDA REGINA DOS REIS MARTINS DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3135316423",
+ "cep": "32682500",
+ "endereco": "RUA DO DOURADO Nº60",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BC857700BB84934C8C513DE8B058422916167681",
+   "id": "BC857700BB84934C8C513DE8B058422916167681"
+  }
+ },
+ "id": 8794244000286,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15998",
+   "id": 15998
+  }
+ }
+}

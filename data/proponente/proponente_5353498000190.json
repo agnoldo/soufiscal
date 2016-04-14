@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.353.498\/0001-90",
+ "fax": "(31) 3457-4660",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5353498000190"
+ },
+ "cpf_responsavel": "***825026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5353498000190"
+ },
+ "nome": "TERRA DA SOBRIEDADE - ASSOCIACAO DE PREVENCAO RECUPERACAO E REINSERCAO DO DEPENDENTE QUIMICO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5353498000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5353498000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5353498000190",
+ "nome_responsavel": "RONALDO GUILHERME VITELLI VIANA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3452-7622",
+ "cep": "31515130",
+ "endereco": "RUA DAS PEDRINHAS 342",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2B7DF983CBC0C950DE78BD1B65A84F1123B70388",
+   "id": "2B7DF983CBC0C950DE78BD1B65A84F1123B70388"
+  }
+ },
+ "id": 5353498000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

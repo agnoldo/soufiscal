@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.466.087\/0001-18",
+ "fax": "31 25160086",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25466087000118"
+ },
+ "cpf_responsavel": "***438836**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25466087000118"
+ },
+ "nome": "INSTITUTO DE COOPERACAO E EDUCACAO AO DESENVOLVIMENTO",
+ "inscricao_estadual": "ISENTA",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2189410015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25466087000118"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25466087000118"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25466087000118",
+ "nome_responsavel": "ERLIA ESTEVES BENEVIDES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 25160085",
+ "cep": "31170710",
+ "endereco": "RUA ARTUR DE SÁ 131 SALA 304",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4498FEC0E2C5D4EAFA89EE4B31D46A17BD0403A2",
+   "id": "4498FEC0E2C5D4EAFA89EE4B31D46A17BD0403A2"
+  }
+ },
+ "id": 25466087000118,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

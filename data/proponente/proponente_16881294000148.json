@@ -1,0 +1,50 @@
+{
+ "cnpj": "16.881.294\/0001-48",
+ "fax": "31 34629221",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=16881294000148"
+ },
+ "cpf_responsavel": "***852606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=16881294000148"
+ },
+ "nome": "ASSOCIACAO FAMILIA DE CANA",
+ "inscricao_estadual": "0623559290065",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1171720014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=16881294000148"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=16881294000148"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/16881294000148",
+ "nome_responsavel": "JOSE AFONSO PINTO DE ASSIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 34649221",
+ "cep": "30720360",
+ "endereco": "RUA HENRIQUE GORCEIX Nº 80",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E3E1BBB168A8E7E1FC9C19E6F618EF4599B784DF",
+   "id": "E3E1BBB168A8E7E1FC9C19E6F618EF4599B784DF"
+  }
+ },
+ "id": 16881294000148,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

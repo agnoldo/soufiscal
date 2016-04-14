@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.105.833\/0001-82",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18105833000182"
+ },
+ "cpf_responsavel": "***922796**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18105833000182"
+ },
+ "nome": "EMEQUE EMPRESA MINEIRA DE EQUIPAMENTOS LTDA - EPP",
+ "inscricao_estadual": "0623935090004",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "03428160012",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18105833000182"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18105833000182"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18105833000182",
+ "nome_responsavel": "ICARO RICARDO CASTRO PIANA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "3134498800",
+ "cep": "31130152",
+ "endereco": "RUA ITAPETINGA 806",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/38B4A8419CCEFEC5EF4BABC2A3F42DCB537BC598",
+   "id": "38B4A8419CCEFEC5EF4BABC2A3F42DCB537BC598"
+  }
+ },
+ "id": 18105833000182,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

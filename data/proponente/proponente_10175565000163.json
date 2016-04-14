@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.175.565\/0001-63",
+ "fax": "31 3318-5145",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10175565000163"
+ },
+ "cpf_responsavel": "***776686**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10175565000163"
+ },
+ "nome": "INSTITUTO DE DESENVOLVIMENTO E SUPERACAO - INSTITUTO SUPERAR",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2272250011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10175565000163"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10175565000163"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10175565000163",
+ "nome_responsavel": "MARIA APARECIDA FIALHO DUARTE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3434-6970",
+ "cep": "31842330",
+ "endereco": "RUA NELSON HUNGRIA 330",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/857DBA58EF93EB5FB6DA12E18691B6ABDF609A75",
+   "id": "857DBA58EF93EB5FB6DA12E18691B6ABDF609A75"
+  }
+ },
+ "id": 10175565000163,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

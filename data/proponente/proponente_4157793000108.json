@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.157.793\/0001-08",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4157793000108"
+ },
+ "cpf_responsavel": "***104086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4157793000108"
+ },
+ "nome": "ASSOCIACAO DOS PRODUTORES RURAIS DE BRUMADINHO",
+ "inscricao_estadual": "00153357850097",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "29112011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4157793000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4157793000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4157793000108",
+ "nome_responsavel": "MARCELO DE JESUS MORAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-84338800",
+ "cep": "35460000",
+ "endereco": "RUA JUVENTINA BRANDÃO 441 - BRUMADINHO",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/07620A41A089B6F13BA9FFA81C004C8A2A8230D1",
+   "id": "07620A41A089B6F13BA9FFA81C004C8A2A8230D1"
+  }
+ },
+ "id": 4157793000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15681",
+   "id": 15681
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.435.923\/0001-15",
+ "fax": "031\/32279963",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7435923000115"
+ },
+ "cpf_responsavel": "***298526**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7435923000115"
+ },
+ "nome": "PONTE ENTRE CULTURAS-MINAS GERAIS (PEC-MG)",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "197.203\/001-6",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7435923000115"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7435923000115"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7435923000115",
+ "nome_responsavel": "GIUSI ZAMANA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/32279963",
+ "cep": "30220270",
+ "endereco": "RUA ORIENTE 633",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FFE2ECC6FEE2F3EA89AB7B6E95F2D6C8F540AB5E",
+   "id": "FFE2ECC6FEE2F3EA89AB7B6E95F2D6C8F540AB5E"
+  }
+ },
+ "id": 7435923000115,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

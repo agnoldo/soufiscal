@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.888.031\/0002-08",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3888031000208"
+ },
+ "cpf_responsavel": "***340811**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3888031000208"
+ },
+ "nome": "CENTRO DE REFERENCIA A CRIANCA E AO ADOLESCENTE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "68.460\/01-5",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3888031000208"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3888031000208"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3888031000208",
+ "nome_responsavel": "EVANDO BATISTA DE MORAIS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3133922217",
+ "cep": "32060502",
+ "endereco": "RUA JOSÉ AUGUSTO DINIZ 150",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/1E434B8DDA830674F74B59134C5755BF0167B2F1",
+   "id": "1E434B8DDA830674F74B59134C5755BF0167B2F1"
+  }
+ },
+ "id": 3888031000208,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16749",
+   "id": 16749
+  }
+ }
+}

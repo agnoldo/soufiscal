@@ -1,0 +1,50 @@
+{
+ "cnpj": "02.978.827\/0001-08",
+ "fax": "31-34392004",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=2978827000108"
+ },
+ "cpf_responsavel": "***821126**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=2978827000108"
+ },
+ "nome": "FUNDACAO CARDIOVASCULAR SAO FRANCISCO DE ASSIS - F.C.S.F.A.",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1816070014",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=2978827000108"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=2978827000108"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/2978827000108",
+ "nome_responsavel": "ELAINE MARIA GOMES DE ALBUQUERQUE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-34393000",
+ "cep": "31530000",
+ "endereco": "RUA JOSÉ DO PATROCINIO522 SALA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/4CD21AB78A04CE2B90BB8DCEDB175EA9C498EFCF",
+   "id": "4CD21AB78A04CE2B90BB8DCEDB175EA9C498EFCF"
+  }
+ },
+ "id": 2978827000108,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "18.314.617\/0001-47",
+ "fax": "31\/3713-1420",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=18314617000147"
+ },
+ "cpf_responsavel": "***816886**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=18314617000147"
+ },
+ "nome": "MUNICIPIO DE CAPIM BRANCO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=18314617000147"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=18314617000147"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/18314617000147",
+ "nome_responsavel": "ROMAR GONCALVES RIBEIRO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31\/3713-1420\/22",
+ "cep": "35730000",
+ "endereco": "PRAÇA JORGE FERREIRA PINTO N°20",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/19C52A18A67F0250619AA9918EE0F5BF7145244F",
+   "id": "19C52A18A67F0250619AA9918EE0F5BF7145244F"
+  }
+ },
+ "id": 18314617000147,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/13764",
+   "id": 13764
+  }
+ }
+}

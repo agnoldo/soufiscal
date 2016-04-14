@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.029.147\/0001-77",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1029147000177"
+ },
+ "cpf_responsavel": "***564016**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1029147000177"
+ },
+ "nome": "ASPAV - ACAO SOCIAL DA PAROQUIA DE VESPASIANO",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1029147000177"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1029147000177"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1029147000177",
+ "nome_responsavel": "ROGERIO PINTO DOS SANTOS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31) 3621-2722",
+ "cep": "33200000",
+ "endereco": "RUA DR. EMÍLIO VASCONCELOS COSTA 241",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/52927BED6DBA7F178FB45391B3A1425B3623AD90",
+   "id": "52927BED6DBA7F178FB45391B3A1425B3623AD90"
+  }
+ },
+ "id": 1029147000177,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12538",
+   "id": 12538
+  }
+ }
+}

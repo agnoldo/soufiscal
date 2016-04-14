@@ -1,0 +1,79 @@
+{
+"nome": "Região Metropolitana de Belo Horizonte",
+"sigla": "RMBH",
+"uf": "MG",
+"cidade_principal":"BELO HORIZONTE",
+"id_cidade_principal":16100,
+  "metadados":{
+    "total_registros":34
+  },
+  "municipios":[
+{"nome": "SAO JOAQUIM DE BICAS", "cod_siconv": 11484, "href": "http://api.convenios.gov.br/siconv/id/municipio/11484", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11484"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11484},
+
+{"nome": "SARZEDO", "cod_siconv": 11488, "href": "http://api.convenios.gov.br/siconv/id/municipio/11488", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11488"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11488},
+
+{"nome": "JUATUBA", "cod_siconv": 11665, "href": "http://api.convenios.gov.br/siconv/id/municipio/11665", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11665"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11665},
+
+{"nome": "JABOTICATUBAS", "cod_siconv": 11772, "href": "http://api.convenios.gov.br/siconv/id/municipio/11772", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11772"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11772},
+
+{"nome": "NOVA UNIAO", "cod_siconv": 11778, "href": "http://api.convenios.gov.br/siconv/id/municipio/11778", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11778"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11778},
+
+{"nome": "MATEUS LEME", "cod_siconv": 11795, "href": "http://api.convenios.gov.br/siconv/id/municipio/11795", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11795"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11795},
+
+{"nome": "MATOZINHOS", "cod_siconv": 11797, "href": "http://api.convenios.gov.br/siconv/id/municipio/11797", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11797"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11797},
+
+{"nome": "CAETE", "cod_siconv": 12019, "href": "http://api.convenios.gov.br/siconv/id/municipio/12019", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12019"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12019},
+
+{"nome": "BALDIM", "cod_siconv": 12022, "href": "http://api.convenios.gov.br/siconv/id/municipio/12022", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12022"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12022},
+
+{"nome": "ESMERALDAS", "cod_siconv": 12102, "href": "http://api.convenios.gov.br/siconv/id/municipio/12102", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12102"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12102},
+
+{"nome": "RAPOSOS", "cod_siconv": 12470, "href": "http://api.convenios.gov.br/siconv/id/municipio/12470", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12470"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12470},
+
+{"nome": "RIO ACIMA", "cod_siconv": 12475, "href": "http://api.convenios.gov.br/siconv/id/municipio/12475", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12475"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12475},
+
+{"nome": "VESPASIANO", "cod_siconv": 12538, "href": "http://api.convenios.gov.br/siconv/id/municipio/12538", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=12538"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 12538},
+
+{"nome": "IBIRITE", "cod_siconv": 13510, "href": "http://api.convenios.gov.br/siconv/id/municipio/13510", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13510"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13510},
+
+{"nome": "SABARA", "cod_siconv": 13543, "href": "http://api.convenios.gov.br/siconv/id/municipio/13543", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13543"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13543},
+
+{"nome": "CAPIM BRANCO", "cod_siconv": 13764, "href": "http://api.convenios.gov.br/siconv/id/municipio/13764", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13764"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13764},
+
+{"nome": "CONFINS", "cod_siconv": 13780, "href": "http://api.convenios.gov.br/siconv/id/municipio/13780", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13780"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13780},
+
+{"nome": "FLORESTAL", "cod_siconv": 13810, "href": "http://api.convenios.gov.br/siconv/id/municipio/13810", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13810"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13810},
+
+{"nome": "ITAGUARA", "cod_siconv": 13839, "href": "http://api.convenios.gov.br/siconv/id/municipio/13839", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13839"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13839},
+
+{"nome": "ITATIAIUCU", "cod_siconv": 13844, "href": "http://api.convenios.gov.br/siconv/id/municipio/13844", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13844"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13844},
+
+{"nome": "LAGOA SANTA", "cod_siconv": 13865, "href": "http://api.convenios.gov.br/siconv/id/municipio/13865", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13865"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13865},
+
+{"nome": "MARIO CAMPOS", "cod_siconv": 13877, "href": "http://api.convenios.gov.br/siconv/id/municipio/13877", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13877"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13877},
+
+{"nome": "RIO MANSO", "cod_siconv": 13936, "href": "http://api.convenios.gov.br/siconv/id/municipio/13936", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13936"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13936},
+
+{"nome": "SANTA LUZIA", "cod_siconv": 13950, "href": "http://api.convenios.gov.br/siconv/id/municipio/13950", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=13950"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 13950},
+
+{"nome": "TAQUARACU DE MINAS", "cod_siconv": 14000, "href": "http://api.convenios.gov.br/siconv/id/municipio/14000", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=14000"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 14000},
+
+{"nome": "NOVA LIMA", "cod_siconv": 14408, "href": "http://api.convenios.gov.br/siconv/id/municipio/14408", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=14408"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 14408},
+
+{"nome": "IGARAPE", "cod_siconv": 15091, "href": "http://api.convenios.gov.br/siconv/id/municipio/15091", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=15091"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 15091},
+
+{"nome": "SAO JOSE DA LAPA", "cod_siconv": 15303, "href": "http://api.convenios.gov.br/siconv/id/municipio/15303", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=15303"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 15303},
+
+{"nome": "BRUMADINHO", "cod_siconv": 15681, "href": "http://api.convenios.gov.br/siconv/id/municipio/15681", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=15681"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 15681},
+
+{"nome": "BETIM", "cod_siconv": 15998, "href": "http://api.convenios.gov.br/siconv/id/municipio/15998", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=15998"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 15998},
+
+{"nome": "BELO HORIZONTE", "cod_siconv": 16100, "href": "http://api.convenios.gov.br/siconv/id/municipio/16100", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=16100"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 16100},
+
+{"nome": "RIBEIRAO DAS NEVES", "cod_siconv": 16358, "href": "http://api.convenios.gov.br/siconv/id/municipio/16358", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=16358"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 16358},
+
+{"nome": "PEDRO LEOPOLDO", "cod_siconv": 16709, "href": "http://api.convenios.gov.br/siconv/id/municipio/16709", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=16709"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 16709},
+
+{"nome": "CONTAGEM", "cod_siconv": 16749, "href": "http://api.convenios.gov.br/siconv/id/municipio/16749", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=16749"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 16749}]
+
+}

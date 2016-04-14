@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.916.897\/0001-11",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5916897000111"
+ },
+ "cpf_responsavel": "***083446**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5916897000111"
+ },
+ "nome": "APAIG - ASSOCIACAO DOS CATADORES PARCEIROS DO MEIO AMBIENTE DE IGARAPE\/MG",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "isento",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5916897000111"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5916897000111"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5916897000111",
+ "nome_responsavel": "LEIDIANE COSTA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3534.3346",
+ "cep": "32900000",
+ "endereco": "RUA ANTONIO MARÇAL RIBEIRO Nº 55.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/E7AFB9D0E373AD9B7A348B3D0E138B9CB7B34193",
+   "id": "E7AFB9D0E373AD9B7A348B3D0E138B9CB7B34193"
+  }
+ },
+ "id": 5916897000111,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/15091",
+   "id": 15091
+  }
+ }
+}

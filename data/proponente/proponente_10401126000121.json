@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.401.126\/0001-21",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10401126000121"
+ },
+ "cpf_responsavel": "***664146**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10401126000121"
+ },
+ "nome": "ASSOCIACAO RENOVAR - ARE",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2329360015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10401126000121"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10401126000121"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10401126000121",
+ "nome_responsavel": "GLADSTON LEVY PORTELA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132138954",
+ "cep": "30160011",
+ "endereco": "RUA DA BAHIA1148 10 ANDAR SAL 1029",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/0E23B24C769CD7AA7F6C841021C3B83234BEDE58",
+   "id": "0E23B24C769CD7AA7F6C841021C3B83234BEDE58"
+  }
+ },
+ "id": 10401126000121,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

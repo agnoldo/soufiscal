@@ -1,0 +1,50 @@
+{
+ "cnpj": "05.027.450\/0001-91",
+ "fax": "(31)3226-6866",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=5027450000191"
+ },
+ "cpf_responsavel": "***474286**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=5027450000191"
+ },
+ "nome": "GRUPO ARTES\/EVENTOS MULTIMEDIA",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "175014001x",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=5027450000191"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=5027450000191"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/5027450000191",
+ "nome_responsavel": "IONE TIBURCIO MEDEIROS",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3221-6200",
+ "cep": "31210120",
+ "endereco": "RUA ALÉM PARAÍBA 920A.",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/2CB5E4EBAD079F4AF564B672FBFCE662D3ED4A4D",
+   "id": "2CB5E4EBAD079F4AF564B672FBFCE662D3ED4A4D"
+  }
+ },
+ "id": 5027450000191,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

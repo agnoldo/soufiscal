@@ -1,0 +1,50 @@
+{
+ "cnpj": "13.025.354\/0001-32",
+ "fax": "31-34441153",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=13025354000132"
+ },
+ "cpf_responsavel": "***804826**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=13025354000132"
+ },
+ "nome": "FUNDACAO HOSPITALAR SAO FRANCISCO DE ASSIS - FHSFA",
+ "inscricao_estadual": "Isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2784830017",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=13025354000132"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=13025354000132"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/13025354000132",
+ "nome_responsavel": "FLAVIO DE ALMEIDA AMARAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31-21261535",
+ "cep": "31110580",
+ "endereco": "R. ITAMARACA 535",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7F52181309884E4A18CF3ECB157A42F5AB64F54F",
+   "id": "7F52181309884E4A18CF3ECB157A42F5AB64F54F"
+  }
+ },
+ "id": 13025354000132,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

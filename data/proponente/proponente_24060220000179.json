@@ -1,0 +1,50 @@
+{
+ "cnpj": "24.060.220\/0001-79",
+ "fax": "3132872526",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=24060220000179"
+ },
+ "cpf_responsavel": "***271746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=24060220000179"
+ },
+ "nome": "ASSOCIACAO MIN PAES E AMIGOS PREV E RECUP ABUSO DROGAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=24060220000179"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=24060220000179"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/24060220000179",
+ "nome_responsavel": "MARCIO ANTONIO GOMES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3132872471",
+ "cep": "30330130",
+ "endereco": "RUA CRISTINA 786",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/FBD94D7863F320815923D20D8ECB1AE9889112CB",
+   "id": "FBD94D7863F320815923D20D8ECB1AE9889112CB"
+  }
+ },
+ "id": 24060220000179,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

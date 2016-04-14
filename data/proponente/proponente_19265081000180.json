@@ -1,0 +1,50 @@
+{
+ "cnpj": "19.265.081\/0001-80",
+ "fax": "3199569315",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=19265081000180"
+ },
+ "cpf_responsavel": "***196906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=19265081000180"
+ },
+ "nome": "ASSOCIACAO DA RESISTENCIA CULTURAL AFRO-BRASILEIRA CASA DE CARIDADE PAI JACOB DO ORIENTE",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=19265081000180"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=19265081000180"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/19265081000180",
+ "nome_responsavel": "RICARDO DE MOURA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3186075125",
+ "cep": "31210320",
+ "endereco": "RUA FAGUNDES VARELA Nº 99 - BAIRRO:",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C09DCF465F3DA9150323394BCD280DD3B5117B2B",
+   "id": "C09DCF465F3DA9150323394BCD280DD3B5117B2B"
+  }
+ },
+ "id": 19265081000180,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

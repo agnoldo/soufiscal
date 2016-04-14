@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.155.379\/0001-89",
+ "fax": "(31)9241-5554",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21155379000189"
+ },
+ "cpf_responsavel": "***519026**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21155379000189"
+ },
+ "nome": "CAVALHADA NOSSA SENHORA NAZARETH",
+ "inscricao_estadual": "isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "5610380",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21155379000189"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21155379000189"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21155379000189",
+ "nome_responsavel": "NILDO JESUS LEAL",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "(31)3652-2115",
+ "cep": "34800000",
+ "endereco": "RUA RAIMUNDO TELES DE MELO 54",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/00A1F1CAD8867C04FED83685D906DCD7FEB7893A",
+   "id": "00A1F1CAD8867C04FED83685D906DCD7FEB7893A"
+  }
+ },
+ "id": 21155379000189,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/12019",
+   "id": 12019
+  }
+ }
+}

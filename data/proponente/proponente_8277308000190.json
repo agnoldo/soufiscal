@@ -1,0 +1,50 @@
+{
+ "cnpj": "08.277.308\/0001-90",
+ "fax": "31 3295-7270",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=8277308000190"
+ },
+ "cpf_responsavel": "***705856**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=8277308000190"
+ },
+ "nome": "COOPERATIVA DE RECICLAGEM DOS CATADORES DA REDE DE ECONOMIA SOLIDARIA - CATAUNIDOS",
+ "inscricao_estadual": "001028164.00-17",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "02151630018",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=8277308000190"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=8277308000190"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/8277308000190",
+ "nome_responsavel": "MARIA MADALENA RODRIGUES DUARTE LIMA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3295-7270",
+ "cep": "31774410",
+ "endereco": "RUA ALBERTO GOMES DA FONSECA N°08",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/C4290ACE6273D4A64FC299690C5C254F75739209",
+   "id": "C4290ACE6273D4A64FC299690C5C254F75739209"
+  }
+ },
+ "id": 8277308000190,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

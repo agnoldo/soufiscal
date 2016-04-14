@@ -1,0 +1,50 @@
+{
+ "cnpj": "20.471.918\/0001-26",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=20471918000126"
+ },
+ "cpf_responsavel": "***622606**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=20471918000126"
+ },
+ "nome": "FUND.MUNIC.DE CULT.ESPORTES E TURISMO PADRE MESSIAS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=20471918000126"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=20471918000126"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/20471918000126",
+ "nome_responsavel": "ARLETE RITA NOGUEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "(31) 3683.1330",
+ "cep": "35830000",
+ "endereco": "PRAÇA NOSSA SENHORA DA CONCEIÇÃO 38",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6C0F4610988CBAE68A604433409CEC9A461A49E9",
+   "id": "6C0F4610988CBAE68A604433409CEC9A461A49E9"
+  }
+ },
+ "id": 20471918000126,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/11772",
+   "id": 11772
+  }
+ }
+}

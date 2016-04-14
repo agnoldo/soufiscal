@@ -1,0 +1,50 @@
+{
+ "cnpj": "04.853.455\/0001-00",
+ "fax": "31\/3263-1604",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=4853455000100"
+ },
+ "cpf_responsavel": "***624116**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=4853455000100"
+ },
+ "nome": "FUNDACAO GUIMARAES ROSA",
+ "inscricao_estadual": "00108820200-64",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "171551\/001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=4853455000100"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=4853455000100"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/4853455000100",
+ "nome_responsavel": "ALVARO ANTONIO NICOLAU",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31\/3263-1600",
+ "cep": "30130141",
+ "endereco": "RUA PARAÍBA 1441",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/6CF061EF6417F0D6BFAA76BF52CDC8819F23A722",
+   "id": "6CF061EF6417F0D6BFAA76BF52CDC8819F23A722"
+  }
+ },
+ "id": 4853455000100,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

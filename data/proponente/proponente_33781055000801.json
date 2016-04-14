@@ -1,0 +1,50 @@
+{
+ "cnpj": "33.781.055\/0008-01",
+ "fax": "031\/3295-3115",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=33781055000801"
+ },
+ "cpf_responsavel": "***830566**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=33781055000801"
+ },
+ "nome": "FUNDACAO OSWALDO CRUZ",
+ "inscricao_estadual": "isenta",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "418946\/001-9",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=33781055000801"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=33781055000801"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/33781055000801",
+ "nome_responsavel": "RODRIGO CORREA DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "031\/33497724",
+ "cep": "30190002",
+ "endereco": "AV. AUGUSTO DE LIMA",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/91CF7F7B25467030FA4EEDA5132B6EDEA4CF0AE6",
+   "id": "91CF7F7B25467030FA4EEDA5132B6EDEA4CF0AE6"
+  }
+ },
+ "id": 33781055000801,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

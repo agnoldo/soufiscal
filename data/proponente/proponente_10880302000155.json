@@ -1,0 +1,50 @@
+{
+ "cnpj": "10.880.302\/0001-55",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=10880302000155"
+ },
+ "cpf_responsavel": "***115746**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=10880302000155"
+ },
+ "nome": "COOPERATIVA DOS TRABALHADORES COM MATERIAIS RECICLAVEIS DA PAMPULHA LTDA - COOMARP - PAMPULHA",
+ "inscricao_estadual": "001213036.00-68",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2416006001X",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=10880302000155"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=10880302000155"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/10880302000155",
+ "nome_responsavel": "IVANEIDE DA SILVA SOUZA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3447-2055",
+ "cep": "31270300",
+ "endereco": "AVENIDA ANTÔNIO CARLOS 4.070",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/64470A4ECDDBDC39EEF9776D2CDCC92341111169",
+   "id": "64470A4ECDDBDC39EEF9776D2CDCC92341111169"
+  }
+ },
+ "id": 10880302000155,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

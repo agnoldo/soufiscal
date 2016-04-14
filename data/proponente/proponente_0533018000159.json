@@ -1,0 +1,50 @@
+{
+ "cnpj": "00.533.018\/0001-59",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=533018000159"
+ },
+ "cpf_responsavel": "***500980**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=533018000159"
+ },
+ "nome": "SARKIS & SARKIS LTDA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/29",
+   "id": 29
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=533018000159"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=533018000159"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/533018000159",
+ "nome_responsavel": "GETULIO MEDEIROS GONCALVES",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/32",
+   "id": 32
+  }
+ },
+ "telefone": "31 34449999",
+ "cep": "39960000",
+ "endereco": "RUA 02",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/F8C6A1CFCC8CF3EC03590889D8C9F0CF6E18732D",
+   "id": "F8C6A1CFCC8CF3EC03590889D8C9F0CF6E18732D"
+  }
+ },
+ "id": 533018000159,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

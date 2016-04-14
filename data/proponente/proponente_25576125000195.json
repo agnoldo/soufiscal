@@ -1,0 +1,50 @@
+{
+ "cnpj": "25.576.125\/0001-95",
+ "fax": "Não Há",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=25576125000195"
+ },
+ "cpf_responsavel": "***258966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=25576125000195"
+ },
+ "nome": "INSTITUTO GERALDO FARROUPILHA",
+ "inscricao_estadual": "iSENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2230840015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=25576125000195"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=25576125000195"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/25576125000195",
+ "nome_responsavel": "WILSON FRANCISCO DE OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3199829344",
+ "cep": "30180111",
+ "endereco": "AV. BIAS FORTES 1801 SLJ",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/39C0FF7B1A0EC4D4F8DC68B8B9678BDD20F1DD90",
+   "id": "39C0FF7B1A0EC4D4F8DC68B8B9678BDD20F1DD90"
+  }
+ },
+ "id": 25576125000195,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

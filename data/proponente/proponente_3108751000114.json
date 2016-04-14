@@ -1,0 +1,50 @@
+{
+ "cnpj": "03.108.751\/0001-14",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=3108751000114"
+ },
+ "cpf_responsavel": "***702546**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=3108751000114"
+ },
+ "nome": "INSTITUTO CULTURAL E SOCIAL MARANATA",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=3108751000114"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=3108751000114"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/3108751000114",
+ "nome_responsavel": "TEREZA DE AZEVEDO OLIVEIRA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "031\/3441 9048",
+ "cep": "33840100",
+ "endereco": "RUA JOÃO FERREIRA DA SILVA 430",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/706AD32FCAC03D758ED775BE43B4CE89B7D6D17F",
+   "id": "706AD32FCAC03D758ED775BE43B4CE89B7D6D17F"
+  }
+ },
+ "id": 3108751000114,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16358",
+   "id": 16358
+  }
+ }
+}

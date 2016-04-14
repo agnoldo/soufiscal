@@ -1,0 +1,50 @@
+{
+ "cnpj": "01.211.315\/0001-40",
+ "fax": "03134919753",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=1211315000140"
+ },
+ "cpf_responsavel": "***175966**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=1211315000140"
+ },
+ "nome": "INSTITUTO BRASILEIRO DE ADMINISTRACAO - IBA",
+ "inscricao_estadual": "Isento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "1261340016",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=1211315000140"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=1211315000140"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/1211315000140",
+ "nome_responsavel": "JOSE MARIA DUARTE DE ARAUJO E SILVA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "03134919753 \/ CEL: 0318769-9753",
+ "cep": "31270030",
+ "endereco": "RUA IZABEL BUENO 710  -  SALA 02",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/37A9E10731D33564772C825FE8FAA55319CAD49D",
+   "id": "37A9E10731D33564772C825FE8FAA55319CAD49D"
+  }
+ },
+ "id": 1211315000140,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

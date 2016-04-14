@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.281.106\/0001-03",
+ "fax": "31 3250-1298",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17281106000103"
+ },
+ "cpf_responsavel": "***478926**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17281106000103"
+ },
+ "nome": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS COPASA MG",
+ "inscricao_estadual": "062000139.00-14",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17281106000103"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17281106000103"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17281106000103",
+ "nome_responsavel": "SINARA INACIO MEIRELES CHENNA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "31 3250-1300",
+ "cep": "30330270",
+ "endereco": "RUA MAR DE ESPANHA525",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/B3CCCF6AE14DF90B64989A1F9019B93CBA430CEC",
+   "id": "B3CCCF6AE14DF90B64989A1F9019B93CBA430CEC"
+  }
+ },
+ "id": 17281106000103,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.203.472\/0001-44",
+ "fax": "3134236066",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17203472000144"
+ },
+ "cpf_responsavel": "***336086**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17203472000144"
+ },
+ "nome": "CIDADE OZANAN OBRA UNIDA DA SOCIEDADE DE SAO VICENTE DE PAULO",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "4167250011",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17203472000144"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17203472000144"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17203472000144",
+ "nome_responsavel": "ZILDA LUIZA DA COSTA",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134236066",
+ "cep": "31160210",
+ "endereco": "RUA OZANAM 732",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/04988449000E337BC2894C72108EBF1634E39311",
+   "id": "04988449000E337BC2894C72108EBF1634E39311"
+  }
+ },
+ "id": 17203472000144,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

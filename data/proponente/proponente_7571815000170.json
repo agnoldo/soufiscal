@@ -1,0 +1,50 @@
+{
+ "cnpj": "07.571.815\/0001-70",
+ "fax": "31 3481-3454",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=7571815000170"
+ },
+ "cpf_responsavel": "***492426**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=7571815000170"
+ },
+ "nome": "INSTITUTO DE GESTAO DE POLITICAS SOCIAIS",
+ "inscricao_estadual": "ISENTO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2088930013",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=7571815000170"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=7571815000170"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/7571815000170",
+ "nome_responsavel": "HILDEMANO TEIXEIRA AMORIM NETO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "31 3481-8007",
+ "cep": "31140520",
+ "endereco": "AV - JOSE CANDIDO DA SILVEIRA 447",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/D4E4AE50A55C2CE253B9C393C8F32F0B6D7821C5",
+   "id": "D4E4AE50A55C2CE253B9C393C8F32F0B6D7821C5"
+  }
+ },
+ "id": 7571815000170,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"metadados": {"total_registros": 1}, "municipios": [{"nome": "MATEUS LEME", "cod_siconv": 11795, "href": "http://api.convenios.gov.br/siconv/id/municipio/11795", "proponentes": {"href": "http://api.convenios.gov.br/siconv/v1/consulta/proponentes?id_municipio=11795"}, "uf": {"regiao": {"nome": "Sudeste", "sigla": "SE"}, "nome": "MINAS GERAIS", "sigla": "MG"}, "id": 11795}]}

@@ -1,0 +1,50 @@
+{
+ "cnpj": "17.309.790\/0001-94",
+ "fax": "NÃO INFORMADO",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=17309790000194"
+ },
+ "cpf_responsavel": "***424906**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=17309790000194"
+ },
+ "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO EST DE M GERAIS",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/28",
+   "id": 28
+  }
+ },
+ "inscricao_municipal": "NÃO INFORMADO",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=17309790000194"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=17309790000194"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/17309790000194",
+ "nome_responsavel": "JOSE ELCIO SANTOS MONTEZE",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/30",
+   "id": 30
+  }
+ },
+ "telefone": "031\/32351042",
+ "cep": "30120010",
+ "endereco": "AVENIDA DOS ANDRADAS 1120",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/528533264BC70872D072C4DE8ECCFDA728D79444",
+   "id": "528533264BC70872D072C4DE8ECCFDA728D79444"
+  }
+ },
+ "id": 17309790000194,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

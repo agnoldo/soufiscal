@@ -1,0 +1,50 @@
+{
+ "cnpj": "21.835.111\/0001-98",
+ "fax": "(31) 3277-4155",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=21835111000198"
+ },
+ "cpf_responsavel": "***957267**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=21835111000198"
+ },
+ "nome": "EMPRESA MUNICIPAL DE TURISMO DE B HORIZONTE SA BELOTUR",
+ "inscricao_estadual": "NÃO INFORMADO",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/32",
+   "id": 32
+  }
+ },
+ "inscricao_municipal": "3120650015",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=21835111000198"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=21835111000198"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/21835111000198",
+ "nome_responsavel": "CLAUDIA MARIA MENDES DE ALMEIDA PEDROZO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/29",
+   "id": 29
+  }
+ },
+ "telefone": "(31) 3277-9701",
+ "cep": "30160011",
+ "endereco": "R. DA BAHIA 888 7º ANDAR CENTRO BELO HORIZONTE\/MG",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/BBCF3E13EF3CE17B73BB27D0D1A93338587C8F01",
+   "id": "BBCF3E13EF3CE17B73BB27D0D1A93338587C8F01"
+  }
+ },
+ "id": 21835111000198,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}

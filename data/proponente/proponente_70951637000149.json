@@ -1,0 +1,50 @@
+{
+ "cnpj": "70.951.637\/0001-49",
+ "fax": "3134261180",
+ "convenios": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/convenios?id_proponente=70951637000149"
+ },
+ "cpf_responsavel": "***924586**",
+ "empenhos": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/empenhos?id_proponente_favorecido=70951637000149"
+ },
+ "nome": "ASSOCIACAO BENEFICENTE WILSON DE SOUZA AWISO",
+ "inscricao_estadual": "Insento",
+ "esfera_administrativa": {
+  "EsferaAdministrativa": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/esfera_administrativa\/30",
+   "id": 30
+  }
+ },
+ "inscricao_municipal": "2156730010",
+ "propostas": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/propostas?id_proponente=70951637000149"
+ },
+ "habilitacoes": {
+  "href": "http:\/\/api.convenios.gov.br\/siconv\/v1\/consulta\/habilitacoes_area_atuacao?id_proponente=70951637000149"
+ },
+ "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/proponente\/70951637000149",
+ "nome_responsavel": "RAQUEL TEIXEIRA RODRIGUES BARBARO",
+ "natureza_juridica": {
+  "NaturezaJuridica": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/natureza_juridica\/34",
+   "id": 34
+  }
+ },
+ "telefone": "3134263562",
+ "cep": "31160540",
+ "endereco": "RUA NESTOR SOARES DE MELO15",
+ "pessoa_responsavel": {
+  "PessoaResponsavel": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/pessoa_responsavel\/7BC05CD5509168CBB18E3BCE7BD071ADFAD5BC4C",
+   "id": "7BC05CD5509168CBB18E3BCE7BD071ADFAD5BC4C"
+  }
+ },
+ "id": 70951637000149,
+ "municipio": {
+  "Municipio": {
+   "href": "http:\/\/api.convenios.gov.br\/siconv\/id\/municipio\/16100",
+   "id": 16100
+  }
+ }
+}
