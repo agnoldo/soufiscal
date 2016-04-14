@@ -14,7 +14,7 @@ Este projeto foi inscrito no Concurso LabPi Hackathon sobre Participação no Co
 
 ## Problema ou Oportunidade
 
-### - Contexto
+### Contexto
 
 De acordo com [Edital publicado no D.O.U. em 29/02/2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=3&pagina=95&data=29/02/2016), "O Concurso de Aplicativos para enfrentamento da corrupção, promovido pelo Ministério da Justiça (MJ) e seus parceiros institucionais, (...), é voltado a representantes da sociedade civil, visando a envolvê-la na execução de políticas públicas realizadas por meio de transferências, facilitando o entendimento acerca de dados a elas relacionados e a fiscalização dessa execução de modo colaborativo entre Estado e sociedade."
 
@@ -35,7 +35,7 @@ Existem inúmeros problemas relacionados ao combate à corrupção. Dentre eles,
 - **Mobilização Popular**: é comum o pensamento entre a população de que a corrupção é algo que existe naturalmente e que não pode ser completamente erradicado. Isto se dá, em parte, por causa do histórico brasileiro de dificuldade em se enfrentar o problema. No entanto é fundamental a participação popular tendo em vista, entre outras coisas, a impossibilidade prática de o governo ser onisciente e onipresente. Além disso, a participação popular aumenta sensivelmente o grau de politização e o senso de empoderamento e propriedade do público com relação à sua comunidade e, em última análise, ao país.
 
 
-### - Proposta
+### Proposta
 
 O projeto SouFiscal pretende promover a participação popular por meio da criação de uma rede de acompanhamento e investigação de obras públicas. Para isto, usará os dados do Portal de Convênios do Governo Federal (SICONV) para listar obras públicas em curso, apresentar seus dados para escrutínio e permitir aos cidadãos colaborarem na obtenção de vestígios de fraudes.
 
