@@ -66,29 +66,29 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 - ao entrar na ferramenta, é possível entrar com usuário e senha ou criar usuário anônimo, por email ou conexão com redes sociais;
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png" width="290px" />
 
 - na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
 
 #### Navegação
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_geral.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_brasil.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_geral.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_navegacao_brasil.png" width="290px" />
 
 #### Busca Textual
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual_resultado.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_busca_textual_resultado.png" width="290px" />
 
 - em cada convênio, o usuário pode analisar dados do SICONV como prazos de obra, dispêndio de recursos e empenhos realizados. Também pode adicionar fotos, vídeos ou comentários sobre o convênio, normalmente relacionados a indícios de fraudes. Outro recurso interessante é a linha do tempo, que mostra eventos relacionados ao convênio em face. Finalmente, o usuário pode solicitar tarefa a outros usuários ou pedir para "Acompanhar" o convênio, o que faz com que tal convênio tenha um atalho gravado na tela "Em Acompanhamento";
 
 #### Convênio
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_geral2.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_linha_tempo.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_geral2.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_linha_tempo.png" width="290px" />
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos1.png" width="300px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos2.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos1.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_todos2.png" width="290px" />
 
 - quando o usuário está acompanhando um convênio, ele recebe notificações sobre ocorrências registradas neste convênio. Além disso, pode fazer comentários sobre o convênio, enviar fotos, vídeos e gravações de áudio relacionadas a obras, compras e serviços e até mesmo solicitar o apoio de terceiros (fiscais voluntários) na realização de diligências, que normalmente incluem idas a um local para constatar o progresso de uma obra ou a existência física de uma empresa;
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_solicitar_tarefa.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_convenio_solicitar_tarefa.png" width="290px" />
 
 - por meio da tela "Tarefas Disponíveis", qualquer usuário pode atuar como fiscal voluntário, realizando diligências pendentes em sua região. As tarefas são listadas nominalmente ou visualizadas geograficamente em um mapa. Caso seja viável, ele pode realizar uma diligência utilizando a câmera ou o gravador de seu dispositivo móvel, em seguida submetendo eletronicamente o resultado ao site do projeto. Se o usuário tiver conexão à internet ativa no momento da realização da diligência, o resultado pode receber assinatura digital e carimbo do tempo, o que, em conjunto com a informação geográfica (no caso de foto e vídeo), pode até mesmo permitir o uso oficial da evidência em processo judicial;
 
@@ -96,7 +96,7 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 - no quadro Comunidade, o usuário poderá ver o seu ranking (baseado na sua atividade na ferramenta por meio de comentários e diligências) e os usuários em destaque na sua região e em todo o país. Também poderá ver suas medalhas e certificados de participação como fiscal voluntário;
 
-<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_comunidade.png" width="300px" />
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_comunidade.png" width="290px" />
 
 - futuramente todos os comentários sobre convênios analisados poderão ser visualizados por toda a comunidade de usuários. A partir da ferramenta qualquer usuário poderá entrar em contato automaticamente com repartições públicas incumbidas da investigação e persecução penal. Para isto, o usuário irá contar com funcionalidade de envio de email com texto e link para página na Internet com evidências obtidas e comentários realizados.
 
