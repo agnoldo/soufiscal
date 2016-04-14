@@ -2,10 +2,7 @@
 
 ## Introdução
 
-Bem vindo ao Projeto SouFiscal.
-
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/SOUFISCAL.png" width="400px" />
-
 
 É notória a dificuldade, em convênios públicos, de se verificar a existência de empresas, constatar obras não realizadas ou com baixa qualidade e detectar desvios de produtos ou serviços para locais ou obras de terceiros.
 
@@ -18,7 +15,6 @@ Este projeto foi inscrito no Concurso LabPi Hackathon sobre Participação no Co
 Caso queira proceder com a instalação do protótipo Android para testes, favor seguir instruções que constam no fim desta página ([seção Instalação de Protótipo Android](https://github.com/agnoldo/soufiscal#instalação-de-protótipo-android)).
 
 O  vídeo de apresentação do projeto [já está no ar no Youtube](https://youtu.be/Yp8CIDDS9Ns).
-
 
 ## Problema ou Oportunidade
 
@@ -56,7 +52,7 @@ Tanto o cumprimento de diligências quanto a participação em discussões por m
 Por questões de privacidade e segurança, a ferramenta permitirá, opcionalmente, a submissão de dados de forma anônima. Desta forma, mesmo pessoas muito próximas de crimes em andamento poderão expor dados, vestígios e até contribuir para a produção de provas com valor jurídico sem colocar em risco sua segurança e de seus entes próximos.
 
 
-## Características
+## Funcionalidades
 
 A solução a ser desenvolvida deve ser composta por dois componentes, a saber:
 
@@ -131,7 +127,16 @@ Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_licencas_creditos.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_sobre.png" width="290px" />
 
 
-## Instalação de Protótipo Android
+## Imagens do Protótipo Android
+
+Veja como está o protótipo Android nesta data (14/04/2016):
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_0.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_1.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_2.png" width="290px" />
+
+<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_3.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_4.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/mockup_android_5.png" width="290px" />
+
+
+## Instalação do Protótipo Android
 
 Para a participação no concurso, foi implementado um protótipo para a plataforma Android. O aplicativo se encontra na pasta [setup](https://github.com/agnoldo/soufiscal/tree/master/setup) e deve ser instalado da seguinte forma:
 
