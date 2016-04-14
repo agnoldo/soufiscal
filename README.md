@@ -66,7 +66,7 @@ O funcionamento básico do aplicativo móvel será o seguinte:
 
 - ao entrar na ferramenta, é possível entrar com usuário e senha ou criar usuário anônimo, por email ou conexão com redes sociais;
 
-![Tela de login](https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png)
+![Tela de login](https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_login.png =300px)
 
 - na tela de convênios e obras, o usuário pode navegar por convênios e obras em sua região por meio de mapa ou busca geográfica, ambos utilizando a sua localização corrente. Além disso, também pode procurar por convênios usando dados conhecidos como área, convenente e proponente;
 
