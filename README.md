@@ -110,9 +110,11 @@ Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério 
 - Ferramentas de Desenvolvimento:
     - [ionic Framework](http://ionicframework.com) (versão 1.7.14)
     - [Apache Cordova](https://cordova.apache.org) (versão 6.0.0)
+
 - Imagens de abertura e menu:
     - [unsplash](https://unsplash.com/)
     - imagens produzidas por membros do projeto
+
 - Imagens de obras e pessoas:
     - [randomuser.me](https://randomuser.me) (usuário/comunidade)
     - [lorempixel.com](http://lorempixel.com/) (convênios/obras)
