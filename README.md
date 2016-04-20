@@ -16,6 +16,8 @@
 - [Imagens do Protótipo Android](https://github.com/agnoldo/soufiscal#imagens-do-protótipo-android)
 - [Instalação do Protótipo Android](https://github.com/agnoldo/soufiscal#instalação-do-protótipo-android)
 - [Créditos, Licenças e Equipe de Desenvolvimento](https://github.com/agnoldo/soufiscal#créditos-licenças-e-equipe-de-desenvolvimento)
+- [Concurso MJ Hackathon LabPi](https://github.com/agnoldo/soufiscal#concurso-mj-hackathon-labpi)
+
 
 ## Introdução
 
@@ -170,3 +172,13 @@ Projeto desenvolvido por ocasião da hackathon LabPi promovida pelo Ministério 
     - Diego de Castro Soares: [diegocs@gmail.com](mailto:diegocs@gmail.com)
 
 <img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_licencas_creditos.png" width="290px" />&nbsp;<img src="https://raw.githubusercontent.com/agnoldo/soufiscal/master/img/tela_menu_ajuda_sobre.png" width="290px" />
+
+## Concurso MJ Hackathon LabPi
+
+Conforme dito na [Introdução](https://github.com/agnoldo/soufiscal#introdução), este projeto foi inscrito no Concurso LabPi Hackathon sobre Participação no Combate à Corrução, realizado em abril de 2016 pelo Ministério da Justiça (MJ) e outras instituições.
+
+20/04/2016: conforme Portaria 98 de 19 de abril de 2016 publicada na seção 1 do Diário Oficial da União de 20/04/2016, o projeto SouFiscal foi consagrado um dos três vendedores do concurso HACKATHON Participação no Combate À Corrupção. A portaria está reprozida na página abaixo:
+
+[http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=44&data=20/04/2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=44&data=20/04/2016)
+
+Agora parte da equipe do projeto rumará a Brasília na semana que vem e participará de reuniões com o MJ e outros parceiros entre os dias 27 e 29 de abril.
